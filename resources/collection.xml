@@ -1,0 +1,1611 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col11629/1.5</md:content-url>
+  <md:content-id>col11629</md:content-id>
+  <md:title>Psychology</md:title>
+  
+  
+  <md:version>1.5</md:version>
+  <md:created>2014/02/14 09:51:10.709 US/Central</md:created>
+  <md:revised>2015/02/03 16:50:59.148 US/Central</md:revised>
+
+  <md:actors>
+    
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    
+    
+    
+    
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    
+    
+    
+    <md:person userid="cnxpsych">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Psychology</md:surname>
+      <md:fullname>CNX Psychology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxpsych OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  
+
+  <md:subjectlist>
+    <md:subject>Social Sciences</md:subject>
+  </md:subjectlist>
+
+  <md:abstract></md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="ccap-psychology"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m51868" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction to Psychology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49027" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49014" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>What Is Psychology?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49017" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>History of Psychology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49016" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Contemporary Psychology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49015" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Careers in Psychology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Psychological Research</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49028" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49013" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Why Is Research Important?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49012" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Approaches to Research</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49011" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Analyzing Findings</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49010" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Ethics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biopsychology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49029" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48993" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Human Genetics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49003" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Cells of the Nervous System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49005" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Parts of the Nervous System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49006" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Brain and Spinal Cord</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49007" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Endocrine System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>States of Consciousness</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49030" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49031" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Consciousness?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49032" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Sleep and Why We Sleep</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49033" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Stages of Sleep</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49036" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Sleep Problems and Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49037" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Substance Use and Abuse</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49038" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Other States of Consciousness</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Sensation and Perception</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49039" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49040" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Sensation versus Perception</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49041" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Waves and Wavelengths</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49042" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Vision</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49043" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Hearing</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49044" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Other Senses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49045" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Gestalt Principles of Perception</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Learning</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49046" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49047" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Learning?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49048" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Classical Conditioning</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49049" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Operant Conditioning</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49050" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Observational Learning (Modeling)</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thinking and Intelligence</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49051" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49053" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Cognition?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49055" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Language</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49057" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Problem Solving</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49060" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Are Intelligence and Creativity?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49064" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Measures of Intelligence</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49065" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Source of Intelligence</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Memory</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49090" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49080" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>How Memory Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49085" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Parts of the Brain Involved with Memory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49088" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Problems with Memory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49094" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Ways to Enhance Memory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Lifespan Development</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49097" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49099" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Lifespan Development?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49109" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Lifespan Theories</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49112" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Stages of Development</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49114" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Death and Dying</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Emotion and Motivation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49058" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49059" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Motivation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49061" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Hunger and Eating</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49063" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Sexual Behavior</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49066" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Emotion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Personality</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49068" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49070" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Personality?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49072" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Freud and the Psychodynamic Perspective</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49077" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Neo-Freudians: Adler, Erikson, Jung, and Horney</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49086" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Learning Approaches</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49092" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Humanistic Approaches</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49101" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Biological Approaches</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51872" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Trait Theorists</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51873" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Cultural Understandings of Personality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51874" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Personality Assessment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Social Psychology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49107" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49110" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Social Psychology?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49116" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Self-presentation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49120" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Attitudes and Persuasion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49124" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Conformity, Compliance, and Obedience</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49128" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Prejudice and Discrimination</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49129" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Aggression</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49134" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Prosocial Behavior</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Industrial-Organizational Psychology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49121" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49127" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Industrial and Organizational Psychology?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49135" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Industrial Psychology: Selecting and Evaluating Employees</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49136" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Organizational Psychology: The Social Dimension of Work</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49140" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Human Factors Psychology and Workplace Design</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Stress, Lifestyle, and Health</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49141" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49142" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Stress?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49145" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Stressors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49151" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Stress and Illness</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49157" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Regulation of Stress</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49159" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Pursuit of Happiness</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Psychological Disorders</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49231" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49265" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Are Psychological Disorders?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49268" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Diagnosing and Classifying Psychological Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49257" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Perspectives on Psychological Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49247" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Anxiety Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49238" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Obsessive-Compulsive and Related Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49220" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Posttraumatic Stress Disorder</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49237" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Mood Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49205" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Schizophrenia</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49184" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Dissociative Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49229" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Personality Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49178" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Disorders in Childhood</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Therapy and Treatment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49168" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49174" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Mental Health Treatment: Past and Present</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49154" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Types of Treatment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49153" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Treatment Modalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49146" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Substance-Related and Addictive Disorders: A Special Case</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49144" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Sociocultural Model and Therapy Utilization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
