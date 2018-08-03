@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Psychology'
-tagline:          'from http://cnx.org/contents/4abf04bf-93a0-45c3-9cbc-2cefd46e68cc@8.1 (CC-BY)'
+tagline:          'from http://cnx.org/contents/4abf04bf-93a0-45c3-9cbc-2cefd46e68cc@9.1 (CC-BY)'
 url:              https://github.com/philschatz/psychology-book
-origin:           http://cnx.org/contents/4abf04bf-93a0-45c3-9cbc-2cefd46e68cc@8.1
+origin:           http://cnx.org/contents/4abf04bf-93a0-45c3-9cbc-2cefd46e68cc@9.1
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          8.1
+version:          9.1
 
 bookviewer:       https://philschatz.com/book-viewer
 

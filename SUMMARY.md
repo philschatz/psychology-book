@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-<div data-type="abstract">
-Psychology is designed to meet scope and sequence requirements for the single-semester introduction to psychology course. The book offers a comprehensive treatment of core concepts, grounded in both classic studies and current and emerging research. The text also includes coverage of the DSM-5 in examinations of psychological disorders. Psychology incorporates discussions that reflect the diversity within the discipline, as well as the diversity of cultures and communities across the globe.
-</div>
+<div data-type="abstract"></div>
 
 1.  {: .preface} [Preface](contents/m51868.md)
 2.  {: .chapter} [Introduction to Psychology](contents/m49027.md)
