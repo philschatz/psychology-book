@@ -1,14 +1,10 @@
-Clinical Psychology
-==================
-
-This is clinically-oriented psycholgy is adapted from openstax psychology https://openstax.org/details/books/psychology-2e, suitable for psychiatrists and psychiatric trainees. 
 
 .. toctree::
    :glob:
    :caption: Contents
    :maxdepth: 1
    
-    MD*
+    m*
     *
    
 
