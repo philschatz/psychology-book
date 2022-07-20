@@ -2,7 +2,7 @@
 .. toctree::
    :glob:
    :caption: Contents
-   :maxdepth: 1
+   :maxdepth: 5
    
     m*
     *
