@@ -20,5 +20,5 @@ paginate:         5
 # Custom vars
 version:          9.1
 
-bookviewer:       https://philschatz.com/book-viewer
+html_theme = "furo"
 
