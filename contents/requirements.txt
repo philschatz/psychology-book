@@ -4,3 +4,4 @@ docutils
 pybtex
 setuptools
 sphinxcontrib-bibtex
+myst_parser
