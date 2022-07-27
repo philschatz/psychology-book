@@ -1,3 +1,0 @@
-{% extends 'core/email/base.txt' %}
-
-{% block content %}{{ content|striptags }}{% endblock %}

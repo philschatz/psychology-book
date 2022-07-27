@@ -1,3 +1,0 @@
-# Spam project detected, removing from search indexing
-User-agent: *
-Disallow: /

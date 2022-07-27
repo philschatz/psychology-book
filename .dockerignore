@@ -1,3 +1,0 @@
-# We only use the requirements folder in the Dockerfile
-*
-!requirements/

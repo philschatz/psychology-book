@@ -1,4 +1,4 @@
-.. container:: 
+.. container::
 
 1.  {: .preface} `Preface <contents/m51868.md>`__
 2.  {: .chapter} `Introduction to Psychology <contents/m49027.md>`__
