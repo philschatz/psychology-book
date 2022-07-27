@@ -1,0 +1,38 @@
+{% extends "core/email/common.html" %}
+
+{% block top-right %}
+  {{ project.name }} build #{{ build.pk }}
+{% endblock %}
+
+{% block salutation %}
+Build Failed for {{ project.name }} ({{ version.verbose_name }})
+{% endblock %}
+
+{% block content %}
+  {% if build.error %}
+    <p>
+      Error: {{ build.error }}
+    </p>
+  {% endif %}
+
+  <p>
+    You can find out more about this failure here:
+  </p>
+
+  <p>
+    <a href="{{ build_url }}">{{ project.name }} build #{{ build.pk }}</a>
+    -&nbsp;<span style="color: #ff7040;">failed</a>
+  </p>
+
+  <p>
+    If you have questions, a good place to start is the FAQ:
+  </p>
+
+  <p>
+    <a href="https://docs.readthedocs.io/page/faq.html">https://docs.readthedocs.io/page/faq.html</a>
+  </p>
+
+  <p>
+    You can unsubscribe from these emails in your <a href="{{ unsubscribe_url }}">Notification Settings</a>
+  </p>
+{% endblock %}

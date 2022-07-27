@@ -1,5 +1,5 @@
-`Table of Contents <./SUMMARY.md.rst>`__
-====================================
+`Table of Contents 
+==================
 
 The Table of Contents is in `./SUMMARY.md.rst <./SUMMARY.md.rst>`__
 
@@ -14,3 +14,9 @@ at the top of this repository page.
 
 To read more about hosting these books on GitHub, go to
 `philschatz.com <http://philschatz.com>`__.
+
+.. toctree::
+    :caption: Contents
+    :maxdepth: 2
+
+    ./contents/index.rst

@@ -1,0 +1,152 @@
+"""Utilities related to reading and generating indexable search content."""
+
+import structlog
+
+from django.utils import timezone
+from django_elasticsearch_dsl.apps import DEDConfig
+from django_elasticsearch_dsl.registries import registry
+
+from readthedocs.projects.models import HTMLFile
+
+log = structlog.get_logger(__name__)
+
+
+def index_new_files(model, version, build):
+    """Index new files from the version into the search index."""
+
+    log.bind(
+        project_slug=version.project.slug,
+        version_slug=version.slug,
+    )
+
+    if not DEDConfig.autosync_enabled():
+        log.info('Autosync disabled. Skipping indexing into the search index.')
+        return
+
+    try:
+        document = list(registry.get_documents(models=[model]))[0]
+        doc_obj = document()
+        queryset = (
+            doc_obj.get_queryset()
+            .filter(project=version.project, version=version, build=build)
+        )
+        log.info('Indexing new objecst into search index.')
+        doc_obj.update(queryset.iterator())
+    except Exception:
+        log.exception('Unable to index a subset of files. Continuing.')
+
+
+def remove_indexed_files(model, project_slug, version_slug=None, build_id=None):
+    """
+    Remove files from `version_slug` of `project_slug` from the search index.
+
+    :param model: Class of the model to be deleted.
+    :param project_slug: Project slug.
+    :param version_slug: Version slug. If isn't given,
+                    all index from `project` are deleted.
+    :param build_id: Build id. If isn't given, all index from `version` are deleted.
+    """
+
+    log.bind(
+        project_slug=project_slug,
+        version_slug=version_slug,
+    )
+
+    if not DEDConfig.autosync_enabled():
+        log.info('Autosync disabled, skipping removal from the search index.')
+        return
+
+    try:
+        document = list(registry.get_documents(models=[model]))[0]
+        log.info('Deleting old files from search index.')
+        documents = (
+            document().search()
+            .filter('term', project=project_slug)
+        )
+        if version_slug:
+            documents = documents.filter('term', version=version_slug)
+        if build_id:
+            documents = documents.exclude('term', build=build_id)
+        documents.delete()
+    except Exception:
+        log.exception('Unable to delete a subset of files. Continuing.')
+
+
+def _get_index(indices, index_name):
+    """
+    Get Index from all the indices.
+
+    :param indices: DED indices list
+    :param index_name: Name of the index
+    :return: DED Index
+    """
+    for index in indices:
+        if index._name == index_name:
+            return index
+
+
+def _get_document(model, document_class):
+    """
+    Get DED document class object from the model and name of document class.
+
+    :param model: The model class to find the document
+    :param document_class: the name of the document class.
+    :return: DED DocType object
+    """
+    documents = registry.get_documents(models=[model])
+
+    for document in documents:
+        if str(document) == document_class:
+            return document
+
+
+def _indexing_helper(html_objs_qs, wipe=False):
+    """
+    Helper function for reindexing and wiping indexes of projects and versions.
+
+    If ``wipe`` is set to False, html_objs are deleted from the ES index,
+    else, html_objs are indexed.
+    """
+    from readthedocs.search.documents import PageDocument
+    from readthedocs.search.tasks import (
+        delete_objects_in_es,
+        index_objects_to_es,
+    )
+
+    if html_objs_qs:
+        obj_ids = []
+        for html_objs in html_objs_qs:
+            obj_ids.extend([obj.id for obj in html_objs])
+
+        # removing redundant ids if exists.
+        obj_ids = list(set(obj_ids))
+
+        if obj_ids:
+            kwargs = {
+                'app_label': HTMLFile._meta.app_label,
+                'model_name': HTMLFile.__name__,
+                'document_class': str(PageDocument),
+                'objects_id': obj_ids,
+            }
+
+            if not wipe:
+                index_objects_to_es.delay(**kwargs)
+            else:
+                delete_objects_in_es.delay(**kwargs)
+
+
+def _last_30_days_iter():
+    """Returns iterator for previous 30 days (including today)."""
+    thirty_days_ago = timezone.now().date() - timezone.timedelta(days=30)
+
+    # this includes the current day, len() = 31
+    return (thirty_days_ago + timezone.timedelta(days=n) for n in range(31))
+
+
+def _get_last_30_days_str(date_format='%Y-%m-%d'):
+    """Returns the list of dates in string format for previous 30 days (including today)."""
+    last_30_days_str = [
+        timezone.datetime.strftime(date, date_format)
+        for date in _last_30_days_iter()
+    ]
+    return last_30_days_str
