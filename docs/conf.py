@@ -78,7 +78,3 @@ source_suffix = {
     '.md': 'myst',
 }
 
-rst_prolog = """
-.. | Ph.D.| replace:: PhD
-
-"""
