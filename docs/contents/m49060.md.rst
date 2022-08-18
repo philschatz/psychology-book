@@ -1,3 +1,7 @@
+=====================================
+What Are Intelligence and Creativity?
+=====================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define
@@ -29,7 +33,7 @@ this example, psychologists have wondered what constitutes intelligence
 and how it can be measured.
 
 CLASSIFYING INTELLIGENCE
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 What exactly is intelligence? The way that researchers have defined the
 concept of intelligence has been modified many times since the birth of
@@ -567,7 +571,7 @@ intelligence**\ {: data-type=“term”}, sometimes referred to as cultural
 competence.
 
 CREATIVITY
-~~~~~~~~~~
+==========
 
 **Creativity**\ {: data-type=“term”} is the ability to generate, create,
 or discover new ideas, solutions, and possibilities. Very creative
@@ -611,7 +615,7 @@ provide a correct or well-established answer or solution to a problem
    person influence you and what problem did you solve using creativity?
 
 Summary
-~~~~~~~
+=======
 
 Intelligence is a complex characteristic of cognition. Many theories
 have been developed to explain what intelligence is and how it works.
@@ -622,7 +626,7 @@ creativity seems to be a facet of intelligence, but it is extremely
 difficult to measure objectively.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -689,7 +693,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -725,7 +729,7 @@ Critical Thinking Questions
       others are doing before reacting.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

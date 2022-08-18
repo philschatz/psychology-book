@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -42,7 +47,7 @@ chapter, you will have a greater appreciation of the higher-level
 cognitive processes that contribute to our distinctiveness as a species.
 
 References
-~~~~~~~~~~
+==========
 
 Abler, W. (2013). Sapir, Harris, and Chomsky in the twentieth century.
 *Cognitive Critique, 7*, 29–48.

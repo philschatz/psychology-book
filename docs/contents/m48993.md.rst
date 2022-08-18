@@ -1,3 +1,7 @@
+==============
+Human Genetics
+==============
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the basic
@@ -134,7 +138,7 @@ lines that split apart into branched structures.|\ {:
    social science.
 
 Genetic Variation
-~~~~~~~~~~~~~~~~~
+=================
 
 Genetic variation, the genetic difference between individuals, is what
 contributes to a species’ adaptation to its environment. In humans,
@@ -243,7 +247,7 @@ distinct advantage for individuals best suited for their environments in
 terms of successful reproduction and genetic transmission.
 
 Gene-Environment Interactions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Genes do not exist in a vacuum. Although we are all biological
 organisms, we also exist in an environment that is incredibly important
@@ -350,7 +354,7 @@ schizophrenia to develop, and that genes alone do not tell the full
 tale.
 
 Summary
-~~~~~~~
+=======
 
 Genes are sequences of DNA that code for a particular trait. Different
 versions of a gene are called alleles—sometimes alleles can be
@@ -363,7 +367,7 @@ physical and psychological characteristics—is a function of the
 interaction between our genes and our environments.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -429,7 +433,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -450,7 +454,7 @@ Critical Thinking Questions
       inherit half of their genetic makeup from each of their parents.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

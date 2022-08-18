@@ -1,3 +1,7 @@
+======================
+Classical Conditioning
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how
@@ -104,7 +108,7 @@ rung.|\ {: #Figure06_02_Classical}
    about Pavlov and his dogs.
 
 REAL WORLD APPLICATION OF CLASSICAL CONDITIONING
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================================
 
 How does classical conditioning work in the real world? Let’s say you
 have a cat named Tiger, who is quite spoiled. You keep her food in a
@@ -203,7 +207,7 @@ and anxiety are the conditioned response.
    every time Jim’s computer makes a specific sound.
 
 GENERAL PROCESSES IN CLASSICAL CONDITIONING
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================================
 
 Now that you know how classical conditioning works and have seen several
 examples, let’s take a look at some of the general processes involved.
@@ -364,7 +368,7 @@ time, you become accustomed to the stimulus of the television noise, and
 eventually you hardly notice it any longer.
 
 BEHAVIORISM
-~~~~~~~~~~~
+===========
 
 John B. **Watson**\ {: data-type=“term” .no-emphasis}, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
@@ -468,7 +472,7 @@ even Santa Claus.”|\ {: #Figure06_02_Santaclaus}
    magazines, or on the Internet.
 
 Summary
-~~~~~~~
+=======
 
 Pavlov’s pioneering work with dogs contributed greatly to what we know
 about learning. His experiments explored the type of associative
@@ -483,7 +487,7 @@ as Little Albert. His findings suggest that classical conditioning can
 explain how some fears develop.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -553,7 +557,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -606,7 +610,7 @@ Critical Thinking Questions
       by itself.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

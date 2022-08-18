@@ -1,3 +1,7 @@
+================
+The Other Senses
+================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -14,7 +18,7 @@ section, we will explore our chemical senses (taste and smell) and our
 body senses (touch, temperature, pain, balance, and body position).
 
 THE CHEMICAL SENSES
-~~~~~~~~~~~~~~~~~~~
+===================
 
 Taste (gustation) and **smell**\ {: data-type=“term” .no-emphasis}
 (olfaction) are called chemical senses because both have sensory
@@ -25,7 +29,7 @@ referring to both gustatory and olfactory properties of the food working
 in combination.
 
 Taste (Gustation)
-^^^^^^^^^^^^^^^^^
+-----------------
 
 You have learned since elementary school that there are four basic
 groupings of taste: sweet, salty, sour, and bitter. Research
@@ -59,7 +63,7 @@ labeled. Part B is a micrograph showing taste buds on a human
 tongue.|\ {: #Figure_05_05_TasteBud}
 
 Smell (Olfaction)
-^^^^^^^^^^^^^^^^^
+-----------------
 
 **Olfactory receptor**\ {: data-type=“term”} cells are located in a
 mucous membrane at the top of the nose. Small hair-like extensions from
@@ -101,7 +105,7 @@ humans (Comfort, 1971; Russell, 1976; Wolfgang-Kimball, 1992; Weller,
 1998).
 
 TOUCH, THERMOCEPTION, AND NOCICEPTION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 A number of receptors are distributed throughout the skin to respond to
 various touch-related stimuli (`[link] <#Figure_05_05_Touch>`__). These
@@ -131,7 +135,7 @@ ultimately to somatosensory cortex, which is located in the postcentral
 gyrus of the parietal lobe.
 
 Pain Perception
-^^^^^^^^^^^^^^^
+---------------
 
 Pain is an unpleasant experience that involves both physical and
 psychological components. Feeling pain is quite adaptive because it
@@ -170,7 +174,7 @@ Library of Medicine, 2013).
    about congenital insensitivity to pain.
 
 THE VESTIBULAR SENSE, PROPRIOCEPTION, AND KINESTHESIA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================================
 
 The **vestibular sense**\ {: data-type=“term”} contributes to our
 ability to maintain balance and body posture. As
@@ -208,7 +212,7 @@ receive information from and send information to the sensory organs of
 the proprioceptive and kinesthetic systems.
 
 Summary
-~~~~~~~
+=======
 
 Taste (gustation) and smell (olfaction) are chemical senses that employ
 receptors on the tongue and in the nose that bind directly with taste
@@ -224,7 +228,7 @@ movement through receptors that detect stretch and tension in the
 muscles, joints, tendons, and skin of the body.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -291,7 +295,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -343,7 +347,7 @@ Critical Thinking Question
       pain tolerance can vary across cultures.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

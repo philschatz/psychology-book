@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -34,7 +39,7 @@ you to various ways that the field of psychology has explored these
 questions.
 
 References
-~~~~~~~~~~
+==========
 
 American Board of Forensic Psychology. (2014). *Brochure*. Retrieved
 from http://www.abfp.com/brochure.asp

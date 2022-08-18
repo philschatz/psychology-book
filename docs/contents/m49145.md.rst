@@ -1,3 +1,7 @@
+=========
+Stressors
+=========
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe
@@ -22,7 +26,7 @@ other situations in which a person is regularly exposed to threat,
 challenge, or danger.
 
 TRAUMATIC EVENTS
-~~~~~~~~~~~~~~~~
+================
 
 Some stressors involve traumatic events or situations in which a person
 is exposed to actual or threatened death or serious injury. Stressors in
@@ -42,7 +46,7 @@ avoidance of reminders of the event (American Psychiatric Association
 [APA], 2013).
 
 LIFE CHANGES
-~~~~~~~~~~~~
+============
 
 Most stressors that we encounter are not nearly as intense as the ones
 described above. Many potential stressors we face involve events or
@@ -637,7 +641,7 @@ identifying potential stress-related health outcomes (Scully et al.,
    causes stress?
 
 HASSLES
-~~~~~~~
+=======
 
 Potential stressors do not always involve major life events. **Daily
 hassles**\ {: data-type=“term”}—the minor irritations and annoyances
@@ -669,7 +673,7 @@ respiratory infections, especially if they had larger social networks
 toll on us both emotionally and physically.
 
 OTHER STRESSORS
-~~~~~~~~~~~~~~~
+===============
 
 Stressors can include situations in which one is frequently exposed to
 challenging and unpleasant events, such as difficult, demanding, or
@@ -1119,7 +1123,7 @@ those who experienced the lowest levels of negative interaction (De
 Vogli, Chandola & Marmot, 2007).
 
 Summary
-~~~~~~~
+=======
 
 Stressors can be chronic (long term) or acute (short term), and can
 include traumatic events, significant life changes, daily hassles, and
@@ -1139,7 +1143,7 @@ working environment, or involve unfavorable working conditions can lead
 to job strain, thereby setting the stage for job burnout.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1215,7 +1219,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1259,7 +1263,7 @@ Critical Thinking Questions
       sense of personal accomplishment.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

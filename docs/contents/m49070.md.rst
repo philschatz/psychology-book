@@ -1,3 +1,7 @@
+====================
+What Is Personality?
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define
@@ -24,7 +28,7 @@ gaze slightly higher than the first. The third mask is tilted upwards so
 its gaze is directed more upward.|\ {: #Figure_11_01_Masks}
 
 HISTORICAL PERSPECTIVES
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 The concept of personality has been studied for at least 2,000 years,
 beginning with Hippocrates in 370 BCE (Fazeli, 2012). Hippocrates
@@ -129,7 +133,7 @@ depth.
    psychological perspectives on personality.
 
 Summary
-~~~~~~~
+=======
 
 Personality has been studied for over 2,000 years, beginning with
 Hippocrates. More recent theories of personality have been proposed,
@@ -140,7 +144,7 @@ including the learning, humanistic, biological, trait, and cultural
 perspectives.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -207,7 +211,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -222,7 +226,7 @@ Critical Thinking Questions
       quality.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

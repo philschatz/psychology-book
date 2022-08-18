@@ -1,3 +1,7 @@
+=======================================================
+Organizational Psychology: The Social Dimension of Work
+=======================================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define
@@ -15,7 +19,7 @@ done to understand job satisfaction, different styles of management,
 different styles of leadership, organizational culture, and teamwork.
 
 JOB SATISFACTION
-~~~~~~~~~~~~~~~~
+================
 
 Some people love their jobs, some people tolerate their jobs, and some
 people cannot stand their jobs. **Job satisfaction**\ {:
@@ -541,7 +545,7 @@ boxes, one labeled “Company B Sales Dept” and the other labeled “Company
 B Accounting Dept.”|\ {: #CNX_Psych_13_03_Merger}
 
 WORK–FAMILY BALANCE
-~~~~~~~~~~~~~~~~~~~
+===================
 
 Many people juggle the demands of work life with the demands of their
 home life, whether it be caring for children or taking care of an
@@ -605,7 +609,7 @@ and SC Johnson’s program of concierge services for daytime errands.
    organizations that interest you.
 
 MANAGEMENT AND ORGANIZATIONAL STRUCTURE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=======================================
 
 A significant portion of I-O research focuses on management and human
 relations. Douglas McGregor (1960) combined **scientific
@@ -889,7 +893,7 @@ transactional approaches, although individual leaders typically exhibit
 elements of both approaches.
 
 GOALS, TEAMWORK AND WORK TEAMS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 The workplace today is rapidly changing due to a variety of factors,
 such as shifts in technology, economics, foreign competition,
@@ -944,7 +948,7 @@ more common due to the growing globalization of organizations and the
 use of consulting and partnerships facilitated by digital communication.
 
 ORGANIZATIONAL CULTURE
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 Each company and organization has an organizational culture.
 **Organizational culture**\ {: data-type=“term”} encompasses the values,
@@ -1085,7 +1089,7 @@ protected classes in the statutes regulated by the EEOC: race, national
 origin, religion, or age.
 
 VIOLENCE IN THE WORKPLACE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 In the summer of August 1986, a part-time postal worker with a troubled
 work history walked into the Edmond, Oklahoma, post office and shot and
@@ -1140,7 +1144,7 @@ target of aggression or violence and characteristics of both the
 workplace characteristics and the aggressive or violent person.
 
 Summary
-~~~~~~~
+=======
 
 Organizational psychology is concerned with the effects of interactions
 among people in the workplace on the employees themselves and on
@@ -1161,7 +1165,7 @@ establish procedures that can identify these triggers before they become
 a problem.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1241,7 +1245,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1273,7 +1277,7 @@ Critical Thinking Questions
       culture, and other factors related to the concepts covered.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

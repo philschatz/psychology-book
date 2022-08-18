@@ -1,3 +1,7 @@
+=====================
+History of Psychology
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand the
@@ -20,7 +24,7 @@ shifts in paradigms that have influenced psychology from Wundt and James
 through today.
 
 WUNDT AND STRUCTURALISM
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 Wilhelm **Wundt**\ {: data-type=“term” .no-emphasis} (1832–1920) was a
 German scientist who was the first person to be referred to as a
@@ -67,7 +71,7 @@ fell out of favor with the passing of Wundt’s student, Edward Titchener,
 in 1927 (Gordon, 1995).
 
 JAMES AND FUNCTIONALISM
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 William **James**\ {: data-type=“term” .no-emphasis} (1842–1910) was the
 first American psychologist who espoused a different perspective on how
@@ -94,7 +98,7 @@ and physiology (Gordon, 1995).
 |A drawing depicts the William James.|\ {: #CNX_Psych_01_02_James}
 
 FREUD AND PSYCHOANALYTIC THEORY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Perhaps one of the most influential and well-known figures in
 psychology’s history was Sigmund **Freud**\ {: data-type=“term”
@@ -148,7 +152,7 @@ significance and contributions to clinical practice merit his inclusion
 in a discussion of the historical movements within psychology.
 
 WERTHEIMER, KOFFKA, KÖHLER, AND GESTALT PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================================
 
 Max Wertheimer (1880–1943), Kurt Koffka (1886–1941), and Wolfgang Köhler
 (1887–1967) were three German psychologists who immigrated to the United
@@ -185,7 +189,7 @@ exclusively study behavior, the objectively observable outcome of mental
 processes.
 
 PAVLOV, WATSON, SKINNER, AND BEHAVIORISM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================
 
 Early work in the field of behavior was conducted by the Russian
 physiologist Ivan **Pavlov**\ {: data-type=“term” .no-emphasis}
@@ -266,7 +270,7 @@ the value of operant conditioning for creating happier lives remain as
 thought-provoking arguments for his approach (Greengrass, 2004).
 
 MASLOW, ROGERS, AND HUMANISM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 During the early 20th century, American psychology was dominated by
 behaviorism and psychoanalysis. However, some psychologists were
@@ -348,7 +352,7 @@ n.d.)
    Rogers describing his therapeutic approach.
 
 THE COGNITIVE REVOLUTION
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Behaviorism’s emphasis on objectivity and focus on external behavior had
 pulled psychologists’ attention away from the mind for a prolonged
@@ -438,7 +442,7 @@ perspective resonates in modern-day psychology (Miller, 2003).
    scientific approach to knowledge.
 
 MULTICULTURAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Culture has important impacts on individuals and social psychology, yet
 the effects of **culture**\ {: data-type=“term” .no-emphasis} on
@@ -490,7 +494,7 @@ individual and social psychology.
    historic *Brown v. Board of Education* civil rights case.
 
 Summary
-~~~~~~~
+=======
 
 Before the time of Wundt and James, questions about the mind were
 considered by philosophers. However, both Wundt and James helped create
@@ -544,7 +548,7 @@ came to realize that cognition was crucial to a true appreciation and
 understanding of behavior.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -613,7 +617,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -645,7 +649,7 @@ Critical Thinking Questions
       that were not directly observable.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+==========================
+The Source of Intelligence
+==========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe how
@@ -22,7 +26,7 @@ news anchor (“Dates and Events,” n.d.). The woman—Oprah Winfrey—goes on
 to become a media giant known for both her intelligence and her empathy.
 
 HIGH INTELLIGENCE: NATURE OR NURTURE?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 Where does high intelligence come from? Some researchers believe that
 intelligence is a trait inherited from a person’s parents. Scientists
@@ -158,7 +162,7 @@ Riles*:
    Once again, the limitations of intelligence testing were revealed.
 
 WHAT ARE LEARNING DISABILITIES?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Learning disabilities are cognitive disorders that affect different
 areas of cognition, particularly language or reading. It should be
@@ -181,7 +185,7 @@ Let’s take a look at two examples of common learning disabilities:
 dysgraphia and dyslexia.
 
 Dysgraphia
-^^^^^^^^^^
+----------
 
 Children with **dysgraphia**\ {: data-type=“term”} have a learning
 disability that results in a struggle to write legibly. The physical
@@ -203,7 +207,7 @@ therapist, although there is some question as to how effective such
 treatment is (Zwicker, 2005).
 
 Dyslexia
-^^^^^^^^
+--------
 
 Dyslexia is the most common learning disability in children. An
 individual with **dyslexia**\ {: data-type=“term”} exhibits an inability
@@ -224,7 +228,7 @@ they never actually learn to read (Berninger, 2008).
 appearing backwards and upside down.|\ {: #Figure_07_06_Dyslexia}
 
 Summary
-~~~~~~~
+=======
 
 Genetics and environment affect intelligence and the challenges of
 certain learning disabilities. The intelligence levels of all
@@ -239,7 +243,7 @@ example, may have extreme difficulty learning to read, but their
 intelligence levels are typically average or above average.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -307,7 +311,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -337,7 +341,7 @@ Critical Thinking Questions
       disabilities are pervasive and related to intelligence.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

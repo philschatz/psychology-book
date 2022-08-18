@@ -1,3 +1,7 @@
+==================
+What Is Cognition?
+==================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe
@@ -20,7 +24,7 @@ unconscious work that our brains are doing (for example, Kahneman,
 2011).
 
 COGNITION
-~~~~~~~~~
+=========
 
 Upon waking each morning, you begin thinking—contemplating the tasks
 that you must complete that day. In what order should you run your
@@ -44,7 +48,7 @@ thoughts and information gathered from our environments into meaningful
 categories of thought, which will be discussed later.
 
 CONCEPTS AND PROTOTYPES
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 The human nervous system is capable of handling endless streams of
 information. The senses serve as the interface between the mind and the
@@ -122,7 +126,7 @@ are functions of our direct experience with the world and those that are
 more artificial in nature.
 
 NATURAL AND ARTIFICIAL CONCEPTS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 In psychology, concepts can be divided into two categories, natural and
 artificial. **Natural concepts**\ {: data-type=“term”} are created
@@ -167,7 +171,7 @@ Goldstone and Kersten (2003), concepts act as building blocks and can be
 connected in countless combinations to create complex thoughts.
 
 SCHEMATA
-~~~~~~~~
+========
 
 A **schema**\ {: data-type=“term”} is a mental construct consisting of a
 cluster or collection of related concepts (Bartlett, 1932). There are
@@ -242,7 +246,7 @@ continue to examine thinking, keep in mind how powerful the forces of
 concepts and schemata are to our understanding of the world.
 
 Summary
-~~~~~~~
+=======
 
 In this section, you were introduced to cognitive psychology, which is
 the study of cognition, or the brain’s ability to think, perceive, plan,
@@ -255,7 +259,7 @@ without having to “think twice” about them. Schemata show up in social
 situations and routines of daily behavior.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -320,7 +324,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -350,7 +354,7 @@ Critical Thinking Questions
       like we are breaking the rules.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

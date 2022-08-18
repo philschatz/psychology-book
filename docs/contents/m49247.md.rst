@@ -1,3 +1,7 @@
+=================
+Anxiety Disorders
+=================
+
 .. container::
 
    By the end of this section, you will be able to: \* Distinguish
@@ -44,7 +48,7 @@ comorbid with each other and with other mental disorders (Kessler,
 Ruscio, Shear, & Wittchen, 2009).
 
 SPECIFIC PHOBIA
-~~~~~~~~~~~~~~~
+===============
 
 *Phobia* is a Greek word that means fear. A person diagnosed with a
 **specific phobia**\ {: data-type=“term”} (formerly known as simple
@@ -419,7 +423,7 @@ public transportation, open spaces (parking lots), enclosed spaces
 et al., 2005).
 
 ACQUISITION OF PHOBIAS THROUGH LEARNING
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=======================================
 
 Many theories suggest that phobias develop through learning. Rachman
 (1977) proposed that phobias can be acquired through three major
@@ -472,7 +476,7 @@ stimuli (flowers or a toy rabbit). The observer monkeys developed fears
 of the fear-relevant stimuli but not the fear-irrelevant stimuli.
 
 SOCIAL ANXIETY DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 **Social anxiety disorder**\ {: data-type=“term”} (formerly called
 social phobia) is characterized by extreme and persistent fear or
@@ -563,7 +567,7 @@ disorder, demonstrating that behavioral inhibition is a major risk
 factor for the disorder (Clauss & Blackford, 2012).
 
 PANIC DISORDER
-~~~~~~~~~~~~~~
+==============
 
 Imagine that you are at the mall one day with your friends and—suddenly
 and inexplicably—you begin sweating and trembling, your heart starts
@@ -683,7 +687,7 @@ catastrophic cognitions about their sensations is as effective as
 medication in reducing panic attacks (Good & Hinton, 2009).
 
 GENERALIZED ANXIETY DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 Alex was always worried about many things. He worried that his children
 would drown when they played at the beach. Each time he left the house,
@@ -744,7 +748,7 @@ during adulthood (Moffitt et al., 2007); worrying might distract people
 from remembering painful childhood experiences.
 
 Summary
-~~~~~~~
+=======
 
 Anxiety disorders are a group of disorders in which a person experiences
 excessive, persistent, and distressing fear and anxiety that interferes
@@ -757,7 +761,7 @@ might be difficult to escape; and generalized anxiety disorder: a
 relatively continuous state of tension, apprehension, and dread.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -791,7 +795,7 @@ Review Questions
       C
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 

@@ -1,3 +1,7 @@
+===============
+Problem Solving
+===============
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe problem
@@ -16,7 +20,7 @@ work today. What should you do? First, you need to identify the problem
 and then apply a strategy for solving the problem.
 
 PROBLEM-SOLVING STRATEGIES
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 When you are presented with a problem—whether it is a complex
 mathematical problem or a broken printer, how do you solve it? Before
@@ -332,7 +336,7 @@ steps.
    that top?”|\ {: #Figure_07_03_SamLoyd}
 
 PITFALLS TO PROBLEM SOLVING
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 Not all problems are successfully solved, however. What challenges stop
 us from successfully solving a problem? Albert Einstein once said,
@@ -660,7 +664,7 @@ dot in the middle row and ends at the right dot of the bottom row.|\ {:
 #Figure_07_03_Solutions}
 
 Summary
-~~~~~~~
+=======
 
 Many different strategies exist for solving problems. Typical strategies
 include trial and error, applying algorithms, and using heuristics. To
@@ -671,7 +675,7 @@ functional fixedness, and various biases that can cloud decision making
 skills.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -737,7 +741,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -771,7 +775,7 @@ Critical Thinking Questions
       is a bit like not reinventing the wheel.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

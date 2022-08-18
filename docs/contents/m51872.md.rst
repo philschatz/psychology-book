@@ -1,3 +1,7 @@
+===============
+Trait Theorists
+===============
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss early
@@ -877,7 +881,7 @@ substantial biological and genetic components (Jang, Livesley, & Vernon,
    Big Five personality test.
 
 Summary
-~~~~~~~
+=======
 
 Trait theorists attempt to explain our personality by identifying our
 stable characteristics and ways of behaving. They have identified
@@ -887,7 +891,7 @@ conscientiousness, extroversion, agreeableness, and neuroticism. These
 traits occur along a continuum.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -906,7 +910,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -939,7 +943,7 @@ Critical Thinking Questions
       may be difficult with which to work.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

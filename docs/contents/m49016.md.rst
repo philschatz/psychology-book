@@ -1,3 +1,7 @@
+=======================
+Contemporary Psychology
+=======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Appreciate the
@@ -52,7 +56,7 @@ and practice of modern-day psychologists.
    also provided by the APA.
 
 BIOPSYCHOLOGY AND EVOLUTIONARY PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================================
 
 As the name suggests, **biopsychology**\ {: data-type=“term”} explores
 how our biology influences our behavior. While biological psychology is
@@ -135,7 +139,7 @@ the predictions of evolution, although there were deviations in some
 cultures.
 
 SENSATION AND PERCEPTION
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Scientists interested in both physiological aspects of sensory systems
 as well as in the psychological experience of sensory information work
@@ -161,7 +165,7 @@ and is influenced by where we focus our attention, our previous
 experiences, and even our cultural backgrounds.
 
 COGNITIVE PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 As mentioned in the previous section, the cognitive revolution created
 an impetus for psychologists to focus their attention on better
@@ -190,7 +194,7 @@ lifespan development, social psychology, and therapy.
    of the major concepts explored by cognitive psychologists.
 
 DEVELOPMENTAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 **Developmental psychology**\ {: data-type=“term”} is the scientific
 study of development across a lifespan. Developmental psychologists are
@@ -228,7 +232,7 @@ estimated that nearly 90 million people in this country will be 65 or
 older (Department of Health and Human Services, n.d.).
 
 PERSONALITY PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 **Personality psychology**\ {: data-type=“term”} focuses on patterns of
 thoughts and behaviors that make each individual unique. Several
@@ -297,7 +301,7 @@ includes the words, “anxious,” “unhappy,” and “prone to negative
 emotions.”|\ {: #CNX_Psych_01_03_BigFive}
 
 SOCIAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~
+=================
 
 **Social psychology**\ {: data-type=“term” .no-emphasis} focuses on how
 we interact with and relate to others. Social psychologists conduct
@@ -369,7 +373,7 @@ call you, AGE, OCCUPATION, SEX, CAN YOU COME: WEEKDAYS, EVENINGS,
 WEEKENDS.|\ {: #CNX_Psych_01_03_Milgram}
 
 INDUSTRIAL-ORGANIZATIONAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
 **Industrial-Organizational psychology**\ {: data-type=“term”
 .no-emphasis} (I-O psychology) is a subfield of psychology that applies
@@ -384,7 +388,7 @@ involves conducting scientific research on behavior within I-O settings
 (Riggio, 2013).
 
 HEALTH PSYCHOLOGY
-~~~~~~~~~~~~~~~~~
+=================
 
 **Health psychology**\ {: data-type=“term” .no-emphasis} focuses on how
 health is affected by the interaction of biological, psychological, and
@@ -403,7 +407,7 @@ to address patterns of behavior that contribute to poorer health
 Biological, Psychological, and Social.|\ {: #CNX_Psych_01_03_BioPsych}
 
 SPORT AND EXERCISE PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Researchers in **sport and exercise psychology**\ {: data-type=“term”}
 study the psychological aspects of sport performance, including
@@ -416,7 +420,7 @@ demanding conditions, such as fire fighting, military operations,
 artistic performance, and surgery.
 
 CLINICAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~
+===================
 
 **Clinical psychology**\ {: data-type=“term”} is the area of psychology
 that focuses on the diagnosis and treatment of psychological disorders
@@ -451,7 +455,7 @@ in popular media, and many people mistakenly assume that all psychology
 is clinical psychology.
 
 FORENSIC PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~
+===================
 
 **Forensic psychology**\ {: data-type=“term”} is a branch of psychology
 that deals questions of psychology as they arise in the context of the
@@ -478,7 +482,7 @@ proportion of psychologists that act as consultants to law enforcement.
    psychology.
 
 Summary
-~~~~~~~
+=======
 
 Psychology is a diverse discipline that is made up of several major
 subdivisions with unique perspectives. Biological psychology involves
@@ -504,7 +508,7 @@ psychologists carry out activities related to psychology in association
 with the justice system.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -576,7 +580,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -613,7 +617,7 @@ Critical Thinking Questions
       a few eyebrows.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

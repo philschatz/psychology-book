@@ -1,3 +1,7 @@
+=================================
+What Are Psychological Disorders?
+=================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand the
@@ -32,7 +36,7 @@ psychological disorders from inner experiences and behaviors that are
 merely situational, idiosyncratic, or unconventional.
 
 DEFINITION OF A PSYCHOLOGICAL DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+======================================
 
 Perhaps the simplest approach to conceptualizing psychological disorders
 is to label behaviors, thoughts, and inner experiences that are
@@ -70,7 +74,7 @@ socially accepted rules governing appropriate dress and behavior; these
 characteristics are atypical.
 
 CULTURAL EXPECTATIONS
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 Violating cultural expectations is not, in and of itself, a satisfactory
 means of identifying the presence of a psychological disorder. Since
@@ -162,7 +166,7 @@ the big hair of the 1980s would go over on your campus today.
    Barker, 2009).
 
 HARMFUL DYSFUNCTION
-~~~~~~~~~~~~~~~~~~~
+===================
 
 If none of the criteria discussed so far is adequate by itself to define
 the presence of a psychological disorder, how can a disorder be
@@ -210,7 +214,7 @@ psychological processes, thus supporting contemporary neurobiological
 models of psychological disorders (Fabrega, 2007).
 
 THE AMERICAN PSYCHIATRIC ASSOCIATION (APA) DEFINITION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================================
 
 Many of the features of the harmful dysfunction model are incorporated
 in a formal definition of psychological disorder developed by the
@@ -268,7 +272,7 @@ a dysfunction in normal mental functioning, and are associated with
 significant distress or disability in social or occupational activities.
 
 Summary
-~~~~~~~
+=======
 
 Psychological disorders are conditions characterized by abnormal
 thoughts, feelings, and behaviors. Although challenging, it is essential
@@ -289,7 +293,7 @@ impairment in one’s life, and must not reflect culturally expected
 reactions to certain life events.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -325,7 +329,7 @@ Review Questions
       B
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -347,7 +351,7 @@ Critical Thinking Question
       disorder mentioned previously.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

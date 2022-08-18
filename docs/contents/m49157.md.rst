@@ -1,3 +1,7 @@
+====================
+Regulation of Stress
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define coping and
@@ -15,7 +19,7 @@ deal with problems relating to stress, including its presumed cause and
 the unpleasant feelings and emotions it produces.
 
 COPING STYLES
-~~~~~~~~~~~~~
+=============
 
 Lazarus and Folkman (1984) distinguished two fundamental kinds of
 coping: problem-focused coping and emotion-focused coping. In
@@ -73,7 +77,7 @@ harder next time, and a breast lump does not necessarily mean that one
 is fated to die of breast cancer.
 
 CONTROL AND STRESS
-~~~~~~~~~~~~~~~~~~
+==================
 
 The desire and ability to predict events, make decisions, and affect
 outcomes—that is, to enact control in our lives—is a basic tenet of
@@ -211,7 +215,7 @@ suggest that perceptions of control and coping abilities are important
 in managing and coping with the stressors we encounter throughout life.
 
 SOCIAL SUPPORT
-~~~~~~~~~~~~~~
+==============
 
 The need to form and maintain strong, stable relationships with others
 is a powerful, pervasive, and fundamental human motive (Baumeister &
@@ -381,7 +385,7 @@ exercising, smoking cessation, and cooperation with medical regimens
    of racism.
 
 STRESS REDUCTION TECHNIQUES
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 Beyond having a sense of control and establishing social support
 networks, there are numerous other means by which we can manage stress
@@ -456,7 +460,7 @@ applied successfully with individuals experiencing tension headaches,
 high blood pressure, asthma, and phobias (Stein, 2001).
 
 Summary
-~~~~~~~
+=======
 
 When faced with stress, people must attempt to manage or cope with it.
 In general, there are two basic forms of coping: problem-focused coping
@@ -472,7 +476,7 @@ influence immune functioning. However, the beneficial effects of social
 support may be related to its influence on promoting healthy behaviors.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -546,7 +550,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -578,7 +582,7 @@ Critical Thinking Questions
       properly.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -41,7 +46,7 @@ we come to know what we know? This chapter focuses on the primary ways
 in which learning occurs.
 
 References
-~~~~~~~~~~
+==========
 
 Anderson, C. A., & Gentile, D. A. (2008). Media violence, aggression,
 and public policy. In E. Borgida & S. Fiske (Eds.), Beyond common sense:

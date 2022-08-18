@@ -1,3 +1,7 @@
+=======================================
+Perspectives on Psychological Disorders
+=======================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss
@@ -19,7 +23,7 @@ provide alternate ways for how to think about the nature of
 psychopathology.
 
 SUPERNATURAL PERSPECTIVES OF PSYCHOLOGICAL DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================================
 
 For centuries, psychological disorders were viewed from a
 **supernatural**\ {: data-type=“term”} perspective: attributed to a
@@ -81,7 +85,7 @@ cultures in modern-day Nigeria (Aghukwa, 2012).
    one who is cursed by dancing for days on end.
 
 BIOLOGICAL PERSPECTIVES OF PSYCHOLOGICAL DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================================
 
 The biological perspective views psychological disorders as linked to
 biological phenomena, such as genetic factors, chemical imbalances, and
@@ -116,7 +120,7 @@ into their possible connections. The biological perspective is currently
 thriving in the study of psychological disorders.
 
 THE DIATHESIS-STRESS MODEL OF PSYCHOLOGICAL DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================================
 
 Despite advances in understanding the biological basis of psychological
 disorders, the psychosocial perspective is still very important. This
@@ -145,7 +149,7 @@ level of stress needed to produce the disorder is inversely proportional
 to the level of diathesis.
 
 Summary
-~~~~~~~
+=======
 
 Psychopathology is very complex, involving a plethora of etiological
 theories and perspectives. For centuries, psychological disorders were
@@ -167,7 +171,7 @@ psychological disorder are more likely than those without the diathesis
 to develop the disorder when faced with stressful events.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -203,7 +207,7 @@ Review Questions
       C
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -220,7 +224,7 @@ Critical Thinking Question
       to most effectively treat the disorder.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

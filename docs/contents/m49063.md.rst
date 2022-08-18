@@ -1,3 +1,7 @@
+===============
+Sexual Behavior
+===============
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand basic
@@ -15,7 +19,7 @@ human sexual behavior and motivation. This section will close with a
 discussion of issues related to gender and sexual orientation.
 
 PHYSIOLOGICAL MECHANISMS OF SEXUAL BEHAVIOR AND MOTIVATION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================================================
 
 Much of what we know about the physiological mechanisms that underlie
 sexual behavior and motivation comes from animal research. As you’ve
@@ -62,7 +66,7 @@ women varies as a function of circulating testosterone levels (Bhasin,
 Enzlin, Coviello, & Basson, 2007; Carter, 1992; Sherwin, 1988).
 
 KINSEY’S RESEARCH
-~~~~~~~~~~~~~~~~~
+=================
 
 Before the late 1940s, access to reliable, empirically-based information
 on sex was limited. Physicians were considered authorities on all issues
@@ -121,7 +125,7 @@ emotional and erotic attractions to same-sexed individuals
 data-type=“term”}).
 
 MASTERS AND JOHNSON’S RESEARCH
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 In 1966, William **Masters**\ {: data-type=“term” .no-emphasis} and
 Virginia **Johnson**\ {: data-type=“term” .no-emphasis} published a book
@@ -186,7 +190,7 @@ determined that the vagina is a very elastic structure that can conform
 to penises of various sizes (Hock, 2008).
 
 SEXUAL ORIENTATION
-~~~~~~~~~~~~~~~~~~
+==================
 
 As mentioned earlier, a person’s sexual orientation is their emotional
 and erotic attraction toward another individual
@@ -228,7 +232,7 @@ significant extent, sexual orientations are something with which we are
 born.
 
 Misunderstandings about Sexual Orientation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 
 Regardless of how sexual orientation is determined, research has made
 clear that sexual orientation is not a choice, but rather it is a
@@ -268,7 +272,7 @@ professional organizations have issued statements against this practice
    letter.
 
 GENDER IDENTITY
-~~~~~~~~~~~~~~~
+===============
 
 Many people conflate sexual orientation with gender identity because of
 stereotypical attitudes that exist about homosexuality. In reality,
@@ -312,7 +316,7 @@ as an adult.|\ {: #Figure_10_03_Transgend}
    living in a female body.
 
 CULTURAL FACTORS IN SEXUAL ORIENTATION AND GENDER IDENTITY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================================================
 
 Issues related to sexual orientation and gender identity are very much
 influenced by sociocultural factors. Even the ways in which we define
@@ -425,7 +429,7 @@ Carmichael, Utomo, & Sleigh, 2010).
    experiences of David Reimer and his family.
 
 Summary
-~~~~~~~
+=======
 
 The hypothalamus and structures of the limbic system are important in
 sexual behavior and motivation. There is evidence to suggest that our
@@ -438,7 +442,7 @@ response cycle. While often confused, sexual orientation and gender
 identity are related, but distinct, concepts.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -509,7 +513,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -547,7 +551,7 @@ Critical Thinking Questions
       addition to assurances that this type of therapy was safe.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

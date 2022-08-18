@@ -1,3 +1,7 @@
+==========
+Aggression
+==========
+
 .. container::
 
    By the end of this section, you will be able to: \* Define aggression
@@ -14,7 +18,7 @@ conformity of Nazis during WWII. In this section we will discuss a
 negative side of human behavior—aggression.
 
 AGGRESSION
-~~~~~~~~~~
+==========
 
 Humans engage in **aggression**\ {: data-type=“term”} when they seek to
 cause harm or pain to another person. Aggression takes two forms
@@ -51,7 +55,7 @@ frustrated and aggressive.
 #CNX_Psych_12_06_dominance}
 
 Bullying
-^^^^^^^^
+--------
 
 A modern form of aggression is bullying. As you learn in your study of
 child development, socializing and playing with other children is
@@ -105,7 +109,7 @@ children who are at a greater risk of being bullied (Olweus, 1993):
    of being bullied and hurt due to their sexual orientation.
 
 Cyberbullying
-^^^^^^^^^^^^^
+-------------
 
 With the rapid growth of technology, and widely available mobile
 technology and social networking media, a new form of bullying has
@@ -142,7 +146,7 @@ websites, like Facebook, do to prevent cyberbullying?
 device.|\ {: #CNX_Psych_12_06_cyberbully}
 
 THE BYSTANDER EFFECT
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 The discussion of bullying highlights the problem of witnesses not
 intervening to help a victim. This is a common occurrence, as the
@@ -182,7 +186,7 @@ motorist has already reported the accident? In general, the greater the
 number of bystanders, the less likely any one person will help.
 
 Summary
-~~~~~~~
+=======
 
 Aggression is seeking to cause another person harm or pain. Hostile
 aggression is motivated by feelings of anger with intent to cause pain,
@@ -200,7 +204,7 @@ bystanders witnessing an emergency, diffusion of responsibility will
 lead to a lower likelihood of any one person helping.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -250,7 +254,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -289,7 +293,7 @@ Critical Thinking Questions
       Twitter posts on their behalf.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

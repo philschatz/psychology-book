@@ -1,3 +1,7 @@
+=============
+Schizophrenia
+=============
+
 .. container::
 
    By the end of this section, you will be able to: \* Recognize the
@@ -37,7 +41,7 @@ one who suffers from a psychotic disorder (that is, has a psychosis) is
 disconnected from the world in which most of us live.
 
 SYMPTOMS OF SCHIZOPHRENIA
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 The main symptoms of schizophrenia include hallucinations, delusions,
 disorganized thinking, disorganized or abnormal motor behavior, and
@@ -122,7 +126,7 @@ activities, such as hobbies, recreation, or sexual activity.
    identify which classic symptoms of schizophrenia are shown.
 
 CAUSES OF SCHIZOPHRENIA
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 There is considerable evidence suggesting that schizophrenia has a
 genetic basis. The risk of developing schizophrenia is nearly 6 times
@@ -132,7 +136,7 @@ developing schizophrenia increases as genetic relatedness to family
 members diagnosed with schizophrenia increases (Gottesman, 2001).
 
 Genes
-^^^^^
+-----
 
 When considering the role of genetics in schizophrenia, as in any
 disorder, conclusions based on family and twin studies are subject to
@@ -182,7 +186,7 @@ necessary for schizophrenia to develop, genes alone do not show the
 complete picture.
 
 Neurotransmitters
-^^^^^^^^^^^^^^^^^
+-----------------
 
 If we accept that schizophrenia is at least partly genetic in origin, as
 it seems to be, it makes sense that the next step should be to identify
@@ -210,7 +214,7 @@ the disorder work by blocking serotonin receptors (Baumeister & Hawkins,
 2004).
 
 Brain Anatomy
-^^^^^^^^^^^^^
+-------------
 
 Brain imaging studies reveal that people with schizophrenia have
 enlarged **ventricles**\ {: data-type=“term”}, the cavities within the
@@ -228,7 +232,7 @@ region provide merit in explaining why people with schizophrenia
 experience deficits in these of areas.
 
 Events During Pregnancy
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 Why do people with schizophrenia have these brain abnormalities? A
 number of environmental factors that could impact normal brain
@@ -244,7 +248,7 @@ substantially in offspring whose mothers experienced the death of a
 relative during the first trimester of pregnancy (Khashan et al., 2008).
 
 Marijuana
-^^^^^^^^^
+---------
 
 Another variable that is linked to schizophrenia is **marijuana**\ {:
 data-type=“term” .no-emphasis} use. Although a number of reports have
@@ -280,7 +284,7 @@ disorders, especially among individuals with an established
 vulnerability (Casadio et al., 2011).
 
 SCHIZOPHRENIA: EARLY WARNING SIGNS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Early detection and treatment of conditions such as heart disease and
 cancer have improved survival rates and quality of life for people who
@@ -301,7 +305,7 @@ greatest risk for developing schizophrenia, and thus to whom early
 intervention efforts should be directed.
 
 Summary
-~~~~~~~
+=======
 
 Schizophrenia is a severe disorder characterized by a complete breakdown
 in one’s ability to function in life; it often requires hospitalization.
@@ -322,7 +326,7 @@ Future research may enable us to pinpoint those especially at risk for
 developing schizophrenia and who may benefit from early intervention.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -360,7 +364,7 @@ Review Questions
       C
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 

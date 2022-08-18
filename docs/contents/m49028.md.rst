@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -38,7 +43,7 @@ opinion, but by evidence that we can all agree on? The findings of
 psychological research can help us navigate issues like this.
 
 References
-~~~~~~~~~~
+==========
 
 American Academy of Pediatrics, American Academy of Child & Adolescent
 Psychiatry, American Psychological Association, American Medical

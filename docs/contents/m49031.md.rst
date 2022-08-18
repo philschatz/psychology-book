@@ -1,3 +1,7 @@
+======================
+What Is Consciousness?
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand what
@@ -33,7 +37,7 @@ you were not aware of doing so. Many of these processes, like much of
 psychological behavior, are rooted in our biology.
 
 BIOLOGICAL RHYTHMS
-~~~~~~~~~~~~~~~~~~
+==================
 
 **Biological rhythms**\ {: data-type=“term”} are internal rhythms of
 biological activity. A woman’s menstrual cycle is an example of a
@@ -88,7 +92,7 @@ Hypothalamus, Pituitary gland, Pineal gland, and Output rhythms:
 Physiology and Behavior.|\ {: #Figure_04_01_SCN}
 
 PROBLEMS WITH CIRCADIAN RHYTHMS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Generally, and for most people, our circadian cycles are aligned with
 the outside world. For example, most people sleep during the night and
@@ -116,7 +120,7 @@ as well as coordinating this cycle with the outside world.
    describing circadian rhythms and how they affect sleep.
 
 Disruptions of Normal Sleep
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 Whether lark, owl, or somewhere in between, there are situations in
 which a person’s circadian clock gets out of synchrony with the external
@@ -176,7 +180,7 @@ Chen, & Hsu, 2013).
    hear tips on how to overcome jet lag.
 
 Insufficient Sleep
-^^^^^^^^^^^^^^^^^^
+------------------
 
 When people have difficulty getting sleep due to their work or the
 demands of day-to-day life, they accumulate a sleep debt. A person with
@@ -873,7 +877,7 @@ Guilleminault, & Vitiello, 2004). As the amount of time we sleep varies
 over our lifespan, presumably the sleep debt would adjust accordingly.
 
 Summary
-~~~~~~~
+=======
 
 States of consciousness vary over the course of the day and throughout
 our lives. Important factors in these changes are the biological
@@ -890,7 +894,7 @@ experience a number of adverse psychological and physiological
 consequences.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -954,7 +958,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -995,7 +999,7 @@ Critical Thinking Questions
       locate prey.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+====================
+The Endocrine System
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Identify the
@@ -31,7 +35,7 @@ disorders. This section explores some of the major glands that make up
 the endocrine system and the hormones secreted by these glands.
 
 Major Glands
-~~~~~~~~~~~~
+============
 
 The **pituitary gland**\ {: data-type=“term”} descends from the
 hypothalamus at the base of the brain, and acts in close association
@@ -105,7 +109,7 @@ secrete androgens, such as testosterone.
    considering using PEDs?
 
 Summary
-~~~~~~~
+=======
 
 The glands of the endocrine system secrete hormones to regulate normal
 body functions. The hypothalamus serves as the interface between the
@@ -119,7 +123,7 @@ testes produce sex hormones that regulate sexual motivation and
 behavior.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -184,7 +188,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -228,7 +232,7 @@ Critical Thinking Questions
       in the bloodstream vary gradually over time.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+================================
+Gestalt Principles of Perception
+================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the
@@ -129,7 +133,7 @@ of complex ambiguous figures (Goolkasian & Woodbury, 2010).
    were armed and/or represented some threat to their personal safety.
 
 Summary
-~~~~~~~
+=======
 
 Gestalt theorists have been incredibly influential in the areas of
 sensation and perception. Gestalt principles such as figure-ground
@@ -139,7 +143,7 @@ sensory information. Our perceptions are not infallible, and they can be
 influenced by bias, prejudice, and other factors.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -206,7 +210,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -242,7 +246,7 @@ Critical Thinking Question
       rabbit lines.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

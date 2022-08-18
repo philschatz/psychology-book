@@ -1,3 +1,7 @@
+==========================
+What Is Social Psychology?
+==========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define social
@@ -36,7 +40,7 @@ attitude change, and the interpersonal processes of conformity and
 obedience, aggression and altruism, and, finally, love and attraction.
 
 SITUATIONAL AND DISPOSITIONAL INFLUENCES ON BEHAVIOR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================================
 
 Behavior is a product of both the situation (e.g., cultural influences,
 social roles, and the presence of bystanders) and of the person (e.g.,
@@ -58,7 +62,7 @@ that affect human behavior (Mischel, 1977; Richard, Bond, &
 Stokes-Zoota, 2003).
 
 FUNDAMENTAL ATTRIBUTION ERROR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 In the United States, the predominant culture tends to favor a
 dispositional approach in explaining human behavior. Why do you think
@@ -120,7 +124,7 @@ role in determining just how influential the fundamental attribution
 error is (Malle, 2006).
 
 IS THE FUNDAMENTAL ATTRIBUTION ERROR A UNIVERSAL PHENOMENON?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================================================
 
 You may be able to think of examples of the fundamental attribution
 error in your life. Do people in all cultures commit the fundamental
@@ -370,7 +374,7 @@ Holistic thinking style
    </table>
 
 ACTOR-OBSERVER BIAS
-~~~~~~~~~~~~~~~~~~~
+===================
 
 Returning to our earlier example, Greg knew that he lost his job, but an
 observer would not know. So a naïve observer would tend to attribute
@@ -416,7 +420,7 @@ situational and dispositional traits are nearly equal.|\ {:
 #CNX_Psych_12_01_biasgraph}
 
 SELF-SERVING BIAS
-~~~~~~~~~~~~~~~~~
+=================
 
 Following an outcome, self-serving bias are those attributions that
 enable us to see ourselves in favorable light (for example, making
@@ -460,7 +464,7 @@ our team’s performance (uncontrollable).
 |A photograph shows a hockey team.|\ {: #CNX_Psych_12_01_winning}
 
 JUST-WORLD HYPOTHESIS
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 One consequence of westerners’ tendency to provide dispositional
 explanations for behavior is victim blame (Jost & Major, 2001). When
@@ -502,7 +506,7 @@ with a sign reading, “homeless, broke, and hungry.”|\ {:
 #CNX_Psych_12_01_homeless}
 
 Summary
-~~~~~~~
+=======
 
 Social psychology is the subfield of psychology that studies the power
 of the situation to influence individuals’ thoughts, feelings, and
@@ -519,7 +523,7 @@ having enough information about others’ motivations for behaviors and by
 providing explanations that bolster our self-esteem.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -587,7 +591,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -626,7 +630,7 @@ Critical Thinking Questions
       coach.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

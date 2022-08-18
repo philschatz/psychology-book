@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -29,7 +34,7 @@ in `[link] <#CNX_Psych_16_00_Therapy>`__ uses multiple approaches to
 support the mental health of veterans in the group.
 
 References
-~~~~~~~~~~
+==========
 
 Abbass, A., Kisely, S., & Kroenke, K. (2006). Short-term psychodynamic
 psychotherapy for somatic disorders: Systematic review and meta-analysis

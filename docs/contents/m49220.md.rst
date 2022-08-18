@@ -1,3 +1,7 @@
+=============================
+Posttraumatic Stress Disorder
+=============================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -19,7 +23,7 @@ was developed given that these symptoms could happen to anyone who
 experienced psychological trauma.
 
 A BROADER DEFINITION OF PTSD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 PTSD was listed among the anxiety disorders in previous DSM editions. In
 DSM-5, it is now listed among a group called Trauma-and-Stressor-Related
@@ -54,7 +58,7 @@ from PTSD one year following the hurricane (Kessler et al., 2008), and
 after the 9/11 terrorist attacks (DiGrande et al., 2008).
 
 RISK FACTORS FOR PTSD
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 Of course, not everyone who experiences a traumatic event will go on to
 develop PTSD; several factors strongly predict the development of PTSD:
@@ -79,7 +83,7 @@ interpretation of PTSD: its development is influenced by the interaction
 of psychosocial and biological factors.
 
 SUPPORT FOR SUFFERERS OF PTSD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Research has shown that social support following a traumatic event can
 reduce the likelihood of PTSD (Ozer, Best, Lipsey, & Weiss, 2003).
@@ -100,7 +104,7 @@ were less involved (Koenen, Stellman, Stellman, & Sommer, 2003).
 Wall.|\ {: #Figure_15_06_Memorial}
 
 LEARNING AND THE DEVELOPMENT OF PTSD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
 PTSD learning models suggest that some symptoms are developed and
 maintained through classical conditioning. The traumatic event may act
@@ -144,7 +148,7 @@ that maintain PTSD symptoms by preventing both a change in the nature of
 the memory and a change in the problematic appraisals.
 
 Summary
-~~~~~~~
+=======
 
 Posttraumatic stress disorder (PTSD) was described through much of the
 20th century and was referred to as shell shock and combat neurosis in
@@ -161,7 +165,7 @@ everyone who experiences a traumatic event will develop PTSD; a variety
 of risk factors associated with its development have been identified.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -195,7 +199,7 @@ Review Questions
       A
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 

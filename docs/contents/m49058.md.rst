@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -41,7 +46,7 @@ occurs, the biological underpinnings of emotion, and the universality of
 emotions.
 
 References
-~~~~~~~~~~
+==========
 
 Ahima, R. S., & Antwi, D. A. (2008). Brain regulation of appetite and
 satiety. *Endocrinology and Metabolism Clinics of North America, 37*,

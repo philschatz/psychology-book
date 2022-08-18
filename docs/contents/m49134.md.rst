@@ -1,3 +1,7 @@
+==================
+Prosocial Behavior
+==================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe altruism
@@ -18,7 +22,7 @@ relationships, the different types of love, and a theory explaining how
 our relationships are formed, maintained, and terminated.
 
 PROSOCIAL BEHAVIOR AND ALTRUISM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Do you voluntarily help others? Voluntary behavior with the intent to
 help other people is called **prosocial behavior**\ {:
@@ -61,7 +65,7 @@ whether pure altruism exists continues.
    the egoism versus altruism debate.
 
 FORMING RELATIONSHIPS
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 What do you think is the single most influential factor in determining
 with whom you become friends and whom you form romantic relationships?
@@ -115,7 +119,7 @@ of healthy intimate relationships, as long as the information disclosed
 is consistent with our own views (Cozby, 1973).
 
 ATTRACTION
-~~~~~~~~~~
+==========
 
 We have discussed how proximity and similarity lead to the formation of
 relationships, and that reciprocity and self-disclosure are important
@@ -155,7 +159,7 @@ partners that are fairly unattractive (that is, unattractive in physical
 appearance or in behavior).
 
 STERNBERG’S TRIANGULAR THEORY OF LOVE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 We typically love the people with whom we form relationships, but the
 type of love we have for our family, friends, and lovers differs. Robert
@@ -199,7 +203,7 @@ types of love?
 waterfall.|\ {: #CNX_Psych_12_07_couple}
 
 SOCIAL EXCHANGE THEORY
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 We have discussed why we form relationships, what attracts us to others,
 and different types of love. But what determines whether we are
@@ -231,7 +235,7 @@ benefits of dating your romantic partner presumably outweigh the costs,
 or you wouldn’t continue the relationship.
 
 Summary
-~~~~~~~
+=======
 
 Altruism is a pure form of helping others out of empathy, which can be
 contrasted with egoistic motivations for helping. Forming relationships
@@ -249,7 +253,7 @@ approach and weigh the costs and benefits of forming and maintaining a
 relationship.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -332,7 +336,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -370,7 +374,7 @@ Critical Thinking Questions
       their families.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

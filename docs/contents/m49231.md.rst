@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -28,7 +33,7 @@ If, however, Alexis had received the help he needed, this tragedy might
 have been averted.
 
 References
-~~~~~~~~~~
+==========
 
 Abela, J. R., & Hankin, B. L. (2011). Rumination as a vulnerability
 factor to depression during the transition from early to middle

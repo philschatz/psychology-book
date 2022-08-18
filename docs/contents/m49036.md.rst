@@ -1,3 +1,7 @@
+============================
+Sleep Problems and Disorders
+============================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -16,7 +20,7 @@ Roth, 2002). This section will describe several sleep disorders as well
 as some of their treatment options.
 
 INSOMNIA
-~~~~~~~~
+========
 
 Insomnia, a consistent difficulty in falling or staying asleep, is the
 most common of the sleep disorders. Individuals with insomnia often
@@ -59,7 +63,7 @@ quite effective in treating insomnia (Savard, Simard, Ivers, & Morin,
 2005; Williams, Roth, Vatthauer, & McCrae, 2013).
 
 PARASOMNIAS
-~~~~~~~~~~~
+===========
 
 A **parasomnia**\ {: data-type=“term”} is one of a group of sleep
 disorders in which unwanted, disruptive motor activity and/or
@@ -69,7 +73,7 @@ night terrors are all examples of parasomnias (Mahowald & Schenck,
 2000).
 
 Sleepwalking
-^^^^^^^^^^^^
+------------
 
 In **sleepwalking**\ {: data-type=“term”}, or somnambulism, the sleeper
 engages in relatively complex behaviors ranging from wandering about to
@@ -134,7 +138,7 @@ effectively treated.
    Cramer Bornemann, 2005; Pressman, 2007).
 
 REM Sleep Behavior Disorder (RBD)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------
 
 **REM sleep behavior disorder (RBD)**\ {: data-type=“term”} occurs when
 the muscle paralysis associated with the REM sleep phase does not occur.
@@ -160,7 +164,7 @@ to make it a safer place for those suffering from RBD (Zangini,
 Calandra-Buonaura, Grimaldi, & Cortelli, 2011).
 
 Other Parasomnias
-^^^^^^^^^^^^^^^^^
+-----------------
 
 A person with **restless leg syndrome**\ {: data-type=“term”} has
 uncomfortable sensations in the legs during periods of inactivity or
@@ -187,7 +191,7 @@ psychological condition that is contributing to the night terrors (Mayo
 Clinic, n.d.).
 
 SLEEP APNEA
-~~~~~~~~~~~
+===========
 
 **Sleep apnea**\ {: data-type=“term”} is defined by episodes during
 which a sleeper’s breathing stops. These episodes can last 10–20 seconds
@@ -243,7 +247,7 @@ CPAP mask attached to a mannequin's head with straps.|\ {:
 #Figure_04_04_CPAP}
 
 SIDS
-^^^^
+----
 
 In **sudden infant death syndrome (SIDS)**\ {: data-type=“term”} an
 infant stops breathing during sleep and dies. Infants younger than 12
@@ -271,7 +275,7 @@ Infant Death Syndrome, 2011).
 “safe to sleep.”|\ {: #Figure_04_04_SIDS}
 
 NARCOLEPSY
-~~~~~~~~~~
+==========
 
 Unlike the other sleep disorders described in this section, a person
 with **narcolepsy**\ {: data-type=“term”} cannot resist falling asleep
@@ -321,7 +325,7 @@ when a stimulant drug was used in conjunction with a popular
 antidepressant, her condition improved dramatically.
 
 Summary
-~~~~~~~
+=======
 
 Many individuals suffer from some type of sleep disorder or disturbance
 at some point in their lives. Insomnia is a common experience in which
@@ -335,7 +339,7 @@ to fall asleep during waking hours and is often associated with
 cataplexy and hallucination.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -402,7 +406,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -444,7 +448,7 @@ Critical Thinking Questions
       of heightened arousal or emotionality).
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

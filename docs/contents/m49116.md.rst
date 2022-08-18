@@ -1,3 +1,7 @@
+=================
+Self-presentation
+=================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe social
@@ -18,7 +22,7 @@ as whether we will help a stranger in an emergency or how we would
 behave in an unfamiliar environment.
 
 SOCIAL ROLES
-~~~~~~~~~~~~
+============
 
 One major social determinant of human behavior is our social roles. A
 **social role**\ {: data-type=“term”} is a pattern of behavior that is
@@ -55,7 +59,7 @@ personality can vary with context (that is, in different social groups)
 (Malloy, Albright, Kenny, Agatstein & Winquist, 1997).
 
 SOCIAL NORMS
-~~~~~~~~~~~~
+============
 
 As discussed previously, social roles are defined by a culture’s shared
 knowledge of what is expected behavior of an individual in a specific
@@ -104,7 +108,7 @@ on social media outlets. What are some social norms on Facebook?
    #CNX_Psych_12_02_preteens}
 
 SCRIPTS
-~~~~~~~
+=======
 
 Because of social roles, people tend to know what behavior is expected
 of them in specific, familiar settings. A **script**\ {:
@@ -123,7 +127,7 @@ This could be uncomfortable and confusing. How could you find out about
 social norms in an unfamiliar culture?
 
 ZIMBARDO’S STANFORD PRISON EXPERIMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 The famous **Stanford prison experiment**\ {: data-type=“term”},
 conducted by social psychologist Philip **Zimbardo**\ {:
@@ -204,7 +208,7 @@ face completely.|\ {: #CNX_Psych_12_02_AbuGhraib}
    prison experiment and the Abu Ghraib prison in Iraq.
 
 Summary
-~~~~~~~
+=======
 
 Human behavior is largely influenced by our social roles, norms, and
 scripts. In order to know how to act in a given situation, we have
@@ -218,7 +222,7 @@ in a given situation, even if this behavior is contrary to our typical
 behavior.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -287,7 +291,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -335,7 +339,7 @@ Critical Thinking Questions
       prison guards at the Abu Ghraib prison in Iraq.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

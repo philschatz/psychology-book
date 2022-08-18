@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -46,7 +51,7 @@ that are commonly studied by a branch of psychology called industrial
 and organizational psychology.
 
 References
-~~~~~~~~~~
+==========
 
 ABC News. (2000, September 8). *Court OKs barring high IQs for Cops*.
 Retreived from

@@ -1,3 +1,7 @@
+===============================================
+The Sociocultural Model and Therapy Utilization
+===============================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how the
@@ -57,7 +61,7 @@ by other people during a wedding ceremony.|\ {: #CNX_Psych_16_05_Ethnic}
    learn more about cultural competence and sociocultural treatments.
 
 BARRIERS TO TREATMENT
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 Statistically, ethnic minorities tend to utilize mental health services
 less frequently than White, middle-class Americans (Alegría et al.,
@@ -218,7 +222,7 @@ Sue, 2007).
    advocacy and support organization is NAMI.
 
 Summary
-~~~~~~~
+=======
 
 The sociocultural perspective looks at you, your behaviors, and your
 symptoms in the context of your culture and background. Clinicians using
@@ -230,7 +234,7 @@ transportation, and time; cultural views that mental illness is a
 stigma; fears about treatment; and language barriers.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -265,7 +269,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -288,7 +292,7 @@ Critical Thinking Question
       of a therapist.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

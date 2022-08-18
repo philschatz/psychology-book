@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -41,7 +46,7 @@ physiological natures, its causes and consequences, and the steps we can
 take to master stress rather than become its victim.
 
 References
-~~~~~~~~~~
+==========
 
 Aboa-Éboulé, C., Brisson, C., Maunsell, E., Mâsse, B., Bourbonnais, R.,
 Vézina, M., . . . Dagenais, G. R. (2007). Job strain and risk for acute

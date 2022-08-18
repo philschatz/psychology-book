@@ -1,3 +1,7 @@
+===============
+What Is Stress?
+===============
+
 .. container::
 
    By the end of this section, you will be able to: \* Differentiate
@@ -136,7 +140,7 @@ stress is largely in the eye of the beholder: it’s not so much what
 happens to you as it is how you respond (Selye, 1976).
 
 GOOD STRESS?
-~~~~~~~~~~~~
+============
 
 Although stress carries a negative connotation, at times it may be of
 some benefit. Stress can motivate us to do things in our best interests,
@@ -182,7 +186,7 @@ levels reach optimal level, they move from eustress to distress.|\ {:
 #CNX_Psych_14_01_Performance}
 
 THE PREVALENCE OF STRESS
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Stress is everywhere and, as shown in
 `[link] <#CNX_Psych_14_01_StressRise>`__, it has been on the rise over
@@ -316,7 +320,7 @@ under 13 in 2006 to a little over 14 in 2009.|\ {:
 #CNX_Psych_14_01_StressLev}
 
 EARLY CONTRIBUTIONS TO THE STUDY OF STRESS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================================
 
 As previously stated, scientific interest in stress goes back nearly a
 century. One of the early pioneers in the study of stress was Walter
@@ -329,7 +333,7 @@ reactions to stress.
 |A photo of Walter Cannon is shown.|\ {: #CNX_Psych_14_01_Cannon}
 
 Cannon and the Fight-or-Flight Response
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------
 
 Imagine that you are hiking in the beautiful mountains of Colorado on a
 warm and sunny spring day. At one point during your hike, a large,
@@ -366,7 +370,7 @@ adaptive because it enables us to adjust internally and externally to
 changes in our surroundings, which is helpful in species survival.
 
 Selye and the General Adaptation Syndrome
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------
 
 Another important early contributor to the stress field was Hans
 **Selye**\ {: data-type=“term” .no-emphasis}, mentioned earlier. He
@@ -446,7 +450,7 @@ stress has been implicated in development of a number of disorders such
 as hypertension and coronary artery disease.
 
 THE PHYSIOLOGICAL BASIS OF STRESS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================
 
 What goes on inside our bodies when we experience stress? The
 physiological mechanisms of stress are extremely complex, but they
@@ -516,7 +520,7 @@ al., 2011). Later, you will explore the mechanisms through which stress
 can produce physical illness and disease.
 
 Summary
-~~~~~~~
+=======
 
 Stress is a process whereby an individual perceives and responds to
 events appraised as overwhelming or threatening to one’s well-being. The
@@ -535,7 +539,7 @@ stress), and exhaustion (adaptive energy is depleted, and stress begins
 to take a physical toll).
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -604,7 +608,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -643,7 +647,7 @@ Critical Thinking Questions
       (exhaustion stage).
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

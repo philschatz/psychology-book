@@ -1,3 +1,7 @@
+=================================================
+What Is Industrial and Organizational Psychology?
+=================================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand the
@@ -74,7 +78,7 @@ distances.|\ {: #CNX_Psych_13_01_HumFact}
    discipline. This site also offers several I-O psychologist profiles.
 
 THE HISTORICAL DEVELOPMENT OF INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+======================================================================
 
 Industrial and organizational psychology had its origins in the early
 20th century. Several influential early psychologists studied issues
@@ -260,7 +264,7 @@ open, and inserting garbage into the garbage can.|\ {:
 #CNX_Psych_13_01_Gilbreth}
 
 FROM WWII TO TODAY
-~~~~~~~~~~~~~~~~~~
+==================
 
 World War II also drove the expansion of industrial psychology. Bingham
 was hired as the chief psychologist for the War Department (now the
@@ -287,7 +291,7 @@ over $80,000 a year, while someone with a doctorate will earn over
 $110,000 a year (Khanna, Medsker, & Ginter, 2012).
 
 Summary
-~~~~~~~
+=======
 
 The field of I-O psychology had its birth in industrial psychology and
 the use of psychological concepts to aid in personnel selection.
@@ -302,7 +306,7 @@ could assist industry and other areas. This movement aided in expanding
 industrial psychology to include organizational psychology.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -370,7 +374,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -404,7 +408,7 @@ Critical Thinking Questions
       universities, schools, and so on.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+=====================
+Humanistic Approaches
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss the
@@ -53,7 +57,7 @@ Both Rogers’s and Maslow’s theories focus on individual choices and do
 not believe that biology is deterministic.
 
 Summary
-~~~~~~~
+=======
 
 Humanistic psychologists Abraham Maslow and Carl Rogers focused on the
 growth potential of healthy individuals. They believed that people
@@ -63,7 +67,7 @@ free will and self-determination, with each individual desiring to
 become the best person they can become.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -98,7 +102,7 @@ Review Questions
       D
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

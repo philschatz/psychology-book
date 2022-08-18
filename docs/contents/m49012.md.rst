@@ -1,3 +1,7 @@
+======================
+Approaches to Research
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -47,7 +51,7 @@ like to answer cannot be pursued through experimental research because
 of ethical concerns.
 
 CLINICAL OR CASE STUDIES
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 In 2011, the *New York Times* published a feature story on Krista and
 Tatiana Hogan, Canadian twin girls. These particular twins are unique
@@ -103,7 +107,7 @@ but since the cases are so specific, the potential to apply what’s
 learned to the average person may be very limited.
 
 NATURALISTIC OBSERVATION
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 If you want to understand how behavior occurs, one of the best ways to
 gain information is to simply observe the behavior in its natural
@@ -226,7 +230,7 @@ reliability that assesses the consistency of observations by different
 observers.
 
 SURVEYS
-~~~~~~~
+=======
 
 Often, psychologists develop surveys as a means of gathering data.
 **Surveys**\ {: data-type=“term”} are lists of questions to be answered
@@ -291,7 +295,7 @@ subtle forms of prejudice against Arab-Americans, despite their
 assertions that this was not the case (Jenkins et al., 2012).
 
 ARCHIVAL RESEARCH
-~~~~~~~~~~~~~~~~~
+=================
 
 Some researchers gain access to large amounts of data without
 interacting with a single research participant. Instead, they use
@@ -323,7 +327,7 @@ consistency between the records from one source to another, which might
 make comparing and contrasting different data sets problematic.
 
 LONGITUDINAL AND CROSS-SECTIONAL RESEARCH
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================================
 
 Sometimes we want to see how people change over time, as in studies of
 human development and lifespan. When we test the same group of
@@ -412,7 +416,7 @@ the sample still represents the larger population, and make adjustments
 as necessary.
 
 Summary
-~~~~~~~
+=======
 
 The clinical or case study involves studying just a few individuals for
 an extended period of time. While this approach provides an incredible
@@ -438,7 +442,7 @@ need to collect data on how people change over time. Cross-sectional
 research compares multiple segments of a population at a single time.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -573,7 +577,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -641,7 +645,7 @@ Critical Thinking Questions
       likelihood of engaging in criminal behavior in the future.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

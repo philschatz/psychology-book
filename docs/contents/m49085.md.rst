@@ -1,3 +1,7 @@
+=======================================
+Parts of the Brain Involved with Memory
+=======================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the brain
@@ -43,7 +47,7 @@ hippocampus, cerebellum, and prefrontal cortex.|\ {:
 #Figure_08_02_Brain}
 
 THE AMYGDALA
-~~~~~~~~~~~~
+============
 
 First, let’s look at the role of the **amygdala**\ {: data-type=“term”
 .no-emphasis} in memory formation. The main job of the amygdala is to
@@ -73,7 +77,7 @@ emotionally arousing.
    published in *Science*.
 
 THE HIPPOCAMPUS
-~~~~~~~~~~~~~~~
+===============
 
 Another group of researchers also experimented with rats to learn how
 the **hippocampus**\ {: data-type=“term” .no-emphasis} functions in
@@ -106,7 +110,7 @@ remember information and events that had occurred prior to the surgery.
    patient HM.
 
 THE CEREBELLUM AND PREFRONTAL CORTEX
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
 Although the hippocampus seems to be more of a processing area for
 explicit memories, you could still lose it and be able to create
@@ -134,7 +138,7 @@ with left frontal activity, while retrieval of information was
 associated with the right frontal region (Craik et al., 1999).
 
 NEUROTRANSMITTERS
-~~~~~~~~~~~~~~~~~
+=================
 
 There also appear to be specific neurotransmitters involved with the
 process of memory, such as epinephrine, dopamine, serotonin, glutamate,
@@ -211,7 +215,7 @@ black clouds of smoke stream from both buildings.|\ {:
    Deese-Roediger-McDermott paradigm.
 
 Summary
-~~~~~~~
+=======
 
 Beginning with Karl Lashley, researchers and psychologists have been
 searching for the engram, which is the physical trace of memory. Lashley
@@ -233,7 +237,7 @@ our memory for life events (autobiographical memory) is not always
 accurate.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -267,7 +271,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -285,7 +289,7 @@ Critical Thinking Questions
       (procedural memory, motor learning and classical conditioning).
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

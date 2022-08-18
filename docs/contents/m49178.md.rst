@@ -1,3 +1,7 @@
+======================
+Disorders in Childhood
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -16,7 +20,7 @@ problems in personal, social, academic, and intellectual functioning
 attention deficit/ hyperactivity disorder and autism.
 
 ATTENTION DEFICIT/HYPERACTIVITY DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================
 
 Diego is always active, from the time he wakes up in the morning until
 the time he goes to bed at night. His mother reports that he came out
@@ -88,7 +92,7 @@ experienced at least one other comorbid disorder, compared to 47% of
 those whose ADHD did not persist.
 
 Life Problems from ADHD
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 Children diagnosed with ADHD face considerably worse long-term outcomes
 than do those children who do not receive such a diagnosis. In one
@@ -122,7 +126,7 @@ of substance abuse problems appears to be even greater for those with
 ADHD who also exhibit antisocial tendencies (Marshal & Molina, 2006).
 
 Causes of ADHD
-^^^^^^^^^^^^^^
+--------------
 
 Family and twin studies indicate that genetics play a significant role
 in the development of ADHD. Burt (2009), in a review of 26 studies,
@@ -183,7 +187,7 @@ triggered more by genetic and neurological factors and less by social or
 environmental ones.
 
 AUTISM SPECTRUM DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 A seminal paper published in 1943 by psychiatrist Leo Kanner described
 an unusual neurodevelopmental condition he observed in a group of
@@ -234,7 +238,7 @@ symptoms of autism spectrum disorder are not caused or explained by
 intellectual disability.
 
 Life Problems From Autism Spectrum Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 Autism spectrum disorder is referred to in everyday language as autism;
 in fact, the disorder was termed “autistic disorder” in earlier editions
@@ -330,7 +334,7 @@ and are better equipped to make the diagnosis, even in subtle cases
    -  ADHD diagnostic criteria have changed over time.
 
 Causes of Autism Spectrum Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 Early theories of autism placed the blame squarely on the shoulders of
 the child’s parents, particularly the mother. Bruno Bettelheim (an
@@ -363,7 +367,7 @@ residence, and vitamin D deficiency (Kinney, Barch, Chayka, Napoleon, &
 Munir, 2009).
 
 Child Vaccinations and Autism Spectrum Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------
 
 In the late 1990s, a prestigious medical journal published an article
 purportedly showing that autism is triggered by the MMR (measles, mumps,
@@ -444,7 +448,7 @@ shed some light on its causes, science is still a long way from complete
 understanding of the disorder.
 
 Summary
-~~~~~~~
+=======
 
 Neurodevelopmental disorders are a group of disorders that are typically
 diagnosed during childhood and are characterized by developmental
@@ -464,7 +468,7 @@ Although it is believed by some that autism is triggered by the MMR
 vaccination, evidence does not support this claim.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -498,7 +502,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -530,7 +534,7 @@ Critical Thinking Questions
       there is no scientific evidence that supports this assertion.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

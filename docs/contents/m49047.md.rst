@@ -1,3 +1,7 @@
+=================
+What Is Learning?
+=================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how
@@ -107,7 +111,7 @@ in behaviorism, whose more extreme adherents once insisted that
 behaviors are triggered by the environment with no intervening thought.
 
 Summary
-~~~~~~~
+=======
 
 Instincts and reflexes are innate behaviors—they occur naturally and do
 not involve learning. In contrast, learning is a change in behavior or
@@ -119,7 +123,7 @@ that occur together. Observational learning is just as it sounds:
 learning by observing others.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -185,7 +189,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -225,7 +229,7 @@ Critical Thinking Questions
       situation.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+=============================
+What Is Lifespan Development?
+=============================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define and
@@ -167,7 +171,7 @@ months or 18 months?
    your child’s development, contact your pediatrician.
 
 ISSUES IN DEVELOPMENTAL PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 There are many different theoretical approaches regarding human
 development. As we evaluate them in this chapter, recall that
@@ -180,7 +184,7 @@ versus many courses)? How do genetics and environment interact to
 influence development (nature versus nurture)?
 
 Is Development Continuous or Discontinuous?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 **Continuous development**\ {: data-type=“term”} views development as a
 cumulative process, gradually improving on existing skills
@@ -200,7 +204,7 @@ in a straight line. The second picture is 4 bars side by side labeled
 These bars resemble a staircase.|\ {: #Figure_09_01_Develop}
 
 Is There One Course of Development or Many?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 Is development essentially the same, or universal, for all children
 (i.e., there is one course of development) or does development follow a
@@ -244,7 +248,7 @@ shallow water at the beach. Photograph B shows two children playing in
 the sand at a beach.|\ {: #Figure_09_01_Play}
 
 How Do Nature and Nurture Influence Development?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------
 
 Are we who we are because of **nature**\ {: data-type=“term”} (biology
 and genetics), or are we who we are because of **nurture**\ {:
@@ -329,7 +333,7 @@ but the debate continues as to the relative contributions of each.
    help the children of your community or a neighboring community?
 
 Summary
-~~~~~~~
+=======
 
 Lifespan development explores how we change and grow from conception to
 death. This field of psychology is studied by developmental
@@ -342,7 +346,7 @@ many, and the relative influence of nature versus nurture on
 development.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -395,7 +399,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -445,7 +449,7 @@ Critical Thinking Questions
       contexts will influence when he reaches these milestones.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

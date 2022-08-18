@@ -1,3 +1,7 @@
+========================
+Measures of Intelligence
+========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how
@@ -22,7 +26,7 @@ social policy. In this section, we will explore what intelligence tests
 measure, how they are scored, and how they were developed.
 
 MEASURING INTELLIGENCE
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 It seems that the human understanding of intelligence is somewhat
 limited when we focus on traditional or academic-type intelligence. How
@@ -181,7 +185,7 @@ Shaughnessy, & Fulgham, 2012; Richardson, 2002; Schlinger, 2003).
    death penalty (Roberts, 2014).
 
 THE BELL CURVE
-~~~~~~~~~~~~~~
+==============
 
 The results of intelligence tests follow the bell curve, a graph in the
 general shape of a bell. When the bell curve is used in psychological
@@ -521,7 +525,7 @@ application to join the group.
    with developmental or cognitive disabilities? Why or why not?
 
 WHY MEASURE INTELLIGENCE?
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 The value of IQ testing is most evident in educational or clinical
 settings. Children who seem to be experiencing learning difficulties or
@@ -558,7 +562,7 @@ Candace’s score say about her ability to excel or even succeed in
 regular education classes without assistance?
 
 Summary
-~~~~~~~
+=======
 
 In this section, we learned about the history of intelligence testing
 and some of the challenges regarding intelligence testing. Intelligence
@@ -568,7 +572,7 @@ curve shows the range of scores that encompass average intelligence as
 well as standard deviations.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -633,7 +637,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -665,7 +669,7 @@ Critical Thinking Questions
       on verbal skills than variations in other cognitive processes.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

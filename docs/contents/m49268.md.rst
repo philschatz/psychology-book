@@ -1,3 +1,7 @@
+==================================================
+Diagnosing and Classifying Psychological Disorders
+==================================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain why
@@ -21,7 +25,7 @@ reasons, classification systems that organize psychological disorders
 systematically are necessary.
 
 *THE DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS* (DSM)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================================================
 
 Although a number of classification systems have been developed over
 time, the one that is used by most mental health professionals in the
@@ -107,7 +111,7 @@ meaning that grief and sadness after a loved one’s death can constitute
 major depressive disorder.
 
 THE INTERNATIONAL CLASSIFICATION OF DISEASES
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================================
 
 A second classification system, the **International Classification of
 Diseases (ICD)**\ {: data-type=“term”}, is also widely recognized.
@@ -136,7 +140,7 @@ mental health professionals, and this chapter is based on the DSM
 paradigm.
 
 THE COMPASSIONATE VIEW OF PSYCHOLOGICAL DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================================
 
 As these disorders are outlined, please bear two things in mind. First,
 remember that psychological disorders represent *extremes* of inner
@@ -160,7 +164,7 @@ conditions that are not of their own choosing. These individuals deserve
 to be viewed and treated with compassion, understanding, and dignity.
 
 Summary
-~~~~~~~
+=======
 
 The diagnosis and classification of psychological disorders is essential
 in studying and treating psychopathology. The classification system used
@@ -176,7 +180,7 @@ that of any other system, which makes the DSM system highly desirable
 for both clinical diagnosis and research.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -211,7 +215,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 

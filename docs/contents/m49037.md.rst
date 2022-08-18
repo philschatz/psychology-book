@@ -1,3 +1,7 @@
+=======================
+Substance Use and Abuse
+=======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -15,7 +19,7 @@ brief descriptions of the effects of some of the more well-known drugs
 commonly used today.
 
 SUBSTANCE USE DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 The fifth edition of the **Diagnostic and Statistical Manual of Mental
 Disorders**\ {: data-type=“term” .no-emphasis}, *Fifth Edition* (DSM-5)
@@ -54,7 +58,7 @@ words, physical dependence in and of itself is of limited utility in
 determining whether or not someone has a substance use disorder.
 
 DRUG CATEGORIES
-~~~~~~~~~~~~~~~
+===============
 
 The effects of all psychoactive drugs occur through their interactions
 with our endogenous neurotransmitter systems. Many of these drugs, and
@@ -97,7 +101,7 @@ overlap between the “Stimulants,” “Depressants,” and “Hallucinogens”
 circles.|\ {: #Figure_04_05_DrugChart}
 
 Alcohol and Other Depressants
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
 Ethanol, which we commonly refer to as alcohol, is in a class of
 psychoactive drugs known as depressants
@@ -143,7 +147,7 @@ people who are trying to overcome addiction to these substances should
 only do so under medical supervision.
 
 Stimulants
-^^^^^^^^^^
+----------
 
 **Stimulants**\ {: data-type=“term”} are drugs that tend to increase
 overall levels of neural activity. Many of these drugs act as agonists
@@ -291,7 +295,7 @@ persist (Cropley, Theadom, Pravettoni, & Webb, 2008; Levitt, Shaw, Wong,
 & Kaczorowski, 2007; Smedslund, Fisher, Boles, & Lichtenstein, 2004).
 
 Opioids
-^^^^^^^
+-------
 
 An **opioid**\ {: data-type=“term”} is one of a category of drugs that
 includes heroin, morphine, methadone, and codeine. Opioids have
@@ -349,7 +353,7 @@ is becoming a major concern worldwide (Aquina, Marques-Baptista,
 Bridgeman, & Merlin, 2009; Casati, Sedefov, & Pfeiffer-Gerschel, 2012).
 
 Hallucinogens
-^^^^^^^^^^^^^
+-------------
 
 A **hallucinogen**\ {: data-type=“term”} is one of a class of drugs that
 results in profound alterations in sensory and perceptual experiences
@@ -422,7 +426,7 @@ classes of drugs discussed in this section.
    marijuana.
 
 Summary
-~~~~~~~
+=======
 
 Substance use disorder is defined in DSM-5 as a compulsive pattern of
 drug use despite negative consequences. Both physical and psychological
@@ -438,7 +442,7 @@ experiences. The hallucinogens are variable with regards to the specific
 neurotransmitter systems they affect.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -502,7 +506,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -543,7 +547,7 @@ Critical Thinking Questions
       the enormous public health concerns associated with tobacco use.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

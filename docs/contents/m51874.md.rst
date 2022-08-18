@@ -1,3 +1,7 @@
+======================
+Personality Assessment
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss the
@@ -23,7 +27,7 @@ section explores the best known among the many different types of
 personality tests.
 
 SELF-REPORT INVENTORIES
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 Self-report inventories are a kind of objective test used to assess
 personality. They typically use multiple-choice items or numbered
@@ -90,7 +94,7 @@ the job), the results suggested high risk for alcohol-related
 difficulties.
 
 PROJECTIVE TESTS
-~~~~~~~~~~~~~~~~
+================
 
 Another method for assessment of personality is **projective
 testing**\ {: data-type=“term”}. This kind of test relies on one of the
@@ -183,7 +187,7 @@ and storytelling cues that relate to minority culture (Constantino,
 1982).
 
 Summary
-~~~~~~~
+=======
 
 Personality tests are techniques designed to measure one’s personality.
 They are used to diagnose psychological problems as well as to screen
@@ -197,7 +201,7 @@ and challenges. The Rorschach Inkblot Test, the TAT, the RISB, and the
 C-TCB are all forms of projective tests.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -248,7 +252,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -282,7 +286,7 @@ Critical Thinking Questions
       psychological disorders.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

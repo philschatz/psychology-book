@@ -1,3 +1,7 @@
+======
+Ethics
+======
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss how
@@ -13,7 +17,7 @@ sound. This section presents how ethical considerations affect the
 design and implementation of research conducted today.
 
 RESEARCH INVOLVING HUMAN PARTICIPANTS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 Any experiment involving the participation of human subjects is governed
 by extensive, strict guidelines designed to ensure that the experiment
@@ -113,7 +117,7 @@ about the study.
    learn more about the Tuskegee Syphilis Study.
 
 RESEARCH INVOLVING ANIMAL SUBJECTS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Many psychologists conduct research involving animal subjects. Often,
 these researchers use rodents (`[link] <#CNX_Psych_02_06_rat>`__) or
@@ -143,7 +147,7 @@ facilities to ensure that the research protocols are being followed. No
 animal research project can proceed without the committee’s approval.
 
 Summary
-~~~~~~~
+=======
 
 Ethics in research is an evolving field, and some practices that were
 accepted or tolerated in the past would be considered unethical today.
@@ -161,7 +165,7 @@ of an IACUC, and all animal facilities are subject to regular
 inspections to ensure that animals are being treated humanely.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -231,7 +235,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -272,7 +276,7 @@ Critical Thinking Questions
       study that was proposed.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+======
+Vision
+======
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -16,7 +20,7 @@ addition, we will explore our ability to perceive color and depth.
 #Figure_05_03_Eyes}
 
 ANATOMY OF THE VISUAL SYSTEM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 The eye is the major sensory organ involved in **vision**\ {:
 data-type=“term” .no-emphasis} (`[link] <#Figure_05_03_Eye>`__). Light
@@ -120,7 +124,7 @@ particular visual stimulus (Milner & Goodale, 2008; Ungerleider & Haxby,
 pathway” identifies its location or movement in space.
 
 COLOR AND DEPTH PERCEPTION
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 We do not see the world in black and white; neither do we see it as
 two-dimensional (2-D) or flat (just height and width, no depth). Let’s
@@ -128,7 +132,7 @@ look at how color vision works and how we perceive three dimensions
 (height, width, and depth).
 
 Color Vision
-^^^^^^^^^^^^
+------------
 
 Normal-sighted individuals have three different types of cones that
 mediate **color vision**\ {: data-type=“term” .no-emphasis}. Each of
@@ -194,7 +198,7 @@ theory (Land, 1959; Kaiser, 1997).
    learn about color vision in more detail.
 
 Depth Perception
-^^^^^^^^^^^^^^^^
+----------------
 
 Our ability to perceive spatial relationships in three-dimensional (3-D)
 space is known as **depth perception**\ {: data-type=“term”}. With depth
@@ -273,7 +277,7 @@ horizon.|\ {: #Figure_05_03_LinPerspec}
    (Peck, 2012).
 
 Summary
-^^^^^^^
+-------
 
 Light waves cross the cornea and enter the eye at the pupil. The eye’s
 lens focuses this light so that the image is focused on a region of the
@@ -296,7 +300,7 @@ negative afterimage. We perceive depth through a combination of
 monocular and binocular depth cues.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -362,7 +366,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -397,7 +401,7 @@ Critical Thinking Question
       easily.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

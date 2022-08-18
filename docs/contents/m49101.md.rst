@@ -1,3 +1,7 @@
+=====================
+Biological Approaches
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss the
@@ -37,7 +41,7 @@ expressed.
    View this `video <http://openstax.org/l/persondna>`__ to learn more.
 
 TEMPERAMENT
-~~~~~~~~~~~
+===========
 
 Most contemporary psychologists believe temperament has a biological
 basis due to its appearance very early in our lives (Rothbart, 2011). As
@@ -124,7 +128,7 @@ level of anxiety, while another barely notices it.
    2006) did support his theory.
 
 Summary
-~~~~~~~
+=======
 
 Some aspects of our personalities are largely controlled by genetics;
 however, environmental factors (such as family interactions) and
@@ -132,7 +136,7 @@ maturation can affect the ways in which children’s personalities are
 expressed.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -202,7 +206,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -218,7 +222,7 @@ Critical Thinking Questions
       the parent-child relationship might result quite often.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

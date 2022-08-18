@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -32,7 +37,7 @@ And, finally, you will learn how the nervous system interacts with the
 endocrine system.
 
 References
-~~~~~~~~~~
+==========
 
 Arnst, C. (2003, November). Commentary: Getting rational about
 health-care rationing. *Bloomberg Businessweek Magazine*. Retrieved from

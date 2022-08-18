@@ -1,3 +1,7 @@
+===========================
+Parts of the Nervous System
+===========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -19,7 +23,7 @@ cord illustrated. Image (b) shows an outline of a human body with a
 network of nerves depicted.|\ {: #CNX_Psych_03_03_NervSystem}
 
 Peripheral Nervous System
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 The peripheral nervous system is made up of thick bundles of axons,
 called nerves, carrying messages back and forth between the CNS and the
@@ -106,7 +110,7 @@ the form of glycogen for future use. These processes are associated with
 activation of the parasympathetic nervous system.
 
 Summary
-~~~~~~~
+=======
 
 The brain and spinal cord make up the central nervous system. The
 peripheral nervous system is comprised of the somatic and autonomic
@@ -119,7 +123,7 @@ activation is associated with normal functioning under relaxed
 conditions.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -183,7 +187,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -216,7 +220,7 @@ Critical Thinking Questions
       to fight or flee.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

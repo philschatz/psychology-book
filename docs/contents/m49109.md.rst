@@ -1,3 +1,7 @@
+=================
+Lifespan Theories
+=================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss Freud’s
@@ -12,7 +16,7 @@ develop into happy, healthy adults. We explore several of these theories
 in this section.
 
 PSYCHOSEXUAL THEORY OF DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Sigmund **Freud**\ {: data-type=“term” .no-emphasis} (1856–1939)
 believed that personality develops during early childhood. For Freud,
@@ -35,7 +39,7 @@ part, by experiences we have in childhood. These stages are discussed in
 detail in the chapter on personality.
 
 PSYCHOSOCIAL THEORY OF DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Erik **Erikson**\ {: data-type=“term” .no-emphasis} (1902–1994)
 (`[link] <#Figure_09_03_Erikson>`__), another stage theorist, took
@@ -636,7 +640,7 @@ Assess and make sense of life and meaning of contributions
    </table>
 
 COGNITIVE THEORY OF DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Jean **Piaget**\ {: data-type=“term” .no-emphasis} (1896–1980) is
 another stage theorist who studied childhood development
@@ -1105,7 +1109,7 @@ incredibly visible, under the mistaken impression that others must share
 her perceptions.
 
 Beyond Formal Operational Thought
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------
 
 As with other major contributors of theories of development, several of
 Piaget’s ideas have come under criticism based on the results of further
@@ -1139,7 +1143,7 @@ disagreement with a colleague may not be the best solution to a
 disagreement with a significant other.
 
 THEORY OF MORAL DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 A major task beginning in childhood and continuing into adolescence is
 discerning right from wrong. Psychologist Lawrence **Kohlberg**\ {:
@@ -1228,7 +1232,7 @@ arrested, and is put in jail, then he and his wife will be separated,
 and she could die while he is still in prison.
 
 Summary
-~~~~~~~
+=======
 
 There are many theories regarding how babies and children grow and
 develop into happy, healthy adults. Sigmund Freud suggested that we pass
@@ -1243,7 +1247,7 @@ to moral development. He said that we pass through three levels of moral
 thinking that build on our cognitive development.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1294,7 +1298,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1345,7 +1349,7 @@ Critical Thinking Questions
       favorite stuffed animal to make her feel better.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

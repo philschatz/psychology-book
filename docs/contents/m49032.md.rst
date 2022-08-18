@@ -1,3 +1,7 @@
+======================
+Sleep and Why We Sleep
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe areas of
@@ -17,7 +21,7 @@ Is it absolutely essential that we sleep? This section will consider
 these questions and explore various explanations for why we sleep.
 
 WHAT IS SLEEP?
-~~~~~~~~~~~~~~
+==============
 
 You have read that sleep is distinguished by low levels of physical
 activity and reduced sensory awareness. As discussed by Siegel (2008), a
@@ -64,7 +68,7 @@ thalamus, pons, suprachiasmatic nucleus, pituitary gland, and pineal
 gland.|\ {: #Figure_04_02_Pituitary}
 
 WHY DO WE SLEEP?
-~~~~~~~~~~~~~~~~
+================
 
 Given the central role that sleep plays in our lives and the number of
 adverse consequences that have been associated with sleep deprivation,
@@ -73,7 +77,7 @@ that we sleep. Unfortunately, this is not the case; however, several
 hypotheses have been proposed to explain the function of sleep.
 
 Adaptive Function of Sleep
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 
 One popular hypothesis of sleep incorporates the perspective of
 evolutionary psychology. **Evolutionary psychology**\ {:
@@ -120,7 +124,7 @@ coordination, as well as a number of benefits related to cognition and
 memory formation.
 
 Cognitive Function of Sleep
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 Another theory regarding why we sleep involves sleep’s importance for
 cognitive function and memory formation (Rattenborg, Lesku,
@@ -159,7 +163,7 @@ information is influenced by certain aspects of sleep (Walker, 2009).
    describing the relationship between sleep and memory.
 
 Summary
-~~~~~~~
+=======
 
 We devote a very large portion of time to sleep, and our brains have
 complex systems that control various aspects of sleep. Several hormones
@@ -168,7 +172,7 @@ While the reason we sleep remains something of a mystery, there is some
 evidence to suggest that sleep is very important to learning and memory.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -233,7 +237,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -282,7 +286,7 @@ Critical Thinking Questions
       research.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

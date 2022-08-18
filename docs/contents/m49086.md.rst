@@ -1,3 +1,7 @@
+===================
+Learning Approaches
+===================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -13,7 +17,7 @@ psychodynamics: Because learning approaches involve observable,
 measurable phenomena, they can be scientifically tested.
 
 THE BEHAVIORAL PERSPECTIVE
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 Behaviorists do not believe in biological determinism: They do not see
 personality traits as inborn. Instead, they view personality as
@@ -43,7 +47,7 @@ reinforced, so she no longer engages in those behaviors. In fact, Greta
 now describes herself as a cautious person.
 
 THE SOCIAL-COGNITIVE PERSPECTIVE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
 Albert **Bandura**\ {: data-type=“term” .no-emphasis} agreed with
 Skinner that personality develops through **learning**\ {:
@@ -57,7 +61,7 @@ concepts of reciprocal determinism, observational learning, and
 self-efficacy all play a part in personality development.
 
 Reciprocal Determinism
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 In contrast to Skinner’s idea that the environment alone determines
 behavior, Bandura (1990) proposed the concept of **reciprocal
@@ -85,7 +89,7 @@ reward structure for the behavior. According to reciprocal determinism,
 all of these factors are in play.
 
 Observational Learning
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 Bandura’s key contribution to learning theory was the idea that much
 learning is vicarious. We learn by observing someone else’s behavior and
@@ -107,7 +111,7 @@ environmental events in turn are processed cognitively according to
 other personal factors.
 
 Self-Efficacy
-^^^^^^^^^^^^^
+-------------
 
 Bandura (1977, 1995) has studied a number of cognitive and personal
 factors that affect learning and personality development, and most
@@ -131,7 +135,7 @@ to certain situations. For instance, a student might feel confident in
 her ability in English class but much less so in math class.
 
 JULIAN ROTTER AND LOCUS OF CONTROL
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Julian **Rotter**\ {: data-type=“term” .no-emphasis} (1966) proposed the
 concept of locus of control, another cognitive factor that affects
@@ -175,7 +179,7 @@ outcomes.”|\ {: #Figure_11_04_Control}
    score indicates an external locus of control.
 
 WALTER MISCHEL AND THE PERSON-SITUATION DEBATE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================================
 
 Walter **Mischel**\ {: data-type=“term” .no-emphasis} was a student of
 Julian Rotter and taught for years at Stanford, where he was a colleague
@@ -247,7 +251,7 @@ situation, people use cognitive processes to interpret the situation and
 then behave in accordance with that interpretation.
 
 Summary
-~~~~~~~
+=======
 
 Behavioral theorists view personality as significantly shaped and
 impacted by the reinforcements and consequences outside of the organism.
@@ -268,7 +272,7 @@ people fall along a continuum between a purely internal and a purely
 external locus of control.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -319,7 +323,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -359,7 +363,7 @@ Critical Thinking Questions
       we can see more variability over time in personality.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

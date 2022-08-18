@@ -1,3 +1,7 @@
+=======
+Emotion
+=======
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the major
@@ -34,7 +38,7 @@ closes with a discussion of the ubiquitous nature of facial expressions
 of emotion and our abilities to recognize those expressions in others.
 
 THEORIES OF EMOTION
-~~~~~~~~~~~~~~~~~~~
+===================
 
 Our emotional states are combinations of physiological arousal,
 psychological appraisal, and subjective experiences. Together, these are
@@ -191,7 +195,7 @@ following section, we will look more closely at the neuroscience of
 emotional response.
 
 THE BIOLOGY OF EMOTIONS
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 Earlier, you learned about the **limbic system**\ {: data-type=“term”
 .no-emphasis}, which is the area of the brain involved in emotion and
@@ -219,7 +223,7 @@ Gómez-Galán, Lindskog, & Magara, 2012).
    in the right-hand menu (set of three tabs).
 
 Amygdala
-^^^^^^^^
+--------
 
 The **amygdala**\ {: data-type=“term” .no-emphasis} has received a great
 deal of attention from researchers interested in understanding the
@@ -280,7 +284,7 @@ from those suffering from major depressive disorder (Fournier, Keener,
 Almeida, Kronhaus, & Phillips, 2013).
 
 Hippocampus
-^^^^^^^^^^^
+-----------
 
 As mentioned earlier, the **hippocampus**\ {: data-type=“term”
 .no-emphasis} is also involved in emotional processing. Like the
@@ -304,7 +308,7 @@ cognitive-behavioral therapy in individuals suffering from PTSD (Bremner
    as a function of traumatic experiences.
 
 FACIAL EXPRESSION AND RECOGNITION OF EMOTIONS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================================
 
 Culture can impact the way in which people display emotion. A **cultural
 display rule**\ {: data-type=“term”} is one of a collection of
@@ -400,7 +404,7 @@ Tamietto et al., 2009).
    Baron-Cohen, 2006; Guastella et al., 2010).
 
 Summary
-~~~~~~~
+=======
 
 Emotions are subjective experiences that consist of physiological
 arousal and cognitive appraisal. Various theories have been put forward
@@ -429,7 +433,7 @@ language also serve as a means by which we communicate information about
 our emotional states.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -497,7 +501,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -529,7 +533,7 @@ Critical Thinking Questions
       Causal claims can only be made when performing an experiment.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

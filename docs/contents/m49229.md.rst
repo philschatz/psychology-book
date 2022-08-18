@@ -1,3 +1,7 @@
+=====================
+Personality Disorders
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -559,7 +563,7 @@ personality disorders, borderline personality disorder and antisocial
 personality disorder, are regarded by many as especially problematic.
 
 BORDERLINE PERSONALITY DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 The “borderline” in borderline personality disorder was originally
 coined in the late 1930s in an effort to describe patients who appeared
@@ -598,7 +602,7 @@ disorder is comorbid with anxiety, mood, and substance use disorders
 (Lezenweger et al., 2007).
 
 Biological Basis for Borderline Personality Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------
 
 Genetic factors appear to be important in the development of borderline
 personality disorder. For example, core personality traits that
@@ -620,7 +624,7 @@ harm-avoidance) and those who experienced childhood abuse and/or neglect
 (Joyce et al., 2003).
 
 ANTISOCIAL PERSONALITY DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Most human beings live in accordance with a moral compass, a sense of
 right and wrong. Most individuals learn at a very young age that there
@@ -678,7 +682,7 @@ a tendency to accomplish goals through cruelty (Patrick et al., 2009,
 p. 913).
 
 Risk Factors for Antisocial Personality Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------
 
 Antisocial personality disorder is observed in about 3.6% of the
 population; the disorder is much more common among males, with a 3 to 1
@@ -952,7 +956,7 @@ involving one person harming another may reflect a propensity or desire
 for this kind of behavior.
 
 Summary
-~~~~~~~
+=======
 
 Individuals with personality disorders exhibit a personality style that
 is inflexible, causes distress and impairment, and creates problems for
@@ -978,7 +982,7 @@ that those with this disorder do not experience emotions the way most
 other people do.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1011,7 +1015,7 @@ Review Questions
       A
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 

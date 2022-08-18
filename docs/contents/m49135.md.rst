@@ -1,3 +1,7 @@
+=========================================================
+Industrial Psychology: Selecting and Evaluating Employees
+=========================================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the
@@ -15,7 +19,7 @@ their tenure within the organization, and appraising their performance
 along the way.
 
 SELECTING EMPLOYEES
-~~~~~~~~~~~~~~~~~~~
+===================
 
 When you read job advertisements, do you ever wonder how the company
 comes up with the job description? Often, this is done with the help of
@@ -69,7 +73,7 @@ on average earnings and projected job growth in that industry.
    psychologist <http://openstax.org/l/sumreport3>`__.
 
 Candidate Analysis and Testing
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 Once a company identifies potential candidates for a position, the
 candidates’ knowledge, skills, and other abilities must be evaluated and
@@ -130,7 +134,7 @@ tests, such as drug tests or physical fitness tests.
    strong employees?
 
 Interviews
-^^^^^^^^^^
+----------
 
 Most jobs for mid-size to large-size businesses in the United States
 require a personal interview as a step in the selection process. Because
@@ -220,7 +224,7 @@ performance of the job candidate.
    interview.
 
 Training
-^^^^^^^^
+--------
 
 Training is an important element of success and performance in many
 jobs. Most jobs begin with an orientation period during which the new
@@ -293,7 +297,7 @@ self-instruction, lecture and discussion, and computer assisted
 training.
 
 EVALUATING EMPLOYEES
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 Industrial and organizational psychologists are typically involved in
 designing performance-appraisal systems for organizations. These systems
@@ -377,7 +381,7 @@ appraisal system is an active area of research in industrial psychology
 (Fletcher, 2001).
 
 BIAS AND PROTECTIONS IN HIRING
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 In an ideal hiring process, an organization would generate a job
 analysis that accurately reflects the requirements of the position, and
@@ -427,7 +431,7 @@ another. Photograph C shows an older person with a cane walking down the
 street.|\ {: #CNX_Psych_13_02_Discrimin}
 
 THE U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION (EEOC)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=======================================================
 
 The **U.S. Equal Employment Opportunity Commission (EEOC)**\ {:
 data-type=“term”} is responsible for enforcing federal laws that make it
@@ -549,7 +553,7 @@ explicitly stating that their hiring must not discriminate on these
 bases (Human Rights Campaign, 2013b).
 
 AMERICANS WITH DISABILITIES ACT (ADA)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 The **Americans with Disabilities Act (ADA)**\ {: data-type=“term”} of
 1990 states people may not be discriminated against due to the nature of
@@ -629,7 +633,7 @@ and these court decisions inform policy and future case decisions.
    to trial would find in favor of the plaintiff or the chain.
 
 Summary
-~~~~~~~
+=======
 
 Industrial psychology studies the attributes of jobs, applicants of
 those jobs, and methods for assessing fit to a job. These procedures
@@ -642,7 +646,7 @@ systems are an active area of research and practice in industrial
 psychology.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -693,7 +697,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -726,7 +730,7 @@ Critical Thinking Questions
       interviewers and those who make hiring decisions.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

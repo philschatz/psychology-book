@@ -1,3 +1,7 @@
+=================================
+Observational Learning (Modeling)
+=================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define
@@ -100,7 +104,7 @@ child watching television.|\ {: #Figure06_04_Yoga}
    do you think it is?
 
 STEPS IN THE MODELING PROCESS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Of course, we don’t learn a behavior simply by observing a model.
 Bandura described specific steps in the process of modeling that must be
@@ -202,7 +206,7 @@ gun-like object toward a screen.|\ {: #Figure06_04_Videogames}
    aggression and violence, discuss his research.
 
 Summary
-~~~~~~~
+=======
 
 According to Bandura, learning can occur by watching others and then
 modeling what they do or say. This is known as observational learning.
@@ -213,7 +217,7 @@ shown that children learn many things both good and bad simply by
 watching their parents, siblings, and others.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -279,7 +283,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -309,7 +313,7 @@ Critical Thinking Questions
       parent does rather than what they say.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

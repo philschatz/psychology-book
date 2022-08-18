@@ -1,3 +1,7 @@
+==========
+Motivation
+==========
+
 .. container::
 
    By the end of this section, you will be able to: \* Define intrinsic
@@ -109,7 +113,7 @@ setting encourages inclusive collaboration and a respect for ideas, and
 where students have more influence over their learning activities.
 
 THEORIES ABOUT MOTIVATION
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 William **James**\ {: data-type=“term” .no-emphasis} (1842–1910) was an
 important contributor to early research into motivation, and he is often
@@ -220,7 +224,7 @@ optimal level for easy tasks is reached with slightly higher arousal
 levels than for difficult tasks.|\ {: #Figure_10_01_YerkesDod}
 
 Self-efficacy and Social Motives
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------
 
 **Self-efficacy**\ {: data-type=“term”} is an individual’s belief in her
 own capability to complete a task, which may include a previous
@@ -249,7 +253,7 @@ domain of human power, and play was a recognized need in the domain of
 interpersonal affection.
 
 Maslow’s Hierarchy of Needs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 While the theories of motivation described earlier relate to basic
 biological drives, individual characteristics, or social contexts,
@@ -307,7 +311,7 @@ danger displaying higher-level motives beyond their own needs.
    of the important concepts in Maslow’s hierarchy of needs.
 
 Summary
-~~~~~~~
+=======
 
 Motivation to engage in a given behavior can come from internal and/or
 external factors. Multiple theories have been put forward regarding
@@ -320,7 +324,7 @@ relationship among multiple motives that range from lower-level
 physiological needs to the very high level of self-actualization.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -386,7 +390,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -431,7 +435,7 @@ Critical Thinking Questions
       when there are not typically extrinsic rewards for learning.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+=========================
+The Brain and Spinal Cord
+=========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the
@@ -16,7 +20,7 @@ brain areas, beginning with what can be seen as an extension of the
 brain, the spinal cord.
 
 The Spinal Cord
-~~~~~~~~~~~~~~~
+===============
 
 It can be said that the **spinal cord**\ {: data-type=“term”
 .no-emphasis} is what connects the brain to the outside world. Because
@@ -53,7 +57,7 @@ brain, causing paralysis. Therefore, the lower on the spine damage is,
 the fewer functions an injured individual loses.
 
 The Two Hemispheres
-~~~~~~~~~~~~~~~~~~~
+===================
 
 The surface of the brain, known as the **cerebral cortex**\ {:
 data-type=“term”}, is very uneven, characterized by a distinctive
@@ -136,7 +140,7 @@ with damage in another region in the frontal lobe—the prefrontal cortex,
 which is associated with judgment, reasoning, and impulse control.
 
 Forebrain Structures
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 The two hemispheres of the cerebral cortex are part of the
 **forebrain**\ {: data-type=“term”}
@@ -156,7 +160,7 @@ portion in the lower back part of the brain).|\ {:
 #CNX_Psych_03_04_FMHBrain}
 
 Lobes of the Brain
-^^^^^^^^^^^^^^^^^^
+------------------
 
 The four lobes of the brain are the frontal, parietal, temporal, and
 occipital lobes (`[link] <#CNX_Psych_03_04_Lobes>`__). The **frontal
@@ -264,7 +268,7 @@ You will learn much more about how visual information is processed in
 the occipital lobe when you study sensation and perception.
 
 Other Areas of the Forebrain
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 Other areas of the **forebrain**\ {: data-type=“term” .no-emphasis},
 located beneath the cerebral cortex, include the thalamus and the limbic
@@ -297,7 +301,7 @@ the limbic system: the hypothalamus, amygdala, and hippocampus.|\ {:
 #CNX_Psych_03_04_Limbic}
 
 The Case of Henry Molaison (H.M.)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------
 
 In 1953, Henry Gustav **Molaison**\ {: data-type=“term” .no-emphasis}
 (H. M.) was a 27-year-old man who experienced severe seizures. In an
@@ -326,7 +330,7 @@ plays in the consolidation of new learning into explicit memory.
    man and his condition.
 
 Midbrain and Hindbrain Structures
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================
 
 The **midbrain**\ {: data-type=“term”} is comprised of structures
 located deep within the brain, between the forebrain and the hindbrain.
@@ -431,7 +435,7 @@ the fact that H. M.’s cerebellum remained intact.
    dead are complex. What do you think about these issues?
 
 Brain Imaging
-~~~~~~~~~~~~~
+=============
 
 You have learned how brain injury can provide information about the
 functions of different parts of the brain. Increasingly, however, we are
@@ -443,7 +447,7 @@ including techniques that rely on radiation, magnetic fields, or
 electrical activity within the brain.
 
 Techniques Involving Radiation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 A **computerized tomography (CT) scan**\ {: data-type=“term”} involves
 taking a number of x-rays of a particular section of a person’s body or
@@ -480,7 +484,7 @@ shows the brain’s activity.
 colors.|\ {: #CNX_Psych_03_04_PET}
 
 Techniques Involving Magnetic Fields
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------
 
 In **magnetic resonance imaging (MRI)**\ {: data-type=“term”}, a person
 is placed inside a machine that generates a strong magnetic field. The
@@ -508,7 +512,7 @@ highlighted red.|\ {: #CNX_Psych_03_04_fMRI}
    about MRI and fMRI.
 
 Techniques Involving Electrical Activity
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------
 
 In some situations, it is helpful to gain an understanding of the
 overall activity of a person’s brain, without needing information on the
@@ -528,7 +532,7 @@ the keyboard and mouse. The person wears a white cap covered in
 electrodes and wires.|\ {: #CNX_Psych_03_04_EEG}
 
 Summary
-~~~~~~~
+=======
 
 The brain consists of two hemispheres, each controlling the opposite
 side of the body. Each hemisphere can be subdivided into different
@@ -551,7 +555,7 @@ brain structure and function. These techniques include CT, PET, MRI,
 fMRI, and EEG.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -618,7 +622,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -654,7 +658,7 @@ Critical Thinking Questions
       simultaneously.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+========================
+The Pursuit of Happiness
+========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define and
@@ -14,7 +18,7 @@ the study of a more upbeat and encouraging approach to human affairs—the
 quest for happiness.
 
 HAPPINESS
-~~~~~~~~~
+=========
 
 America’s founders declared that its citizens have an unalienable right
 to pursue happiness. But what is happiness? When asked to define the
@@ -33,7 +37,7 @@ emphasis. Most people would probably agree that each of these views, in
 some respects, captures the essence of happiness.
 
 Elements of Happiness
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 Some psychologists have suggested that happiness consists of three
 distinct elements: the pleasant life, the good life, and the meaningful
@@ -106,7 +110,7 @@ finances. But, is it? This question brings us to the next important
 issue: What factors influence happiness?
 
 Factors Connected to Happiness
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 What really makes people happy? What factors contribute to sustained joy
 and contentment? Is it money, attractiveness, material possessions, a
@@ -197,7 +201,7 @@ attractiveness is only weakly correlated with her happiness (Diener,
 Wolsic, & Fujita, 1995).
 
 Life Events and Happiness
-^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 An important point should be considered regarding happiness. People are
 often poor at affective forecasting: predicting the intensity and
@@ -281,7 +285,7 @@ suffered the death of a spouse has roughly the same life satisfaction as
 the person who was unemployed.|\ {: #CNX_Psych_14_05_AdaptationCh}
 
 Increasing Happiness
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 Some recent findings about happiness provide an optimistic picture,
 suggesting that real changes in happiness are possible. For example,
@@ -312,7 +316,7 @@ clean air and water, and income inequality—might be best considered with
 people’s happiness in mind.
 
 POSITIVE PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~
+===================
 
 In 1998, **Seligman**\ {: data-type=“term” .no-emphasis} (the same
 person who conducted the learned helplessness experiments mentioned
@@ -376,7 +380,7 @@ toward global peace (Cohrs, Christie, White, & Das, 2013).
    approaches that help people to live happier, healthier lives).
 
 Positive Affect and Optimism
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 Taking a cue from positive psychology, extensive research over the last
 10-15 years has examined the importance of positive psychological
@@ -424,7 +428,7 @@ likely to be rehospitalized following heart surgery (Rasmussen, Scheier,
 & Greenhouse, 2009).
 
 Flow
-~~~~
+====
 
 Another factor that seems to be important in fostering a deep sense of
 well-being is the ability to derive flow from the things we do in life.
@@ -468,7 +472,7 @@ truly builds hope, optimism, happiness, healthy relationships, flow, and
 genuine personal fulfillment.
 
 Summary
-~~~~~~~
+=======
 
 Happiness is conceptualized as an enduring state of mind that consists
 of the capacity to experience pleasure in daily life, as well as the
@@ -485,7 +489,7 @@ fulfillment in our lives. These components include positive affect,
 optimism, and flow.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -558,7 +562,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -598,7 +602,7 @@ Critical Thinking Questions
       duration of their emotions following a major life event.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

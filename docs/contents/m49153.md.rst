@@ -1,3 +1,7 @@
+====================
+Treatment Modalities
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Distinguish
@@ -27,7 +31,7 @@ conversation. Photograph B depicts a large group of people sitting in a
 circle on the beach.|\ {: #CNX_Psych_16_03_OneonOne}
 
 INDIVIDUAL THERAPY
-~~~~~~~~~~~~~~~~~~
+==================
 
 In **individual therapy**\ {: data-type=“term”}, also known as
 individual psychotherapy or individual counseling, the client and
@@ -47,7 +51,7 @@ personal goals.
 is shown.|\ {: #CNX_Psych_16_03_HandHead}
 
 GROUP THERAPY
-~~~~~~~~~~~~~
+=============
 
 In **group therapy**\ {: data-type=“term”}, a clinician meets together
 with several clients with similar problems
@@ -115,7 +119,7 @@ will focus. This can become a complex and emotionally charged process,
 but it is also an opportunity for personal growth (Page & Berkow, 1994).
 
 COUPLES THERAPY
-~~~~~~~~~~~~~~~
+===============
 
 **Couples therapy**\ {: data-type=“term”} involves two people in an
 intimate relationship who are having difficulties and are trying to
@@ -143,7 +147,7 @@ in a hurricane” (Weil, 2012, para. 7).
 #CNX_Psych_16_02_Cognitive}
 
 FAMILY THERAPY
-~~~~~~~~~~~~~~
+==============
 
 **Family therapy**\ {: data-type=“term”} is a special form of group
 therapy, consisting of one or more families. Although there are many
@@ -190,7 +194,7 @@ what happens in the therapy session and design a detailed approach to
 resolving each member’s problem (Madanes, 1991).
 
 Summary
-~~~~~~~
+=======
 
 There are several modalities of treatment: individual therapy, group
 therapy, couples therapy, and family therapy are the most common. In an
@@ -208,7 +212,7 @@ of this approach is to enhance the growth of each individual family
 member and the family as a whole.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -254,7 +258,7 @@ Review Questions
       A
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -271,7 +275,7 @@ Critical Thinking Question
       management.
 
 Personal Application
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 .. container::
 

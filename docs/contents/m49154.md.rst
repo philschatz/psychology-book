@@ -1,3 +1,7 @@
+==================
+Types of Treatment
+==================
+
 .. container::
 
    By the end of this section, you will be able to: \* Distinguish
@@ -396,7 +400,7 @@ goals
    </table>
 
 PSYCHOTHERAPY TECHNIQUES: PSYCHOANALYSIS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================
 
 Psychoanalysis was developed by Sigmund **Freud**\ {: data-type=“term”
 .no-emphasis} and was the first form of psychotherapy. It was the
@@ -448,7 +452,7 @@ model.
    practice.
 
 PSYCHOTHERAPY: PLAY THERAPY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 **Play therapy**\ {: data-type=“term”} is often used with children since
 they are not likely to sit on a couch and recall their dreams or engage
@@ -474,7 +478,7 @@ figures in a form of treatment called sandplay.|\ {:
 #CNX_Psych_16_02_Sandtray}
 
 PSYCHOTHERAPY: BEHAVIOR THERAPY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 In **psychoanalysis**\ {: data-type=“term”}, therapists help their
 patients look into their past to uncover repressed feelings. In
@@ -659,7 +663,7 @@ time, private rooms, visits to the canteen, and so on (Dickerson,
 Tenhula, & Green-Paden, 2005).
 
 PSYCHOTHERAPY: COGNITIVE THERAPY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
 **Cognitive therapy**\ {: data-type=“term”} is a form of psychotherapy
 that focuses on how a person’s thoughts lead to feelings of distress.
@@ -702,7 +706,7 @@ I didn’t study for this test. I can do better.” to “No depression.”|\ {:
    a client.
 
 PSYCHOTHERAPY: COGNITIVE-BEHAVIORAL THERAPY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================================
 
 Cognitive-behavioral therapists focus much more on present issues than
 on a patient’s childhood or past, as in other forms of psychotherapy.
@@ -801,7 +805,7 @@ were learned. It looks at what is happening now, and gives tools to
 manage these moods on a daily basis. (Martin, 2007, n.p.)
 
 PSYCHOTHERAPY: HUMANISTIC THERAPY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================
 
 Humanistic psychology focuses on helping people achieve their potential.
 So it makes sense that the goal of **humanistic therapy**\ {:
@@ -834,7 +838,7 @@ helps people become more accepting of themselves, which results in
 personal growth.
 
 EVALUATING VARIOUS FORMS OF PSYCHOTHERAPY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================================
 
 How can we assess the effectiveness of psychotherapy? Is one technique
 more effective than another? For anyone considering therapy, these are
@@ -871,7 +875,7 @@ critical factor that determines the success of treatment is the person’s
 relationship with the psychologist or therapist.
 
 BIOMEDICAL THERAPIES
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 Individuals can be prescribed biologically based treatments or
 psychotropic medications that are used to treat mental disorders. While
@@ -1406,7 +1410,7 @@ used when other treatments have not worked (Mayo Clinic, 2012).
    & Streiner, 2004).
 
 Summary
-~~~~~~~
+=======
 
 Psychoanalysis was developed by Sigmund Freud. Freud’s theory is that a
 person’s psychological problems are the result of repressed impulses or
@@ -1447,7 +1451,7 @@ biologically based treatments such as psychotropic medications and/or
 other medical procedures such as electro-convulsive therapy.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1498,7 +1502,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -1515,7 +1519,7 @@ Critical Thinking Question
       negative effects.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

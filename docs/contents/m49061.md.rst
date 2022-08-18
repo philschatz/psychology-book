@@ -1,3 +1,7 @@
+=================
+Hunger and Eating
+=================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe how
@@ -15,7 +19,7 @@ regulation of hunger, eating, and body weight, and we will discuss the
 adverse consequences of disordered eating.
 
 PHYSIOLOGICAL MECHANISMS
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 There are a number of physiological mechanisms that serve as the basis
 for hunger. When our stomachs are empty, they contract. Typically, a
@@ -53,7 +57,7 @@ right from the box labeled “Satiety,” and meets with the illustration of
 the stomach.|\ {: #Figure_10_02_Hunger}
 
 METABOLISM AND BODY WEIGHT
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 Our body weight is affected by a number of factors, including
 gene-environment interactions, and the number of calories we consume
@@ -90,7 +94,7 @@ limitations, set-point theory is still often used as a simple, intuitive
 explanation of how body weight is regulated.
 
 OBESITY
-~~~~~~~
+=======
 
 When someone weighs more than what is generally accepted as healthy for
 a given height, they are considered overweight or obese. According to
@@ -220,7 +224,7 @@ and into the duodenum.|\ {: #Figure_10_02_Bariatric}
    Prader-Willi Syndrome Association, 2012).
 
 EATING DISORDERS
-~~~~~~~~~~~~~~~~
+================
 
 While nearly two out of three US adults struggle with issues related to
 being overweight, a smaller, but significant, portion of the population
@@ -289,7 +293,7 @@ factors may predispose people to these disorders (Collier & Treasure,
 |A photograph shows a very thin model.|\ {: #Figure_10_02_Model}
 
 Summary
-~~~~~~~
+=======
 
 Hunger and satiety are highly regulated processes that result in a
 person maintaining a fairly stable weight that is resistant to change.
@@ -302,7 +306,7 @@ genetic predisposition contribute to the development of eating disorders
 in many young females, though eating disorders span ages and genders.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -370,7 +374,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -407,7 +411,7 @@ Critical Thinking Questions
       particular group is most vulnerable.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+=======================================
+Freud and the Psychodynamic Perspective
+=======================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -38,7 +42,7 @@ Freud continued to work to refine talk therapy and build his theory on
 personality.
 
 LEVELS OF CONSCIOUSNESS
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 To explain the concept of conscious versus unconscious experience, Freud
 compared the mind to an iceberg (`[link] <#Figure_11_02_Iceberg>`__). He
@@ -116,7 +120,7 @@ their emotional needs, or, in a neurotic who is overly defensive
 (overusing ego defense mechanisms).
 
 DEFENSE MECHANISMS
-~~~~~~~~~~~~~~~~~~
+==================
 
 Freud believed that feelings of anxiety result from the ego’s inability
 to mediate the conflict between the id and superego. When this happens,
@@ -206,7 +210,7 @@ data-type=“term”}, and **sublimation**\ {: data-type=“term”}.
    for a review of Freud’s defense mechanisms.
 
 STAGES OF PSYCHOSEXUAL DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Freud believed that personality develops during early childhood:
 Childhood experiences shape our personalities as well as our behavior as
@@ -616,7 +620,7 @@ None
    </table>
 
 Oral Stage
-^^^^^^^^^^
+----------
 
 In the **oral stage**\ {: data-type=“term”} (birth to 1 year), pleasure
 is focused on the mouth. Eating and the pleasure derived from sucking
@@ -630,7 +634,7 @@ late, resulting in these fixation tendencies, all of which seek to ease
 anxiety.
 
 Anal Stage
-^^^^^^^^^^
+----------
 
 After passing through the oral stage, children enter what Freud termed
 the **anal stage**\ {: data-type=“term”} (1–3 years). In this stage,
@@ -649,7 +653,7 @@ personality is messy, careless, disorganized, and prone to emotional
 outbursts.
 
 Phallic Stage
-^^^^^^^^^^^^^
+-------------
 
 Freud’s third stage of psychosexual development is the **phallic
 stage**\ {: data-type=“term”} (3–6 years), corresponding to the age when
@@ -679,7 +683,7 @@ Freudian theory, thanks in part to academics in the field (Freud,
 1931/1968; Scott, 2005).
 
 Latency Period
-^^^^^^^^^^^^^^
+--------------
 
 Following the phallic stage of psychosexual development is a period
 known as the **latency period**\ {: data-type=“term”} (6 years to
@@ -690,7 +694,7 @@ activities with peers of the same sex, which serves to consolidate a
 child’s gender-role identity.
 
 Genital Stage
-^^^^^^^^^^^^^
+-------------
 
 The final stage is the **genital stage**\ {: data-type=“term”} (from
 puberty on). In this stage, there is a sexual reawakening as the
@@ -709,7 +713,7 @@ outside of our conscious awareness; his theories paved the way for
 others.
 
 Summary
-~~~~~~~
+=======
 
 Sigmund Freud presented the first comprehensive theory of personality.
 He was also the first to recognize that much of our mental life takes
@@ -723,7 +727,7 @@ become fixated in that stage, leading to unhealthy personality traits.
 Successful resolution of the stages leads to a healthy adult.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -774,7 +778,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -811,7 +815,7 @@ Critical Thinking Questions
       careless, disorganized, and prone to emotional outbursts.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

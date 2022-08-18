@@ -1,9 +1,14 @@
+=======
+Preface
+=======
+
+
 Welcome to *Psychology*, an OpenStax resource. This textbook was written
 to increase student access to high-quality learning materials,
 maintaining highest standards of academic rigor at little to no cost.
 
 About OpenStax
-~~~~~~~~~~~~~~
+==============
 
 OpenStax is a nonprofit based at Rice University, and it’s our mission
 to improve student access to education. Our first openly licensed
@@ -18,10 +23,10 @@ common barriers to learning and empowering students and instructors to
 succeed.
 
 About OpenStax Resources
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Customization
-^^^^^^^^^^^^^
+-------------
 
 *Psychology* is licensed under a Creative Commons Attribution 4.0
 International (CC BY) license, which means that you can distribute,
@@ -41,7 +46,7 @@ students in low-cost print or digital form through their campus
 bookstore. Visit your book page on openstax.org for more information.
 
 Errata
-^^^^^^
+------
 
 All OpenStax textbooks undergo a rigorous review process. However, like
 any professional-grade textbook, errors sometimes occur. Since our books
@@ -53,13 +58,13 @@ remaining transparent about all updates, so you will also find a list of
 past errata changes on your book page on openstax.org.
 
 Format
-^^^^^^
+------
 
 You can access this textbook for free in web view or PDF through
 openstax.org, and in low-cost print and iBooks editions.
 
 About *Psychology*
-~~~~~~~~~~~~~~~~~~
+==================
 
 *Psychology* is designed to meet scope and sequence requirements for the
 single-semester introduction to psychology course. The book offers a
@@ -71,7 +76,7 @@ the discipline, as well as the diversity of cultures and communities
 across the globe.
 
 Coverage and Scope
-^^^^^^^^^^^^^^^^^^
+------------------
 
 This book is designed to make psychology, as a discipline, interesting
 and accessible to students research and examples that represent and
@@ -101,7 +106,7 @@ vetted with feedback from psychology educators dedicated to the project.
 .. _eip-962:
 
 Pedagogical Foundation
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 Throughout *Psychology*, you will find features that draw the students
 into psychological inquiry by taking selected topics a step further.
@@ -127,7 +132,7 @@ into psychological inquiry by taking selected topics a step further.
    OCD.”
 
 Art, Interactives, and Assessments That Engage
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------
 
 Our art program is designed to enhance students’ understanding of
 psychological concepts through simple, effective graphs, diagrams, and
@@ -142,12 +147,12 @@ Selected assessment items touch directly on students’ lives.
    personal level to encourage reflection and promote discussion.
 
 Additional Resources
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 .. _eip-541:
 
 Student and Instructor Resources
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------
 
 We’ve compiled additional resources for both students and instructors,
 including Getting Started Guides, an instructor solution guide, a test
@@ -159,7 +164,7 @@ supplement your OpenStax book.
 .. _eip-911:
 
 Partner Resources
-^^^^^^^^^^^^^^^^^
+-----------------
 
 OpenStax Partners are our allies in the mission to make high-quality
 learning materials affordable and accessible to students and instructors
@@ -168,12 +173,12 @@ a low cost. To access the partner resources for your text, visit your
 book page on openstax.org.
 
 About the Authors
-~~~~~~~~~~~~~~~~~
+=================
 
 .. _eip-901:
 
 Senior Contributing Authors
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 Rose M. Spielman (Content Lead)\* \* \* {: data-type=“newline”}
 
@@ -202,7 +207,7 @@ Marion Perlmutter, University of Michigan
 .. _eip-860:
 
 Reviewers
-^^^^^^^^^
+---------
 
 Daniel Bellack, Trident Technical College\* \* \* {:
 data-type=“newline”}

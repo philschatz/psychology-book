@@ -1,3 +1,7 @@
+=====================================
+Conformity, Compliance, and Obedience
+=====================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the Asch
@@ -13,7 +17,7 @@ discussion of a famous social psychology experiment that demonstrated
 how susceptible humans are to outside social pressures.
 
 CONFORMITY
-~~~~~~~~~~
+==========
 
 Solomon **Asch**\ {: data-type=“term” .no-emphasis} conducted several
 experiments in the 1950s to determine how people are affected by the
@@ -139,7 +143,7 @@ background (Bond & Smith, 1996; Larsen, 1990; Walker & Andrade, 1996).
    replication of the Asch experiment.
 
 STANLEY MILGRAM’S EXPERIMENT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 Conformity is one effect of the influence of others on our thoughts,
 feelings, and behaviors. Another form of social influence is obedience
@@ -211,7 +215,7 @@ stated they were opposed to. Most of the junior midwives were obedient
 to authority, going against their own beliefs.
 
 GROUPTHINK
-~~~~~~~~~~
+==========
 
 When in group settings, we are often influenced by the thoughts,
 feelings, and behaviors around us. Whether it is due to normative or
@@ -286,7 +290,7 @@ benefits of all options, and developing a contingency plan (Janis, 1972;
 Mitchell & Eckstein, 2009).
 
 GROUP POLARIZATION
-~~~~~~~~~~~~~~~~~~
+==================
 
 Another phenomenon that occurs within group settings is group
 polarization. **Group polarization**\ {: data-type=“term”} (Teger &
@@ -305,7 +309,7 @@ attractive, but your friends do not agree? If your friends vociferously
 agree, might you then find this person even more attractive?
 
 Social Facilitation
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Not all intergroup interactions lead to the negative outcomes we have
 described. Sometimes being in a group situation can improve performance.
@@ -327,7 +331,7 @@ may occur when performing in front of others, depending on the task.
 |A photograph shows a basketball game.|\ {: #CNX_Psych_12_04_freethrow}
 
 Social Loafing
-^^^^^^^^^^^^^^
+--------------
 
 Another way in which a group presence can affect our performance is
 social loafing. **Social loafing**\ {: data-type=“term”} is the exertion
@@ -716,7 +720,7 @@ thus causing performance decline on easy tasks
    </table>
 
 Summary
-~~~~~~~
+=======
 
 The power of the situation can lead people to conform, or go along with
 the group, even in the face of inaccurate information. Conformity to
@@ -733,7 +737,7 @@ presence of others can also lead to social loafing when individual
 efforts cannot be evaluated.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -799,7 +803,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -830,7 +834,7 @@ Critical Thinking Questions
       easy or well-known tasks and when individuals are relaxed.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

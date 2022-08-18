@@ -1,3 +1,7 @@
+==========================================
+Obsessive-Compulsive and Related Disorders
+==========================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the main
@@ -17,7 +21,7 @@ life. Included in this category are obsessive-compulsive disorder (OCD),
 body dysmorphic disorder, and hoarding disorder.
 
 OBSESSIVE-COMPULSIVE DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 People with **obsessive-compulsive disorder (OCD)**\ {:
 data-type=“term”} experience thoughts and urges that are intrusive and
@@ -64,7 +68,7 @@ condition creating lifelong interpersonal and psychological problems
 placing a key into the keyhole on a door.|\ {: #Figure_15_05_OCD}
 
 BODY DYSMORPHIC DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 An individual with **body dysmorphic disorder**\ {: data-type=“term”} is
 preoccupied with a perceived flaw in her physical appearance that is
@@ -81,7 +85,7 @@ States meet the criteria for body dysmorphic disorder, with slightly
 higher rates in women than in men (APA, 2013).
 
 HOARDING DISORDER
-~~~~~~~~~~~~~~~~~
+=================
 
 Although hoarding was traditionally considered to be a symptom of OCD,
 considerable evidence suggests that hoarding represents an entirely
@@ -106,7 +110,7 @@ the furniture and floor are concealed beneath these other objects.|\ {:
 #Figure_15_05_Hoarding}
 
 CAUSES OF OCD
-~~~~~~~~~~~~~
+=============
 
 The results of family and twin studies suggest that OCD has a moderate
 genetic component. The disorder is five times more frequent in the
@@ -192,7 +196,7 @@ OCD symptoms cannot imply causation (Abramowitz & Siqueland, 2013).
    theory, how might the symptoms of OCD be treated successfully?
 
 Summary
-~~~~~~~
+=======
 
 Obsessive-compulsive and related disorders are a group of DSM-5
 disorders that overlap somewhat in that they each involve intrusive
@@ -211,7 +215,7 @@ of their actual value, often resulting in the accumulation of items that
 clutter and congest her living area.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -245,7 +249,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 

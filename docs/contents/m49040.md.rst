@@ -1,3 +1,7 @@
+===========================
+Sensation versus Perception
+===========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Distinguish
@@ -6,7 +10,7 @@
    motivation, and sensory adaptation play in perception
 
 SENSATION
-~~~~~~~~~
+=========
 
 What does it mean to sense something? Sensory receptors are specialized
 neurons that respond to specific types of stimuli. When sensory
@@ -74,7 +78,7 @@ difference threshold is a constant fraction of the original stimulus, as
 the example illustrates.
 
 PERCEPTION
-~~~~~~~~~~
+==========
 
 While our sensory receptors are constantly collecting information from
 the environment, it is ultimately how we interpret that information that
@@ -218,7 +222,7 @@ as reduced fat as tasting better than people who have less positive
 attitudes about these products (Aaron, Mela, & Evans, 1994).
 
 Summary
-~~~~~~~
+=======
 
 Sensation occurs when sensory receptors detect sensory stimuli.
 Perception involves the organization, interpretation, and conscious
@@ -232,7 +236,7 @@ by a number of factors, including beliefs, values, prejudices, culture,
 and life experiences.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -299,7 +303,7 @@ Review Questions
       B
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -333,7 +337,7 @@ Critical Thinking Question
       more difficult.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

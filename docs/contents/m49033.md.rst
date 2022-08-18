@@ -1,3 +1,7 @@
+===============
+Stages of Sleep
+===============
+
 .. container::
 
    By the end of this section, you will be able to: \* Differentiate
@@ -31,7 +35,7 @@ wavelength I longer from late stage 2 through stage 4.|\ {:
 #Figure_04_03_SleepCycle}
 
 NREM STAGES OF SLEEP
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 The first stage of NREM sleep is known as stage 1 sleep. **Stage 1
 sleep**\ {: data-type=“term”} is a transitional phase that occurs
@@ -111,7 +115,7 @@ and 4 of sleep. Chart b shows brainwaves at various stages of sleep,
 with stages 3 and 4 highlighted.|\ {: #Figure_04_03_Deltawaves}
 
 REM SLEEP
-~~~~~~~~~
+=========
 
 As mentioned earlier, REM sleep is marked by rapid movements of the
 eyes. The brain waves associated with this stage of sleep are very
@@ -183,7 +187,7 @@ until the end of the eighth hour when the person awakens.|\ {:
    that describes the various stages of sleep.
 
 Dreams
-^^^^^^
+------
 
 The meaning of dreams varies across different cultures and periods of
 time. By the late 19th century, German psychiatrist Sigmund
@@ -239,7 +243,7 @@ aware of the fact that they are dreaming, and as such, they can control
 the dream’s content (LaBerge, 1990).
 
 Summary
-~~~~~~~
+=======
 
 The different stages of sleep are characterized by the patterns of brain
 waves associated with each stage. As a person transitions from being
@@ -254,7 +258,7 @@ represent a state of protoconsciousness, or a virtual reality, in the
 mind that helps a person during consciousness.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -319,7 +323,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -355,7 +359,7 @@ Critical Thinking Questions
       musculature which would make acting out dreams improbable.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+======================
+Ways to Enhance Memory
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Recognize and
@@ -11,7 +15,7 @@ for an exam. In this section, we’ll look at some ways to help you
 remember better, and at some strategies for more effective studying.
 
 MEMORY-ENHANCING STRATEGIES
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 What are some everyday ways we can improve our memory, including recall?
 To help make sure information goes from short-term memory to long-term
@@ -106,7 +110,7 @@ techniques increased participants’ memory for the words by more than
 10%. These techniques can also be used to help you study.
 
 HOW TO STUDY EFFECTIVELY
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Based on the information presented in this chapter, here are some
 strategies and suggestions to help you hone your study techniques
@@ -176,7 +180,7 @@ is to figure out what works best for you.
    the concept, such as *i before e, except after c*.
 
 Summary
-~~~~~~~
+=======
 
 There are many ways to combat the inevitable failures of our memory
 system. Some common strategies that can be used in everyday situations
@@ -185,7 +189,7 @@ sleep. These same strategies also can help you to study more
 effectively.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -258,7 +262,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -298,7 +302,7 @@ Critical Thinking Questions
       decay.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

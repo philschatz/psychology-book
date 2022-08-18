@@ -1,3 +1,7 @@
+=========================================
+Mental Health Treatment: Past and Present
+=========================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how
@@ -61,7 +65,7 @@ questionable approaches in light of modern understanding of mental
 illness) to where we are today.
 
 TREATMENT IN THE PAST
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 For much of history, the mentally ill have been treated very poorly. It
 was believed that mental illness was caused by demonic possession,
@@ -163,7 +167,7 @@ mentally ill patients institutionalized at public hospitals (Torrey,
 hospitalized individuals (Torrey, 1997).
 
 MENTAL HEALTH TREATMENT TODAY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Today, there are community mental health centers across the nation. They
 are located in neighborhoods near the homes of clients, and they provide
@@ -286,7 +290,7 @@ access and treatment for mental health problems as part of the Obama
 administration’s effort to strengthen rural communities.
 
 Summary
-~~~~~~~
+=======
 
 It was once believed that people with psychological disorders, or those
 exhibiting strange behavior, were possessed by demons. These people were
@@ -313,7 +317,7 @@ would be covered through insurance, government funds, or private (self)
 pay.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -382,7 +386,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -424,7 +428,7 @@ Critical Thinking Questions
       which is coming up in a few weeks.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

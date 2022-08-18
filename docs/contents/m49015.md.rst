@@ -1,3 +1,7 @@
+=====================
+Careers in Psychology
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand
@@ -50,7 +54,7 @@ label reads: “Source: Michalski, Kohout, Wicherski, & Hart, 2011.”|\ {:
 #CNX_Psych_01_04_Employed}
 
 OTHER CAREERS IN ACADEMIC SETTINGS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Often times, schools offer more courses in psychology than their
 full-time faculty can teach. In these cases, it is not uncommon to bring
@@ -82,7 +86,7 @@ research skills under the supervision of other professionals in the
 field.
 
 CAREER OPTIONS OUTSIDE OF ACADEMIC SETTINGS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================================
 
 Individuals who wish to become practicing clinical psychologists have
 another option for earning a doctoral degree, which is known as a PsyD.
@@ -497,7 +501,7 @@ Finance (accountant, auditor)
    bachelor’s degrees in psychology.
 
 Summary
-~~~~~~~
+=======
 
 Generally, academic careers in psychology require doctoral degrees.
 However, there are a number of nonacademic career options for people who
@@ -507,7 +511,7 @@ options, the skills acquired as a function of an undergraduate education
 in psychology are useful in a variety of work contexts.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -576,7 +580,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -607,7 +611,7 @@ Critical Thinking Questions
       more independent or supervisory capacity.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+======================
+Dissociative Disorders
+======================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -16,7 +20,7 @@ depersonalization/derealization disorder, and dissociative identity
 disorder.
 
 DISSOCIATIVE AMNESIA
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 Amnesia refers to the partial or total forgetting of some experience or
 event. An individual with **dissociative amnesia**\ {: data-type=“term”}
@@ -51,7 +55,7 @@ especially in psychiatric populations (Foote, Smolin, Kaplan, Legatt, &
 Lipschitz, 2006).
 
 DEPERSONALIZATION/DEREALIZATION DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================
 
 **Depersonalization/derealization disorder**\ {: data-type=“term”} is
 characterized by recurring episodes of depersonalization, derealization,
@@ -74,7 +78,7 @@ difficulty describing their symptoms and may think they are going crazy
 (APA, 2013).
 
 DISSOCIATIVE IDENTITY DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 By far, the most well-known dissociative disorder is **dissociative
 identity disorder**\ {: data-type=“term”} (formerly called multiple
@@ -131,7 +135,7 @@ personalities—may serve as a psychologically important coping mechanism
 for threat and danger (Dalenberg et al., 2012).
 
 Summary
-~~~~~~~
+=======
 
 The main characteristic of dissociative disorders is that people become
 dissociated from their sense of self, resulting in memory and identity
@@ -158,7 +162,7 @@ culture. However, many people legitimately suffer over the course of a
 lifetime with this disorder.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -191,7 +195,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -216,7 +220,7 @@ Critical Thinking Question
       fashionable.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -29,7 +34,7 @@ they did? What internal forces shaped their decisions? Personality
 psychology can help us answer these questions and more.
 
 References
-~~~~~~~~~~
+==========
 
 Adler, A. (1930). Individual psychology. In C. Murchison (Ed.),
 *Psychologies of 1930* (pp. 395–405). Worcester, MA: Clark University

@@ -1,3 +1,7 @@
+==============
+Mood Disorders
+==============
+
 .. container::
 
    By the end of this section, you will be able to: \* Distinguish
@@ -55,7 +59,7 @@ recklessly, or attempt to take on many tasks simultaneously. The most
 recognized of these disorders is bipolar disorder.
 
 MAJOR DEPRESSIVE DISORDER
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 According to the DSM-5, the defining symptoms of **major depressive
 disorder**\ {: data-type=“term”} include “depressed mood most of the
@@ -107,7 +111,7 @@ impairment associated with major depressive disorder after 5 years
 still show minor symptoms that fluctuate in their severity (Judd, 2012).
 
 Results of Major Depressive Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------
 
 Major depressive disorder is a serious and incapacitating condition that
 can have a devastating effect on the quality of one’s life. The person
@@ -125,7 +129,7 @@ as adverse cardiovascular outcomes in patients with preexisting heart
 disease (Whooley, 2006).
 
 Risk Factors for Major Depressive Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 
 Major depressive disorder is often referred to as the common cold of
 psychiatric disorders. Around 6.6% of the U.S. population experiences
@@ -152,7 +156,7 @@ et al., 2011). Comorbid disorders include anxiety disorders and
 substance abuse disorders (Kessler & Wang, 2009).
 
 SUBTYPES OF DEPRESSION
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 The DSM-5 lists several different subtypes of depression. These
 subtypes—what the DSM-5 refer to as specifiers—are not specific
@@ -194,7 +198,7 @@ major depressive disorder can occur during persistent depressive
 disorder (APA, 2013).
 
 BIPOLAR DISORDER
-~~~~~~~~~~~~~~~~
+================
 
 A person with **bipolar disorder**\ {: data-type=“term”} (commonly known
 as **manic depression**\ {: data-type=“term” .no-emphasis}) often
@@ -247,7 +251,7 @@ depressive episodes) within one year.
    person living with bipolar disorder.
 
 Risk Factors for Bipolar Disorder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------
 
 Bipolar disorder is considerably less frequent than major depressive
 disorder. In the United States, 1 out of every 167 people meets the
@@ -265,7 +269,7 @@ Swartz, & Frank, 2010), and between 15%–19% complete suicide (Newman,
 2004).
 
 THE BIOLOGICAL BASIS OF MOOD DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+======================================
 
 Mood disorders have been shown to have a strong genetic and biological
 basis. Relatives of those with major depressive disorder have double the
@@ -338,7 +342,7 @@ increased cortisol release (Michaud, Matheson, Kelly, Anisman, 2008), it
 is equally reasonable to assume that stress may precipitate depression.
 
 A Diathesis-Stress Model and Major Depressive Disorders
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------
 
 Indeed, it has long been believed that stressful life events can trigger
 depression, and research has consistently supported this conclusion
@@ -404,7 +408,7 @@ long-long gene, 53% with the long-short gene, and 71% with the
 short-short gene.|\ {: #Figure_15_07_GxE_Interaction}
 
 Cognitive Theories of Depression
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------
 
 Cognitive theories of depression take the view that depression is
 triggered by negative thoughts, interpretations, self-evaluations, and
@@ -487,7 +491,7 @@ depressive episodes (Abela & Hankin, 2011), and chronicity of such
 episodes (Robinson & Alloy, 2003)
 
 SUICIDE
-~~~~~~~
+=======
 
 For some people with mood disorders, the extreme emotional pain they
 experience becomes unendurable. Overwhelmed by hopelessness, devastated
@@ -549,7 +553,7 @@ suicide rates are generally lowest during the winter months (Postolache
 et al., 2010).
 
 RISK FACTORS FOR SUICIDE
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Suicidal risk is especially high among people with substance abuse
 problems. Individuals with alcohol dependence are at 10 times greater
@@ -622,7 +626,7 @@ loved ones who may be suicidal, or who have lost loved ones to suicide:
 http://www.afsp.org and http://suicidology.org.
 
 Summary
-~~~~~~~
+=======
 
 Mood disorders are those in which the person experiences severe
 disturbances in mood and emotion. They include depressive disorders and
@@ -641,7 +645,7 @@ in the development of depression. People who suffer from mental health
 problems, especially mood disorders, are at heightened risk for suicide.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -677,7 +681,7 @@ Review Questions
       C
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -698,7 +702,7 @@ Critical Thinking Question
       associated with serotonin dysfunction.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

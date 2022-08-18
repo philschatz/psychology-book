@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -25,7 +30,7 @@ discussions of altered states of consciousness produced by psychoactive
 drugs, hypnosis, and meditation.
 
 References
-~~~~~~~~~~
+==========
 
 Aggarwal, S. K., Carter, G. T., Sullivan, M. D., ZumBrunnen, C.,
 Morrill, R., & Mayer, J. D. (2009). Medicinal use of cannabis in the

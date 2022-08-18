@@ -1,3 +1,7 @@
+===============================================
+Neo-Freudians: Adler, Erikson, Jung, and Horney
+===============================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss the
@@ -15,7 +19,7 @@ include Alfred Adler, Erik Erikson, Carl Jung (pronounced “Yoong”), and
 Karen Horney (pronounced “HORN-eye”).
 
 ALFRED ADLER
-~~~~~~~~~~~~
+============
 
 Alfred **Adler**\ {: data-type=“term” .no-emphasis}, a colleague of
 Freud’s and the first president of the Vienna Psychoanalytical Society
@@ -75,7 +79,7 @@ Adler’s hypotheses about birth order.
    theory.
 
 ERIK ERIKSON
-~~~~~~~~~~~~
+============
 
 As an art school dropout with an uncertain future, young Erik
 **Erikson**\ {: data-type=“term” .no-emphasis} met Freud’s daughter,
@@ -566,7 +570,7 @@ Assess and make sense of life and meaning of contributions
    </table>
 
 CARL JUNG
-~~~~~~~~~
+=========
 
 Carl **Jung**\ {: data-type=“term” .no-emphasis}
 (`[link] <#CNX_Psych_11_03_Jung>`__) was a Swiss psychiatrist and
@@ -946,7 +950,7 @@ ourselves that are not aligned with society’s expectations.
    (Sotirova-Kohli et al., 2013).
 
 KAREN HORNEY
-~~~~~~~~~~~~
+============
 
 Karen **Horney**\ {: data-type=“term” .no-emphasis} was one of the first
 women trained as a Freudian psychoanalyst. During the Great Depression,
@@ -1180,7 +1184,7 @@ become neurotic strategies if they are used rigidly and compulsively,
 leading a person to become alienated from others.
 
 Summary
-~~~~~~~
+=======
 
 The neo-Freudians were psychologists whose work followed from Freud’s.
 They generally agreed with Freud that childhood experiences matter, but
@@ -1195,7 +1199,7 @@ as with Freud’s psychoanalytic theory, the neo-Freudians based much of
 their theories of personality on information from their patients.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1215,7 +1219,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1246,7 +1250,7 @@ Critical Thinking Questions
       envy, because men cannot give birth.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

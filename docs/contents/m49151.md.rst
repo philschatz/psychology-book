@@ -1,3 +1,7 @@
+==================
+Stress and Illness
+==================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain the
@@ -25,7 +29,7 @@ However, health is affected when physiological reactions are sustained,
 as can happen in response to ongoing stress.
 
 PSYCHOPHYSIOLOGICAL DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 If the reactions that compose the stress response are chronic or if they
 frequently exceed normal ranges, they can lead to cumulative wear and
@@ -288,7 +292,7 @@ immune system—one of the major pathways through which stress and
 emotional factors can lead to illness and disease.
 
 STRESS AND THE IMMUNE SYSTEM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 In a sense, the **immune system**\ {: data-type=“term”} is the body’s
 surveillance system. It consists of a variety of structures, cells, and
@@ -299,7 +303,7 @@ disease free by eliminating bacteria, viruses, and other foreign
 substances that have entered the body (Everly & Lating, 2002).
 
 Immune System Errors
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 Sometimes, the immune system will function erroneously. For example,
 sometimes it can go awry by mistaking your body’s own healthy cells for
@@ -327,7 +331,7 @@ thus rendering a person vulnerable to any of a number of opportunistic
 infections (Powell, 1996).
 
 Stressors and Immune Function
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
 The question of whether stress and negative emotional states can
 influence immune function has captivated researchers for over three
@@ -484,7 +488,7 @@ shield, and your immune system is that shield.
    our health as smoking or fast food (Blackburn & Epel, 2012).
 
 CARDIOVASCULAR DISORDERS
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 The cardiovascular system is composed of the heart and blood circulation
 system. For many years, disorders that involve the cardiovascular
@@ -547,7 +551,7 @@ water (known as the cold pressor test), mirror tracing, and public
 speaking have all been shown to elevate blood pressure (Phillips, 2011).
 
 ARE YOU TYPE A OR TYPE B?
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 Sometimes research ideas and theories emerge from seemingly trivial
 observations. In the 1950s, cardiologist Meyer Friedman was looking over
@@ -703,7 +707,7 @@ potentially vital risk factor for the development of cardiovascular
 disorders.
 
 DEPRESSION AND THE HEART
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 For centuries, poets and folklore have asserted that there is a
 connection between moods and the heart (Glassman & Shapiro, 1998). You
@@ -794,7 +798,7 @@ combined and more general negative emotional and psychological traits in
 the development of cardiovascular illnesses.
 
 ASTHMA
-~~~~~~
+======
 
 **Asthma**\ {: data-type=“term”} is a chronic and serious disease in
 which the airways of the respiratory system become obstructed, leading
@@ -887,7 +891,7 @@ increased the risk of developing asthma by 124% over the time of the
 study (Loerbroks, Apfelbacher, Thayer, Debling, & Stürmer, 2009).
 
 TENSION HEADACHES
-~~~~~~~~~~~~~~~~~
+=================
 
 A headache is a continuous pain anywhere in the head and neck region.
 Migraine headaches are a type of headache thought to be caused by blood
@@ -918,7 +922,7 @@ already-sensitive pain pathways in tension headache sufferers (Cathcart,
 Petkov, & Pritchard, 2008).
 
 Summary
-~~~~~~~
+=======
 
 Psychophysiological disorders are physical diseases that are either
 brought about or worsened by stress and other emotional factors. One of
@@ -933,7 +937,7 @@ are known to be influenced by stress and emotional factors include
 asthma and tension headaches.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1003,7 +1007,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1039,7 +1043,7 @@ Critical Thinking Questions
       the immune system is not working at full capacity.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

@@ -1,3 +1,7 @@
+=========================================================
+Substance-Related and Addictive Disorders: A Special Case
+=========================================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Recognize the
@@ -52,7 +56,7 @@ incarceration or not treating those with addictions (NIDA, 2012)
 hypodermic needle into her ankle.|\ {: #CNX_Psych_16_04_Crack}
 
 WHAT MAKES TREATMENT EFFECTIVE?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 Specific factors make substance-related treatment much more effective.
 One factor is duration of treatment. Generally, the addict needs to be
@@ -102,7 +106,7 @@ just as addictive. Detox can be difficult and dangerous.
    behavioral, and psychodynamic approaches.
 
 COMORBID DISORDERS
-~~~~~~~~~~~~~~~~~~
+==================
 
 Frequently, a person who is addicted to drugs and/or alcohol has an
 additional psychological disorder. Saying a person has **comorbid
@@ -129,7 +133,7 @@ needed to better understand how these medications work—particularly when
 combined in patients with comorbidities.
 
 Summary
-~~~~~~~
+=======
 
 Addiction is often viewed as a chronic disease that rewires the brain.
 This helps explain why relapse rates tend to be high, around 40%–60%
@@ -143,7 +147,7 @@ such as depression, bipolar disorder, or schizophrenia. The best
 treatment would address both problems simultaneously.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -196,7 +200,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -220,7 +224,7 @@ Critical Thinking Question
       to recover and maintain his sobriety.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

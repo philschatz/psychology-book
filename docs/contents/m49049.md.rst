@@ -1,3 +1,7 @@
+====================
+Operant Conditioning
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define operant
@@ -404,7 +408,7 @@ Something is removed to decrease the likelihood of a behavior.
    </table>
 
 REINFORCEMENT
-~~~~~~~~~~~~~
+=============
 
 The most effective way to teach a person or animal a new behavior is
 with positive reinforcement. In **positive reinforcement**\ {:
@@ -450,7 +454,7 @@ behavior, such as turning or speeding up. The pressure is the negative
 stimulus that the horse wants to remove.
 
 PUNISHMENT
-~~~~~~~~~~
+==========
 
 Many people confuse negative reinforcement with punishment in operant
 conditioning, but they are two very different mechanisms. Remember that
@@ -494,7 +498,7 @@ favor reinforcement over punishment—they recommend that you catch your
 child doing something good and reward her for it.
 
 Shaping
-^^^^^^^
+-------
 
 In his operant conditioning experiments, Skinner often used an approach
 called shaping. Instead of rewarding only the target behavior, in
@@ -543,7 +547,7 @@ he cleans up everything except two toys. Finally, he cleans his entire
 room.
 
 PRIMARY AND SECONDARY REINFORCERS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================
 
 Rewards such as stickers, praise, money, toys, and more can be used to
 reinforce learning. Let’s go back to Skinner’s rats again. How did the
@@ -652,7 +656,7 @@ specified amounts of tokens for minutes of playtime.
    looking at the playground.|\ {: #Figure06_03_Timeout}
 
 REINFORCEMENT SCHEDULES
-~~~~~~~~~~~~~~~~~~~~~~~
+=======================
 
 Remember, the best way to teach a person or animal a behavior is to use
 positive reinforcement. For example, Skinner used positive reinforcement
@@ -1135,7 +1139,7 @@ drop in the line.|\ {: #Figure06_03_Response}
    #Figure06_03_Gambling}
 
 COGNITION AND LATENT LEARNING
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Although strict behaviorists such as Skinner and Watson refused to
 believe that cognition (such as thoughts and expectations) plays a role
@@ -1207,7 +1211,7 @@ this knowledge earlier.
    buildings.
 
 Summary
-~~~~~~~
+=======
 
 Operant conditioning is based on the work of B. F. Skinner. Operant
 conditioning is a form of learning in which the motivation for a
@@ -1221,7 +1225,7 @@ schedules are used to reward behavior depending on either a set or
 variable period of time.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1288,7 +1292,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1338,7 +1342,7 @@ Critical Thinking Questions
       back, and then continuing to roll over to his other side.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

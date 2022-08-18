@@ -1,3 +1,7 @@
+=====================
+Waves and Wavelengths
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe
@@ -14,7 +18,7 @@ physical properties of the waves as well as the perceptual experiences
 associated with them.
 
 AMPLITUDE AND WAVELENGTH
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Two physical characteristics of a wave are amplitude and wavelength
 (`[link] <#Figure_05_02_Wave>`__). The **amplitude**\ {:
@@ -47,7 +51,7 @@ green, and blue. Also moving downward, the wavelengths become shorter as
 the frequencies increase.|\ {: #Figure_05_02_Frequencies}
 
 LIGHT WAVES
-~~~~~~~~~~~
+===========
 
 The **visible spectrum**\ {: data-type=“term”} is the portion of the
 larger **electromagnetic spectrum**\ {: data-type=“term”} that we can
@@ -98,7 +102,7 @@ followed by “Infrared,” “Terahertz radiation,” “Radar,” “Televisio
 radio broadcasting,” and “AC circuits.”|\ {: #Figure_05_02_VisSpec}
 
 SOUND WAVES
-~~~~~~~~~~~
+===========
 
 Like light waves, the physical properties of sound waves are associated
 with various aspects of our perception of sound. The frequency of a
@@ -161,7 +165,7 @@ refers to a sound’s purity, and it is affected by the complex interplay
 of frequency, amplitude, and timing of sound waves.
 
 Summary
-~~~~~~~
+=======
 
 Both light and sound can be described in terms of wave forms with
 physical characteristics like amplitude, wavelength, and timbre.
@@ -173,7 +177,7 @@ system, a sound’s frequency is associated with pitch, and its amplitude
 is associated with loudness.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -255,7 +259,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -293,7 +297,7 @@ Critical Thinking Question
       type of stimulus.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

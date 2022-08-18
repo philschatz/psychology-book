@@ -1,3 +1,7 @@
+=======
+Hearing
+=======
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -14,7 +18,7 @@ that information is processed, how we perceive pitch, and how we know
 where sound is coming from.
 
 ANATOMY OF THE AUDITORY SYSTEM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 The ear can be separated into multiple sections. The outer ear includes
 the **pinna**\ {: data-type=“term”}, which is the visible part of the
@@ -61,7 +65,7 @@ processed in parallel streams (Rauschecker & Tian, 2000; Renier et al.,
 2009).
 
 PITCH PERCEPTION
-~~~~~~~~~~~~~~~~
+================
 
 Different frequencies of sound waves are associated with differences in
 our perception of the pitch of those sounds. Low-frequency sounds are
@@ -97,7 +101,7 @@ However, much higher frequency sounds can only be encoded using place
 cues (Shamma, 2001).
 
 SOUND LOCALIZATION
-~~~~~~~~~~~~~~~~~~
+==================
 
 The ability to locate sound in our environments is an important part of
 **hearing**\ {: data-type=“term” .no-emphasis}. Localizing sound could
@@ -136,7 +140,7 @@ arrows from the jets identifying the location of each ear.|\ {:
 #Figure_05_04_MonInt}
 
 HEARING LOSS
-~~~~~~~~~~~~
+============
 
 **Deafness**\ {: data-type=“term”} is the partial or complete inability
 to hear. Some people are born deaf, which is known as **congenital
@@ -207,7 +211,7 @@ information to the brain.
    they are also deaf?
 
 Summary
-~~~~~~~
+=======
 
 Sound waves are funneled into the auditory canal and cause vibrations of
 the eardrum; these vibrations move the ossicles. As the ossicles move,
@@ -230,7 +234,7 @@ Hearing loss that involves a failure of the transmission of auditory
 nerve impulses to the brain is called sensorineural hearing loss.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -294,7 +298,7 @@ Review Questions
       D
 
 Critical Thinking Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================
 
 .. container::
 
@@ -329,7 +333,7 @@ Critical Thinking Question
       context.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

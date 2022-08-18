@@ -1,3 +1,7 @@
+========
+Language
+========
+
 .. container::
 
    By the end of this section, you will be able to: \* Define language
@@ -19,7 +23,7 @@ distinguishes language as a special form of communication, how the use
 of language develops, and how language affects the way we think.
 
 COMPONENTS OF LANGUAGE
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 Language, be it spoken, signed, or written, has specific components: a
 lexicon and grammar. **Lexicon**\ {: data-type=“term”} refers to the
@@ -54,7 +58,7 @@ property that makes language so distinct as a mode of communication
 among humans.
 
 LANGUAGE DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 Given the remarkable complexity of a language, one might expect that
 mastering a language would be an especially arduous task; indeed, for
@@ -505,7 +509,7 @@ language are understood, even if the exceptions to the rules are still
 being learned (Moskowitz, 1978).
 
 LANGUAGE AND THOUGHT
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 When we speak one language, we agree that words are representations of
 ideas, people, places, and events. The given language that children
@@ -586,7 +590,7 @@ However, the right (less linguistic hemisphere) of the brain is less
 affected by linguistic influences on perception (Regier & Kay, 2009)
 
 Summary
-~~~~~~~
+=======
 
 Language is a communication system that has both a lexicon and a system
 of grammar. Language acquisition occurs naturally and effortlessly
@@ -596,7 +600,7 @@ strong influence on thought, and the concept of how language may
 influence cognition remains an area of study and debate in psychology.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -661,7 +665,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -704,7 +708,7 @@ Critical Thinking Questions
       exceptions involved in the rule’s application.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

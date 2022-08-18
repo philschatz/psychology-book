@@ -1,3 +1,7 @@
+===============
+Death and Dying
+===============
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss hospice
@@ -80,7 +84,7 @@ that we are dying.
    lecture. Listen to his inspiring talk.
 
 Summary
-~~~~~~~
+=======
 
 Death marks the endpoint of our lifespan. There are many ways that we
 might react when facing death. Kübler-Ross developed a five-stage model
@@ -89,7 +93,7 @@ choose hospice care, which allows their last days to be spent at home in
 a comfortable, supportive environment.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -123,7 +127,7 @@ Review Questions
       C
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -168,7 +172,7 @@ Critical Thinking Questions
       spiritual support for dying people and their families.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

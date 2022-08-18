@@ -1,3 +1,7 @@
+===========================
+Cells of the Nervous System
+===========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Identify the
@@ -22,7 +26,7 @@ the tasks of the nervous system. This section briefly describes the
 structure and function of neurons.
 
 Neuron Structure
-~~~~~~~~~~~~~~~~
+================
 
 **Neurons**\ {: data-type=“term” .no-emphasis} are the central building
 blocks of the nervous system, 100 billion strong at birth. Like all
@@ -90,7 +94,7 @@ with part of the exterior removed, revealing a solid interior of small
 round parts.|\ {: #CNX_Psych_03_02_Synapse}
 
 Neuronal Communication
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 Now that we have learned about the basic structures of the neuron and
 the role that these structures play in neuronal communication, let’s
@@ -217,7 +221,7 @@ synaptic space represents the chemical portion of the process.
    neuronal communication.
 
 Neurotransmitters and Drugs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 There are several different types of **neurotransmitters**\ {:
 data-type=“term” .no-emphasis} released by different neurons, and we can
@@ -614,7 +618,7 @@ effective than any one treatment alone (for one such example, see March
 et al., 2007).
 
 Summary
-~~~~~~~
+=======
 
 Glia and neurons are the two cell types that make up the nervous system.
 While glia generally play supporting roles, the communication between
@@ -643,7 +647,7 @@ act either as agonists or as antagonists for a given neurotransmitter
 system.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -708,7 +712,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -747,7 +751,7 @@ Critical Thinking Questions
       the brain.
 
 Personal Application Queation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

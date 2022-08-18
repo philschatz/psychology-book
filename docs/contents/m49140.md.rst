@@ -1,3 +1,7 @@
+=============================================
+Human Factors Psychology and Workplace Design
+=============================================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -355,7 +359,7 @@ outside agency, the FBI, informed the company (Riley, Elgin, Lawrence, &
 Matlack, 2014).
 
 Summary
-~~~~~~~
+=======
 
 Human factors psychology, or ergonomics, studies the interface between
 workers and their machines and physical environments. Human factors
@@ -371,7 +375,7 @@ systems and their human operators. Human–software interactions are a
 large sector of this research.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -407,7 +411,7 @@ Review Questions
       B
 
 Critical Thinking
-~~~~~~~~~~~~~~~~~
+=================
 
 .. container::
 
@@ -424,7 +428,7 @@ Critical Thinking
       simulated emergencies.
 
 Personal Application
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 .. container::
 

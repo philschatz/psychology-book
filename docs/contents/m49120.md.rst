@@ -1,3 +1,7 @@
+========================
+Attitudes and Persuasion
+========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define attitude
@@ -36,7 +40,7 @@ section we discuss the conditions under which we would want to change
 our own attitudes and beliefs.
 
 WHAT IS COGNITIVE DISSONANCE?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 Social psychologists have documented that feeling good about ourselves
 and maintaining positive self-esteem is a powerful motivator of human
@@ -118,7 +122,7 @@ challenges. He then will feel better and not experience cognitive
 dissonance, which is an uncomfortable state.
 
 The Effect of Initiation
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 The military example demonstrates the observation that a difficult
 **initiation**\ {: data-type=“term” .no-emphasis} into a group
@@ -169,7 +173,7 @@ they feel comfortable there. How does the theory of cognitive dissonance
 apply to Marco and Maria’s choices?
 
 PERSUASION
-~~~~~~~~~~
+==========
 
 In the previous section we discussed that the motivation to reduce
 cognitive dissonance leads us to change our attitudes, behaviors, and/or
@@ -189,7 +193,7 @@ providing us with a plethora of information on how humans can be
 persuaded by others.
 
 Yale Attitude Change Approach
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
 The topic of persuasion has been one of the most extensively researched
 areas in social psychology (Fiske et al., 2010). During the Second World
@@ -238,7 +242,7 @@ Wood, 1992). Finally, younger adults aged 18–25 are more persuadable
 than older adults.
 
 Elaboration Likelihood Model
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 An especially popular model that describes the dynamics of persuasion is
 the elaboration likelihood model of persuasion (Petty & Cacioppo, 1986).
@@ -305,7 +309,7 @@ persuasion? Another example is clothing: A retailer may focus on
 celebrities that are wearing the same style of clothing.
 
 Foot-in-the-door Technique
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 
 Researchers have tested many persuasion strategies that are effective in
 selling products and changing people’s attitude, ideas, and behaviors.
@@ -344,7 +348,7 @@ to get the customer to pay for many or most available options on the
 car.
 
 Summary
-~~~~~~~
+=======
 
 Attitudes are our evaluations or feelings toward a person, idea, or
 object and typically are positive or negative. Our attitudes and beliefs
@@ -361,7 +365,7 @@ potential consumers. The peripheral route uses positive association with
 cues such as beauty, fame, and positive emotions.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -427,7 +431,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -471,7 +475,7 @@ Critical Thinking Questions
       while spending time on a beautiful, sunny beach.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

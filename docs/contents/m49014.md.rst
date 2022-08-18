@@ -1,3 +1,7 @@
+===================
+What Is Psychology?
+===================
+
 .. container::
 
    By the end of this section, you will be able to: \* Understand the
@@ -72,7 +76,7 @@ isolation, and our behavior is influenced by our interactions with
 others. Therefore, psychology is also a social science.
 
 MERITS OF AN EDUCATION IN PSYCHOLOGY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
 Often, students take their first psychology course because they are
 interested in helping others and want to learn more about themselves and
@@ -121,7 +125,7 @@ across cultural boundaries (American Psychological Association, 2011).
    deciding to major in psychology.
 
 Summary
-~~~~~~~
+=======
 
 Psychology derives from the roots *psyche* (meaning soul) and *–ology*
 (meaning scientific study of). Thus, psychology is defined as the
@@ -130,7 +134,7 @@ critical thinking skills, become familiar with the scientific method,
 and recognize the complexity of behavior.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -195,7 +199,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -228,7 +232,7 @@ Critical Thinking Questions
       nature of psychology.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

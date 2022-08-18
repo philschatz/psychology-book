@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -34,7 +39,7 @@ memories? And why do we forget? This chapter will explore these
 questions as we learn about memory.
 
 References
-~~~~~~~~~~
+==========
 
 Abel, M., & Bäuml, K.-H. T. (2013). Sleep can reduce proactive
 interference. *Memory, 22*\ (4), 332–339.

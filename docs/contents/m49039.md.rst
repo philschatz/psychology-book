@@ -1,3 +1,8 @@
+============
+Introduction
+============
+
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -35,7 +40,7 @@ will close with a discussion of a historically important theory of
 perception called Gestalt.
 
 References
-~~~~~~~~~~
+==========
 
 Aaron, J. I., Mela, D. J., & Evans, R. E. (1994). The influences of
 attitudes, beliefs, and label information on perceptions of reduced-fat

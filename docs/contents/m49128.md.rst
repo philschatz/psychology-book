@@ -1,3 +1,7 @@
+============================
+Prejudice and Discrimination
+============================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define and
@@ -18,7 +22,7 @@ drinking at a drinking fountain. Photograph C shows two people holding
 signs with hate messages.|\ {: #CNX_Psych_12_05_Discrimination}
 
 UNDERSTANDING PREJUDICE AND DISCRIMINATION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================================
 
 As we discussed in the opening story of Trayvon Martin, humans are very
 diverse and although we share many similarities, we also have many
@@ -357,7 +361,7 @@ share the same gender, race, or favorite sports team.
    in the video demonstrates the concept of racism.
 
 TYPES OF PREJUDICE AND DISCRIMINATION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================================
 
 When we meet strangers we automatically process three pieces of
 information about them: their race, gender, and age (Ito & Urland,
@@ -373,7 +377,7 @@ age. What stereotypes and prejudices do you hold about people who are
 from a race, gender, and age group different from your own?
 
 Racism
-^^^^^^
+------
 
 **Racism**\ {: data-type=“term”} is **prejudice**\ {: data-type=“term”
 .no-emphasis} and **discrimination**\ {: data-type=“term” .no-emphasis}
@@ -428,7 +432,7 @@ attitudes often show evidence of mild to strong racial bias or other
 prejudices (Greenwald, McGee, & Schwartz, 1998; Olson & Fazio, 2003).
 
 Sexism
-^^^^^^
+------
 
 **Sexism**\ {: data-type=“term”} is **prejudice**\ {: data-type=“term”
 .no-emphasis} and **discrimination**\ {: data-type=“term” .no-emphasis}
@@ -458,7 +462,7 @@ men have, such as more women nurses but more male surgeons (Betz, 2008)?
 soldiers.|\ {: #CNX_Psych_12_05_woman}
 
 Ageism
-^^^^^^
+------
 
 People often form judgments and hold expectations about people based on
 their age. These judgments and expectations can lead to **ageism**\ {:
@@ -482,7 +486,7 @@ immature and irresponsible? How might these two forms of ageism affect a
 younger and older adult who are applying for a sales clerk position?
 
 Homophobia
-^^^^^^^^^^
+----------
 
 Another form of prejudice is **homophobia**\ {: data-type=“term”}:
 **prejudice**\ {: data-type=“term” .no-emphasis} and
@@ -539,7 +543,7 @@ attitudes, and discrimination were evident?
    either deny or are unaware.
 
 WHY DO PREJUDICE AND DISCRIMINATION EXIST?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==========================================
 
 **Prejudice**\ {: data-type=“term” .no-emphasis} and
 **discrimination**\ {: data-type=“term” .no-emphasis} persist in society
@@ -559,7 +563,7 @@ recall a time when you held prejudiced attitudes or beliefs or acted in
 a discriminatory manner because your group of friends expected you to?
 
 STEREOTYPES AND SELF-FULFILLING PROPHECY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================
 
 When we hold a **stereotype**\ {: data-type=“term” .no-emphasis} about a
 person, we have expectations that he or she will fulfill that
@@ -613,7 +617,7 @@ individual is ambiguous. If information is unambiguous, stereotypes do
 not tend to arise (Baron et al., 1995).
 
 IN-GROUPS AND OUT-GROUPS
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 As discussed previously in this section, we all belong to a gender,
 race, age, and social economic group. These groups provide a powerful
@@ -651,7 +655,7 @@ out-group when the in-group experiences frustration or is blocked from
 obtaining a goal (Allport, 1954).
 
 Summary
-~~~~~~~
+=======
 
 As diverse individuals, humans can experience conflict when interacting
 with people who are different from each other. Prejudice, or negative
@@ -664,7 +668,7 @@ may blame the out-groups for their plight, thus using the out-group as a
 scapegoat for their frustration.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -729,7 +733,7 @@ Review Questions
       B
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -764,7 +768,7 @@ Critical Thinking Questions
       may actively seek out information to confirm their assertions.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

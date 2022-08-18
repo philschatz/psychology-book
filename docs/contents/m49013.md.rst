@@ -1,3 +1,7 @@
+==========================
+Why Is Research Important?
+==========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how
@@ -47,7 +51,7 @@ knowledge is generated, and how important that knowledge is in forming
 decisions in our personal lives and in the public domain.
 
 USE OF RESEARCH INFORMATION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 Trying to determine which theories are and are not accepted by the
 scientific community can be difficult, especially in an area of research
@@ -133,7 +137,7 @@ community, facts can be established only using evidence collected
 through empirical research.
 
 THE PROCESS OF SCIENTIFIC RESEARCH
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
 Scientific knowledge is advanced through a process known as the
 **scientific method**\ {: data-type=“term” .no-emphasis}. Basically,
@@ -285,7 +289,7 @@ repeatedly.
    experiment to test house paint.
 
 Summary
-~~~~~~~
+=======
 
 Scientists are engaged in explaining and understanding how the world
 around them works, and they are able to do so by coming up with theories
@@ -297,7 +301,7 @@ generated from research aids in making wise decisions both in public
 policy and in our personal lives.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -362,7 +366,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -401,7 +405,7 @@ Critical Thinking Questions
       presumably accurate) information to be collected.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

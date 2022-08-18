@@ -1,3 +1,7 @@
+====================
+Problems with Memory
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Compare and
@@ -14,7 +18,7 @@ embarrassed, when our memories have failed us. There are several reasons
 why this happens.
 
 AMNESIA
-~~~~~~~
+=======
 
 **Amnesia**\ {: data-type=“term”} is the loss of long-term memory that
 occurs as the result of disease, physical trauma, or psychological
@@ -30,7 +34,7 @@ The only exception is the experiences that, at any time, he has had in
 the last minute or two. (Tulving, 2002, p. 14)
 
 Anterograde Amnesia
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 There are two common types of amnesia: anterograde amnesia and
 retrograde amnesia (`[link] <#Figure_08_03_AntRet>`__). Anterograde
@@ -63,7 +67,7 @@ arrow pointing right to the word “present”; the arrow is labeled
 “anterograde amnesia.”|\ {: #Figure_08_03_AntRet}
 
 Retrograde Amnesia
-^^^^^^^^^^^^^^^^^^
+------------------
 
 **Retrograde amnesia**\ {: data-type=“term”} is loss of memory for
 events that occurred prior to the trauma. People with retrograde amnesia
@@ -89,7 +93,7 @@ cases of retrograde amnesia on record.
    Scott Bolzan’s amnesia and his attempts to get his life back.
 
 MEMORY CONSTRUCTION AND RECONSTRUCTION
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+======================================
 
 The formulation of new memories is sometimes called **construction**\ {:
 data-type=“term”}, and the process of bringing up old memories is called
@@ -103,7 +107,7 @@ memories and combining them with new memories (Roediger and DeSoto, in
 press).
 
 Suggestibility
-^^^^^^^^^^^^^^
+--------------
 
 When someone witnesses a crime, that person’s memory of the details of
 the crime is very important in catching the suspect. Because memory is
@@ -137,7 +141,7 @@ claim to remember something that in fact is only a suggestion someone
 made. It is the suggestion that is the cause of the false memory.
 
 Eyewitness Misidentification
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 Even though memory and the process of reconstruction can be fragile,
 police officers, prosecutors, and the courts often rely on eyewitness
@@ -230,7 +234,7 @@ http://www.innocenceproject.org.
    Elizabeth Smart was returned to her family.
 
 The Misinformation Effect
-^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 Cognitive psychologist Elizabeth Loftus has conducted extensive research
 on memory. She has studied false memories as well as recovered memories
@@ -268,7 +272,7 @@ mph, “bumped” at about 37 mph, “hit” at about 34 mph, and “contacted�
 about 32 mph.|\ {: #Figure_08_03_CarCrash}
 
 Controversies over Repressed and Recovered Memories
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Other researchers have described how whole events, not just words, can
 be falsely recalled, even when they did not happen. The idea that
@@ -332,7 +336,7 @@ now inform jurors about the possibility of misidentification. Judges can
 also suppress eyewitness testimony if they deem it unreliable.
 
 FORGETTING
-~~~~~~~~~~
+==========
 
 “I’ve a grand memory for forgetting,” quipped Robert Louis Stevenson.
 **Forgetting**\ {: data-type=“term”} refers to loss of information from
@@ -343,7 +347,7 @@ embarrassing. But why do we forget? To answer this question, we will
 look at several perspectives on forgetting.
 
 Encoding Failure
-^^^^^^^^^^^^^^^^
+----------------
 
 Sometimes memory loss happens before the actual memory process begins,
 which is encoding failure. We can’t remember something if we never
@@ -365,7 +369,7 @@ long-term memory, so we will not be able to remember it.
 and orientation of text.|\ {: #Figure_08_03_Coins}
 
 Memory Errors
-^^^^^^^^^^^^^
+-------------
 
 Psychologist Daniel Schacter (2001), a well-known memory researcher,
 offers seven ways our memories fail us. He calls them the seven sins of
@@ -942,7 +946,7 @@ concentrate on work because you keep remembering the scene.
 #Figure_08_03_Soldiers}
 
 Interference
-^^^^^^^^^^^^
+------------
 
 Sometimes information is stored in our memory, but for some reason it is
 inaccessible. This is known as interference, and there are two types:
@@ -975,7 +979,7 @@ the text “retroactive interference (new information hinders recall of
 old information.”|\ {: #Figure_08_03_Interfere}
 
 Summary
-~~~~~~~
+=======
 
 All of us at times have felt dismayed, frustrated, and even embarrassed
 when our memories have failed us. Our memory is flexible and prone to
@@ -992,7 +996,7 @@ Retroactive interference happens when information learned more recently
 hinders the recall of older information.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1042,7 +1046,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1077,7 +1081,7 @@ Critical Thinking Questions
       trauma.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

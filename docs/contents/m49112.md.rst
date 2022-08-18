@@ -1,3 +1,7 @@
+=====================
+Stages of Development
+=====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Describe the
@@ -19,7 +23,7 @@ different stages that are based on age. We will discuss prenatal,
 infant, child, adolescent, and adult development.
 
 PRENATAL DEVELOPMENT
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 How did you come to be who you are? From beginning as a one-cell
 structure to your birth, your **prenatal development**\ {:
@@ -31,7 +35,7 @@ fetal. Let’s take a look at what happens to the developing baby in each
 of these stages.
 
 Germinal Stage (Weeks 1–2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 
 In the discussion of biopsychology earlier in the book, you learned
 about genetics and DNA. A mother and father’s DNA is passed on to the
@@ -55,7 +59,7 @@ of the mother’s uterus. Once it does, the next stage begins.
 #Figure_09_02_Conception}
 
 Embryonic Stage (Weeks 3–8)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 After the zygote divides for about 7–10 days and has 150 cells, it
 travels down the fallopian tubes and implants itself in the lining of
@@ -70,7 +74,7 @@ and organs form and begin to function. The neural tube forms along the
 back of the embryo, developing into the spinal cord and brain.
 
 Fetal Stage (Weeks 9–40)
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 When the organism is about nine weeks old, the embryo is called a fetus.
 At this stage, the fetus is about the size of a kidney bean and begins
@@ -114,7 +118,7 @@ full-term development.”|\ {: #Figure_09_02_Stages}
    Miracle <http://openstax.org/l/miracle>`__ from Nova and PBS.
 
 Prenatal Influences
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 During each prenatal stage, genetic and environmental factors can affect
 development. The developing fetus is completely dependent on the mother
@@ -433,7 +437,7 @@ effects of alcohol (Tran & Kelly, 2003).
    charging pregnant women with child abuse?
 
 INFANCY THROUGH CHILDHOOD
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 The average newborn weighs approximately 7.5 pounds. Although small, a
 newborn is not completely helpless because his reflexes and sensory
@@ -484,7 +488,7 @@ two-thirds of the week-old babies turned toward the gauze pad with their
 mother’s scent.
 
 Physical Development
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 In infancy, toddlerhood, and early childhood, the body’s physical
 development is rapid (`[link] <#Figure_09_04_Growth>`__). On average,
@@ -894,7 +898,7 @@ Counts to 10 or higher; prints some letters and copies basic shapes
    </table>
 
 Cognitive Development
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 In addition to rapid physical growth, young children also exhibit
 significant development of their cognitive abilities. Piaget thought
@@ -1036,7 +1040,7 @@ learned through our interactions with our linguistic environment
 (Gleitman & Newport, 1995; Stork & Widdowson, 1974).
 
 Attachment
-^^^^^^^^^^
+----------
 
 Psychosocial development occurs as children form relationships, interact
 with others, and understand and manage their feelings. In social and
@@ -1160,7 +1164,7 @@ Sagi-Schwartz, 2008).
    attachment baby Lisa exhibits.
 
 Self-Concept
-^^^^^^^^^^^^
+------------
 
 Just as attachment is the main psychosocial milestone of infancy, the
 primary psychosocial milestone of childhood is the development of a
@@ -1320,7 +1324,7 @@ parents to withdraw (Sanson & Rothbart, 1995).
    punishment. Do you agree with these practices? Why or why not?
 
 ADOLESCENCE
-~~~~~~~~~~~
+===========
 
 Adolescence is a socially constructed concept. In pre-industrial
 society, children were considered adults when they reached physical
@@ -1340,7 +1344,7 @@ background.|\ {: #Figure_09_04_Adolescent}
 .. _physical-development-1:
 
 Physical Development
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 As noted above, adolescence begins with puberty. While the sequence of
 physical changes in puberty is predictable, the onset and pace of
@@ -1411,7 +1415,7 @@ maturing into early adulthood (Casey, Tottenham, Liston, & Durston,
 .. _cognitive-development-1:
 
 Cognitive Development
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 More complex thinking abilities emerge during adolescence. Some
 researchers suggest this is due to increases in processing speed and
@@ -1443,7 +1447,7 @@ take the perspective of others (Miklikowska, Duriez, & Soenens, 2011).
 figure out a problem together.|\ {: #Figure_09_04_Reasoning}
 
 Psychosocial Development
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 Adolescents continue to refine their sense of self as they relate to
 others. Erikson referred to the task of the adolescent as one of
@@ -1474,7 +1478,7 @@ money, curfews, clothing, chores, and friends. These types of arguments
 tend to decrease as teens develop (Galambos & Almeida, 1992).
 
 Emerging Adulthood
-^^^^^^^^^^^^^^^^^^
+------------------
 
 The next stage of development is **emerging adulthood**\ {:
 data-type=“term”}. This is a relatively newly defined period of lifespan
@@ -1517,7 +1521,7 @@ times, putting them on a much later timetable than their parents
 (Arnett, 2000).
 
 ADULTHOOD
-~~~~~~~~~
+=========
 
 Adulthood begins around 20 years old and has three distinct stages:
 early, middle, and late. Each stage brings its own set of rewards and
@@ -1526,7 +1530,7 @@ challenges.
 .. _physical-development-2:
 
 Physical Development
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 By the time we reach early adulthood (20 to early 40s), our physical
 maturation is complete, although our height and weight may increase
@@ -1566,7 +1570,7 @@ in later years.
 .. _cognitive-development-2:
 
 Cognitive Development
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 Because we spend so many years in adulthood (more than any other stage),
 cognitive changes are numerous. In fact, research suggests that adult
@@ -1602,7 +1606,7 @@ Lindenberger, 2009; Larson et al., 2006; Podewils et al., 2005).
 .. _psychosocial-development-1:
 
 Psychosocial Development
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 There are many theories about the social and emotional aspects of aging.
 Some aspects of healthy aging include activities, social connectedness,
@@ -1648,7 +1652,7 @@ direction.|\ {: #Figure_09_04_Support}
    on aging in America.
 
 Summary
-~~~~~~~
+=======
 
 At conception the egg and sperm cell are united to form a zygote, which
 will begin to divide rapidly. This marks the beginning of the first
@@ -1679,7 +1683,7 @@ cognitive health as we age. Social supports through family and friends
 remain important as we age.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -1776,7 +1780,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -1901,7 +1905,7 @@ Critical Thinking Questions
       on a much later timetable than their parents.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 

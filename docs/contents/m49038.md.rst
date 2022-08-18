@@ -1,3 +1,7 @@
+=============================
+Other States of Consciousness
+=============================
+
 .. container::
 
    By the end of this section, you will be able to: \* Define hypnosis
@@ -11,7 +15,7 @@ as additional examples of altered states of consciousness experienced by
 some individuals.
 
 HYPNOSIS
-~~~~~~~~
+========
 
 **Hypnosis**\ {: data-type=“term”} is a state of extreme self-focus and
 attention in which minimal attention is given to external stimuli. In
@@ -97,7 +101,7 @@ consciousness, but as their fulfillment of the social expectations for
 that role.
 
 MEDITATION
-~~~~~~~~~~
+==========
 
 **Meditation**\ {: data-type=“term”} is the act of focusing on a single
 target (such as the breath or a repeated sound) to increase awareness of
@@ -148,7 +152,7 @@ crisscrossed. Photograph B shows a person in a similar position.|\ {:
    specific mindfulness-meditative techniques.
 
 Summary
-~~~~~~~
+=======
 
 Hypnosis is a focus on the self that involves suggested changes of
 behavior and experience. Meditation involves relaxed, yet focused,
@@ -157,7 +161,7 @@ states of consciousness that have potential application for the
 treatment of a variety of physical and psychological disorders.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -222,7 +226,7 @@ Review Questions
       A
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -253,7 +257,7 @@ Critical Thinking Questions
       sort of randomized control trial would be very informative.
 
 Personal Application Question
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 .. container::
 

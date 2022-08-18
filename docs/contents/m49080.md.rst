@@ -1,3 +1,7 @@
+====================
+How Memory Functions
+====================
+
 .. container::
 
    By the end of this section, you will be able to: \* Discuss the three
@@ -21,7 +25,7 @@ right-facing arrow connects “Encoding” to “Storage” and another connects
    for more information on some unexpected facts about memory.
 
 ENCODING
-~~~~~~~~
+========
 
 We get information into our brains through a process called
 **encoding**\ {: data-type=“term”}, which is the input of information
@@ -127,7 +131,7 @@ semantic encoding be beneficial to you as you attempt to memorize the
 concepts in this chapter?
 
 STORAGE
-~~~~~~~
+=======
 
 Once the information has been encoded, we have to somehow retain it. Our
 brains take the encoded information and place it in storage.
@@ -170,7 +174,7 @@ part of memory supervises or controls the flow of information to and
 from the three short-term systems.
 
 Sensory Memory
-^^^^^^^^^^^^^^
+--------------
 
 In the Atkinson-Shiffrin model, stimuli from the environment are
 processed first in **sensory memory**\ {: data-type=“term”}: storage of
@@ -202,7 +206,7 @@ the name of the color. For example, the word “red” is colored blue.|\ {:
 #Figure_08_01_Stroop}
 
 Short-Term Memory
-^^^^^^^^^^^^^^^^^
+-----------------
 
 **Short-term memory (STM)**\ {: data-type=“term”} is a temporary storage
 system that processes incoming sensory memory; sometimes it is called
@@ -243,7 +247,7 @@ Recall is somewhat better for random numbers than for random letters
 (acoustic encoding) rather than see (visual encoding) (Anderson, 1969).
 
 Long-term Memory
-^^^^^^^^^^^^^^^^
+----------------
 
 **Long-term memory (LTM)**\ {: data-type=“term”} is the continuous
 storage of information. Unlike short-term memory, the storage capacity
@@ -358,7 +362,7 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
    show *60 Minutes*.
 
 RETRIEVAL
-~~~~~~~~~
+=========
 
 So you have worked hard to encode (via effortful processing) and store
 some important information for your upcoming final exam. How do you get
@@ -399,7 +403,7 @@ quickly she’s able to pick up the language after not speaking it for 13
 years; this is an example of relearning.
 
 Summary
-~~~~~~~
+=======
 
 Memory is a system or process that stores what we learn for future use.
 
@@ -423,7 +427,7 @@ of storage and back into conscious awareness. This is done through
 recall, recognition, and relearning.
 
 Review Questions
-~~~~~~~~~~~~~~~~
+================
 
 .. container::
 
@@ -471,7 +475,7 @@ Review Questions
       D
 
 Critical Thinking Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 .. container::
 
@@ -529,7 +533,7 @@ Critical Thinking Questions
       you study for a test requires effortful processing.
 
 Personal Application Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 .. container::
 
