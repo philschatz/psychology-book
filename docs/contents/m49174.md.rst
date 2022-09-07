@@ -2,6 +2,12 @@
 Mental Health Treatment: Past and Present
 =========================================
 
+
+
+.. contents::
+   :depth: 3
+..
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how

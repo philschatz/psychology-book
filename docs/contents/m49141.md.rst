@@ -3,6 +3,11 @@ Introduction
 ============
 
 
+
+.. contents::
+   :depth: 3
+..
+
 class=“introduction”
 
 class=“summary” title=“Summary”
@@ -80,7 +85,7 @@ American Academy of Neurology. (2014). *Headache*. Retrieved from
 https://patients.aan.com/disorders/index.cfm?event=view&disorder\_id=936
 
 American Heart Association. (2012a). *What is angina?* Retrieved from
-http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm\\_300287.pdf
+http://www.heart.org/idc/groups/heart-public/(wcm?)/(hcm/documents/downloadable/ucm?)\\_300287.pdf
 
 American Heart Association. (2012b). *Why blood pressure matters*.
 Retrieved from

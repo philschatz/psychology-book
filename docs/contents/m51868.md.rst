@@ -3,6 +3,11 @@ Preface
 =======
 
 
+
+.. contents::
+   :depth: 3
+..
+
 Welcome to *Psychology*, an OpenStax resource. This textbook was written
 to increase student access to high-quality learning materials,
 maintaining highest standards of academic rigor at little to no cost.

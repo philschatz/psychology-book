@@ -2,6 +2,12 @@
 Substance-Related and Addictive Disorders: A Special Case
 =========================================================
 
+
+
+.. contents::
+   :depth: 3
+..
+
 .. container::
 
    By the end of this section, you will be able to: \* Recognize the
