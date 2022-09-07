@@ -1,0 +1,273 @@
+====================
+What Is Personality?
+====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define
+   personality \* Describe early theories about personality development
+
+**Personality**\ {: data-type=“term”} refers to the long-standing traits
+and patterns that propel individuals to consistently think, feel, and
+behave in specific ways. Our personality is what makes us unique
+individuals. Each person has an idiosyncratic pattern of enduring,
+long-term characteristics and a manner in which he or she interacts with
+other individuals and the world around them. Our personalities are
+thought to be long term, stable, and not easily changed. The word
+*personality* comes from the Latin word *persona*. In the ancient world,
+a persona was a mask worn by an actor. While we tend to think of a mask
+as being worn to conceal one’s identity, the theatrical mask was
+originally used to either represent or project a specific personality
+trait of a character (`[link] <#Figure_11_01_Masks>`__).
+
+|Three masks are arranged side by side. The masks are almost identical,
+but with slightly different facial expressions resulting from the masks
+being at different angles. The first mask is tilted downward and has
+downcast eyes. The second mask is shown straight on and is directing its
+gaze slightly higher than the first. The third mask is tilted upwards so
+its gaze is directed more upward.|\ {: #Figure_11_01_Masks}
+
+HISTORICAL PERSPECTIVES
+=======================
+
+The concept of personality has been studied for at least 2,000 years,
+beginning with Hippocrates in 370 BCE (Fazeli, 2012). Hippocrates
+theorized that personality traits and human behaviors are based on four
+separate temperaments associated with four fluids (“humors”) of the
+body: choleric temperament (yellow bile from the liver), melancholic
+temperament (black bile from the kidneys), sanguine temperament (red
+blood from the heart), and phlegmatic temperament (white phlegm from the
+lungs) (Clark & Watson, 2008; Eysenck & Eysenck, 1985; Lecci &
+Magnavita, 2013; Noga, 2007). Centuries later, the influential Greek
+physician and philosopher **Galen**\ {: data-type=“term” .no-emphasis}
+built on Hippocrates’s theory, suggesting that both diseases and
+personality differences could be explained by imbalances in the humors
+and that each person exhibits one of the four temperaments. For example,
+the choleric person is passionate, ambitious, and bold; the melancholic
+person is reserved, anxious, and unhappy; the sanguine person is joyful,
+eager, and optimistic; and the phlegmatic person is calm, reliable, and
+thoughtful (Clark & Watson, 2008; Stelmack & Stalikas, 1991). Galen’s
+theory was prevalent for over 1,000 years and continued to be popular
+through the Middle Ages.
+
+In 1780, Franz Gall, a German physician, proposed that the distances
+between bumps on the skull reveal a person’s personality traits,
+character, and mental abilities (`[link] <#Figure_11_01_Phrenology>`__).
+According to Gall, measuring these distances revealed the sizes of the
+brain areas underneath, providing information that could be used to
+determine whether a person was friendly, prideful, murderous, kind, good
+with languages, and so on. Initially, phrenology was very popular;
+however, it was soon discredited for lack of empirical support and has
+long been relegated to the status of pseudoscience (Fancher, 1979).
+
+|Photograph A shows the cover of the American Phrenological Journal
+circa 1848. Across the top it reads: “American Phrenological Journal.”
+Below that it says “Know thyself.” Below that is a picture of a human
+head facing left, with many pictures comprising the area where the brain
+is. Below the person’s ear it says “Home truths for home consumption.”
+The lines below that read: “1848,” “Vol. X, March, No. 3,” “O.S. Fowler,
+Editor,” “Phrenology, Physiology, Physiognomy, Magnetism,” “New York,”
+“Fowlers and Wells,” “Phrenological cabinet, 131 Nassau-Street,” and
+“Terms $1 a year, invariably in advance. Ten cts. a Number.” Photograph
+B shows a printed cartoon of a person in a chair with another person
+behind. There are three other people in the room, and the wall is
+decorated with various skulls. Below the picture it reads: “Drawn on
+Stone by E.H,” and “The Phrenologist.”|\ {: #Figure_11_01_Phrenology}
+
+In the centuries after Galen, other researchers contributed to the
+development of his four primary temperament types, most prominently
+Immanuel Kant (in the 18th century) and psychologist Wilhelm
+**Wundt**\ {: data-type=“term” .no-emphasis} (in the 19th century)
+(Eysenck, 2009; Stelmack & Stalikas, 1991; Wundt, 1874/1886)
+(`[link] <#Figure_11_01_FourTemper>`__). Kant agreed with Galen that
+everyone could be sorted into one of the four temperaments and that
+there was no overlap between the four categories (Eysenck, 2009). He
+developed a list of traits that could be used to describe the
+personality of a person from each of the four temperaments. However,
+Wundt suggested that a better description of personality could be
+achieved using two major axes: emotional/nonemotional and
+changeable/unchangeable. The first axis separated strong from weak
+emotions (the melancholic and choleric temperaments from the phlegmatic
+and sanguine). The second axis divided the changeable temperaments
+(choleric and sanguine) from the unchangeable ones (melancholic and
+phlegmatic) (Eysenck, 2009).
+
+|A circle is divided vertically and horizontally into four sections by
+lines with arrows at the ends. Clockwise from the top, the arrows are
+labeled “Strong Emotions,” “Changeable Temperaments,” “Weak Emotions,”
+and “Unchangeable Temperaments.” The arcs around the perimeter of the
+circle, clockwise beginning with the top right segment are labeled
+“Choleric,” “Sanguine,” “Phlegmatic,” and “Melancholic.” The sections
+inside each arc contain descriptive words. Inside the Choleric arc are
+the words “excitable, egocentric, exhibitionist, impulsive, histrionic,
+and active.” Inside the Sanguine arc are the words “playful, easygoing,
+sociable, carefree, hopeful, and contented.” Inside the Phlegmatic arc
+are the words “reasonable, principled, controlled, persistent,
+steadfast, and calm.” Inside the Melancholic arc are the words “anxious,
+worried, unhappy, suspicious, serious, and thoughtful.”|\ {:
+#Figure_11_01_FourTemper}
+
+Sigmund Freud’s psychodynamic perspective of personality was the first
+comprehensive theory of personality, explaining a wide variety of both
+normal and abnormal behaviors. According to Freud, unconscious drives
+influenced by sex and aggression, along with childhood sexuality, are
+the forces that influence our personality. **Freud**\ {:
+data-type=“term” .no-emphasis} attracted many followers who modified his
+ideas to create new theories about personality. These theorists,
+referred to as neo-Freudians, generally agreed with Freud that childhood
+experiences matter, but they reduced the emphasis on sex and focused
+more on the social environment and effects of culture on personality.
+The perspective of personality proposed by Freud and his followers was
+the dominant theory of personality for the first half of the 20th
+century.
+
+Other major theories then emerged, including the learning, humanistic,
+biological, evolutionary, trait, and cultural perspectives. In this
+chapter, we will explore these various perspectives on personality in
+depth.
+
+.. container:: psychology link-to-learning
+
+   View this video for a `brief
+   overview <http://openstax.org/l/mandela>`__ of some of the
+   psychological perspectives on personality.
+
+Summary
+=======
+
+Personality has been studied for over 2,000 years, beginning with
+Hippocrates. More recent theories of personality have been proposed,
+including Freud’s psychodynamic perspective, which holds that
+personality is formed through early childhood experiences. Other
+perspectives then emerged in reaction to the psychodynamic perspective,
+including the learning, humanistic, biological, trait, and cultural
+perspectives.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Personality is thought to be \________.
+
+      1. short term and easily changed
+      2. a pattern of short-term characteristics
+      3. unstable and short term
+      4. long term, stable and not easily changed {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The long-standing traits and patterns that propel individuals to
+      consistently think, feel, and behave in specific ways are known as
+      \________.
+
+      1. psychodynamic
+      2. temperament
+      3. humors
+      4. personality {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      \_______\_ is credited with the first comprehensive theory of
+      personality.
+
+      1. Hippocrates
+      2. Gall
+      3. Wundt
+      4. Freud {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      An early science that tried to correlate personality with
+      measurements of parts of a person’s skull is known as \________.
+
+      1. phrenology
+      2. psychology
+      3. physiology
+      4. personality psychology {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      What makes a personal quality part of someone’s personality?
+
+   .. container::
+
+      The particular quality or trait must be part of an enduring
+      behavior pattern, so that it is a consistent or predictable
+      quality.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      How would you describe your own personality? Do you think that
+      friends and family would describe you in much the same way? Why or
+      why not?
+
+.. container::
+
+   .. container::
+
+      How would you describe your personality in an online dating
+      profile?
+
+.. container::
+
+   .. container::
+
+      What are some of your positive and negative personality qualities?
+      How do you think these qualities will affect your choice of
+      career?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   personality
+      long-standing traits and patterns that propel individuals to
+      consistently think, feel, and behave in specific ways
+
+.. |Three masks are arranged side by side. The masks are almost identical, but with slightly different facial expressions resulting from the masks being at different angles. The first mask is tilted downward and has downcast eyes. The second mask is shown straight on and is directing its gaze slightly higher than the first. The third mask is tilted upwards so its gaze is directed more upward.| image:: ../resources/CNX_Psych_11_01_Masks.jpg
+.. |Photograph A shows the cover of the American Phrenological Journal circa 1848. Across the top it reads: “American Phrenological Journal.” Below that it says “Know thyself.” Below that is a picture of a human head facing left, with many pictures comprising the area where the brain is. Below the person’s ear it says “Home truths for home consumption.” The lines below that read: “1848,” “Vol. X, March, No. 3,” “O.S. Fowler, Editor,” “Phrenology, Physiology, Physiognomy, Magnetism,” “New York,” “Fowlers and Wells,” “Phrenological cabinet, 131 Nassau-Street,” and “Terms $1 a year, invariably in advance. Ten cts. a Number.” Photograph B shows a printed cartoon of a person in a chair with another person behind. There are three other people in the room, and the wall is decorated with various skulls. Below the picture it reads: “Drawn on Stone by E.H,” and “The Phrenologist.”| image:: ../resources/CNX_Psych_11_01_Phrenology.jpg
+.. |A circle is divided vertically and horizontally into four sections by lines with arrows at the ends. Clockwise from the top, the arrows are labeled “Strong Emotions,” “Changeable Temperaments,” “Weak Emotions,” and “Unchangeable Temperaments.” The arcs around the perimeter of the circle, clockwise beginning with the top right segment are labeled “Choleric,” “Sanguine,” “Phlegmatic,” and “Melancholic.” The sections inside each arc contain descriptive words. Inside the Choleric arc are the words “excitable, egocentric, exhibitionist, impulsive, histrionic, and active.” Inside the Sanguine arc are the words “playful, easygoing, sociable, carefree, hopeful, and contented.” Inside the Phlegmatic arc are the words “reasonable, principled, controlled, persistent, steadfast, and calm.” Inside the Melancholic arc are the words “anxious, worried, unhappy, suspicious, serious, and thoughtful.”| image:: ../resources/CNX_Psych_11_01_FourTemper.jpg

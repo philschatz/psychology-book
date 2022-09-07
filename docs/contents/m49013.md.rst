@@ -1,0 +1,464 @@
+==========================
+Why Is Research Important?
+==========================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Explain how
+   scientific research addresses questions about behavior \* Discuss how
+   scientific research guides public policy \* Appreciate how scientific
+   research can be important in making personal decisions
+
+Scientific research is a critical tool for successfully navigating our
+complex world. Without it, we would be forced to rely solely on
+intuition, other people’s authority, and blind luck. While many of us
+feel confident in our abilities to decipher and interact with the world
+around us, history is filled with examples of how very wrong we can be
+when we fail to recognize the need for evidence in supporting claims. At
+various times in history, we would have been certain that the sun
+revolved around a flat earth, that the earth’s continents did not move,
+and that mental illness was caused by possession
+(`[link] <#CNX_Psych_02_01_trephining>`__). It is through systematic
+scientific research that we divest ourselves of our preconceived notions
+and superstitions and gain an objective understanding of ourselves and
+our world.
+
+|A skull has a large hole bored through the forehead.|\ {:
+#CNX_Psych_02_01_trephining}
+
+The goal of all scientists is to better understand the world around
+them. Psychologists focus their attention on understanding behavior, as
+well as the cognitive (mental) and physiological (body) processes that
+underlie behavior. In contrast to other methods that people use to
+understand the behavior of others, such as intuition and personal
+experience, the hallmark of scientific research is that there is
+evidence to support a claim. Scientific knowledge is **empirical**\ {:
+data-type=“term” .no-emphasis}: It is grounded in objective, tangible
+evidence that can be observed time and time again, regardless of who is
+observing.
+
+While behavior is observable, the mind is not. If someone is crying, we
+can see behavior. However, the reason for the behavior is more difficult
+to determine. Is the person crying due to being sad, in pain, or happy?
+Sometimes we can learn the reason for someone’s behavior by simply
+asking a question, like “Why are you crying?” However, there are
+situations in which an individual is either uncomfortable or unwilling
+to answer the question honestly, or is incapable of answering. For
+example, infants would not be able to explain why they are crying. In
+such circumstances, the psychologist must be creative in finding ways to
+better understand behavior. This chapter explores how scientific
+knowledge is generated, and how important that knowledge is in forming
+decisions in our personal lives and in the public domain.
+
+USE OF RESEARCH INFORMATION
+===========================
+
+Trying to determine which theories are and are not accepted by the
+scientific community can be difficult, especially in an area of research
+as broad as psychology. More than ever before, we have an incredible
+amount of information at our fingertips, and a simple internet search on
+any given research topic might result in a number of contradictory
+studies. In these cases, we are witnessing the scientific community
+going through the process of reaching a consensus, and it could be quite
+some time before a consensus emerges. For example, the hypothesized link
+between exposure to media violence and subsequent aggression has been
+debated in the scientific community for roughly 60 years. Even today, we
+will find detractors, but a consensus is building. Several professional
+organizations view media violence exposure as a risk factor for actual
+violence, including the American Medical Association, the American
+Psychiatric Association, and the American Psychological Association
+(American Academy of Pediatrics, American Academy of Child & Adolescent
+Psychiatry, American Psychological Association, American Medical
+Association, American Academy of Family Physicians, American Psychiatric
+Association, 2000).
+
+In the meantime, we should strive to think critically about the
+information we encounter by exercising a degree of healthy skepticism.
+When someone makes a claim, we should examine the claim from a number of
+different perspectives: what is the expertise of the person making the
+claim, what might they gain if the claim is valid, does the claim seem
+justified given the evidence, and what do other researchers think of the
+claim? This is especially important when we consider how much
+information in advertising campaigns and on the internet claims to be
+based on “scientific evidence” when in actuality it is a belief or
+perspective of just a few individuals trying to sell a product or draw
+attention to their perspectives.
+
+We should be informed consumers of the information made available to us
+because decisions based on this information have significant
+consequences. One such consequence can be seen in politics and public
+policy. Imagine that you have been elected as the governor of your
+state. One of your responsibilities is to manage the state budget and
+determine how to best spend your constituents’ tax dollars. As the new
+governor, you need to decide whether to continue funding the
+**D.A.R.E.**\ {: data-type=“term” .no-emphasis} (Drug Abuse Resistance
+Education) program in public schools
+(`[link] <#CNX_Psych_02_01_DARE>`__). This program typically involves
+police officers coming into the classroom to educate students about the
+dangers of becoming involved with alcohol and other drugs. According to
+the D.A.R.E. website (www.dare.org), this program has been very popular
+since its inception in 1983, and it is currently operating in 75% of
+school districts in the United States and in more than 40 countries
+worldwide. Sounds like an easy decision, right? However, on closer
+review, you discover that the vast majority of research into this
+program consistently suggests that participation has little, if any,
+effect on whether or not someone uses alcohol or other drugs (Clayton,
+Cattarello, & Johnstone, 1996; Ennett, Tobler, Ringwalt, & Flewelling,
+1994; Lynam et al., 1999; Ringwalt, Ennett, & Holt, 1991). If you are
+committed to being a good steward of taxpayer money, will you fund this
+particular program, or will you try to find other programs that research
+has consistently demonstrated to be effective?
+
+|A D.A.R.E. poster reads “D.A.R.E. to resist drugs and violence.”|\ {:
+#CNX_Psych_02_01_DARE}
+
+.. container:: psychology link-to-learning
+
+   Watch this `news report <https://openstax.org/l/DAREwork>`__ to learn
+   more about some of the controversial issues surrounding the D.A.R.E.
+   program.
+
+Ultimately, it is not just politicians who can benefit from using
+research in guiding their decisions. We all might look to research from
+time to time when making decisions in our lives. Imagine you just found
+out that a close friend has breast cancer or that one of your young
+relatives has recently been diagnosed with autism. In either case, you
+want to know which treatment options are most successful with the fewest
+side effects. How would you find that out? You would probably talk with
+your doctor and personally review the research that has been done on
+various treatment options—always with a critical eye to ensure that you
+are as informed as possible.
+
+In the end, research is what makes the difference between facts and
+opinions. **Facts**\ {: data-type=“term”} are observable realities, and
+**opinions**\ {: data-type=“term”} are personal judgments, conclusions,
+or attitudes that may or may not be accurate. In the scientific
+community, facts can be established only using evidence collected
+through empirical research.
+
+THE PROCESS OF SCIENTIFIC RESEARCH
+==================================
+
+Scientific knowledge is advanced through a process known as the
+**scientific method**\ {: data-type=“term” .no-emphasis}. Basically,
+ideas (in the form of theories and hypotheses) are tested against the
+real world (in the form of empirical observations), and those empirical
+observations lead to more ideas that are tested against the real world,
+and so on. In this sense, the scientific process is circular. The types
+of reasoning within the circle are called deductive and inductive. In
+**deductive reasoning**\ {: data-type=“term”}, ideas are tested against
+the empirical world; in **inductive reasoning**\ {: data-type=“term”},
+empirical observations lead to new ideas
+(`[link] <#CNX_Psych_02_01_Reasoning>`__). These processes are
+inseparable, like inhaling and exhaling, but different research
+approaches place different emphasis on the deductive and inductive
+aspects.
+
+|A diagram has a box at the top labeled “hypothesis or general premise”
+and a box at the bottom labeled “empirical observations.” On the left,
+an arrow labeled “inductive reasoning” goes from the bottom to top box.
+On the right, an arrow labeled “deductive reasoning” goes from the top
+to the bottom box.|\ {: #CNX_Psych_02_01_Reasoning}
+
+In the scientific context, deductive reasoning begins with a
+generalization—one hypothesis—that is then used to reach logical
+conclusions about the real world. If the hypothesis is correct, then the
+logical conclusions reached through deductive reasoning should also be
+correct. A deductive reasoning argument might go something like this:
+All living things require energy to survive (this would be your
+hypothesis). Ducks are living things. Therefore, ducks require energy to
+survive (logical conclusion). In this example, the hypothesis is
+correct; therefore, the conclusion is correct as well. Sometimes,
+however, an incorrect hypothesis may lead to a logical but incorrect
+conclusion. Consider this argument: all ducks are born with the ability
+to see. Quackers is a duck. Therefore, Quackers was born with the
+ability to see. Scientists use deductive reasoning to empirically test
+their hypotheses. Returning to the example of the ducks, researchers
+might design a study to test the hypothesis that if all living things
+require energy to survive, then ducks will be found to require energy to
+survive.
+
+Deductive reasoning starts with a generalization that is tested against
+real-world observations; however, inductive reasoning moves in the
+opposite direction. Inductive reasoning uses empirical observations to
+construct broad generalizations. Unlike deductive reasoning, conclusions
+drawn from inductive reasoning may or may not be correct, regardless of
+the observations on which they are based. For instance, you may notice
+that your favorite fruits—apples, bananas, and oranges—all grow on
+trees; therefore, you assume that all fruit must grow on trees. This
+would be an example of inductive reasoning, and, clearly, the existence
+of strawberries, blueberries, and kiwi demonstrate that this
+generalization is not correct despite it being based on a number of
+direct observations. Scientists use inductive reasoning to formulate
+theories, which in turn generate hypotheses that are tested with
+deductive reasoning. In the end, science involves both deductive and
+inductive processes.
+
+For example, case studies, which you will read about in the next
+section, are heavily weighted on the side of empirical observations.
+Thus, case studies are closely associated with inductive processes as
+researchers gather massive amounts of observations and seek interesting
+patterns (new ideas) in the data. Experimental research, on the other
+hand, puts great emphasis on deductive reasoning.
+
+.. container:: psychology link-to-learning
+
+   Play this `“Deal Me In” interactive card
+   game <http://openstax.org/l/dealmein>`__ to practice using inductive
+   reasoning.
+
+We’ve stated that theories and hypotheses are ideas, but what sort of
+ideas are they, exactly? A **theory**\ {: data-type=“term”} is a
+well-developed set of ideas that propose an explanation for observed
+phenomena. Theories are repeatedly checked against the world, but they
+tend to be too complex to be tested all at once; instead, researchers
+create hypotheses to test specific aspects of a theory.
+
+A **hypothesis**\ {: data-type=“term”} is a testable prediction about
+how the world will behave if our idea is correct, and it is often worded
+as an if-then statement (e.g., if I study all night, I will get a
+passing grade on the test). The hypothesis is extremely important
+because it bridges the gap between the realm of ideas and the real
+world. As specific hypotheses are tested, theories are modified and
+refined to reflect and incorporate the result of these tests
+`[link] <#CNX_Psych_02_01_Method>`__.
+
+|A diagram has four boxes: the top is labeled “theory,” the right is
+labeled “hypothesis,” the bottom is labeled “research,” and the left is
+labeled “observation.” Arrows flow in the direction from top to right to
+bottom to left and back to the top, clockwise. The top right arrow is
+labeled “use the hypothesis to form a theory,” the bottom right arrow is
+labeled “design a study to test the hypothesis,” the bottom left arrow
+is labeled “perform the research,” and the top left arrow is labeled
+“create or modify the theory.”|\ {: #CNX_Psych_02_01_Method}
+
+To see how this process works, let’s consider a specific theory and a
+hypothesis that might be generated from that theory. As you’ll learn in
+a later chapter, the James-Lange theory of emotion asserts that
+emotional experience relies on the physiological arousal associated with
+the emotional state. If you walked out of your home and discovered a
+very aggressive snake waiting on your doorstep, your heart would begin
+to race and your stomach churn. According to the James-Lange theory,
+these physiological changes would result in your feeling of fear. A
+hypothesis that could be derived from this theory might be that a person
+who is unaware of the physiological arousal that the sight of the snake
+elicits will not feel fear.
+
+A scientific hypothesis is also **falsifiable**\ {: data-type=“term”},
+or capable of being shown to be incorrect. Recall from the introductory
+chapter that Sigmund **Freud**\ {: data-type=“term” .no-emphasis} had
+lots of interesting ideas to explain various human behaviors
+(`[link] <#CNX_Psych_02_01_freud>`__). However, a major criticism of
+Freud’s theories is that many of his ideas are not falsifiable; for
+example, it is impossible to imagine empirical observations that would
+disprove the existence of the id, the ego, and the superego—the three
+elements of personality described in Freud’s theories. Despite this,
+Freud’s theories are widely taught in introductory psychology texts
+because of their historical significance for personality psychology and
+psychotherapy, and these remain the root of all modern forms of therapy.
+
+|(a)A photograph shows Freud holding a cigar. (b) The mind’s conscious
+and unconscious states are illustrated as an iceberg floating in water.
+Beneath the water’s surface in the “unconscious” area are the id, ego,
+and superego. The area just below the water’s surface is labeled
+“preconscious.” The area above the water’s surface is labeled
+“conscious.”|\ {: #CNX_Psych_02_01_freud}
+
+In contrast, the James-Lange theory does generate falsifiable
+hypotheses, such as the one described above. Some individuals who suffer
+significant injuries to their spinal columns are unable to feel the
+bodily changes that often accompany emotional experiences. Therefore, we
+could test the hypothesis by determining how emotional experiences
+differ between individuals who have the ability to detect these changes
+in their physiological arousal and those who do not. In fact, this
+research has been conducted and while the emotional experiences of
+people deprived of an awareness of their physiological arousal may be
+less intense, they still experience emotion (Chwalisz, Diener, &
+Gallagher, 1988).
+
+Scientific research’s dependence on falsifiability allows for great
+confidence in the information that it produces. Typically, by the time
+information is accepted by the scientific community, it has been tested
+repeatedly.
+
+.. container:: psychology link-to-learning
+
+   Visit this `website <http://openstax.org/l/mmystery>`__ to apply the
+   scientific method and practice its steps by using them to solve a
+   murder mystery, determine why a student is in trouble, and design an
+   experiment to test house paint.
+
+Summary
+=======
+
+Scientists are engaged in explaining and understanding how the world
+around them works, and they are able to do so by coming up with theories
+that generate hypotheses that are testable and falsifiable. Theories
+that stand up to their tests are retained and refined, while those that
+do not are discarded or modified. In this way, research enables
+scientists to separate fact from simple opinion. Having good information
+generated from research aids in making wise decisions both in public
+policy and in our personal lives.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Scientific hypotheses are \_______\_ and falsifiable.
+
+      1. observable
+      2. original
+      3. provable
+      4. testable {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      \_______\_ are defined as observable realities.
+
+      1. behaviors
+      2. facts
+      3. opinions
+      4. theories {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Scientific knowledge is \________.
+
+      1. intuitive
+      2. empirical
+      3. permanent
+      4. subjective {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      A major criticism of Freud’s early theories involves the fact that
+      his theories \________.
+
+      1. were too limited in scope
+      2. were too outrageous
+      3. were too broad
+      4. were not testable {: type=“a”}
+
+   .. container::
+      :name: eip-idp50880816
+
+      D
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      In this section, the D.A.R.E. program was described as an
+      incredibly popular program in schools across the United States
+      despite the fact that research consistently suggests that this
+      program is largely ineffective. How might one explain this
+      discrepancy?
+
+   .. container::
+
+      There is probably tremendous political pressure to appear to be
+      hard on drugs. Therefore, even though D.A.R.E. might be
+      ineffective, it is a well-known program with which voters are
+      familiar.
+
+.. container::
+
+   .. container::
+
+      The scientific method is often described as self-correcting and
+      cyclical. Briefly describe your understanding of the scientific
+      method with regard to these concepts.
+
+   .. container::
+
+      This cyclical, self-correcting process is primarily a function of
+      the empirical nature of science. Theories are generated as
+      explanations of real-world phenomena. From theories, specific
+      hypotheses are developed and tested. As a function of this
+      testing, theories will be revisited and modified or refined to
+      generate new hypotheses that are again tested. This cyclical
+      process ultimately allows for more and more precise (and
+      presumably accurate) information to be collected.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Healthcare professionals cite an enormous number of health
+      problems related to obesity, and many people have an
+      understandable desire to attain a healthy weight. There are many
+      diet programs, services, and products on the market to aid those
+      who wish to lose weight. If a close friend was considering
+      purchasing or participating in one of these products, programs, or
+      services, how would you make sure your friend was fully aware of
+      the potential consequences of this decision? What sort of
+      information would you want to review before making such an
+      investment or lifestyle change yourself?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   deductive reasoning
+      results are predicted based on a general premise ^
+   empirical
+      grounded in objective, tangible evidence that can be observed time
+      and time again, regardless of who is observing ^
+   fact
+      objective and verifiable observation, established using evidence
+      collected through empirical research ^
+   falsifiable
+      able to be disproven by experimental results ^
+   hypothesis
+      (plural: hypotheses) tentative and testable statement about the
+      relationship between two or more variables ^
+   inductive reasoning
+      conclusions are drawn from observations ^
+   opinion
+      personal judgments, conclusions, or attitudes that may or may not
+      be accurate ^
+   theory
+      well-developed set of ideas that propose an explanation for
+      observed phenomena
+
+.. |A skull has a large hole bored through the forehead.| image:: ../resources/CNX_Psych_02_01_trephining.jpg
+.. |A D.A.R.E. poster reads “D.A.R.E. to resist drugs and violence.”| image:: ../resources/CNX_Psych_02_01_DARE.jpg
+.. |A diagram has a box at the top labeled “hypothesis or general premise” and a box at the bottom labeled “empirical observations.” On the left, an arrow labeled “inductive reasoning” goes from the bottom to top box. On the right, an arrow labeled “deductive reasoning” goes from the top to the bottom box.| image:: ../resources/CNX_Psych_02_01_Reasoning.jpg
+.. |A diagram has four boxes: the top is labeled “theory,” the right is labeled “hypothesis,” the bottom is labeled “research,” and the left is labeled “observation.” Arrows flow in the direction from top to right to bottom to left and back to the top, clockwise. The top right arrow is labeled “use the hypothesis to form a theory,” the bottom right arrow is labeled “design a study to test the hypothesis,” the bottom left arrow is labeled “perform the research,” and the top left arrow is labeled “create or modify the theory.”| image:: ../resources/CNX_Psych_02_01_Method.jpg
+.. |(a)A photograph shows Freud holding a cigar. (b) The mind’s conscious and unconscious states are illustrated as an iceberg floating in water. Beneath the water’s surface in the “unconscious” area are the id, ego, and superego. The area just below the water’s surface is labeled “preconscious.” The area above the water’s surface is labeled “conscious.”| image:: ../resources/CNX_Psych_02_01_freud.jpg

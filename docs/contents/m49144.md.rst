@@ -1,0 +1,324 @@
+===============================================
+The Sociocultural Model and Therapy Utilization
+===============================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Explain how the
+   sociocultural model is used in therapy \* Discuss barriers to mental
+   health services among ethnic minorities
+
+The sociocultural perspective looks at you, your behaviors, and your
+symptoms in the context of your **culture**\ {: data-type=“term”
+.no-emphasis} and background. For example, José is an 18-year-old
+Hispanic male from a traditional family. José comes to treatment because
+of depression. During the intake session, he reveals that he is gay and
+is nervous about telling his family. He also discloses that he is
+concerned because his religious background has taught him that
+homosexuality is wrong. How does his religious and cultural background
+affect him? How might his cultural background affect how his family
+reacts if José were to tell them he is gay?
+
+As our society becomes increasingly multiethnic and multiracial, mental
+health professionals must develop **cultural competence**\ {:
+data-type=“term”} (`[link] <#CNX_Psych_16_05_Ethnic>`__), which means
+they must understand and address issues of race, culture, and ethnicity.
+They must also develop strategies to effectively address the needs of
+various populations for which Eurocentric therapies have limited
+application (Sue, 2004). For example, a counselor whose treatment
+focuses on individual decision making may be ineffective at helping a
+Chinese client with a collectivist approach to problem solving (Sue,
+2004).
+
+Multicultural counseling and therapy aims to offer both a helping role
+and process that uses modalities and defines goals consistent with the
+life experiences and cultural values of clients. It strives to recognize
+client identities to include individual, group, and universal
+dimensions, advocate the use of universal and culture-specific
+strategies and roles in the healing process, and balancs the importance
+of individualism and collectivism in the assessment, diagnosis, and
+treatment of client and client systems (Sue, 2001).
+
+This therapeutic perspective integrates the impact of cultural and
+social norms, starting at the beginning of treatment. Therapists who use
+this perspective work with clients to obtain and integrate information
+about their cultural patterns into a unique treatment approach based on
+their particular situation (Stewart, Simmons, & Habibpour, 2012).
+Sociocultural therapy can include individual, group, family, and couples
+treatment modalities.
+
+|A photo montage composed of eight photographs arranged in two parallel
+rows of four. From the top-left-hand-side, the photos are as follows: a
+person with a bicycle standing in a rice paddy, three children, three
+elderly people sitting along a rock wall, four cooks standing around a
+table, a classroom of students, a group of people seated at a covered
+outdoor table, two children wearing robes, and two people being held up
+by other people during a wedding ceremony.|\ {: #CNX_Psych_16_05_Ethnic}
+
+.. container:: psychology link-to-learning
+
+   Watch this short `video <http://openstax.org/l/culturalcomp>`__ to
+   learn more about cultural competence and sociocultural treatments.
+
+BARRIERS TO TREATMENT
+=====================
+
+Statistically, ethnic minorities tend to utilize mental health services
+less frequently than White, middle-class Americans (Alegría et al.,
+2008; Richman, Kohn-Wood, & Williams, 2007). Why is this so? Perhaps the
+reason has to do with access and availability of mental health services.
+Ethnic minorities and individuals of low socioeconomic status (SES)
+report that barriers to services include lack of insurance,
+transportation, and time (Thomas & Snowden, 2002). However, researchers
+have found that even when income levels and insurance variables are
+taken into account, ethnic minorities are far less likely to seek out
+and utilize mental health services. And when access to mental health
+services is comparable across ethnic and racial groups, differences in
+service utilization remain (Richman et al., 2007).
+
+In a study involving thousands of women, it was found that the
+prevalence rate of anorexia was similar across different races, but that
+bulimia nervosa was more prevalent among Hispanic and African American
+women when compared with non-Hispanic whites (Marques et al., 2011).
+Although they have similar or higher rates of eating disorders, Hispanic
+and African American women with these disorders tend to seek and engage
+in treatment far less than Caucasian women. These findings suggest
+ethnic disparities in access to care, as well as clinical and referral
+practices that may prevent Hispanic and African American women from
+receiving care, which could include lack of bilingual treatment, stigma,
+fear of not being understood, family privacy, and lack of education
+about eating disorders.
+
+Perceptions and attitudes toward mental health services may also
+contribute to this imbalance. A recent study at King’s College, London,
+found many complex reasons why people do not seek treatment:
+self-sufficiency and not seeing the need for help, not seeing therapy as
+effective, concerns about confidentiality, and the many effects of
+stigma and shame (Clement et al., 2014). And in another study, African
+Americans exhibiting depression were less willing to seek treatment due
+to fear of possible psychiatric hospitalization as well as fear of the
+treatment itself (Sussman, Robins, & Earls, 1987). Instead of mental
+health treatment, many African Americans prefer to be self-reliant or
+use spiritual practices (Snowden, 2001; Belgrave & Allison, 2010). For
+example, it has been found that the Black church plays a significant
+role as an alternative to mental health services by providing prevention
+and treatment-type programs designed to enhance the psychological and
+physical well-being of its members (Blank, Mahmood, Fox, & Guterbock,
+2002).
+
+Additionally, people belonging to ethnic groups that already report
+concerns about prejudice and discrimination are less likely to seek
+services for a mental illness because they view it as an additional
+stigma (Gary, 2005; Townes, Cunningham, & Chavez-Korell, 2009; Scott,
+McCoy, Munson, Snowden, & McMillen, 2011). For example, in one recent
+study of 462 older Korean Americans (over the age of 60) many
+participants reported suffering from depressive symptoms. However, 71%
+indicated they thought depression was a sign of personal weakness, and
+14% reported that having a mentally ill family member would bring shame
+to the family (Jang, Chiriboga, & Okazaki, 2009).
+
+Language differences are a further barrier to treatment. In the previous
+study on Korean Americans’ attitudes toward mental health services, it
+was found that there were no Korean-speaking mental health professionals
+where the study was conducted (Orlando and Tampa, Florida) (Jang et al.,
+2009). Because of the growing number of people from ethnically diverse
+backgrounds, there is a need for therapists and psychologists to develop
+knowledge and skills to become culturally competent (Ahmed, Wilson,
+Henriksen, & Jones, 2011). Those providing therapy must approach the
+process from the context of the unique culture of each client (Sue &
+Sue, 2007).
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Treatment Perceptions
+
+   By the time a child is a senior in high school, 20% of his
+   classmates—that is 1 in 5—will have experienced a mental health
+   problem (U.S. Department of Health and Human Services, 1999), and
+   8%—about 1 in 12—will have attempted suicide (Centers for Disease
+   Control and Prevention, 2014). Of those classmates experiencing
+   mental disorders, only 20% will receive professional help (U.S.
+   Public Health Service, 2000). Why?
+
+   It seems that the public has a negative perception of children and
+   teens with mental health disorders. According to researchers from
+   Indiana University, the University of Virginia, and Columbia
+   University, interviews with over 1,300 U.S. adults show that they
+   believe children with depression are prone to violence and that if a
+   child receives treatment for a psychological disorder, then that
+   child is more likely to be rejected by peers at school.
+
+   Bernice Pescosolido, author of the study, asserts that this is a
+   misconception. However, stigmatization of psychological disorders is
+   one of the main reasons why young people do not get the help they
+   need when they are having difficulties. Pescosolido and her
+   colleagues caution that this stigma surrounding mental illness, based
+   on misconceptions rather than facts, can be devastating to the
+   emotional and social well-being of our nation’s children.
+
+   This warning played out as a national tragedy in the 2012 shootings
+   at Sandy Hook Elementary. In her blog, Suzy DeYoung (2013),
+   co-founder of Sandy Hook Promise (the organization parents and
+   concerned others set up in the wake of the school massacre) speaks to
+   treatment perceptions and what happens when children do not receive
+   the mental health treatment they desperately need.
+
+   I've become accustomed to the reaction when I tell people where I'm
+   from.
+
+   Eleven months later, it's as consistent as it was back in January.
+
+   Just yesterday, inquiring as to the availability of a rental house
+   this holiday season, the gentleman taking my information paused to
+   ask, “Newtown, CT? Isn't that where that…that *thing* happened?
+
+   A recent encounter in the Massachusetts Berkshires, however, took me
+   by surprise.
+
+   It was in a small, charming art gallery. The proprietor, a woman who
+   looked to be in her 60s, asked where we were from. My response
+   usually depends on my present mood and readiness for the inevitable
+   dialogue. Sometimes it's simply, Connecticut. This time, I replied,
+   Newtown, CT.
+
+   The woman's demeanor abruptly shifted from one of amiable
+   graciousness to one of visible agitation.
+
+   “Oh my god,” she said wide eyed and open mouthed. “Did you know her?”
+
+   . . . .
+
+   “Her?” I inquired
+
+   That woman,” she replied with disdain, “that woman that raised that
+   monster.”
+
+   “That woman's” name was Nancy Lanza. Her son, Adam, killed her with a
+   rifle blast to the head before heading out to kill 20 children and
+   six educators at Sandy Hook Elementary School in Newtown, CT last
+   December 14th.
+
+   When Nelba Marquez Greene, whose beautiful 6-year-old daughter, Ana,
+   was killed by Adam Lanza, was recently asked how she felt about “that
+   woman,” this was her reply:
+
+   “She's a victim herself. And it's time in America that we start
+   looking at mental illness with compassion, and helping people who
+   need it.
+
+   “This was a family that needed help, an individual that needed help
+   and didn't get it. And what better can come of this, of this time in
+   America, than if we can get help to people who really need it?”
+   (pars. 1–7, 10–15)
+
+   Fortunately, we are starting to see campaigns related to the
+   destigmatization of mental illness and an increase in public
+   education and awareness. Join the effort by encouraging and
+   supporting those around you to seek help if they need it. To learn
+   more, visit the National Alliance on Mental Illness (NAMI) website
+   (http://www.nami.org/). The nation’s largest nonprofit mental health
+   advocacy and support organization is NAMI.
+
+Summary
+=======
+
+The sociocultural perspective looks at you, your behaviors, and your
+symptoms in the context of your culture and background. Clinicians using
+this approach integrate cultural and religious beliefs into the
+therapeutic process. Research has shown that ethnic minorities are less
+likely to access mental health services than their White middle-class
+American counterparts. Barriers to treatment include lack of insurance,
+transportation, and time; cultural views that mental illness is a
+stigma; fears about treatment; and language barriers.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The sociocultural perspective looks at you, your behaviors, and
+      your symptoms in the context of your \________.
+
+      1. education
+      2. socioeconomic status
+      3. culture and background
+      4. age {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Which of the following was *not* listed as a barrier to mental
+      health treatment?
+
+      1. fears about treatment
+      2. language
+      3. transportation
+      4. being a member of the ethnic majority {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Lashawn is a 24-year-old African American female. For years she
+      has been struggling with bulimia. She knows she has a problem, but
+      she is not willing to seek mental health services. What are some
+      reasons why she may be hesitant to get help?
+
+   .. container::
+
+      One reason may be that her culture views having a mental illness
+      as a stigma. Additionally, perhaps she doesn’t have insurance and
+      is worried about the cost of therapy. She could also be afraid
+      that a White counselor would not understand her cultural
+      background, so she would feel uncomfortable sharing things. Also,
+      she may believe she is self-reliant and tell herself that she’s a
+      strong woman who can fix this problem on her own without the help
+      of a therapist.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      What is your attitude toward mental health treatment? Would you
+      seek treatment if you were experiencing symptoms or having trouble
+      functioning in your life? Why or why not? In what ways do you
+      think your cultural and/or religious beliefs influence your
+      attitude toward psychological intervention?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   cultural competence
+      therapist’s understanding and attention to issues of race,
+      culture, and ethnicity in providing treatment
+
+.. |A photo montage composed of eight photographs arranged in two parallel rows of four. From the top-left-hand-side, the photos are as follows: a person with a bicycle standing in a rice paddy, three children, three elderly people sitting along a rock wall, four cooks standing around a table, a classroom of students, a group of people seated at a covered outdoor table, two children wearing robes, and two people being held up by other people during a wedding ceremony.| image:: ../resources/CNX_Psych_16_05_Ethnic.jpg

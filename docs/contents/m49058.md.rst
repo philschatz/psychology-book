@@ -1,0 +1,551 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|A photograph shows a crowd at the site of the Boston Marathon bombing
+immediately after it occurred. Debris is scattered on the ground,
+several people appear to be injured, and several people are helping
+others.|\ {:}
+
+What makes us behave as we do? What drives us to eat? What drives us
+toward sex? Is there a biological basis to explain the feelings we
+experience? How universal are emotions?
+
+In this chapter, we will explore issues relating to both motivation and
+emotion. We will begin with a discussion of several theories that have
+been proposed to explain motivation and why we engage in a given
+behavior. You will learn about the physiological needs that drive some
+human behaviors, as well as the importance of our social experiences in
+influencing our actions.
+
+Next, we will consider both eating and having sex as examples of
+motivated behaviors. What are the physiological mechanisms of hunger and
+satiety? What understanding do scientists have of why obesity occurs,
+and what treatments exist for obesity and eating disorders? How has
+research into human sex and sexuality evolved over the past century? How
+do psychologists understand and study the human experience of sexual
+orientation and gender identity? These questions—and more—will be
+explored.
+
+This chapter will close with a discussion of emotion. You will learn
+about several theories that have been proposed to explain how emotion
+occurs, the biological underpinnings of emotion, and the universality of
+emotions.
+
+References
+==========
+
+Ahima, R. S., & Antwi, D. A. (2008). Brain regulation of appetite and
+satiety. *Endocrinology and Metabolism Clinics of North America, 37*,
+811–823.
+
+Allen, L. S., & Gorski, R. A. (1992). Sexual orientation and the size of
+the anterior commissure in the human brain. *Proceedings of the National
+Academy of Sciences, USA, 89*, 7199–7202.
+
+American Psychiatric Association. (2013). *Feeding and eating
+disorders*. Retrieved from
+http://www.dsm5.org/documents/eating%20disorders%20fact%20sheet.pdf
+
+Arnold, H. J. (1976). Effects of performance feedback and extrinsic
+reward upon high intrinsic motivation. *Organizational Behavior and
+Human Performance, 17*, 275–288.
+
+Bailey, M. J., & Pillard, R. C. (1991). A genetic study of male sexual
+orientation. *Archives of General Psychiatry, 48*, 1089–1096.
+
+Baldwin, J. D., & Baldwin, J. I. (1989). The socialization of
+homosexuality and heterosexuality in a non-western society. *Archives of
+Sexual Behavior, 18*, 13–29.
+
+Bancroft, J. (2004). Alfred C. Kinsey and the politics of sex research.
+*Annual Review of Sex Research, 15*, 1–39.
+
+Bandura, A. (1994). Self-efficacy. In V. S. Ramachandran (Ed.),
+Encyclopedia of human behavior (Vol. 4, pp. 71–81). New York, NY:
+Academic Press.
+
+Bauminger, N. (2002). The facilitation of social-emotional understanding
+and social interaction in high-functioning children with autism:
+Intervention outcomes. *Journal of Autism and Developmental Disorders,
+32*, 283–298.
+
+Becker, J. B., Rudick, C. N., & Jenkins, W. J. (2001). The role of
+dopamine in the nucleus accumbens and striatum during sexual behavior in
+the female rat. *Journal of Neuroscience, 21*, 3236–3241.
+
+Becker, J. M. (2012, April 25). Dr. Robert Spitzer apologizes to gay
+community for infamous “ex-gay” study [Web log post]. Retrieved from
+http://www.truthwinsout.org/news/2012/04/24542/
+
+Beedie, C. J., Terry, P. C., Lane, A. M., & Devonport, T. J. (2011).
+Differential assessment of emotions and moods: Development and
+validation of the emotion and mood components of anxiety questionnaire.
+*Personality and Individual Differences, 50*, 228–233.
+
+Bell, A. P., Weinberg, M. S., & Hammersmith, S. K. (1981). *Sexual
+preferences: Its development in men and women.* Bloomington, IN: Indiana
+University Press.
+
+Berlyne, D. E. (1960). Toward a theory of exploratory behavior: II.
+Arousal potential, perceptual curiosity, and learning. In (Series Ed.),
+*Conflict, arousal, and curiosity* (pp. 193–227). New York, NY:
+McGraw-Hill Book Company.
+
+Bhasin, S., Enzlin, P., Coviello, A., & Basson, R. (2007). Sexual
+dysfunction in men and women with endocrine disorders. *The Lancet,
+369*, 597–611.
+
+Blackford, J. U., & Pine, D. S. (2012). Neural substrates of childhood
+anxiety disorders: A review of neuroimaging findings. *Child and
+Adolescent Psychiatric Clinics of North America, 21*, 501–525.
+
+Bremner, J. D., & Vermetten, E. (2004). Neuroanatomical changes
+associated with pharmacotherapy in posttraumatic stress disorder.
+*Annals of the New York Academy of Sciences, 1032*, 154–157.
+
+Buck, R. (1980). Nonverbal behavior and the theory of emotion: The
+facial feedback hypothesis. *Journal of Personality and Social
+Psychology*, *38*, 811–824.
+
+Bullough, V. L. (1998). Alfred Kinsey and the Kinsey report: Historical
+overview and lasting contributions. *The Journal of Sex Research, 35*,
+127–131.
+
+Byne, W., Tobet, S., Mattiace, L. A., Lasco, M. S., Kemether, E., Edgar,
+M. A., . . . Jones, L. B. (2001). The interstitial nuclei of the human
+anterior hypothalamus: An investigation of variation with sex, sexual
+orientation, and HIV status. *Hormones and Behavior, 40*, 86–92.
+
+Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and
+intrinsic motivation: A meta-analysis. *Review of Educational Research,
+64*, 363–423.
+
+Carey, B. (2012, May 18). Psychiatry giant sorry for backing gay ‘cure.’
+The New York Times. Retrieved from
+http://www.nytimes.com/2012/05/19/health/dr-robert-l-spitzer-noted-psychiatrist-apologizes-for-study-on-gay-cure.html?\_r=0
+
+Carter, C. S. (1992). Hormonal influences on human sexual behavior. In
+J. B. Becker, S. M. Breedlove, & D. Crews (Eds.), Behavioral
+Endocrinology (pp.131–142). Cambridge, MA: MIT Press.
+
+Cassidy, S. B., & Driscoll, D. J. (2009). Prader-Willi syndrome.
+*European Journal of Human Genetics, 17*, 3–13.
+
+Centers for Disease Control and Prevention. (2012). *Overweight and
+obesity*. Retrieved from http://www.cdc.gov/obesity/index.html
+
+Chwalisz, K., Diener, E., & Gallagher, D. (1988). Autonomic arousal
+feedback and emotional experience: Evidence from the spinal cord
+injured. *Journal of Personality and Social Psychology, 54*, 820–828.
+
+Colapinto, J. (2000). As nature made him: The boy who was raised as a
+girl. New York, NY: Harper Collins.
+
+Collier, D. A., & Treasure, J. L. (2004). The aetiology of eating
+disorders. *The British Journal of Psychiatry, 185*, 363–365.
+
+Conrad, P. (2005). The shifting engines of medicalization. *Journal of
+Health and Social Behavior, 46*, 3–14.
+
+Cunha, C., Monfils, M. H., & LeDoux, J. E. (2010). GABA(C) receptors in
+the lateral amygdala: A possible novel target for the treatment of fear
+and anxiety disorders? *Frontiers in Behavioral Neuroscience, 4*, 6.
+
+Daniel, T. L., & Esser, J. K. (1980). Intrinsic motivation as influenced
+by rewards, task interest, and task structure. *Journal of Applied
+Psychology, 65*, 566–573.
+
+Darwin, C. (1872). The expression of emotions in man and animals. New
+York, NY: Appleton.
+
+Davis, J. I., Senghas, A., & Ochsner, K. N. (2009). How does facial
+feedback modulate emotional experience? *Journal of Research in
+Personality, 43*, 822–829.
+
+Deci, E. L. (1972). Intrinsic motivation, extrinsic reinforcement, and
+inequity. *Journal of Personality and Social Psychology, 22*, 113–120.
+
+Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review
+of experiments examining the effects of extrinsic rewards on intrinsic
+motivation. *Psychological Bulletin, 125*, 627–668.
+
+de Gelder, B. (2006). Towards the neurobiology of emotional body
+language. *Nature Reviews Neuroscience, 7*, 242–249.
+
+Drazen, D. L., & Woods, S. C. (2003). Peripheral signals in the control
+of satiety and hunger. *Current Opinion in Clinical Nutrition and
+Metabolic Care, 5*, 621–629.
+
+Druce, M.R., Small, C.J., & Bloom, S.R. (2004). Minireview: Gut peptides
+regulating satiety. *Endocrinology, 145*, 2660–2665.
+
+Ekman, P., & Keltner, D. (1997). Universal facial expressions of
+emotion: An old controversy and new findings. In U. Segerstråle & P.
+Molnár (Eds.), Nonverbal communication: Where nature meets culture
+(pp. 27–46). Mahwah, NJ: Lawrence Erlbaum.
+
+Everett, B. J. (1990). Sexual motivation: A neural and behavioural
+analysis of the mechanisms underlying appetitive and copulatory
+responses of male rats. *Neuroscience and Biobehavioral Reviews, 14*,
+217–232.
+
+Faris, E. (1921). Are instincts data or hypotheses? *American Journal of
+Sociology, 27*, 184–196.
+
+Femenía, T., Gómez-Galán, M., Lindskog, M., & Magara, S. (2012).
+Dysfunctional hippocampal activity affects emotion and cognition in mood
+disorders. *Brain Research, 1476*, 58–70.
+
+Fossati, P. (2012). Neural correlates of emotion processing: From
+emotional to social brain. *European Neuropsychopharmacology, 22*,
+S487–S491.
+
+Fournier, J. C., Keener, M. T., Almeida, J., Kronhaus, D. M., &
+Phillips, M. L. (2013). Amygdala and whole-brain activity to emotional
+faces distinguishes major depressive disorder and bipolar disorder.
+Bipolar Disorders. Advance online publication. doi:10.1111/bdi.12106
+
+Francis, N. H., & Kritsonis, W. A. (2006). A brief analysis of Abraham
+Maslow’s original writing of *Self-Actualizing People: A Study of
+Psychological Health*. *Doctoral Forum National Journal of Publishing
+and Mentoring Doctoral Student Research, 3*, 1–7.
+
+Gloy, V. L., Briel, M., Bhatt, D. L., Kashyap, S. R., Schauer, P. R.,
+Mingrone, G., . . . Nordmann, A. J. (2013, October 22). Bariatric
+surgery versus non-surgical treatment for obesity: A systematic review
+and meta-analysis of randomized controlled trials. *BMJ, 347*.
+doi:http://dx.doi.org/10.1136/bmj.f5934
+
+Golan, O., & Baron-Cohen, S. (2006). Systemizing empathy: Teaching
+adults with Asperger syndrome or high-functioning autism to recognize
+complex emotions using interactive multimedia. *Development and
+Psychopathology, 18*, 591–617.
+
+Goosens, K. A., & Maren, S. (2002). Long-term potentiation as a
+substrate for memory: Evidence from studies of amygdaloid plasticity and
+Pavlovian fear conditioning. *Hippocampus, 12*, 592–599.
+
+Graham, S., & Weiner, B. (1996). Theories and principles of motivation.
+In D. C. Berliner & R. C. Calfee (Eds.), *Handbook of educational
+psychology* (pp. 63–84). New York, NY: Routledge.
+
+Greary, N. (1990). Pancreatic glucagon signals postprandial satiety.
+*Neuroscience and Biobehavioral Reviews, 14*, 323–328.
+
+Guastella, A. J., Einfeld, S. L., Gray, K. M., Rinehart, N. J., Tonge,
+B. J., Lambert, T. J., & Hickie, I. B. (2010). Intranasal oxytocin
+improves emotion recognition for youth with autism spectrum disorders.
+*Biological Psychiatry, 67*, 692–694.
+
+Hall, J. A., & Kimura, D. (1994). Dermatoglyphic asymmetry and sexual
+orientation in men. *Behavioral Neuroscience, 108*\ (6), 1203–1206.
+
+Hamer, D. H., Hu. S., Magnuson, V. L., Hu, N., & Pattatucci, A. M.
+(1993). A linkage between DNA markers on the X chromosome and male
+sexual orientation. *Science, 261*, 321-327.
+
+Havas, D. A., Glenberg, A. M., Gutowski, K. A., Lucarelli, M. J., &
+Davidson, R. J. (2010). Cosmetic use of botulinum toxin-A affects
+processing of emotional language. *Psychological Science*, *21*,
+895–900.
+
+Hobson, R. P. (1986). The autistic child’s appraisal of expressions of
+emotion. *The Journal of Child Psychology and Psychiatry, 27*, 321–342.
+
+Hock, R. R. (2008). Emotion and Motivation. In Forty studies that
+changed psychology: Explorations into the history of psychological
+research (6th ed.) (pp. 158–168). Upper Saddle River, NJ: Pearson.
+
+Hu, S. H., Wei, N., Wang, Q. D., Yan, L. Q., Wei, E.Q., Zhang, M. M., .
+. . Xu, Y. (2008). Patterns of brain activation during visually evoked
+sexual arousal differ between homosexual and heterosexual men. *American
+Journal of Neuroradiology, 29*, 1890–1896.
+
+Human Rights Campaign. (n.d.). The lies and dangers of efforts to change
+sexual orientation or gender identity. Retrieved from
+http://www.hrc.org/resources/entry/the-lies-and-dangers-of-reparative-therapy
+
+Jenkins, W. J. (2010). Can anyone tell me why I’m gay? What research
+suggests regarding the origins of sexual orientation. *North American
+Journal of Psychology, 12*, 279–296.
+
+Jenkins, W. J., & Becker, J. B. (2001). Role of the striatum and nucleus
+accumbens in paced copulatory behavior in the female rat. *Behavioural
+Brain Research, 121*, 19–28.
+
+Kinsey, A. C., Pomeroy, W. B., & Martin, C. E. (1948). *Sexual behavior
+in the human male.* Philadelphia, PA: W.B. Saunders Company.
+
+Koltko-Rivera, M. E. (2006). Rediscovering the later version of Maslow’s
+hierarchy of needs: Self-transcendence and opportunities for theory,
+research, and unification. *Review of General Psychology, 10*, 302–317.
+
+Konturek, S. J., Pepera, J., Zabielski, K., Konturek, P. C., Pawlick,
+T., Szlachcic, A., & Hahn. (2003). Brain-gut axis in pancreatic
+secretion and appetite control. *Journal of Physiology and Pharmacology,
+54*, 293–317.
+
+Lang, P. J. (1994). The varieties of emotional experience: A meditation
+on James-Lange theory. *Psychological Review, 101*, 211–221.
+
+Lazarus, R. S. (1991). *Emotion and adaptation*. New York, NY: Oxford
+University Press.
+
+LeDoux, J. E. (1996). The Emotional Brain: The Mysterious Underpinnings
+of Emotional Life. New York, NY: Simon & Schuster.
+
+LeDoux, J. E. (2002). *The synaptic self*. London, UK: Macmillan.
+
+Leonard, G. (1982). The failure of self-actualization theory: A critique
+of Carl Rogers and Abraham Maslow. *Journal of Humanistic Psychology,
+22*, 56–73.
+
+LeVay, S. (1991). A difference in the hypothalamic structure between
+heterosexual and homosexual men. *Science, 253*, 1034–1037.
+
+LeVay, S. (1996). *Queer science: The use and abuse of research into
+homosexuality.* Cambridge, MA: The MIT Press.
+
+Levy-Gigi, E., Szabó, C., Kelemen, O., & Kéri, S. (2013). Association
+among clinical response, hippocampal volume, and FKBP5 gene expression
+in individuals with posttraumatic stress disorder receiving cognitive
+behavioral therapy. *Biological Psychiatry, 74*, 793–800.
+
+Lippa, R. A. (2003). Handedness, sexual orientation, and gender-related
+personality traits in men and women. *Archives of Sexual Behavior, 32*,
+103–114.
+
+Loehlin, J. C., & McFadden, D. (2003). Otoacoustic emissions, auditory
+evoked potentials, and traits related to sex and sexual orientation.
+*Archives of Sexual Behavior, 32*, 115–127.
+
+Macdonald, H., Rutter, M., Howlin, P., Rios, P., Conteur, A. L., Evered,
+C., & Folstein, S. (1989). Recognition and expression of emotional cues
+by autistic and normal adults. *Journal of Child Psychology and
+Psychiatry, 30*, 865–877.
+
+Malatesta, C. Z., & Haviland, J. M. (1982). Learning display rules: The
+socialization of emotion expression in infancy. *Child Development, 53*,
+991–1003.
+
+Maren, S., Phan, K. L., & Liberzon, I. (2013). The contextual brain:
+Implications for fear conditioning, extinction and psychopathology.
+*Nature Reviews Neuroscience, 14*, 417–428.
+
+Martin-Gronert, M. S., & Ozanne, S. E. (2013). Early life programming of
+obesity. *Developmental Period Medicine, 17*, 7–12.
+
+Maslow, A. H. (1943). A theory of human motivation. *Psychological
+Review, 50*, 370–396.
+
+Matsumoto, D. (1990). Cultural similarities and differences in display
+rules. *Motivation and Emotion, 14*, 195–214.
+
+Matsumoto, D., Yoo, S. H., & Nakagawa, S. (2008). Culture, emotion
+regulation, and adjustment. *Journal of Personality and Social
+Psychology, 94*, 925–937.
+
+Mayo Clinic. (2012a). Anorexia nervosa. Retrieved from
+http://www.mayoclinic.com/health/anorexia/DS00606
+
+Mayo Clinic. (2012b). Bulimia nervosa. Retrieved from
+http://www.mayoclinic.com/health/bulimia/DS00607
+
+Mayo Clinic. (2013). Gastric bypass surgery. Retrieved from
+http://www.mayoclinic.com/health/gastric-bypass/MY00825
+
+McAdams, D. P., & Constantian, C. A. (1983). Intimacy and affiliation
+motives in daily living: An experience sampling analysis. *Journal of
+Personality and Social Psychology, 45*, 851–861.
+
+McClelland, D. C., & Liberman, A. M. (1949). The effect of need for
+achievement on recognition of need-related words. *Journal of
+Personality, 18*, 236–251.
+
+McFadden, D., & Champlin, C. A. (2000). Comparisons of auditory evoked
+potentials in heterosexual, homosexual, and bisexual males and females.
+*Journal of the Association for Research in Otolaryngology, 1*, 89–99.
+
+McFadden, D., & Pasanen, E. G. (1998). Comparisons of the auditory
+systems of heterosexuals and homosexuals: Clicked-evoked otoacoustic
+emissions. *Proceedings of the National Academy of Sciences, USA, 95*,
+2709–2713.
+
+McRae, K., Ochsner, K. N., Mauss, I. B., Gabrieli, J. J. D., & Gross, J.
+J. (2008). Gender differences in emotion regulation: An fMRI study of
+cognitive reappraisal. *Group Processes and Intergroup Relations, 11*,
+143–162.
+
+Miguel-Hidalgo, J. J. (2013). Brain structural and functional changes in
+adolescents with psychiatric disorders. *International Journal of
+Adolescent Medicine and Health, 25*, 245–256.
+
+Money, J. (1962). *Cytogenic and psychosexual incongruities with a note
+on space-form blindness.* Paper presented at the 118th meeting of the
+American Psychiatric Association, Toronto, Canada.
+
+Money, J. (1975). Ablatio penis: Normal male infant sex-reassigned as a
+girl. *Archives of Sexual Behavior, 4*, 65–71.
+
+Moriceau, S., & Sullivan, R. M. (2006). Maternal presence serves as a
+switch between learning fear and attraction in infancy. *Nature
+Neuroscience, 9*, 1004–1006.
+
+Murray, H. A., Barrett, W. G., Homburger, E., Langer, W. C., Mekeel, H.
+S., Morgan, C. D., . . . Wolf, R. E. (1938). *Explorations in
+personality: A clinical and experimental study of fifty men of college
+age*. New York, NY: Oxford University Press.
+
+Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and
+relatedness in the classroom: Applying self-determination theory to
+educational practice. *Theory and Research in Education, 7*, 133–144.
+
+Novin, D., Robinson, K., Culbreth, L. A., & Tordoff, M. G. (1985). Is
+there a role for the liver in the control of food intake? *The American
+Journal of Clinical Nutrition, 42*, 1050–1062.
+
+O’Connell, S. (Writer/Producer). (2004). Dr. Money and the boy with no
+penis. [Television documentary series episode]. In Horizon. London, UK:
+BBC.
+
+Paramaguru, K. (2013, November). Boy, girl, or intersex? Germany adjusts
+to a third option at birth. Time. Retrieved from
+http://world.time.com/2013/11/12/boy-girl-or-intersex/
+
+Pessoa, L. (2010). Emotion and cognition and the amygdala: From “what is
+it?” to “what’s to be done?” *Neuropsychologia, 48*, 3416–3429.
+
+Pillard, R. C., & Bailey, M. J. (1995). A biologic perspective on sexual
+orientation. *The Psychiatric Clinics of North America, 18*\ (1), 71–84.
+
+Pillard, R. C., & Bailey, M. J. (1998). Sexual orientation has a
+heritable component. *Human Biology, 70*, 347–365.
+
+Ponseti, J., Bosinski, H. A., Wolff, S., Peller, M., Jansen, O.,
+Mehdorn, H.M., . . . Siebner, H. R. (2006). A functional endophenotype
+for sexual orientation in humans. *Neuroimage, 33*\ (3), 825–833.
+
+Prader-Willi Syndrome Association. (2012). What is Prader-Willi
+Syndrome? Retrieved from http://www.pwsausa.org/syndrome/index.htm
+
+Qin, S., Young, C. B., Duan, X., Chen, T., Supekar, K., & Menon, V.
+(2013). Amygdala subregional structure and intrinsic functional
+connectivity predicts individual differences in anxiety during early
+childhood. Biological Psychiatry. Advance online publication.
+doi:10.1016/j.biopsych.2013.10.006
+
+Rahman, Q., & Wilson, G. D. (2003a). Large sexual-orientation-related
+differences in performance on mental rotation and judgment of line
+orientation tasks. *Neuropsychology, 17*, 25–31.
+
+Rahman, Q., & Wilson, G. D. (2003b). Sexual orientation and the 2nd to
+4th finger length ratio: Evidence for organising effects of sex hormones
+or developmental instability? *Psychoneuroendocrinology, 28*, 288–303.
+
+Raineki, C., Cortés, M. R., Belnoue, L., & Sullivan, R. M. (2012).
+Effects of early-life abuse differ across development: Infant social
+behavior deficits are followed by adolescent depressive-like behaviors
+mediated by the amygdala. *The Journal of Neuroscience, 32*, 7758–7765.
+
+Rodriguez-Larralde, A., & Paradisi, I. (2009). Influence of genetic
+factors on human sexual orientation. *Investigacion Clinica, 50*,
+377–391.
+
+Ross, M. W., & Arrindell, W. A. (1988). Perceived parental rearing
+patterns of homosexual and heterosexual men. *The Journal of Sex
+Research, 24*, 275–281.
+
+Saxe, L., & Ben-Shakhar, G. (1999). Admissibility of polygraph tests:
+The application of scientific standards post-Daubert. *Psychology,
+Public Policy, and Law, 5*, 203–223.
+
+Schachter, S., & Singer, J. E. (1962). Cognitive, social, and
+physiological determinants of emotional state. *Psychological Review,
+69*, 379–399.
+
+Sherwin, B. B. (1988). A comparative analysis of the role of androgen in
+human male and female sexual behavior: Behavioral specificity, critical
+thresholds, and sensitivity. *Psychobiology, 16*, 416–425.
+
+Smink, F. R. E., van Hoeken, D., & Hoek, H. W. (2012). Epidemiology of
+eating disorders: Incidence, prevalence, and mortality rates. *Current
+Psychiatry Reports, 14*, 406–414.
+
+Soussignan, R. (2001). Duchenne smile, emotional experience, and
+autonomic reactivity: A test of the facial feedback hypothesis.
+*Emotion, 2*, 52–74.
+
+Speakman, J. R., Levitsky, D. A., Allison, D. B., Bray, M. S., de
+Castro, J. M., Clegg, D. J., . . . Westerterp-Plantenga, M. S. (2011).
+Set points, settling points and some alternative models: Theoretical
+options to understand how genes and environment combine to regulate body
+adiposity. *Disease Models & Mechanisms, 4*, 733–745.
+
+Strack, F., Martin, L. & Stepper, S. (1988). Inhibiting and facilitating
+conditions of the human smile: A nonobtrusive test of the facial
+feedback hypothesis. *Journal of Personality and Social Psychology*,
+*54*, 768–777.
+
+Swaab, D. F., & Hofman, M. A. (1990). An enlarged suprachiasmatic
+nucleus in homosexual men. *Brain Research, 537*, 141–148.
+
+Tamietto, M., Castelli, L., Vighetti, S., Perozzo, P., Geminiani, G.,
+Weiskrantz, L., & de Gelder, B. (2009). Unseen facial and bodily
+expressions trigger fast emotional reactions. *Proceedings of the
+National Academy of Sciences,USA, 106*, 17661–17666.
+
+Tangmunkongvorakul, A., Banwell, C., Carmichael, G., Utomo, I. D., &
+Sleigh, A. (2010). Sexual identities and lifestyles among
+non-heterosexual urban Chiang Mai youth: Implications for health.
+*Culture, Health, and Sexuality, 12*, 827–841.
+
+Wang, Z., Neylan, T. C., Mueller, S. G., Lenoci, M., Truran, D., Marmar,
+C. R., . . . Schuff, N. (2010). Magnetic resonance imaging of
+hippocampal subfields in posttraumatic stress disorder. *Arch Gen
+Psychiatry, 67*\ (3), 296–303. doi:10.1001/archgenpsychiatry.2009.205
+
+Weinsier, R. L., Nagy, T. R., Hunter, G. R., Darnell, B. E., Hensrud, D.
+D., & Weiss, H. L. (2000). Do adaptive changes in metabolic rate favor
+weight regain in weight-reduced individuals? An examination of the
+set-point theory. *The American Journal of Clinical Nutrition, 72*,
+1088–1094.
+
+Woods, S. C. (2004). Gastrointestinal satiety signals I. An overview of
+gastrointestinal signals that influence food intake. *American Journal
+of Physiology: Gastrointestinal and Liver Physiology, 286*, G7–G13.
+
+Woods, S. C., & D’Alessio, D. A. (2008). Central control of body weight
+and appetite. *Journal of Clinical Endocrinology and Metabolism, 93*,
+S37–S50.
+
+Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of
+stimulus to rapidity of habit-formation. *Journal of Comparative
+Neurology and Psychology,* *18*, 459–482. doi:10.1002/cne.920180503
+
+Zajonc, R. B. (1980). Feeling and thinking: Preferences need no
+inferences. *American Psychologist*, *35*\ (2), 151–175.
+
+Zajonc, R. B. (1998). Emotions. In D. T. Gilbert & S. T. Fiske (Eds.),
+Handbook of social psychology (4th ed., Vol. 1, pp. 591–632). New York,
+NY: McGraw-Hill.
+
+.. |A photograph shows a crowd at the site of the Boston Marathon bombing immediately after it occurred. Debris is scattered on the ground, several people appear to be injured, and several people are helping others.| image:: ../resources/CNX_Psych_10_00_Marathon.jpg

@@ -1,0 +1,637 @@
+====================
+How Memory Functions
+====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Discuss the three
+   basic functions of memory \* Describe the three stages of memory
+   storage \* Describe and distinguish between procedural and
+   declarative memory and semantic and episodic memory
+
+Memory is an information processing system; therefore, we often compare
+it to a computer. **Memory**\ {: data-type=“term”} is the set of
+processes used to encode, store, and retrieve information over different
+periods of time (`[link] <#Figure_08_01_Memory>`__).
+
+|A diagram shows three boxes, placed in a row from left to right,
+respectively titled “Encoding,” “Storage,” and “Retrieval.” One
+right-facing arrow connects “Encoding” to “Storage” and another connects
+“Storage” to “Retrieval.”|\ {: #Figure_08_01_Memory}
+
+.. container:: psychology link-to-learning
+
+   Watch `this video <https://www.youtube.com/watch?v=sI_ceF5-OiQ>`__
+   for more information on some unexpected facts about memory.
+
+ENCODING
+========
+
+We get information into our brains through a process called
+**encoding**\ {: data-type=“term”}, which is the input of information
+into the memory system. Once we receive sensory information from the
+environment, our brains label or code it. We organize the information
+with other similar information and connect new concepts to existing
+concepts. Encoding information occurs through automatic processing and
+effortful processing.
+
+If someone asks you what you ate for lunch today, more than likely you
+could recall this information quite easily. This is known as **automatic
+processing**\ {: data-type=“term”}, or the encoding of details like
+time, space, frequency, and the meaning of words. Automatic processing
+is usually done without any conscious awareness. Recalling the last time
+you studied for a test is another example of automatic processing. But
+what about the actual test material you studied? It probably required a
+lot of work and attention on your part in order to encode that
+information. This is known as **effortful processing**\ {:
+data-type=“term”} (`[link] <#Figure_08_01_Driving>`__).
+
+|A photograph shows a person driving a car.|\ {: #Figure_08_01_Driving}
+
+What are the most effective ways to ensure that important memories are
+well encoded? Even a simple sentence is easier to recall when it is
+meaningful (Anderson, 1984). Read the following sentences (Bransford &
+McCarrell, 1974), then look away and count backwards from 30 by threes
+to zero, and then try to write down the sentences (no peeking back at
+this page!).
+
+1. The notes were sour because the seams split.
+2. The voyage wasn't delayed because the bottle shattered.
+3. The haystack was important because the cloth ripped. {: type=“1”}
+
+How well did you do? By themselves, the statements that you wrote down
+were most likely confusing and difficult for you to recall. Now, try
+writing them again, using the following prompts: bagpipe, ship
+christening, and parachutist. Next count backwards from 40 by fours,
+then check yourself to see how well you recalled the sentences this
+time. You can see that the sentences are now much more memorable because
+each of the sentences was placed in context. Material is far better
+encoded when you make it meaningful.
+
+There are three types of encoding. The encoding of words and their
+meaning is known as **semantic encoding**\ {: data-type=“term”}. It was
+first demonstrated by William Bousfield (1935) in an experiment in which
+he asked people to memorize words. The 60 words were actually divided
+into 4 categories of meaning, although the participants did not know
+this because the words were randomly presented. When they were asked to
+remember the words, they tended to recall them in categories, showing
+that they paid attention to the meanings of the words as they learned
+them.
+
+**Visual encoding**\ {: data-type=“term”} is the encoding of images, and
+**acoustic encoding**\ {: data-type=“term”} is the encoding of sounds,
+words in particular. To see how visual encoding works, read over this
+list of words: *car, level, dog, truth, book, value*. If you were asked
+later to recall the words from this list, which ones do you think you’d
+most likely remember? You would probably have an easier time recalling
+the words *car, dog,* and *book*, and a more difficult time recalling
+the words *level, truth,* and *value*. Why is this? Because you can
+recall images (mental pictures) more easily than words alone. When you
+read the words *car, dog,* and *book* you created images of these things
+in your mind. These are concrete, high-imagery words. On the other hand,
+abstract words like *level, truth,* and *value* are low-imagery words.
+High-imagery words are encoded both visually and semantically (Paivio,
+1986), thus building a stronger memory.
+
+Now let’s turn our attention to acoustic encoding. You are driving in
+your car and a song comes on the radio that you haven’t heard in at
+least 10 years, but you sing along, recalling every word. In the United
+States, children often learn the alphabet through song, and they learn
+the number of days in each month through rhyme: *“*\ Thirty days hath
+September, / April, June, and November; / All the rest have thirty-one,
+/ Save February, with twenty-eight days clear, / And twenty-nine each
+leap year.” These lessons are easy to remember because of acoustic
+encoding. We encode the sounds the words make. This is one of the
+reasons why much of what we teach young children is done through song,
+rhyme, and rhythm.
+
+Which of the three types of encoding do you think would give you the
+best memory of verbal information? Some years ago, psychologists Fergus
+Craik and Endel Tulving (1975) conducted a series of experiments to find
+out. Participants were given words along with questions about them. The
+questions required the participants to process the words at one of the
+three levels. The visual processing questions included such things as
+asking the participants about the font of the letters. The acoustic
+processing questions asked the participants about the sound or rhyming
+of the words, and the semantic processing questions asked the
+participants about the meaning of the words. After participants were
+presented with the words and questions, they were given an unexpected
+recall or recognition task.
+
+Words that had been encoded semantically were better remembered than
+those encoded visually or acoustically. Semantic encoding involves a
+deeper level of processing than the shallower visual or acoustic
+encoding. Craik and Tulving concluded that we process verbal information
+best through semantic encoding, especially if we apply what is called
+the self-reference effect. The **self-reference effect**\ {:
+data-type=“term”} is the tendency for an individual to have better
+memory for information that relates to oneself in comparison to material
+that has less personal relevance (Rogers, Kuiper & Kirker, 1977). Could
+semantic encoding be beneficial to you as you attempt to memorize the
+concepts in this chapter?
+
+STORAGE
+=======
+
+Once the information has been encoded, we have to somehow retain it. Our
+brains take the encoded information and place it in storage.
+**Storage**\ {: data-type=“term”} is the creation of a permanent record
+of information.
+
+In order for a memory to go into storage (i.e., long-term memory), it
+has to pass through three distinct stages: **Sensory Memory**\ {:
+data-type=“term” .no-emphasis}, **Short-Term Memory**\ {:
+data-type=“term” .no-emphasis}, and finally **Long-Term Memory**\ {:
+data-type=“term” .no-emphasis}. These stages were first proposed by
+Richard **Atkinson**\ {: data-type=“term” .no-emphasis} and Richard
+**Shiffrin**\ {: data-type=“term” .no-emphasis} (1968). Their model of
+human memory (`[link] <#Figure_08_01_Atkinson>`__), called
+Atkinson-Shiffrin (A-S), is based on the belief that we process memories
+in the same way that a computer processes information.
+
+|A flow diagram consists of four boxes with connecting arrows. The first
+box is labeled “sensory input.” An arrow leads to the second box, which
+is labeled “sensory memory.” An arrow leads to the third box which is
+labeled “short-term memory (STM).” An arrow points to the fourth box,
+labeled “long-term memory (LTM),” and an arrow points in the reverse
+direction from the fourth to the third box. Above the short-term memory
+box, an arrow leaves the top-right of the box and curves around to point
+back to the top-left of the box; this arrow is labeled “rehearsal.” Both
+the “sensory memory” and “short-term memory” boxes have an arrow beneath
+them pointing to the text “information not transferred is lost.”|\ {:
+#Figure_08_01_Atkinson}
+
+But A-S is just one model of memory. Others, such as Baddeley and Hitch
+(1974), have proposed a model where short-term memory itself has
+different forms. In this model, storing memories in short-term memory is
+like opening different files on a computer and adding information. The
+type of short-term memory (or computer file) depends on the type of
+information received. There are memories in visual-spatial form, as well
+as memories of spoken or written material, and they are stored in three
+short-term systems: a visuospatial sketchpad, an episodic buffer, and a
+phonological loop. According to Baddeley and Hitch, a central executive
+part of memory supervises or controls the flow of information to and
+from the three short-term systems.
+
+Sensory Memory
+--------------
+
+In the Atkinson-Shiffrin model, stimuli from the environment are
+processed first in **sensory memory**\ {: data-type=“term”}: storage of
+brief sensory events, such as sights, sounds, and tastes. It is very
+brief storage—up to a couple of seconds. We are constantly bombarded
+with sensory information. We cannot absorb all of it, or even most of
+it. And most of it has no impact on our lives. For example, what was
+your professor wearing the last class period? As long as the professor
+was dressed appropriately, it does not really matter what she was
+wearing. Sensory information about sights, sounds, smells, and even
+textures, which we do not view as valuable information, we discard. If
+we view something as valuable, the information will move into our
+short-term memory system.
+
+One study of sensory memory researched the significance of valuable
+information on short-term memory storage. J. R. Stroop discovered a
+memory phenomenon in the 1930s: you will name a color more easily if it
+appears printed in that color, which is called the **Stroop effect**\ {:
+data-type=“term” .no-emphasis}. In other words, the word “red” will be
+named more quickly, regardless of the color the word appears in, than
+any word that is colored red. Try an experiment: name the colors of the
+words you are given in `[link] <#Figure_08_01_Stroop>`__. Do not read
+the words, but say the color the word is printed in. For example, upon
+seeing the word “yellow” in green print, you should say “green,” not
+“yellow.” This experiment is fun, but it’s not as easy as it seems.
+
+|Several names of colors appear in a font color that is different from
+the name of the color. For example, the word “red” is colored blue.|\ {:
+#Figure_08_01_Stroop}
+
+Short-Term Memory
+-----------------
+
+**Short-term memory (STM)**\ {: data-type=“term”} is a temporary storage
+system that processes incoming sensory memory; sometimes it is called
+working memory. Short-term memory takes information from sensory memory
+and sometimes connects that memory to something already in long-term
+memory. Short-term memory storage lasts about 20 seconds. George Miller
+(1956), in his research on the capacity of memory, found that most
+people can retain about 7 items in STM. Some remember 5, some 9, so he
+called the capacity of STM 7 plus or minus 2.
+
+Think of short-term memory as the information you have displayed on your
+computer screen—a document, a spreadsheet, or a web page. Then,
+information in short-term memory goes to long-term memory (you save it
+to your hard drive), or it is discarded (you delete a document or close
+a web browser). This step of **rehearsal**\ {: data-type=“term”}, the
+conscious repetition of information to be remembered, to move STM into
+long-term memory is called **memory consolidation**\ {:
+data-type=“term”}.
+
+You may find yourself asking, “How much information can our memory
+handle at once?” To explore the capacity and duration of your short-term
+memory, have a partner read the strings of random numbers
+(`[link] <#Figure_08_011_Numbers>`__) out loud to you, beginning each
+string by saying, “Ready?” and ending each by saying, “Recall,” at which
+point you should try to write down the string of numbers from memory.
+
+|A series of numbers includes two rows, with six numbers in each row.
+From left to right, the numbers increase from four digits to five, six,
+seven, eight, and nine digits. The first row includes “9754,” “68259,”
+“913825,” “5316842,” “86951372,” and “719384273,” and the second row
+includes “6419,” “67148,” “648327,” “5963827,” “51739826,” and
+“163875942.”|\ {: #Figure_08_011_Numbers}
+
+Note the longest string at which you got the series correct. For most
+people, this will be close to 7, Miller’s famous 7 plus or minus 2.
+Recall is somewhat better for random numbers than for random letters
+(Jacobs, 1887), and also often slightly better for information we hear
+(acoustic encoding) rather than see (visual encoding) (Anderson, 1969).
+
+Long-term Memory
+----------------
+
+**Long-term memory (LTM)**\ {: data-type=“term”} is the continuous
+storage of information. Unlike short-term memory, the storage capacity
+of LTM has no limits. It encompasses all the things you can remember
+that happened more than just a few minutes ago to all of the things that
+you can remember that happened days, weeks, and years ago. In keeping
+with the computer analogy, the information in your LTM would be like the
+information you have saved on the hard drive. It isn’t there on your
+desktop (your short-term memory), but you can pull up this information
+when you want it, at least most of the time. Not all long-term memories
+are strong memories. Some memories can only be recalled through prompts.
+For example, you might easily recall a fact— “What is the capital of the
+United States?”—or a procedure—“How do you ride a bike?”—but you might
+struggle to recall the name of the restaurant you had dinner when you
+were on vacation in France last summer. A prompt, such as that the
+restaurant was named after its owner, who spoke to you about your shared
+interest in soccer, may help you recall the name of the restaurant.
+
+Long-term memory is divided into two types: explicit and implicit
+(`[link] <#Figure_08_01_Explicit>`__). Understanding the different types
+is important because a person’s age or particular types of brain trauma
+or disorders can leave certain types of LTM intact while having
+disastrous consequences for other types. **Explicit memories**\ {:
+data-type=“term”} are those we consciously try to remember and recall.
+For example, if you are studying for your chemistry exam, the material
+you are learning will be part of your explicit memory. (Note: Sometimes,
+but not always, the terms explicit memory and declarative memory are
+used interchangeably.)
+
+**Implicit memories**\ {: data-type=“term”} are memories that are not
+part of our consciousness. They are memories formed from behaviors.
+Implicit memory is also called non-declarative memory.
+
+|A diagram consists of three rows of boxes. The box in the top row is
+labeled “long-term memory”; a line from the box separates into two lines
+leading to two boxes on the second row, labeled “explicit (declarative)”
+and “implicit (non-declarative).” From each of the second row boxes,
+lines split and lead to two additional boxes. From the “explicit” box
+are two boxes labeled “episodic (experienced events)” and “semantic
+(knowledge and concepts).” From the “implicit” box are two boxes labeled
+“procedural (skills and actions)” and “emotional conditioning.”|\ {:
+#Figure_08_01_Explicit}
+
+**Procedural memory**\ {: data-type=“term”} is a type of implicit
+memory: it stores information about how to do things. It is the memory
+for skilled actions, such as how to brush your teeth, how to drive a
+car, how to swim the crawl (freestyle) stroke. If you are learning how
+to swim freestyle, you practice the stroke: how to move your arms, how
+to turn your head to alternate breathing from side to side, and how to
+kick your legs. You would practice this many times until you become good
+at it. Once you learn how to swim freestyle and your body knows how to
+move through the water, you will never forget how to swim freestyle,
+even if you do not swim for a couple of decades. Similarly, if you
+present an accomplished guitarist with a guitar, even if he has not
+played in a long time, he will still be able to play quite well.
+
+**Declarative memory**\ {: data-type=“term”} has to do with the storage
+of facts and events we personally experienced. Explicit (declarative)
+memory has two parts: semantic memory and episodic memory. Semantic
+means having to do with language and knowledge about language. An
+example would be the question “what does *argumentative* mean?” Stored
+in our **semantic memory**\ {: data-type=“term”} is knowledge about
+words, concepts, and language-based knowledge and facts. For example,
+answers to the following questions are stored in your semantic memory:
+
+-  Who was the first President of the United States?
+-  What is democracy?
+-  What is the longest river in the world?
+
+**Episodic memory**\ {: data-type=“term”} is information about events we
+have personally experienced. The concept of episodic memory was first
+proposed about 40 years ago (Tulving, 1972). Since then, Tulving and
+others have looked at scientific evidence and reformulated the theory.
+Currently, scientists believe that episodic memory is memory about
+happenings in particular places at particular times, the what, where,
+and when of an event (Tulving, 2002). It involves recollection of visual
+imagery as well as the feeling of familiarity (Hassabis & Maguire,
+2007).
+
+.. container:: psychology everyday-connection
+
+   .. container::
+
+      Can You Remember Everything You Ever Did or Said?
+
+   Episodic memories are also called autobiographical memories. Let’s
+   quickly test your autobiographical memory. What were you wearing
+   exactly five years ago today? What did you eat for lunch on April 10,
+   2009? You probably find it difficult, if not impossible, to answer
+   these questions. Can you remember every event you have experienced
+   over the course of your life—meals, conversations, clothing choices,
+   weather conditions, and so on? Most likely none of us could even come
+   close to answering these questions; however, American actress Marilu
+   **Henner**\ {: data-type=“term” .no-emphasis}, best known for the
+   television show *Taxi,* can remember. She has an amazing and highly
+   superior autobiographical memory (`[link] <#Figure_08_01_Marilu>`__).
+
+   |A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
+
+   Very few people can recall events in this way; right now, only 12
+   known individuals have this ability, and only a few have been studied
+   (Parker, Cahill & McGaugh 2006). And although **hyperthymesia**\ {:
+   data-type=“term” .no-emphasis} normally appears in adolescence, two
+   children in the United States appear to have memories from well
+   before their tenth birthdays.
+
+.. container:: psychology link-to-learning
+
+   Watch these `Part 1 <https://www.youtube.com/watch?v=u-SBTRLoPuo>`__
+   and `Part 2 <https://www.youtube.com/watch?v=I4V6aoYuDcg>`__ video
+   clips on superior autobiographical memory from the television news
+   show *60 Minutes*.
+
+RETRIEVAL
+=========
+
+So you have worked hard to encode (via effortful processing) and store
+some important information for your upcoming final exam. How do you get
+that information back out of storage when you need it? The act of
+getting information out of memory storage and back into conscious
+awareness is known as **retrieval**\ {: data-type=“term”}. This would be
+similar to finding and opening a paper you had previously saved on your
+computer’s hard drive. Now it’s back on your desktop, and you can work
+with it again. Our ability to retrieve information from long-term memory
+is vital to our everyday functioning. You must be able to retrieve
+information from memory in order to do everything from knowing how to
+brush your hair and teeth, to driving to work, to knowing how to perform
+your job once you get there.
+
+There are three ways you can retrieve information out of your long-term
+memory storage system: recall, recognition, and relearning.
+**Recall**\ {: data-type=“term”} is what we most often think about when
+we talk about memory retrieval: it means you can access information
+without cues. For example, you would use recall for an essay test.
+**Recognition**\ {: data-type=“term”} happens when you identify
+information that you have previously learned after encountering it
+again. It involves a process of comparison. When you take a
+multiple-choice test, you are relying on recognition to help you choose
+the correct answer. Here is another example. Let’s say you graduated
+from high school 10 years ago, and you have returned to your hometown
+for your 10-year reunion. You may not be able to recall all of your
+classmates, but you recognize many of them based on their yearbook
+photos.
+
+The third form of retrieval is **relearning**\ {: data-type=“term”}, and
+it’s just what it sounds like. It involves learning information that you
+previously learned. Whitney took Spanish in high school, but after high
+school she did not have the opportunity to speak Spanish. Whitney is now
+31, and her company has offered her an opportunity to work in their
+Mexico City office. In order to prepare herself, she enrolls in a
+Spanish course at the local community center. She’s surprised at how
+quickly she’s able to pick up the language after not speaking it for 13
+years; this is an example of relearning.
+
+Summary
+=======
+
+Memory is a system or process that stores what we learn for future use.
+
+Our memory has three basic functions: encoding, storing, and retrieving
+information. Encoding is the act of getting information into our memory
+system through automatic or effortful processing. Storage is retention
+of the information, and retrieval is the act of getting information out
+of storage and into conscious awareness through recall, recognition, and
+relearning. The idea that information is processed through three memory
+systems is called the Atkinson-Shiffrin (A-S) model of memory. First,
+environmental stimuli enter our sensory memory for a period of less than
+a second to a few seconds. Those stimuli that we notice and pay
+attention to then move into short-term memory (also called working
+memory). According to the A-S model, if we rehearse this information,
+then it moves into long-term memory for permanent storage. Other models
+like that of Baddeley and Hitch suggest there is more of a feedback loop
+between short-term memory and long-term memory. Long-term memory has a
+practically limitless storage capacity and is divided into implicit and
+explicit memory. Finally, retrieval is the act of getting memories out
+of storage and back into conscious awareness. This is done through
+recall, recognition, and relearning.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      \_______\_ is another name for short-term memory.
+
+      1. sensory memory
+      2. episodic memory
+      3. working memory
+      4. implicit memory {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      The storage capacity of long-term memory is \________.
+
+      1. one or two bits of information
+      2. seven bits, plus or minus two
+      3. limited
+      4. essentially limitless {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The three functions of memory are \________.
+
+      1. automatic processing, effortful processing, and storage
+      2. encoding, processing, and storage
+      3. automatic processing, effortful processing, and retrieval
+      4. encoding, storage, and retrieval {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Compare and contrast implicit and explicit memory.
+
+   .. container::
+
+      Both are types of long-term memory. Explicit memories are memories
+      we consciously try to remember and recall. Explicit memory is also
+      called declarative memory and is subdivided into episodic memory
+      (life events) and semantic memory (words, ideas, and concepts).
+      Implicit memories are memories that are not part of our
+      consciousness; they are memories formed from behaviors. Implicit
+      memory is also called non-declarative memory and includes
+      procedural memory as well as things learned through classical
+      conditioning.
+
+.. container::
+
+   .. container::
+
+      According to the Atkinson-Shiffrin model, name and describe the
+      three stages of memory.
+
+   .. container::
+
+      According to the Atkinson-Shiffrin model, memory is processed in
+      three stages. The first is sensory memory; this is very brief: 1–2
+      seconds. Anything not attended to is ignored. The stimuli we pay
+      attention to then move into our short-term memory. Short-term
+      memory can hold approximately 7 bits of information for around 20
+      seconds. Information here is either forgotten, or it is encoded
+      into long-term memory through the process of rehearsal. Long-term
+      memory is the permanent storage of information—its capacity is
+      basically unlimited.
+
+.. container::
+
+   .. container::
+
+      Compare and contrast the two ways in which we encode information.
+
+   .. container::
+
+      Information is encoded through automatic or effortful processing.
+      Automatic processing refers to all information that enters
+      long-term memory without conscious effort. This includes things
+      such as time, space, and frequency—for example, your ability to
+      remember what you ate for breakfast today or the fact that you
+      remember that you ran into your best friend in the supermarket
+      twice this week. Effortful processing refers to encoding
+      information through conscious attention and effort. Material that
+      you study for a test requires effortful processing.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Describe something you have learned that is now in your procedural
+      memory. Discuss how you learned this information.
+
+.. container::
+
+   .. container::
+
+      Describe something you learned in high school that is now in your
+      semantic memory.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   acoustic encoding
+      input of sounds, words, and music ^
+   Atkinson-Shiffrin model (A-S)
+      memory model that states we process information through three
+      systems: sensory memory, short-term memory, and long-term memory ^
+   automatic processing
+      encoding of informational details like time, space, frequency, and
+      the meaning of words ^
+   declarative memory
+      type of long-term memory of facts and events we personally
+      experience ^
+   effortful processing
+      encoding of information that takes effort and attention ^
+   encoding
+      input of information into the memory system ^
+   episodic memory
+      type of declarative memory that contains information about events
+      we have personally experienced, also known as autobiographical
+      memory ^
+   explicit memory
+      memories we consciously try to remember and recall ^
+   implicit memory
+      memories that are not part of our consciousness ^
+   long-term memory (LTM)
+      continuous storage of information ^
+   memory
+      system or process that stores what we learn for future use ^
+   memory consolidation
+      active rehearsal to move information from short-term memory into
+      long-term memory ^
+   procedural memory
+      type of long-term memory for making skilled actions, such as how
+      to brush your teeth, how to drive a car, and how to swim ^
+   recall
+      accessing information without cues ^
+   recognition
+      identifying previously learned information after encountering it
+      again, usually in response to a cue ^
+   rehearsal
+      conscious repetition of information to be remembered ^
+   relearning
+      learning information that was previously learned ^
+   retrieval
+      act of getting information out of long-term memory storage and
+      back into conscious awareness ^
+   self-reference effect
+      tendency for an individual to have better memory for information
+      that relates to oneself in comparison to material that has less
+      personal relevance ^
+   semantic encoding
+      input of words and their meaning ^
+   semantic memory
+      type of declarative memory about words, concepts, and
+      language-based knowledge and facts ^
+   sensory memory
+      storage of brief sensory events, such as sights, sounds, and
+      tastes ^
+   short-term memory (STM)
+      (also, working memory) holds about seven bits of information
+      before it is forgotten or stored, as well as information that has
+      been retrieved and is being used ^
+   storage
+      creation of a permanent record of information ^
+   visual encoding
+      input of images
+
+.. |A diagram shows three boxes, placed in a row from left to right, respectively titled “Encoding,” “Storage,” and “Retrieval.” One right-facing arrow connects “Encoding” to “Storage” and another connects “Storage” to “Retrieval.”| image:: ../resources/CNX_Psych_08_01_Memory.jpg
+.. |A photograph shows a person driving a car.| image:: ../resources/CNX_Psych_08_01_Drivingn.jpg
+.. |A flow diagram consists of four boxes with connecting arrows. The first box is labeled “sensory input.” An arrow leads to the second box, which is labeled “sensory memory.” An arrow leads to the third box which is labeled “short-term memory (STM).” An arrow points to the fourth box, labeled “long-term memory (LTM),” and an arrow points in the reverse direction from the fourth to the third box. Above the short-term memory box, an arrow leaves the top-right of the box and curves around to point back to the top-left of the box; this arrow is labeled “rehearsal.” Both the “sensory memory” and “short-term memory” boxes have an arrow beneath them pointing to the text “information not transferred is lost.”| image:: ../resources/CNX_Psych_08_01_Atkinson.jpg
+.. |Several names of colors appear in a font color that is different from the name of the color. For example, the word “red” is colored blue.| image:: ../resources/CNX_Psych_08_01_Stroop.jpg
+.. |A series of numbers includes two rows, with six numbers in each row. From left to right, the numbers increase from four digits to five, six, seven, eight, and nine digits. The first row includes “9754,” “68259,” “913825,” “5316842,” “86951372,” and “719384273,” and the second row includes “6419,” “67148,” “648327,” “5963827,” “51739826,” and “163875942.”| image:: ../resources/CNX_Psych_08_01_Numbers.jpg
+.. |A diagram consists of three rows of boxes. The box in the top row is labeled “long-term memory”; a line from the box separates into two lines leading to two boxes on the second row, labeled “explicit (declarative)” and “implicit (non-declarative).” From each of the second row boxes, lines split and lead to two additional boxes. From the “explicit” box are two boxes labeled “episodic (experienced events)” and “semantic (knowledge and concepts).” From the “implicit” box are two boxes labeled “procedural (skills and actions)” and “emotional conditioning.”| image:: ../resources/CNX_Psych_08_01_Explicit.jpg
+.. |A photograph shows Marilu Henner.| image:: ../resources/CNX_Psych_08_01_Marilu.jpg

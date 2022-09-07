@@ -1,0 +1,511 @@
+=============================
+What Is Lifespan Development?
+=============================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define and
+   distinguish between the three domains of development: physical,
+   cognitive and psychosocial \* Discuss the normative approach to
+   development \* Understand the three major issues in development:
+   continuity and discontinuity, one common course of development or
+   many unique courses of development, and nature versus nurture
+
+..
+
+   My heart leaps up when I behold \* \* \* {: data-type=“newline”}
+
+   A rainbow in the sky: \* \* \* {: data-type=“newline”}
+
+   So was it when my life began; \* \* \* {: data-type=“newline”}
+
+   So is it now I am a man; \* \* \* {: data-type=“newline”}
+
+   So be it when I shall grow old, \* \* \* {: data-type=“newline”}
+
+   Or let me die! \* \* \* {: data-type=“newline”}
+
+   The Child is father of the Man; \* \* \* {: data-type=“newline”}
+
+   I could wish my days to be \* \* \* {: data-type=“newline”}
+
+   Bound each to each by natural piety. (Wordsworth, 1802)
+
+In this poem, William Wordsworth writes, “the child is father of the
+man.” What does this seemingly incongruous statement mean, and what does
+it have to do with lifespan development? Wordsworth might be suggesting
+that the person he is as an adult depends largely on the experiences he
+had in childhood. Consider the following questions: To what extent is
+the adult you are today influenced by the child you once were? To what
+extent is a child fundamentally different from the adult he grows up to
+be?
+
+These are the types of questions developmental psychologists try to
+answer, by studying how humans change and grow from conception through
+childhood, adolescence, adulthood, and death. They view development as a
+lifelong process that can be studied scientifically across three
+developmental domains—physical, cognitive, and psychosocial development.
+**Physical development**\ {: data-type=“term”} involves growth and
+changes in the body and brain, the senses, motor skills, and health and
+wellness. **Cognitive development**\ {: data-type=“term”} involves
+learning, attention, memory, language, thinking, reasoning, and
+creativity. **Psychosocial development**\ {: data-type=“term”} involves
+emotions, personality, and social relationships. We refer to these
+domains throughout the chapter.
+
+.. container:: psychology connect-the-concepts
+
+   .. container::
+
+      Research Methods in Developmental Psychology
+
+   You’ve learned about a variety of research methods used by
+   psychologists. Developmental psychologists use many of these
+   approaches in order to better understand how individuals change
+   mentally and physically over time. These methods include naturalistic
+   observations, case studies, surveys, and experiments, among others.
+
+   Naturalistic observations involve observing behavior in its natural
+   context. A developmental psychologist might observe how children
+   behave on a playground, at a daycare center, or in the child’s own
+   home. While this research approach provides a glimpse into how
+   children behave in their natural settings, researchers have very
+   little control over the types and/or frequencies of displayed
+   behavior.
+
+   In a case study, developmental psychologists collect a great deal of
+   information from one individual in order to better understand
+   physical and psychological changes over the lifespan. This particular
+   approach is an excellent way to better understand individuals, who
+   are exceptional in some way, but it is especially prone to researcher
+   bias in interpretation, and it is difficult to generalize conclusions
+   to the larger population.
+
+   In one classic example of this research method being applied to a
+   study of lifespan development Sigmund Freud analyzed the development
+   of a child known as “Little Hans” (Freud, 1909/1949). Freud’s
+   findings helped inform his theories of psychosexual development in
+   children, which you will learn about later in this chapter. Little
+   Genie, the subject of a case study discussed in the chapter on
+   thinking and intelligence, provides another example of how
+   psychologists examine developmental milestones through detailed
+   research on a single individual. In Genie’s case, her neglectful and
+   abusive upbringing led to her being unable to speak until, at age 13,
+   she was removed from that harmful environment. As she learned to use
+   language, psychologists were able to compare how her language
+   acquisition abilities differed when occurring in her late-stage
+   development compared to the typical acquisition of those skills
+   during the ages of infancy through early childhood (Fromkin, Krashen,
+   Curtiss, Rigler, & Rigler, 1974; Curtiss, 1981).
+
+   The survey method asks individuals to self-report important
+   information about their thoughts, experiences, and beliefs. This
+   particular method can provide large amounts of information in
+   relatively short amounts of time; however, validity of data collected
+   in this way relies on honest self-reporting, and the data is
+   relatively shallow when compared to the depth of information
+   collected in a case study.
+
+   Experiments involve significant control over extraneous variables and
+   manipulation of the independent variable. As such, experimental
+   research allows developmental psychologists to make causal statements
+   about certain variables that are important for the developmental
+   process. Because experimental research must occur in a controlled
+   environment, researchers must be cautious about whether behaviors
+   observed in the laboratory translate to an individual’s natural
+   environment.
+
+   Later in this chapter, you will learn about several experiments in
+   which toddlers and young children observe scenes or actions so that
+   researchers can determine at what age specific cognitive abilities
+   develop. For example, children may observe a quantity of liquid
+   poured from a short, fat glass into a tall, skinny glass. As the
+   experimenters question the children about what occurred, the
+   subjects’ answers help psychologists understand at what age a child
+   begins to comprehend that the volume of liquid remained the same
+   although the shapes of the containers differs.
+
+Across these three domains—physical, cognitive, and psychosocial—the
+**normative approach**\ {: data-type=“term”} to development is also
+discussed. This approach asks, “What is normal development?” In the
+early decades of the 20th century, normative psychologists studied large
+numbers of children at various ages to determine norms (i.e., average
+ages) of when most children reach specific developmental milestones in
+each of the three domains (Gesell, 1933, 1939, 1940; Gesell & Ilg, 1946;
+Hall, 1904). Although children develop at slightly different rates, we
+can use these age-related averages as general guidelines to compare
+children with same-age peers to determine the approximate ages they
+should reach specific normative events called **developmental
+milestones**\ {: data-type=“term”} (e.g., crawling, walking, writing,
+dressing, naming colors, speaking in sentences, and starting puberty).
+
+Not all normative events are universal, meaning they are not experienced
+by all individuals across all cultures. Biological milestones, such as
+puberty, tend to be universal, but social milestones, such as the age
+when children begin formal schooling, are not necessarily universal;
+instead, they affect most individuals in a particular **culture**\ {:
+data-type=“term” .no-emphasis} (Gesell & Ilg, 1946). For example, in
+developed countries children begin school around 5 or 6 years old, but
+in developing countries, like Nigeria, children often enter school at an
+advanced age, if at all (Huebler, 2005; United Nations Educational,
+Scientific, and Cultural Organization [UNESCO], 2013).
+
+To better understand the normative approach, imagine two new mothers,
+Louisa and Kimberly, who are close friends and have children around the
+same age. Louisa’s daughter is 14 months old, and Kimberly’s son is 12
+months old. According to the normative approach, the average age a child
+starts to walk is 12 months. However, at 14 months Louisa’s daughter
+still isn’t walking. She tells Kimberly she is worried that something
+might be wrong with her baby. Kimberly is surprised because her son
+started walking when he was only 10 months old. Should Louisa be
+worried? Should she be concerned if her daughter is not walking by 15
+months or 18 months?
+
+.. container:: psychology link-to-learning
+
+   The Centers for Disease Control and Prevention (CDC) describes the
+   developmental milestones for children from 2 months through 5 years
+   old. After reviewing the information, take this
+   `quiz <http://openstax.org/l/milestones>`__ to see how well you
+   recall what you’ve learned. If you are a parent with concerns about
+   your child’s development, contact your pediatrician.
+
+ISSUES IN DEVELOPMENTAL PSYCHOLOGY
+==================================
+
+There are many different theoretical approaches regarding human
+development. As we evaluate them in this chapter, recall that
+developmental psychology focuses on how people change, and keep in mind
+that all the approaches that we present in this chapter address
+questions of change: Is the change smooth or uneven (continuous versus
+discontinuous)? Is this pattern of change the same for everyone, or are
+there many different patterns of change (one course of development
+versus many courses)? How do genetics and environment interact to
+influence development (nature versus nurture)?
+
+Is Development Continuous or Discontinuous?
+-------------------------------------------
+
+**Continuous development**\ {: data-type=“term”} views development as a
+cumulative process, gradually improving on existing skills
+(`[link] <#Figure_09_01_Develop>`__). With this type of development,
+there is gradual change. Consider, for example, a child’s physical
+growth: adding inches to her height year by year. In contrast, theorists
+who view development as **discontinuous**\ {: data-type=“term”} believe
+that development takes place in unique stages: It occurs at specific
+times or ages. With this type of development, the change is more sudden,
+such as an infant’s ability to conceive object permanence.
+
+|Continuous and Discontinuous development are shown side by side using
+two separate pictures. The first picture is a triangle labeled
+“Continuous Development” which slopes upward from Infancy to Adulthood
+in a straight line. The second picture is 4 bars side by side labeled
+“Discontinuous Development” which get higher from Infancy to Adulthood.
+These bars resemble a staircase.|\ {: #Figure_09_01_Develop}
+
+Is There One Course of Development or Many?
+-------------------------------------------
+
+Is development essentially the same, or universal, for all children
+(i.e., there is one course of development) or does development follow a
+different course for each child, depending on the child’s specific
+genetics and environment (i.e., there are many courses of development)?
+Do people across the world share more similarities or more differences
+in their development? How much do culture and genetics influence a
+child’s behavior?
+
+Stage theories hold that the sequence of development is universal. For
+example, in cross-cultural studies of language development, children
+from around the world reach language milestones in a similar sequence
+(Gleitman & Newport, 1995). Infants in all cultures coo before they
+babble. They begin babbling at about the same age and utter their first
+word around 12 months old. Yet we live in diverse contexts that have a
+unique effect on each of us. For example, researchers once believed that
+motor development follows one course for all children regardless of
+culture. However, child care practices vary by culture, and different
+practices have been found to accelerate or inhibit achievement of
+developmental milestones such as sitting, crawling, and walking
+(Karasik, Adolph, Tamis-LeMonda, & Bornstein, 2010).
+
+For instance, let’s look at the Aché society in Paraguay. They spend a
+significant amount of time foraging in forests. While foraging, Aché
+mothers carry their young children, rarely putting them down in order to
+protect them from getting hurt in the forest. Consequently, their
+children walk much later: They walk around 23–25 months old, in
+comparison to infants in Western cultures who begin to walk around 12
+months old. However, as Aché children become older, they are allowed
+more freedom to move about, and by about age 9, their motor skills
+surpass those of U.S. children of the same age: Aché children are able
+to climb trees up to 25 feet tall and use machetes to chop their way
+through the forest (Kaplan & Dove, 1987). As you can see, our
+development is influenced by multiple contexts, so the timing of basic
+motor functions may vary across cultures. However, the functions
+themselves are present in all societies
+(`[link] <#Figure_09_01_Play>`__).
+
+|Photograph A shows two children wearing inner tubes playing in the
+shallow water at the beach. Photograph B shows two children playing in
+the sand at a beach.|\ {: #Figure_09_01_Play}
+
+How Do Nature and Nurture Influence Development?
+------------------------------------------------
+
+Are we who we are because of **nature**\ {: data-type=“term”} (biology
+and genetics), or are we who we are because of **nurture**\ {:
+data-type=“term”} (our environment and culture)? This longstanding
+question is known in psychology as the nature versus nurture debate. It
+seeks to understand how our personalities and traits are the product of
+our genetic makeup and biological factors, and how they are shaped by
+our environment, including our parents, peers, and culture. For
+instance, why do biological children sometimes act like their parents—is
+it because of genetics or because of early childhood environment and
+what the child has learned from the parents? What about children who are
+adopted—are they more like their biological families or more like their
+adoptive families? And how can siblings from the same family be so
+different?
+
+We are all born with specific genetic traits inherited from our parents,
+such as eye color, height, and certain personality traits. Beyond our
+basic genotype, however, there is a deep interaction between our genes
+and our environment: Our unique experiences in our environment influence
+whether and how particular traits are expressed, and at the same time,
+our genes influence how we interact with our environment (Diamond, 2009;
+Lobo, 2008). This chapter will show that there is a reciprocal
+interaction between nature and nurture as they both shape who we become,
+but the debate continues as to the relative contributions of each.
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      The Achievement Gap: How Does Socioeconomic Status Affect
+      Development?
+
+   The achievement gap refers to the persistent difference in grades,
+   test scores, and graduation rates that exist among students of
+   different ethnicities, races, and—in certain subjects—sexes
+   (Winerman, 2011). Research suggests that these achievement gaps are
+   strongly influenced by differences in socioeconomic factors that
+   exist among the families of these children. While the researchers
+   acknowledge that programs aimed at reducing such socioeconomic
+   discrepancies would likely aid in equalizing the aptitude and
+   performance of children from different backgrounds, they recognize
+   that such large-scale interventions would be difficult to achieve.
+   Therefore, it is recommended that programs aimed at fostering
+   aptitude and achievement among disadvantaged children may be the best
+   option for dealing with issues related to academic achievement gaps
+   (Duncan & Magnuson, 2005).
+
+   Low-income children perform significantly more poorly than their
+   middle- and high-income peers on a number of educational variables:
+   They have significantly lower standardized test scores, graduation
+   rates, and college entrance rates, and they have much higher school
+   dropout rates. There have been attempts to correct the achievement
+   gap through state and federal legislation, but what if the problems
+   start before the children even enter school?
+
+   Psychologists Betty Hart and Todd Risley (2006) spent their careers
+   looking at early language ability and progression of children in
+   various income levels. In one longitudinal study, they found that
+   although all the parents in the study engaged and interacted with
+   their children, middle- and high-income parents interacted with their
+   children differently than low-income parents. After analyzing 1,300
+   hours of parent-child interactions, the researchers found that
+   middle- and high-income parents talk to their children significantly
+   more, starting when the children are infants. By 3 years old,
+   high-income children knew almost double the number of words known by
+   their low-income counterparts, and they had heard an estimated total
+   of 30 million more words than the low-income counterparts (Hart &
+   Risley, 2003). And the gaps only become more pronounced. Before
+   entering kindergarten, high-income children score 60% higher on
+   achievement tests than their low-income peers (Lee & Burkam, 2002).
+
+   There are solutions to this problem. At the University of Chicago,
+   experts are working with low-income families, visiting them at their
+   homes, and encouraging them to speak more to their children on a
+   daily and hourly basis. Other experts are designing preschools in
+   which students from diverse economic backgrounds are placed in the
+   same classroom. In this research, low-income children made
+   significant gains in their language development, likely as a result
+   of attending the specialized preschool (Schechter & Byeb, 2007). What
+   other methods or interventions could be used to decrease the
+   achievement gap? What types of activities could be implemented to
+   help the children of your community or a neighboring community?
+
+Summary
+=======
+
+Lifespan development explores how we change and grow from conception to
+death. This field of psychology is studied by developmental
+psychologists. They view development as a lifelong process that can be
+studied scientifically across three developmental domains: physical,
+cognitive development, and psychosocial. There are several theories of
+development that focus on the following issues: whether development is
+continuous or discontinuous, whether development follows one course or
+many, and the relative influence of nature versus nurture on
+development.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The view that development is a cumulative process, gradually
+      adding to the same type of skills is known as \________.
+
+      1. nature
+      2. nurture
+      3. continuous development
+      4. discontinuous development {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Developmental psychologists study human growth and development
+      across three domains. Which of the following is *not* one of these
+      domains?
+
+      1. cognitive
+      2. psychological
+      3. physical
+      4. psychosocial {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      How is lifespan development defined?
+
+      1. The study of how we grow and change from conception to death.
+      2. The study of how we grow and change in infancy and childhood.
+      3. The study of physical, cognitive, and psychosocial growth in
+         children.
+      4. The study of emotions, personality, and social relationships.
+         {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Describe the nature versus nurture controversy, and give an
+      example of a trait and how it might be influenced by each?
+
+   .. container::
+
+      The nature versus nurture controversy seeks to understand whether
+      our personalities and traits are the product of our genetic makeup
+      and biological factors, or whether they are shaped by our
+      environment, which includes such things as our parents, peers, and
+      culture. Today, psychologists agree that both nature and nurture
+      interact to shape who we become, but the debate over the relative
+      contributions of each continues. An example would be a child
+      learning to walk: Nature influences when the physical ability
+      occurs, but culture can influence when a child masters this skill,
+      as in Aché culture.
+
+.. container::
+
+   .. container::
+
+      Compare and contrast continuous and discontinuous development.
+
+   .. container::
+
+      Continuous development sees our development as a cumulative
+      process: Changes are gradual. On the other hand, discontinuous
+      development sees our development as taking place in specific steps
+      or stages: Changes are sudden.
+
+.. container::
+
+   .. container::
+
+      Why should developmental milestones only be used as a general
+      guideline for normal child development?
+
+   .. container::
+
+      Children develop at different rates. For example, some children
+      may walk and talk as early as 8 months old, while others may not
+      do so until well after their first birthday. Each child’s unique
+      contexts will influence when he reaches these milestones.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      How are you different today from the person you were at 6 years
+      old? What about at 16 years old? How are you the same as the
+      person you were at those ages?
+
+.. container::
+
+   .. container::
+
+      Your 3-year-old daughter is not yet potty trained. Based on what
+      you know about the normative approach, should you be concerned?
+      Why or why not?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   cognitive development
+      domain of lifespan development that examines learning, attention,
+      memory, language, thinking, reasoning, and creativity ^
+   continuous development
+      view that development is a cumulative process: gradually improving
+      on existing skills ^
+   developmental milestone
+      approximate ages at which children reach specific normative events
+      ^
+   discontinuous development
+      view that development takes place in unique stages, which happen
+      at specific times or ages ^
+   nature
+      genes and biology ^
+   normative approach
+      study of development using norms, or average ages, when most
+      children reach specific developmental milestones ^
+   nurture
+      environment and culture ^
+   physical development
+      domain of lifespan development that examines growth and changes in
+      the body and brain, the senses, motor skills, and health and
+      wellness ^
+   psychosocial development
+      domain of lifespan development that examines emotions,
+      personality, and social relationships
+
+.. |Continuous and Discontinuous development are shown side by side using two separate pictures. The first picture is a triangle labeled “Continuous Development” which slopes upward from Infancy to Adulthood in a straight line. The second picture is 4 bars side by side labeled “Discontinuous Development” which get higher from Infancy to Adulthood. These bars resemble a staircase.| image:: ../resources/CNX_Psych_09_01_DevelopR.jpg
+.. |Photograph A shows two children wearing inner tubes playing in the shallow water at the beach. Photograph B shows two children playing in the sand at a beach.| image:: ../resources/CNX_Psych_09_01_Play.jpg

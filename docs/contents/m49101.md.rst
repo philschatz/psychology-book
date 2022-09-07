@@ -1,0 +1,256 @@
+=====================
+Biological Approaches
+=====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Discuss the
+   findings of the Minnesota Study of Twins Reared Apart as they relate
+   to personality and genetics \* Discuss temperament and describe the
+   three infant temperaments identified by Thomas and Chess \* Discuss
+   the evolutionary perspective on personality development
+
+How much of our personality is in-born and biological, and how much is
+influenced by the environment and culture we are raised in?
+Psychologists who favor the biological approach believe that inherited
+predispositions as well as physiological processes can be used to
+explain differences in our personalities (Burger, 2008).
+
+In the field of behavioral genetics, the **Minnesota Study of Twins
+Reared Apart**\ {: data-type=“term” .no-emphasis}—a well-known study of
+the genetic basis for personality—conducted research with twins from
+1979 to 1999. In studying 350 pairs of twins, including pairs of
+identical and fraternal twins reared together and apart, researchers
+found that identical twins, whether raised together or apart, have very
+similar personalities (Bouchard, 1994; Bouchard, Lykken, McGue, Segal, &
+Tellegen, 1990; Segal, 2012). These findings suggest the heritability of
+some personality traits. **Heritability**\ {: data-type=“term”} refers
+to the proportion of difference among people that is attributed to
+genetics. Some of the traits that the study reported as having more than
+a 0.50 heritability ratio include leadership, obedience to authority, a
+sense of well-being, alienation, resistance to stress, and fearfulness.
+The implication is that some aspects of our personalities are largely
+controlled by genetics; however, it’s important to point out that traits
+are not determined by a single gene, but by a combination of many genes,
+as well as by epigenetic factors that control whether the genes are
+expressed.
+
+.. container:: psychology link-to-learning
+
+   To what extent is our personality dictated by our genetic makeup?
+   View this `video <http://openstax.org/l/persondna>`__ to learn more.
+
+TEMPERAMENT
+===========
+
+Most contemporary psychologists believe temperament has a biological
+basis due to its appearance very early in our lives (Rothbart, 2011). As
+you learned when you studied lifespan development, Thomas and Chess
+(1977) found that babies could be categorized into one of three
+temperaments: easy, difficult, or slow to warm up. However,
+environmental factors (family interactions, for example) and maturation
+can affect the ways in which children’s personalities are expressed
+(Carter et al., 2008).
+
+Research suggests that there are two dimensions of our temperament that
+are important parts of our adult personality—reactivity and
+self-regulation (Rothbart, Ahadi, & Evans, 2000). Reactivity refers to
+how we respond to new or challenging environmental stimuli;
+self-regulation refers to our ability to control that response (Rothbart
+& Derryberry, 1981; Rothbart, Sheese, Rueda, & Posner, 2011). For
+example, one person may immediately respond to new stimuli with a high
+level of anxiety, while another barely notices it.
+
+.. container:: psychology connect-the-concepts
+
+   .. container::
+
+      Body Type and Temperament
+
+   Is there an association between your body type and your temperament?
+   The constitutional perspective, which examines the relationship
+   between the structure of the human body and behavior, seeks to answer
+   this question (Genovese, 2008). The first comprehensive system of
+   constitutional psychology was proposed by American psychologist
+   William H. Sheldon (1940, 1942). He believed that your body type can
+   be linked to your personality. Sheldon’s life’s work was spent
+   observing human bodies and temperaments. Based on his observations
+   and interviews of hundreds of people, he proposed three
+   body/personality types, which he called somatotypes.
+
+   The three somatotypes are ectomorphs, endomorphs, and mesomorphs
+   (`[link] <#Figure_11_06_Somatotype>`__). Ectomorphs are thin with a
+   small bone structure and very little fat on their bodies. According
+   to Sheldon, the ectomorph personality is anxious, self-conscious,
+   artistic, thoughtful, quiet, and private. They enjoy intellectual
+   stimulation and feel uncomfortable in social situations. Actors
+   Adrien Brody and Nicole Kidman would be characterized as ectomorphs.
+   Endomorphs are the opposite of ectomorphs. Endomorphs have narrow
+   shoulders and wide hips, and carry extra fat on their round bodies.
+   Sheldon described endomorphs as being relaxed, comfortable,
+   good-humored, even-tempered, sociable, and tolerant. Endomorphs enjoy
+   affection and detest disapproval. Queen Latifah and Jack Black would
+   be considered endomorphs. The third somatotype is the mesomorph. This
+   body type falls between the ectomorph and the endomorph. Mesomorphs
+   have large bone structure, well-defined muscles, broad shoulders,
+   narrow waists, and attractive, strong bodies. According to Sheldon,
+   mesomorphs are adventurous, assertive, competitive, and fearless.
+   They are curious and enjoy trying new things, but can also be
+   obnoxious and aggressive. Channing Tatum and Scarlett Johannson would
+   likely be mesomorphs.
+
+   |The outlines of three human somatotypes are shown. The first is
+   labeled, “Endomorph,” the second is labeled “Mesomorph,” and the
+   third is labeled “Ectomorph.” Endomorphs are slightly larger than
+   mesomorphs, and ectomorphs are slightly smaller than mesomorphs.|\ {:
+   #Figure_11_06_Somatotype}
+
+   Sheldon (1949) also conducted further research into somatotypes and
+   criminality. He measured the physical proportions of hundreds of
+   juvenile delinquent boys in comparison to male college students, and
+   found that problem youth were primarily mesomorphs. Why might this
+   be? Perhaps it’s because they are quick to anger and don’t have the
+   restraint demonstrated by ectomorphs. Maybe it’s because a person
+   with a mesomorphic body type reflects high levels of testosterone,
+   which may lead to more aggressive behavior. Can you think of other
+   explanations for Sheldon’s findings?
+
+   Sheldon’s method of somatotyping is not without criticism, as it has
+   been considered largely subjective (Carter & Heath, 1990; Cortés &
+   Gatti, 1972; Parnell, 1958). More systematic and controlled research
+   methods did not support his findings (Eysenck, 1970). Consequently,
+   it’s not uncommon to see his theory labeled as pseudoscience, much
+   like Gall’s theory of phrenology (Rafter, 2007; Rosenbaum, 1995).
+   However, studies involving correlations between somatotype,
+   temperament, and children’s school performance (Sanford et al., 1943;
+   Parnell); somatotype and performance of pilots during wartime (Damon,
+   1955); and somatotype and temperament (Peterson, Liivamagi, & Koskel,
+   2006) did support his theory.
+
+Summary
+=======
+
+Some aspects of our personalities are largely controlled by genetics;
+however, environmental factors (such as family interactions) and
+maturation can affect the ways in which children’s personalities are
+expressed.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The way a person reacts to the world, starting when they are very
+      young, including the person’s activity level is known as
+      \________.
+
+      1. traits
+      2. temperament
+      3. heritability
+      4. personality {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Brianna is 18 months old. She cries frequently, is hard to soothe,
+      and wakes frequently during the night. According to Thomas and
+      Chess, she would be considered \________.
+
+      1. an easy baby
+      2. a difficult baby
+      3. a slow to warm up baby
+      4. a colicky baby {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      According to the findings of the Minnesota Study of Twins Reared
+      Apart, identical twins, whether raised together or apart have
+      \_______\_ personalities.
+
+      1. slightly different
+      2. very different
+      3. slightly similar
+      4. very similar {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      Temperament refers to \________.
+
+      1. inborn, genetically based personality differences
+      2. characteristic ways of behaving
+      3. conscientiousness, agreeableness, neuroticism, openness, and
+         extroversion
+      4. degree of introversion-extroversion {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      How might a temperament mix between parent and child affect family
+      life?
+
+   .. container::
+
+      An easygoing parent may be irritated by a difficult child. If both
+      parent and child have difficult temperaments, then conflicts in
+      the parent-child relationship might result quite often.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Research suggests that many of our personality characteristics
+      have a genetic component. What traits do you think you inherited
+      from your parents? Provide examples. How might modeling
+      (environment) influenced your characteristics as well?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   heritability
+      proportion of difference among people that is attributed to
+      genetics ^
+   temperament
+      how a person reacts to the world, including their activity level,
+      starting when they are very young
+
+.. |The outlines of three human somatotypes are shown. The first is labeled, “Endomorph,” the second is labeled “Mesomorph,” and the third is labeled “Ectomorph.” Endomorphs are slightly larger than mesomorphs, and ectomorphs are slightly smaller than mesomorphs.| image:: ../resources/CNX_Psych_11_06_Somatotype.jpg

@@ -1,0 +1,271 @@
+===========================
+Parts of the Nervous System
+===========================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   difference between the central and peripheral nervous systems \*
+   Explain the difference between the somatic and autonomic nervous
+   systems \* Differentiate between the sympathetic and parasympathetic
+   divisions of the autonomic nervous system
+
+The **nervous system**\ {: data-type=“term” .no-emphasis} can be divided
+into two major subdivisions: the **central nervous system (CNS)**\ {:
+data-type=“term”} and the **peripheral nervous system (PNS)**\ {:
+data-type=“term”}, shown in `[link] <#CNX_Psych_03_03_NervSystem>`__.
+The CNS is comprised of the brain and spinal cord; the PNS connects the
+CNS to the rest of the body. In this section, we focus on the peripheral
+nervous system; later, we look at the brain and spinal cord.
+
+|Image (a) shows an outline of a human body with the brain and spinal
+cord illustrated. Image (b) shows an outline of a human body with a
+network of nerves depicted.|\ {: #CNX_Psych_03_03_NervSystem}
+
+Peripheral Nervous System
+=========================
+
+The peripheral nervous system is made up of thick bundles of axons,
+called nerves, carrying messages back and forth between the CNS and the
+muscles, organs, and senses in the periphery of the body (i.e.,
+everything outside the CNS). The PNS has two major subdivisions: the
+somatic nervous system and the autonomic nervous system.
+
+The **somatic nervous system**\ {: data-type=“term”} is associated with
+activities traditionally thought of as conscious or voluntary. It is
+involved in the relay of sensory and motor information to and from the
+CNS; therefore, it consists of motor neurons and sensory neurons. Motor
+neurons, carrying instructions from the CNS to the muscles, are efferent
+fibers (efferent means “moving away from”). Sensory neurons, carrying
+sensory information to the CNS, are afferent fibers (afferent means
+“moving toward”). Each nerve is basically a two-way superhighway,
+containing thousands of axons, both efferent and afferent.
+
+The **autonomic nervous system**\ {: data-type=“term”} controls our
+internal organs and glands and is generally considered to be outside the
+realm of voluntary control. It can be further subdivided into the
+sympathetic and parasympathetic divisions
+(`[link] <#CNX_Psych_03_03_Autonomic>`__). The **sympathetic nervous
+system**\ {: data-type=“term”} is involved in preparing the body for
+stress-related activities; the **parasympathetic nervous system**\ {:
+data-type=“term”} is associated with returning the body to routine,
+day-to-day operations. The two systems have complementary functions,
+operating in tandem to maintain the body’s homeostasis.
+**Homeostasis**\ {: data-type=“term”} is a state of equilibrium, in
+which biological conditions (such as body temperature) are maintained at
+optimal levels.
+
+|A diagram of a human body lists the different functions of the
+sympathetic and parasympathetic nervous system. The parasympathetic
+system can constrict pupils, stimulate salivation, slow heart rate,
+constrict bronchi, stimulate digestion, stimulate bile secretion, and
+cause the bladder to contract. The sympathetic nervous system can dilate
+pupils, inhibit salivation, increase heart rate, dilate bronchi, inhibit
+digestion, stimulate the breakdown of glycogen, stimulate secretion of
+adrenaline and noradrenaline, and inhibit contraction of the
+bladder.|\ {: #CNX_Psych_03_03_Autonomic}
+
+The sympathetic nervous system is activated when we are faced with
+stressful or high-arousal situations. The activity of this system was
+adaptive for our ancestors, increasing their chances of survival.
+Imagine, for example, that one of our early ancestors, out hunting small
+game, suddenly disturbs a large bear with her cubs. At that moment, his
+body undergoes a series of changes—a direct function of sympathetic
+activation—preparing him to face the threat. His pupils dilate, his
+heart rate and blood pressure increase, his bladder relaxes, his liver
+releases glucose, and adrenaline surges into his bloodstream. This
+constellation of physiological changes, known as the **fight or flight
+response**\ {: data-type=“term”}, allows the body access to energy
+reserves and heightened sensory capacity so that it might fight off a
+threat or run away to safety.
+
+.. container:: psychology link-to-learning
+
+   Reinforce what you’ve learned about the nervous system by playing
+   this BBC-produced `interactive
+   game <http://openstax.org/l/bbcgame>`__ about the nervous system.
+
+While it is clear that such a response would be critical for survival
+for our ancestors, who lived in a world full of real physical threats,
+many of the high-arousal situations we face in the modern world are more
+psychological in nature. For example, think about how you feel when you
+have to stand up and give a presentation in front of a roomful of
+people, or right before taking a big test. You are in no real physical
+danger in those situations, and yet you have evolved to respond to any
+perceived threat with the **fight or flight**\ {: data-type=“term”
+.no-emphasis} response. This kind of response is not nearly as adaptive
+in the modern world; in fact, we suffer negative health consequences
+when faced constantly with psychological threats that we can neither
+fight nor flee. Recent research suggests that an increase in
+susceptibility to heart disease (Chandola, Brunner, & Marmot, 2006) and
+impaired function of the immune system (Glaser & Kiecolt-Glaser, 2005)
+are among the many negative consequences of persistent and repeated
+exposure to stressful situations.
+
+Once the threat has been resolved, the parasympathetic nervous system
+takes over and returns bodily functions to a relaxed state. Our hunter’s
+heart rate and blood pressure return to normal, his pupils constrict, he
+regains control of his bladder, and the liver begins to store glucose in
+the form of glycogen for future use. These processes are associated with
+activation of the parasympathetic nervous system.
+
+Summary
+=======
+
+The brain and spinal cord make up the central nervous system. The
+peripheral nervous system is comprised of the somatic and autonomic
+nervous systems. The somatic nervous system transmits sensory and motor
+signals to and from the central nervous system. The autonomic nervous
+system controls the function of our organs and glands, and can be
+divided into the sympathetic and parasympathetic divisions. Sympathetic
+activation prepares us for fight or flight, while parasympathetic
+activation is associated with normal functioning under relaxed
+conditions.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Our ability to make our legs move as we walk across the room is
+      controlled by the \_______\_ nervous system.
+
+      1. autonomic
+      2. somatic
+      3. sympathetic
+      4. parasympathetic {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      If your \_______\_ is activated, you will feel relatively at ease.
+
+      1. somatic nervous system
+      2. sympathetic nervous system
+      3. parasympathetic nervous system
+      4. spinal cord {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      The central nervous system is comprised of \________.
+
+      1. sympathetic and parasympathetic nervous systems
+      2. organs and glands
+      3. somatic and autonomic nervous systems
+      4. brain and spinal cord {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      Sympathetic activation is associated with \________.
+
+      1. pupil dilation
+      2. storage of glucose in the liver
+      3. increased heart rate
+      4. both A and C {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      What are the implications of compromised immune function as a
+      result of exposure to chronic stress?
+
+   .. container::
+
+      Chronic stress can lead to increased susceptibility to bacterial
+      and viral infections, and potentially an increased risk of cancer.
+      Ultimately, this could be a vicious cycle with stress leading to
+      increased risk of disease, disease states leading to increased
+      stress and so on.
+
+.. container::
+
+   .. container::
+
+      Examine `[link] <#CNX_Psych_03_03_Autonomic>`__, illustrating the
+      effects of sympathetic nervous system activation. How would all of
+      these things play into the fight or flight response?
+
+   .. container::
+
+      Most of these effects directly impact energy availability and
+      redistribution of key resources and heightened sensory capacity.
+      The individual experiencing these effects would be better prepared
+      to fight or flee.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Hopefully, you do not face real physical threats from potential
+      predators on a daily basis. However, you probably have your fair
+      share of stress. What situations are your most common sources of
+      stress? What can you do to try to minimize the negative
+      consequences of these particular stressors in your life?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   autonomic nervous system
+      controls our internal organs and glands ^
+   central nervous system (CNS)
+      brain and spinal cord ^
+   fight or flight response
+      activation of the sympathetic division of the autonomic nervous
+      system, allowing access to energy reserves and heightened sensory
+      capacity so that we might fight off a given threat or run away to
+      safety ^
+   homeostasis
+      state of equilibrium—biological conditions, such as body
+      temperature, are maintained at optimal levels ^
+   parasympathetic nervous system
+      associated with routine, day-to-day operations of the body ^
+   peripheral nervous system (PNS)
+      connects the brain and spinal cord to the muscles, organs and
+      senses in the periphery of the body ^
+   somatic nervous system
+      relays sensory and motor information to and from the CNS ^
+   sympathetic nervous system
+      involved in stress-related activities and functions
+
+.. |Image (a) shows an outline of a human body with the brain and spinal cord illustrated. Image (b) shows an outline of a human body with a network of nerves depicted.| image:: ../resources/CNX_Psych_03_03_NervSystem.jpg
+.. |A diagram of a human body lists the different functions of the sympathetic and parasympathetic nervous system. The parasympathetic system can constrict pupils, stimulate salivation, slow heart rate, constrict bronchi, stimulate digestion, stimulate bile secretion, and cause the bladder to contract. The sympathetic nervous system can dilate pupils, inhibit salivation, increase heart rate, dilate bronchi, inhibit digestion, stimulate the breakdown of glycogen, stimulate secretion of adrenaline and noradrenaline, and inhibit contraction of the bladder.| image:: ../resources/CNX_Psych_03_03_Autonomic.jpg

@@ -1,0 +1,268 @@
+===================
+What Is Psychology?
+===================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Understand the
+   etymology of the word “psychology” \* Define psychology \* Understand
+   the merits of an education in psychology
+
+In Greek mythology, Psyche was a mortal woman whose beauty was so great
+that it rivaled that of the goddess Aphrodite. Aphrodite became so
+jealous of Psyche that she sent her son, Eros, to make Psyche fall in
+love with the ugliest man in the world. However, Eros accidentally
+pricked himself with the tip of his arrow and fell madly in love with
+Psyche himself. He took Psyche to his palace and showered her with
+gifts, yet she could never see his face. While visiting Psyche, her
+sisters roused suspicion in Psyche about her mysterious lover, and
+eventually, Psyche betrayed Eros’ wishes to remain unseen to her
+(`[link] <#CNX_Psych_01_01_PsycheEros>`__). Because of this betrayal,
+Eros abandoned Psyche. When Psyche appealed to Aphrodite to reunite her
+with Eros, Aphrodite gave her a series of impossible tasks to complete.
+Psyche managed to complete all of these trials; ultimately, her
+perseverance paid off as she was reunited with Eros and was ultimately
+transformed into a goddess herself (Ashliman, 2001; Greek Myths & Greek
+Mythology, 2014).
+
+|A photograph shows a sculpture of a winged man embracing a woman from
+behind.|\ {: #CNX_Psych_01_01_PsycheEros}
+
+Psyche comes to represent the human soul’s triumph over the misfortunes
+of life in the pursuit of true happiness (Bulfinch, 1855); in fact, the
+Greek word **psyche**\ {: data-type=“term”} means soul, and it is often
+represented as a butterfly. The word *psychology* was coined at a time
+when the concepts of soul and mind were not as clearly distinguished
+(Green, 2001). The root **ology**\ {: data-type=“term”} denotes
+scientific study of, and **psychology**\ {: data-type=“term”} refers to
+the scientific study of the mind. Since science studies only observable
+phenomena and the mind is not directly observable, we expand this
+definition to the scientific study of mind and behavior.
+
+The scientific study of any aspect of the world uses the scientific
+method to acquire knowledge. To apply the scientific method, a
+researcher with a question about how or why something happens will
+propose a tentative explanation, called a hypothesis, to explain the
+phenomenon. A hypothesis is not just any explanation; it should fit into
+the context of a scientific theory. A scientific theory is a broad
+explanation or group of explanations for some aspect of the natural
+world that is consistently supported by evidence over time. A theory is
+the best understanding that we have of that part of the natural world.
+Armed with the hypothesis, the researcher then makes observations or,
+better still, carries out an experiment to test the validity of the
+hypothesis. That test and its results are then published so that others
+can check the results or build on them. It is necessary that any
+explanation in science be testable, which means that the phenomenon must
+be perceivable and measurable. For example, that a bird sings because it
+is happy is not a testable hypothesis, since we have no way to measure
+the happiness of a bird. We must ask a different question, perhaps about
+the brain state of the bird, since this can be measured. In general,
+science deals only with matter and energy, that is, those things that
+can be measured, and it cannot arrive at knowledge about values and
+morality. This is one reason why our scientific understanding of the
+mind is so limited, since thoughts, at least as we experience them, are
+neither matter nor energy. The scientific method is also a form of
+empiricism. An **empirical method**\ {: data-type=“term”} for acquiring
+knowledge is one based on observation, including experimentation, rather
+than a method based only on forms of logical argument or previous
+authorities.
+
+It was not until the late 1800s that psychology became accepted as its
+own academic discipline. Before this time, the workings of the mind were
+considered under the auspices of philosophy. Given that any behavior is,
+at its roots, biological, some areas of psychology take on aspects of a
+natural science like biology. No biological organism exists in
+isolation, and our behavior is influenced by our interactions with
+others. Therefore, psychology is also a social science.
+
+MERITS OF AN EDUCATION IN PSYCHOLOGY
+====================================
+
+Often, students take their first psychology course because they are
+interested in helping others and want to learn more about themselves and
+why they act the way they do. Sometimes, students take a psychology
+course because it either satisfies a general education requirement or is
+required for a program of study such as nursing or pre-med. Many of
+these students develop such an interest in the area that they go on to
+declare psychology as their major. As a result, psychology is one of the
+most popular majors on college campuses across the United States
+(Johnson & Lubin, 2011). A number of well-known individuals were
+psychology majors. Just a few famous names on this list are Facebook’s
+creator Mark Zuckerberg, television personality and political satirist
+Jon Stewart, actress Natalie Portman, and filmmaker Wes Craven (Halonen,
+2011). About 6 percent of all bachelor degrees granted in the United
+States are in the discipline of psychology (U.S. Department of
+Education, 2013).
+
+An education in psychology is valuable for a number of reasons.
+Psychology students hone critical thinking skills and are trained in the
+use of the scientific method. Critical thinking is the active
+application of a set of skills to information for the understanding and
+evaluation of that information. The evaluation of information—assessing
+its reliability and usefulness— is an important skill in a world full of
+competing “facts,” many of which are designed to be misleading. For
+example, critical thinking involves maintaining an attitude of
+skepticism, recognizing internal biases, making use of logical thinking,
+asking appropriate questions, and making observations. Psychology
+students also can develop better communication skills during the course
+of their undergraduate coursework (American Psychological Association,
+2011). Together, these factors increase students’ scientific literacy
+and prepare students to critically evaluate the various sources of
+information they encounter.
+
+In addition to these broad-based skills, psychology students come to
+understand the complex factors that shape one’s behavior. They
+appreciate the interaction of our biology, our environment, and our
+experiences in determining who we are and how we will behave. They learn
+about basic principles that guide how we think and behave, and they come
+to recognize the tremendous diversity that exists across individuals and
+across cultural boundaries (American Psychological Association, 2011).
+
+.. container:: psychology link-to-learning
+
+   Watch a brief `video <http://openstax.org/l/psycmajor>`__ that
+   describes some of the questions a student should consider before
+   deciding to major in psychology.
+
+Summary
+=======
+
+Psychology derives from the roots *psyche* (meaning soul) and *–ology*
+(meaning scientific study of). Thus, psychology is defined as the
+scientific study of mind and behavior. Students of psychology develop
+critical thinking skills, become familiar with the scientific method,
+and recognize the complexity of behavior.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Which of the following was mentioned as a skill to which
+      psychology students would be exposed?
+
+      1. critical thinking
+      2. use of the scientific method
+      3. critical evaluation of sources of information
+      4. all of the above {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      *Psyche* is a Greek word meaning \________.
+
+      1. essence
+      2. soul
+      3. behavior
+      4. love {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Before psychology became a recognized academic discipline, matters
+      of the mind were undertaken by those in \________.
+
+      1. biology
+      2. chemistry
+      3. philosophy
+      4. physics {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      In the scientific method, a hypothesis is a(n) \________.
+
+      1. observation
+      2. measurement
+      3. test
+      4. proposed explanation {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Why do you think psychology courses like this one are often
+      requirements of so many different programs of study?
+
+   .. container::
+
+      Psychology courses deal with a number of issues that are helpful
+      in a variety of settings. The text made mention of the types of
+      skills as well as the knowledge base with which students of
+      psychology become familiar. As mentioned in the link to learning,
+      psychology is often helpful/valued in fields in which interacting
+      with others is a major part of the job.
+
+.. container::
+
+   .. container::
+
+      Why do you think many people might be skeptical about psychology
+      being a science?
+
+   .. container::
+
+      One goal of psychology is the study of the mind. Science cannot
+      directly study the mind, because it is not a form of matter or
+      energy. This might create some skepticism about the scientific
+      nature of psychology.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Why are you taking this course? What do you hope to learn about
+      during this course?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   empirical method
+      method for acquiring knowledge based on observation, including
+      experimentation, rather than a method based only on forms of
+      logical argument or previous authorities ^
+   ology
+      suffix that denotes “scientific study of” ^
+   psyche
+      Greek word for soul ^
+   psychology
+      scientific study of the mind and behavior
+
+.. |A photograph shows a sculpture of a winged man embracing a woman from behind.| image:: ../resources/CNX_Psych_01_01_PsycheEros.jpg

@@ -1,0 +1,622 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|Two photographs show people holding signs at public events in response
+to Trayvon Martin’s death. The signs include words and messages such as,
+“Justice,” “Wearing a hoodie is not a crime,” “Hoodies don’t kill
+people; guns kill people,” and, “Do I look suspicious?”|\ {:}
+
+Humans are diverse, and sometimes our differences make it challenging
+for us to get along with one another. A poignant example is that of
+Trayvon **Martin**\ {: data-type=“term” .no-emphasis}, a 17-year-old
+African American who was shot by a neighborhood watch volunteer, George
+**Zimmerman**\ {: data-type=“term” .no-emphasis}, in a predominantly
+White neighborhood in 2012. Zimmerman grew suspicious of the boy dressed
+in a hoodie and pursued Martin. A physical altercation ended with
+Zimmerman fatally shooting Martin. Zimmerman claimed that he acted in
+self-defense; Martin was unarmed. A Florida jury found Zimmerman not
+guilty of second degree murder nor of manslaughter.
+
+Several groups protested what they deemed racial profiling and brutality
+against an unarmed Black male. Zimmerman, who has a Peruvian mother and
+a German father, was accused of being racist. Some media coverage was
+criticized for inflaming racial politics in their coverage. In spite of
+conflicts such as these, people also to work together to create positive
+change. For example, after the 9/11 terrorist attacks, people rallied
+together and charitable donations skyrocket (Brown & Minty, 2006). This
+chapter explores how the presence of other people influences the
+behavior of individuals, dyads, and groups. Social factors can determine
+whether human behavior tends toward conflict or harmony.
+
+References
+==========
+
+Brown, P., & Minty, J. (2006, December 1). Media coverage and charitable
+giving after the 2004 tsunami. Series Report 855. William Davidson
+Institute, University of Michigan. Retrieved from
+http://www.wdi.umich.edu/files/Publications/WorkingPapers/wp855.pdf.
+
+.. _references-1:
+
+References
+==========
+
+Adams, H. E., Wright, L. W., Jr., & Lohr, B.A. (1996). Is homophobia
+associated with homosexual arousal? *Journal of Abnormal Psychology,
+105*, 440–445.
+
+Albarracín, D., & Wyer, R. S. (2001). Elaborative and nonelaborative
+processing of a behavior-related communication. *Personality and Social
+Psychology Bulletin, 27*, 691–705.
+
+Alexander, M. (2001, August 22). Thirty years later, Stanford prison
+experiment lives on. *Stanford Report*. Retrieved from
+http://news.stanford.edu/news/2001/august22/prison2-822.html.
+
+Allport, G. W. (1954). *The Nature of Human Prejudice*. Cambridge, MA:
+Addison-Wesley.
+
+American Psychological Association (2010). Bullying: What parents,
+teachers can do to stop it. Retrieved from
+http://www.apa.org/news/press/releases/2010/04/bullying.aspx.
+
+Aronson, E., & Mills, J. (1959). The effect of severity of initiation on
+liking for a group, *Journal of Abnormal and Social Psychology, 59*,
+177–181.
+
+Asch, S. E. (1955). Opinions and social pressure. *Scientific American,
+193*, 31–35.
+
+Baron, R. M., Albright, L., & Malloy, T. E. (1995). Effects of
+behavioral and social class information on social judgment. *Personality
+and Social Psychology Bulletin, 21*, 308–315.
+
+Batson, C. D. (1991). *The altruism question: Toward a
+social-psychological answer*. Hillsdale, NJ: Erlbaum.
+
+Bandura, A. (1999). Moral disengagement in the perpetration of
+inhumanities. *Personality and Social Psychology Review, 3*\ (3),
+193–209. doi:10.1207/s15327957pspr0303\_3.
+
+Berkowitz, A. D. (2004). *The social norms approach: Theory, research
+and annotated bibliography.* Retrieved from
+http://www.alanberkowitz.com/articles/social\_norms.pdf.
+
+Berkowitz, L. (1993). *Aggression: Its causes, consequences, and
+control*. New York, NY: McGraw-Hill.
+
+Betz, N. E. (2008). Women’s career development. In F. Denmark & M.
+Paludi (Eds.), *Psychology of women: Handbook of issues and theories*
+(2nd ed., pp. 717–752). Westport, CT: Praeger.
+
+Blau, F. D., Ferber, M. A., & Winkler, A. E. (2010). *The economics of
+women, men, and work* (6th ed.). Upper Saddle River, NJ: Prentice Hall.
+
+Bond, C. F., & Titus, L. J. (1983). Social facilitation: A meta-analysis
+of 241 studies. *Psychological Bulletin, 94*, 265–292.
+
+Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis
+of studies using Asch’s (1952b, 1956) line judgment task. *Psychological
+Bulletin, 119*\ (1), 111–137.
+
+Bowen, L. (2011). Bullying may contribute to lower test scores. *Monitor
+on Psychology, 42*\ (9), 19.
+
+Brown, R. (2010). *Prejudice: Its social psychology* (2nd ed.). Malden,
+MA: Wiley-Blackwell.
+
+Buss, D. M. (2004). *Evolutionary psychology: The new science of the
+mind* (2nd ed.). Boston, MA: Allyn and Bacon.
+
+Buss, D. M. (1989). Sex differences in human mate preferences:
+Evolutionary hypotheses tested in 37 cultures. *Behavioral and Brain
+Sciences, 12*, 1–49.
+
+Ceci, S. J., & Williams, W. M. (2011). Understanding current causes of
+women’s underrepresentation in science. *Proceedings of the National
+Academy of Sciences, 108*, 3157–3162.
+
+Choi, I., & Nisbett R. E. (1998). Situational salience and cultural
+differences in the correspondence bias and actor-observer bias.
+*Personality and Social Psychology Bulletin, 24*\ (9), 949–960.
+doi:10.1177/0146167298249003.
+
+Cialdini, R. B. (2001). Harnessing the science of persuasion. *Harvard
+Business Review, 79*, 72–81.
+
+Cialdini, R. B., Brown, S. L., Lewis, B. P., Luce, C., & Neuberg, S. L.
+(1997). Reinterpreting the empathy-altruism relationship: When one into
+one equals oneness. *Journal of Personality and Social Psychology, 73*,
+481–494.
+
+Colin Powell regrets Iraq war intelligence. (2011). Retrieved March 23,
+2014, from
+http://www.aljazeera.com/news/americas/2011/09/20119116916873488.html.
+
+Cozby, P. C. (1973). Self-disclosure: A literature review.
+*Psychological Bulletin, 79*, 73–91.
+
+Crisp, R. J., & Turner, R. N. (2009). Can imagined interactions produce
+positive perceptions? Reducing prejudice through simulated social
+contact. *American Psychologist, 64*, 231–240.
+
+Crowley, A. E., & Hoyer, W. D. (1994). An integrative framework for
+understanding two-sided persuasion. *Journal of Consumer Research,
+20*\ (4), 561–574.
+
+Croyle, R. T., & Cooper, J. (1983). Dissonance arousal: Physiological
+evidence. *Journal of Personality and Social Psychology, 45*, 782–791.
+
+Cuddy, A. J., Norton, M. I., & Fiske, S. T. (2005). This old stereotype:
+The pervasiveness and persistence of the elderly stereotype. *Journal of
+Social Issues, 61*, 267–285.
+
+Deutsch, M., & Gerard, H. (1955). A study of normative and informational
+social influences upon individual judgment. *Journal of Abnormal and
+Social Psychology, 51*, 629–636.
+
+Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and
+controlled components. *Journal of Personality and Social Psychology,
+56*, 5–18.
+
+Devine, P. G., & Elliot, A. J. (1995). Are racial stereotypes really
+fading? The Princeton trilogy revisited. *Personality and Social
+Psychology Bulletin, 21*, 1139–1150.
+
+Dixon, T. L., & Linz D. (2000). Overrepresentation and
+underrepresentation of African Americans and Latinos as lawbreakers on
+television news. *Journal of Communication, 50*\ (2), 131–154.
+
+Dodge, K. A., & Schwartz, D. (1997). Social information processing
+mechanisms in aggressive behavior. In D. M. Stoff and J. Breiling
+(Eds.), *Handbook of Antisocial Behavior* (pp. 171–180). Hoboken, NJ:
+John Wiley and Sons.
+
+Dollard, J., Miller, N. E., Doob, L. W., Mowrer, O. H., & Sears, R. R.
+(1939). *Frustration and aggression*. New Haven, CT: Yale University
+Press.
+
+Dovidio, J. F., & Gaertner, S. L. (2004). On the nature of contemporary
+prejudice. In P. S. Rothenberg, (Ed.), *Race, class, and gender in the
+United States: An integrated study* (6th ed., pp. 132–142). New York,
+NY: Worth.
+
+Dovidio, J. F., Gluszek, A., John, M. S., Ditlmann, R., & Lagunes, P.
+(2010). Understanding bias toward Latinos: Discrimination, dimensions of
+difference, and experience of exclusion. *Journal of Social Issues, 66*,
+59–78.
+
+Eagly, A. H., & Chaiken, S. (1975). An attribution analysis of the
+effect of communicator characteristics on opinion change: The case of
+communicator attractiveness. *Journal of Personality and Social
+Psychology, 32*, 136–144.
+
+Eagly, A. H., & Chaiken, S. (1993). *The psychology of attitudes*.
+Orlando, FL: Harcourt Brace Jovanovich College.
+
+East Haven mayor suggests “he might have tacos” to repair relations with
+Latinos. (2012). Retrieved April 27, 2014, from
+https://www.youtube.com/watch?v=PCUwtfqF4wU.
+
+Ehrlinger, J., Gilovich, T., & Ross, L. (2005). Peering into the bias
+blind spot: People's assessments of bias in themselves and others.
+*Personality and Social Psychology Bulletin, 31*, 680–692.
+
+Festinger, L. (1957). *A theory of cognitive dissonance*. Stanford, CA:
+Stanford University Press.
+
+Festinger, L., & Maccoby, N. (1964). On resistance to persuasive
+communications. *The Journal of Abnormal and Social Psychology, 68*,
+359–366.
+
+Festinger, L., Schachler, S., & Back, K. W. (1950). *Social pressures in
+informal groups: A study of human factors in housing*. New York, NY:
+Harper.
+
+Fink, B., Neave, N., Manning, J. T., & Grammer, K. (2006). Facial
+symmetry and judgments of attractiveness, health and personality.
+*Personality and Individual Differences, 41*, 491–499.
+
+Fiske, S. T., Cuddy, A. J., Glick, P., & Xu, J. (2002). A model of
+(often mixed) stereotype content: Competence and warmth respectively
+follow from perceived status and competition. *Journal of Personality
+and Social Psychology, 82*\ (6), 878–902.
+
+Fiske, S. T., Gilbert, D. T., & Lindzey, G. (2010). *Handbook of social
+psychology* (5th ed.). Hoboken, NJ: Wiley.
+
+Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure:
+The foot-in-the-door technique. *Journal of Personality and Social
+Psychology, 4*, 195–202.
+
+Geen, R. G. (1989). Alternative conceptions of social facilitation. In
+P. B. Paulus (Ed.), *Psychology of group influence* (2nd ed.,
+pp. 15–51). Hillsdale, NJ: Lawrence Erlbaum.
+
+Greenberg, J., Schimel, J., & Martens, A. (2002). Ageism: Denying the
+face of the future. In T. D. Nelson (Ed.), *Ageism: Stereotyping and
+prejudice against older persons* (pp. 27–48). Cambridge, MA: MIT Press.
+
+Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. (1998). Measuring
+individual differences in implicit cognition: The implicit association
+test. *Journal of Personality and Social Psychology, 74*, 1464–1480.
+
+Greenwald, A. G., & Ronis, D. L. (1978). Twenty years of cognitive
+dissonance: Case study of the evolution of a theory. *Psychological
+Review, 85*, 53–57.
+
+Grove, J. R., Hanrahan, S. J., & McInman, A. (1991). Success/failure
+bias in attributions across involvement categories in sport.
+*Personality and Social Psychology Bulletin, 17*\ (1), 93–97.
+
+Gupta, P. B., & Lord, K. R. (1998). Product placement in movies: The
+effect of prominence and mode on recall. *Journal of Current Issues and
+Research in Advertising, 20*, 47–59.
+
+Hare, A. P. (2003). Roles, relationships, and groups in organizations:
+Some conclusions and recommendations. *Small Group Research, 34*,
+123–154.
+
+Haugtvedt, C. P., & Wegener, D. T. (1994). Message order effects in
+persuasion: An attitude strength perspective. *Journal of Consumer
+Research, 21*, 205–218.
+
+Hebl, M. R., Foster, J. B., Mannix, L. M., & Dovidio, J. F. (2002).
+Formal and interpersonal discrimination: A field study of bias toward
+homosexual applicants. *Personality and Social Psychology Bulletin,
+28*\ (6), 815–825.
+
+Heckert, T. M., Latier, A., Ringwald-Burton, A., & Drazen, C. (2006).
+Relations among student effort, perceived class difficulty
+appropriateness, and student evaluations of teaching: Is it possible to
+"buy" better evaluations through lenient grading? *College Student
+Journal, 40*\ (3), 588.
+
+Herek, G. M., & McLemore, K. A. (2013). Sexual prejudice. *Annual Review
+of Psychology, 64*, 309–33. doi:10.1146/annurev-psych-113011-143826.
+
+Heider, F. (1958). *The psychology of interpersonal relations*. New
+York: Wiley.
+
+Hinduja, S., & Patchin, J. W. (2010). Bullying, cyberbullying, and
+suicide. *Archives of Suicide Research, 14*\ (3), 206–221.
+
+Hinduja, S. & Patchin, J. W. (2011). Cyberbullying research summary:
+Bullying, cyberbullying, and sexual orientation. Cyberbullying Research
+Center. Retrieved April 27, 2014, from
+http://www.cyberbullying.us/cyberbullying\_sexual\_orientation\_fact\_sheet.pdf.
+
+Hodge, S. R., Burden, J. W., Jr., Robinson, L. E., & Bennett, R. A.,
+III. (2008). Theorizing on the stereotyping of black male
+student-athletes. *Journal for the Study of Sports and Athletes in
+Education, 2*, 203–226.
+
+Hoff, D. L., & Mitchell, S. N. (2009). Cyberbullying: Causes, effects,
+and remedies. *Journal of Education, 47*, 652–665.
+
+Hovland, C. I., Janis, I. L. and Kelley, H. H. (1953). *Communications
+and persuasion: Psychological studies in opinion change.* New Haven, CT:
+Yale University Press.
+
+Hovland, C.I., Weiss, W. (1951, Winter). The influence of source
+credibility on communication effectiveness. *Public Opinion Quarterly,
+15*\ (4), 635–650.
+
+Igou, E. R., & Bless, H. (2003). Inferring the importance of arguments:
+Order effects and conversational rules. *Journal of Experimental Social
+Psychology, 39*, 91–99.
+
+Ito, T. A., & Urland, G. R., (2003). Race and gender on the brain:
+Electrocortical measures of attention to race and gender of multiply
+categorizable individuals. *Journal of Personality & Social Psychology,
+85*, 616–626.
+
+Jackson, J. M., & Williams, K. D. (1985). Social loafing on difficult
+tasks: Working collectively can improve performance. *Journal of
+Personality and Social Psychology, 49*, 937–942.
+
+Janis, I. L. (1972). *Victims of groupthink.* Boston, MA: Houghton
+Mifflin.
+
+Jones, E. E., & Nisbett, R. E. (1971). *The actor and the observer:
+Divergent perceptions of the causes of behavior*. New York: General
+Learning Press.
+
+Jost, J. T., Banaji, M. R., & Nosek, B. A. (2004). A decade of system
+justification theory: Accumulated evidence of conscious and unconscious
+bolstering of the status quo. *Political Psychology, 25*, 881–919.
+
+Jost, J. T., & Major, B. (Eds.). (2001). *The psychology of legitimacy:
+Emerging perspectives on ideology, justice, and intergroup relations*.
+New York, NY: Cambridge University Press.
+
+Karau, S. J., & Williams, K. D. (1993). Social loafing: A meta-analytic
+review and theoretical integration. *Journal of Personality and Social
+Psychology, 65*, 681–706.
+
+Krosnick, J. A., & Alwin, D. F. (1989). Aging and susceptibility to
+attitude change. *Journal of Personality and Social Psychology, 57*,
+416–425.
+
+Kumkale, G. T., & Albarracín, D. (2004). The sleeper effect in
+persuasion: A meta-analytic review. *Psychological Bulletin, 130*\ (1),
+143–172. doi:10.1037/0033-2909.130.1.143.
+
+Larsen, K. S. (1990). The Asch conformity experiment: Replication and
+transhistorical comparisons. *Journal of Social Behavior & Personality,
+5*\ (4), 163–168.
+
+Latané, B., & Darley, J. M. (1968). Group inhibition of bystander
+intervention in emergencies. *Journal of Personality and Social
+Psychology, 10*, 215–221.
+
+Latané, B., Williams, K. and Harkins, S. G. (1979). Many hands make
+light the work: The causes and consequences of social loafing. *Journal
+of Personality and Social Psychology, 37*, 822–832.
+
+Laurenceau, J.-P., Barrett, L. F., & Pietromonaco, P. R. (1998).
+Intimacy as an interpersonal process: The importance of self-disclosure,
+partner disclosure, and perceived partner responsiveness in
+interpersonal exchanges. *Journal of Personality and Social Psychology,
+74*\ (5), 1238–1251. doi:10.1037/0022-3514.74.5.1238.
+
+Lerner, M. J., & Miller, D. T. (1978). Just world research and the
+attribution process: Looking back and ahead. *Psychological Bulletin,
+85*, 1030–1051.
+
+Lumsdaine, A. A., & Janis, I. L. (1953). Resistance to
+“counterpropaganda” produced by one-sided and two-sided “propaganda”
+presentations. *Public Opinion Quarterly, 17*, 311–318.
+
+Malle, B. F. (2006). The actor–observer asymmetry in attribution: A
+(surprising) meta-analysis [Supplemental material]. *Psychological
+Bulletin, 132*\ (6), 895–919. doi:10.1037/0033-2909.132.6.895.
+
+Malloy, T. E., Albright, L., Kenny, D. A., Agatstein, F., & Winquist, L.
+(1997). Interpersonal perception and metaperception in non-overlapping
+social groups. *Journal of Personality and Social Psychology, 72*,
+390–398.
+
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications
+for cognition, emotion, and motivation. *Psychological Review, 98*,
+224–253.
+
+Martin, C. H., & Bull, P. (2008). Obedience and conformity in clinical
+practice. *British Journal of Midwifery, 16*\ (8), 504–509.
+
+McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a
+feather: Homophily in social networks. *Annual Review of Sociology, 27*,
+pp. 415–444. doi:10.1146/annurev.soc.27.1.415.
+
+Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal
+and Social Psychology, 67*, 371–378.
+
+Milgram, S. (1965). Some conditions of obedience and disobedience to
+authority. *Human Relations, 18*, 57–76.
+
+Miller, D. T., & Ross, M. (1975). Self-serving biases in the attribution
+of causality: Fact or fiction? *Psychological Bulletin, 82*, 213–225.
+
+Miller, N., & Campbell, D. T. (1959). Recency and primacy in persuasion
+as a function of the timing of speeches and measurements. *The Journal
+of Abnormal and Social Psychology, 59*, 1–9.
+
+Mischel, W. (1977). The interaction of person and situation.
+*Personality at the crossroads: Current issues in interactional
+psychology*, *333*, 352.
+
+Mitchell, D. H., & Eckstein, D. (2009). Jury dynamics and
+decision-making: A prescription for groupthink. *International Journal
+of Academic Research, 1*\ (1), 163–169.
+
+Nelson, T. (Ed.). (2004). *Ageism: Stereotyping and prejudice against
+older persons*. Cambridge, MA: The MIT Press.
+
+Nisbett, R. E., Caputo, C., Legant, P., & Marecek, J. (1973). Behavior
+as seen by the actor and as seen by the observer. *Journal of
+Personality and Social Psychology, 27*, 154–164.
+
+Nisbett, R. E., Peng, K., Choi, I., & Norenzayan, A. (2001). Culture and
+systems of thought: Holistic versus analytic cognition. *Psychological
+Review, 108*, 291–310.
+
+Nosek, B. A. (2005). Moderators of the relationship between implicit and
+explicit evaluation. *Journal of Experimental Psychology: General,
+134*\ (4), 565–584.
+
+O'Keeffe, G. S., & Clarke-Pearson, K. (2011). The impact of social media
+on children, adolescents, and families. *Pediatrics, (127)*\ 4, 800–4.
+doi:10.1542/peds.2011-0054.
+
+Olson, M. A., & Fazio, R. H. (2003). Relations between implicit measures
+of prejudice what are we measuring? *Psychological Science, 14*,
+636–639.
+
+Olweus, D. (1993). *Bullying at school: What we know and what we can
+do*. Malden, MA: Wiley-Blackwell.
+
+Penton-Voak, I. S., Jones, B. C., Little, A. C., Baker, S., Tiddeman,
+B., Burt, D. M., & Perrett, D. I. (2001). Symmetry, sexual dimorphism in
+facial proportions and male facial attractiveness. *Proceedings of the
+Royal Society B: Biological Sciences, 268*, 1617–1623.
+
+Petty, R. E., & Cacioppo, J. T. (1986). The elaboration likelihood model
+of persuasion. In *Communication and persuasion: Central and peripheral
+routes to attitude change* (pp. 1–24). New York, NY: Springer.
+doi:10.1007/978-1-4612-4964-1.
+
+Petty, R. E., Wegener, D. T., & Fabrigar, L. R. (1997). Attitudes and
+attitude change. *Annual Review of Psychology, 48*, 609–647.
+
+Pliner, P., Hart, H., Kohl, J., & Saari, D. (1974). Compliance without
+pressure: Some further data on the foot-in-the-door technique. *Journal
+of Experimental Social Psychology, 10*, 17–22.
+
+Plant, E. A., & Devine, P. G. (1998). Internal and external motivation
+to respond without prejudice. *Journal of Personality and Social
+Psychology, 75*, 811–832.
+
+Regan, P. C., & Berscheid, E. (1997). Gender differences in
+characteristics desired in a potential sexual and marriage partner.
+*Journal of Psychology & Human Sexuality, 9*, 25–37.
+
+Rhodes, N., & Wood, W. (1992). Self-esteem and intelligence affect
+influenceability: The mediating role of message reception.
+*Psychological Bulletin, 111*, 156–171.
+
+Richard, F. D., Bond, C. F., Jr., & Stokes-Zoota, J. J. (2003). One
+hundred years of social psychology quantitatively described. *Review of
+General Psychology, 7*\ (4), 331–363. doi:10.1037/1089-2680.7.4.331.
+
+Riggio, H. R., & Garcia, A. L. (2009). The power of situations:
+Jonestown and the fundamental attribution error. *Teaching of
+Psychology, 36*\ (2), 108–112. doi:10.1080/00986280902739636.
+
+Rikowski, A., & Grammer, K. (1999). Human body odour, symmetry and
+attractiveness. *Proceedings of the Royal Society B: Biological
+Sciences, 266*\ (1422), 869–874. doi:10.1098/rspb.1999.0717.
+
+Roesch, S. C., & Amirkham, J. H. (1997). Boundary conditions for
+self-serving attributions: Another look at the sports pages. *Journal of
+Applied Social Psychology, 27*, 245–261.
+
+Rojek, J., Rosenfeld, R., & Decker, S. (2012). Policing race: The racial
+stratification of searches in police traffic stops. *Criminology, 50*,
+993–1024.
+
+Rosenberg, M. J., & Hovland, C. I. (1960). Cognitive, affective and
+behavioral components of attitudes. In *Attitude organization and
+change: An analysis of consistency among attitude components*
+(pp. 1–14). New Haven and London: Yale University Press.
+
+Rosenthal, R., & Jacobson, L. F. (1968). Teacher expectations for the
+disadvantaged. *Scientific American, 218*, 19–23.
+
+Ross, L. (1977). The intuitive psychologist and his shortcomings:
+Distortions in the attribution process. *Advances in Experimental Social
+Psychology, 10*, 173–220.
+
+Ross, L., Amabile, T. M., & Steinmetz, J. L. (1977). Social roles,
+social control, and biases in social-perception processes. *Journal of
+Personality and Social Psychology, 35*, 485–494.
+
+Ross, L., & Nisbett, R. E. (1991). *The person and the situation:
+Perspectives of social psychology*. New York, NY: McGraw-Hill.
+
+Rudman, L. A. (1998). Self-promotion as a risk factor for women: The
+costs and benefits of counterstereotypical impression management.
+*Journal of Personality and Social Psychology, 74*\ (3), 629–645.
+
+Rusbult, C. E., & Van Lange, P. A. (2003). Interdependence, interaction,
+and relationships. *Annual Review of Psychology, 54*, 351–575.
+
+Schank, R. C., Abelson, R. (1977). *Scripts, plans, goals, and
+understanding: An inquiry into human knowledge.* Hillsdale, NJ: Lawrence
+Erlbaum Associates.
+
+Shepperd, J. A., & Taylor, K. M. (1999). Social loafing and
+expectancy-value theory. *Personality and Social Psychology Bulletin,
+25*, 1147–1158.
+
+Singh, D. (1993). Adaptive significance of female physical
+attractiveness: Role of waist-to-hip ratio. *Journal of Personality and
+Social Psychology, 65*, 293–307.
+
+Sommers, S. R., & Ellsworth, P. C. (2000). Race in the courtroom:
+Perceptions of guilt and dispositional attributions. *Personality and
+Social Psychology Bulletin, 26*, 1367–1379.
+
+Spears, B., Slee, P., Owens, L., & Johnson, B. (2009). Behind the scenes
+and screens: Insights into the human dimension of covert and
+cyberbullying. *Journal of Psychology, 217*\ (4), 189–196.
+doi:10.1027/0044-3409.217.4.189.
+
+Sternberg, R. J. (1986). A triangular theory of love. *Psychological
+Review, 93*, 119–135.
+
+Stewart, J. B. (2002). *Heart of a soldier*. New York, NY: Simon and
+Schuster.
+
+Sutton, R.M. and Douglas, K.M. (2005). Justice for all, or just for me?
+More support for self-other differences in just world beliefs.
+Personality and Individual Differences, 9(3). pp. 637-645. ISSN
+0191-8869.
+
+Tajfel, H. (1974). Social identity and intergroup behaviour. *Social
+Science Information, 13*\ (2), 65–93.
+
+Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup
+conflict. In W. G. Austin & S. Worchel (Eds.), *The social psychology of
+intergroup relations* (pp. 33–48). Monterey, CA: Brooks-Cole.
+
+Tavris, C., & Aronson, E. (2008). *Mistakes were made (but not by me):
+Why we justify foolish beliefs, bad decisions, and hurtful acts*. New
+York, NY: Houghton Mifflin Harcourt.
+
+Taylor, L. S., Fiore, A. T., Mendelsohn, G. A., & Cheshire, C. (2011).
+“Out of my league”: A real-world test of the matching hypothesis.
+*Personality and Social Psychology Bulletin, 37*\ (7), 942–954.
+doi:10.1177/0146167211409947.
+
+Teger, A. I., & Pruitt, D. G. (1967). Components of group risk taking.
+*Journal of Experimental Social Psychology, 3*, 189–205.
+
+Triandis, H. C. (2001). Individualism-collectivism and personality.
+*Journal of Personality, 69*, 907–924.
+
+van Veen, V., Krug, M. K., Schooler, J. W., & Carter, C. S. (2009).
+Neural activity predicts attitude change in cognitive dissonance.
+*Nature Neuroscience, 12*, 1469–1474.
+
+Vandebosch, H., & Van Cleemput, K. (2009). Cyberbullying among
+youngsters: Profiles of bullies and victims. *New media & Society,
+11*\ (8), 1349–1371. doi:10.1177/1461444809341263.
+
+Walker, M. B., & Andrade, M. G. (1996). Conformity in the Asch task as a
+function of age. *The Journal of Social Psychology, 136*, 367–372.
+
+Walster, E., & Festinger, L. (1962). The effectiveness of “overheard”
+persuasive communications. *Journal of Abnormal and Social Psychology,
+65*, 395–402.
+
+Wason, P. C., & Johnson-Laird, P. N. (1972). *The psychology of
+deduction: Structure and content*. Cambridge, MA: Harvard University
+Press.
+
+Weiner, B. (1979). A theory of motivation for some classroom
+experiences. *Journal of Educational Psychology, 71*\ (1), 3–25.
+
+Wilson, M., & Daly, M. (1985). Competitiveness, risk taking, and
+violence: The young male syndrome. *Ethology and Sociobiology, 6*,
+59–73.
+
+Wilson, T. D., Lindsey, S., & Schooler, T. Y. (2000). A model of dual
+attitudes. *Psychological Review, 107*, 101–126.
+
+Zajonc, R. B. (1965). Social facilitation. *Science, 149*\ (3681),
+269–274. doi:10.1126/science.149.3681.269
+
+Zimbardo, P. G. (2013). An end to the experiment [Slide show of the
+Stanford prison experiment]. Retrieved from
+http://www.prisonexp.org/psychology/37.
+
+.. |Two photographs show people holding signs at public events in response to Trayvon Martin’s death. The signs include words and messages such as, “Justice,” “Wearing a hoodie is not a crime,” “Hoodies don’t kill people; guns kill people,” and, “Do I look suspicious?”| image:: ../resources/CNX_Psych_12_00_Trayvon.jpg

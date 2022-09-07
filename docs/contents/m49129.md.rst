@@ -1,0 +1,350 @@
+==========
+Aggression
+==========
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define aggression
+   \* Define cyberbullying \* Describe the bystander effect
+
+Throughout this chapter we have discussed how people interact and
+influence one another’s thoughts, feelings, and behaviors in both
+positive and negative ways. People can work together to achieve great
+things, such as helping each other in emergencies: recall the heroism
+displayed during the 9/11 terrorist attacks. People also can do great
+harm to one another, such as conforming to group norms that are immoral
+and obeying authority to the point of murder: consider the mass
+conformity of Nazis during WWII. In this section we will discuss a
+negative side of human behavior—aggression.
+
+AGGRESSION
+==========
+
+Humans engage in **aggression**\ {: data-type=“term”} when they seek to
+cause harm or pain to another person. Aggression takes two forms
+depending on one’s motives: hostile or instrumental. **Hostile
+aggression**\ {: data-type=“term”} is motivated by feelings of anger
+with intent to cause pain; a fight in a bar with a stranger is an
+example of hostile aggression. In contrast, **instrumental
+aggression**\ {: data-type=“term”} is motivated by achieving a goal and
+does not necessarily involve intent to cause pain (Berkowitz, 1993); a
+contract killer who murders for hire displays instrumental aggression.
+
+There are many different theories as to why aggression exists. Some
+researchers argue that aggression serves an evolutionary function (Buss,
+2004). Men are more likely than women to show aggression (Wilson & Daly,
+1985). From the perspective of evolutionary psychology, human male
+aggression, like that in nonhuman primates, likely serves to display
+dominance over other males, both to protect a mate and to perpetuate the
+male’s genes (`[link] <#CNX_Psych_12_06_dominance>`__). Sexual jealousy
+is part of male aggression; males endeavor to make sure their mates are
+not copulating with other males, thus ensuring their own paternity of
+the female’s offspring. Although aggression provides an obvious
+evolutionary advantage for men, women also engage in aggression. Women
+typically display instrumental forms of aggression, with their
+aggression serving as a means to an end (Dodge & Schwartz, 1997). For
+example, women may express their aggression covertly, for example, by
+communication that impairs the social standing of another person.
+Another theory that explains one of the functions of human aggression is
+**frustration aggression theory**\ {: data-type=“term” .no-emphasis}
+(Dollard, Doob, Miller, Mowrer, & Sears, 1939). This theory states that
+when humans are prevented from achieving an important goal, they become
+frustrated and aggressive.
+
+|A photograph shows two monkeys face to face.|\ {:
+#CNX_Psych_12_06_dominance}
+
+Bullying
+--------
+
+A modern form of aggression is bullying. As you learn in your study of
+child development, socializing and playing with other children is
+beneficial for children’s psychological development. However, as you may
+have experienced as a child, not all play behavior has positive
+outcomes. Some children are aggressive and want to play roughly. Other
+children are selfish and do not want to share toys. One form of negative
+social interactions among children that has become a national concern is
+bullying. **Bullying**\ {: data-type=“term”} is repeated negative
+treatment of another person, often an adolescent, over time (Olweus,
+1993). A one-time incident in which one child hits another child on the
+playground would not be considered bullying: Bullying is repeated
+behavior. The negative treatment typical in bullying is the attempt to
+inflict harm, injury, or humiliation, and bullying can include physical
+or verbal attacks. However, bullying doesn’t have to be physical or
+verbal, it can be psychological. Research finds gender differences in
+how girls and boys bully others (American Psychological Association,
+2010; Olweus, 1993). Boys tend to engage in direct, physical aggression
+such as physically harming others. Girls tend to engage in indirect,
+social forms of aggression such as spreading rumors, ignoring, or
+socially isolating others. Based on what you have learned about child
+development and social roles, why do you think boys and girls display
+different types of bullying behavior?
+
+Bullying involves three parties: the bully, the victim, and witnesses or
+bystanders. The act of bullying involves an imbalance of power with the
+bully holding more power—physically, emotionally, and/or socially over
+the victim. The experience of bullying can be positive for the bully,
+who may enjoy a boost to self-esteem. However, there are several
+negative consequences of bullying for the victim, and also for the
+bystanders. How do you think bullying negatively impacts adolescents?
+Being the victim of bullying is associated with decreased mental health,
+including experiencing anxiety and depression (APA, 2010). Victims of
+bullying may underperform in schoolwork (Bowen, 2011). Bullying also can
+result in the victim committing suicide (APA, 2010). How might bullying
+negatively affect witnesses?
+
+Although there is not one single personality profile for who becomes a
+bully and who becomes a victim of **bullying**\ {: data-type=“term”
+.no-emphasis} (APA, 2010), researchers have identified some patterns in
+children who are at a greater risk of being bullied (Olweus, 1993):
+
+-  Children who are emotionally reactive are at a greater risk for being
+   bullied. Bullies may be attracted to children who get upset easily
+   because the bully can quickly get an emotional reaction from them.
+-  Children who are different from others are likely to be targeted for
+   bullying. Children who are overweight, cognitively impaired, or
+   racially or ethnically different from their peer group may be at
+   higher risk.
+-  Gay, lesbian, bisexual, and transgender teens are at very high risk
+   of being bullied and hurt due to their sexual orientation.
+
+Cyberbullying
+-------------
+
+With the rapid growth of technology, and widely available mobile
+technology and social networking media, a new form of bullying has
+emerged: cyberbullying (Hoff & Mitchell, 2009). **Cyberbullying**\ {:
+data-type=“term”}, like bullying, is repeated behavior that is intended
+to cause psychological or emotional harm to another person. What is
+unique about cyberbullying is that it is typically covert, concealed,
+done in private, and the bully can remain anonymous. This anonymity
+gives the bully power, and the victim may feel helpless, unable to
+escape the harassment, and unable to retaliate (Spears, Slee, Owens, &
+Johnson, 2009).
+
+Cyberbullying can take many forms, including harassing a victim by
+spreading rumors, creating a website defaming the victim, and ignoring,
+insulting, laughing at, or teasing the victim (Spears et al., 2009). In
+cyberbullying, it is more common for girls to be the bullies and victims
+because cyberbullying is nonphysical and is a less direct form of
+bullying (`[link] <#CNX_Psych_12_06_cyberbully>`__) (Hoff & Mitchell,
+2009). Interestingly, girls who become cyberbullies often have been the
+victims of cyberbullying at one time (Vandebosch & Van Cleemput, 2009).
+The effects of cyberbullying are just as harmful as traditional bullying
+and include the victim feeling frustration, anger, sadness,
+helplessness, powerlessness, and fear. Victims will also experience
+lower self-esteem (Hoff & Mitchell, 2009; Spears et al., 2009).
+Furthermore, recent research suggests that both cyberbullying victims
+and perpetrators are more likely to experience suicidal ideation, and
+they are more likely to attempt suicide than individuals who have no
+experience with cyberbullying (Hinduja & Patchin, 2010). What features
+of technology make cyberbullying easier and perhaps more accessible to
+young adults? What can parents, teachers, and social networking
+websites, like Facebook, do to prevent cyberbullying?
+
+|A photograph shows a young person looking at a handheld electronic
+device.|\ {: #CNX_Psych_12_06_cyberbully}
+
+THE BYSTANDER EFFECT
+====================
+
+The discussion of bullying highlights the problem of witnesses not
+intervening to help a victim. This is a common occurrence, as the
+following well-publicized event demonstrates. In 1964, in Queens, New
+York, a 19-year-old woman named Kitty **Genovese**\ {: data-type=“term”
+.no-emphasis} was attacked by a person with a knife near the back
+entrance to her apartment building and again in the hallway inside her
+apartment building. When the attack occurred, she screamed for help
+numerous times and eventually died from her stab wounds. This story
+became famous because reportedly numerous residents in the apartment
+building heard her cries for help and did nothing—neither helping her
+nor summoning the police—though these have facts been disputed.
+
+Based on this case, researchers Latané and Darley (1968) described a
+phenomenon called the bystander effect. The **bystander effect**\ {:
+data-type=“term”} is a phenomenon in which a witness or bystander does
+not volunteer to help a victim or person in distress. Instead, they just
+watch what is happening. Social psychologists hold that we make these
+decisions based on the social situation, not our own personality
+variables. Why do you think the bystanders didn’t help Genovese? What
+are the benefits to helping her? What are the risks? It is very likely
+you listed more costs than benefits to helping. In this situation,
+bystanders likely feared for their own lives—if they went to her aid the
+attacker might harm them. However, how difficult would it have been to
+make a phone call to the police from the safety of their apartments? Why
+do you think no one helped in any way? Social psychologists claim that
+diffusion of responsibility is the likely explanation. **Diffusion of
+responsibility**\ {: data-type=“term”} is the tendency for no one in a
+group to help because the responsibility to help is spread throughout
+the group (Bandura, 1999). Because there were many witnesses to the
+attack on Genovese, as evidenced by the number of lit apartment windows
+in the building, individuals assumed someone else must have already
+called the police. The responsibility to call the police was diffused
+across the number of witnesses to the crime. Have you ever passed an
+accident on the freeway and assumed that a victim or certainly another
+motorist has already reported the accident? In general, the greater the
+number of bystanders, the less likely any one person will help.
+
+Summary
+=======
+
+Aggression is seeking to cause another person harm or pain. Hostile
+aggression is motivated by feelings of anger with intent to cause pain,
+and instrumental aggression is motivated by achieving a goal and does
+not necessarily involve intent to cause pain Bullying is an
+international public health concern that largely affects the adolescent
+population. Bullying is repeated behaviors that are intended to inflict
+harm on the victim and can take the form of physical, psychological,
+emotional, or social abuse. Bullying has negative mental health
+consequences for youth including suicide. Cyberbullying is a newer form
+of bullying that takes place in an online environment where bullies can
+remain anonymous and victims are helpless to address the harassment.
+Despite the social norm of helping others in need, when there are many
+bystanders witnessing an emergency, diffusion of responsibility will
+lead to a lower likelihood of any one person helping.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Typically, bullying from boys is to \_______\_ as bullying from
+      girls is to \________.
+
+      1. emotional harm; physical harm
+      2. physical harm; emotional harm
+      3. psychological harm; physical harm
+      4. social exclusion; verbal taunting {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Which of the following adolescents is least likely to be targeted
+      for bullying?
+
+      1. a child with a physical disability
+      2. a transgender adolescent
+      3. an emotionally sensitive boy
+      4. the captain of the football team {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The bystander effect likely occurs due to \________.
+
+      1. desensitization to violence
+      2. people not noticing the emergency
+      3. diffusion of responsibility
+      4. emotional insensitivity {: type=“a”}
+
+   .. container::
+
+      C
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Compare and contrast hostile and instrumental aggression.
+
+   .. container::
+
+      Hostile aggression is intentional with the purpose to inflict
+      pain. Hostile aggression is often motivated by anger. In contrast,
+      instrumental aggression is not motivated by anger or the intention
+      to cause pain. Instrumental aggression serves as a means to reach
+      a goal. In a sense it is a more practical or functional form of
+      aggression, whereas hostile aggression is more emotion-driven and
+      less functional and rational.
+
+.. container::
+
+   .. container::
+
+      What evidence discussed in the previous section suggests that
+      cyberbullying is difficult to detect and prevent?
+
+   .. container::
+
+      Cyberbullying is difficult to prevent because there are so many
+      forms of media that adolescents use and are exposed to. The
+      Internet is virtually everywhere: computers, phones, tablets, TVs,
+      gaming systems, and so on. Parents likely do not monitor all of
+      their children’s use of the Internet, thus their children could be
+      exposed to cyberbullying without their knowledge. Cyberbullying is
+      difficult to detect because it can be done anonymously.
+      Cyberbullies can use pseudonyms and can attack victims in
+      untraceable ways, such as hacking into Facebook accounts or making
+      Twitter posts on their behalf.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Have you ever experienced or witnessed bullying or cyberbullying?
+      How did it make you feel? What did you do about it? After reading
+      this section would you have done anything differently?
+
+.. container::
+
+   .. container::
+
+      The next time you see someone needing help, observe your
+      surroundings. Look to see if the bystander effect is in action and
+      take measures to make sure the person gets help. If you aren’t
+      able to help, notify an adult or authority figure that can.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   aggression
+      seeking to cause harm or pain to another person ^
+   bullying
+      a person, often an adolescent, being treated negatively repeatedly
+      and over time ^
+   bystander effect
+      situation in which a witness or bystander does not volunteer to
+      help a victim or person in distress ^
+   cyberbullying
+      repeated behavior that is intended to cause psychological or
+      emotional harm to another person and that takes place online ^
+   diffusion of responsibility
+      tendency for no one in a group to help because the responsibility
+      to help is spread throughout the group ^
+   hostile aggression
+      aggression motivated by feelings of anger with intent to cause
+      pain ^
+   instrumental aggression
+      aggression motivated by achieving a goal and does not necessarily
+      involve intent to cause pain
+
+.. |A photograph shows two monkeys face to face.| image:: ../resources/CNX_Psych_12_06_dominance.jpg
+.. |A photograph shows a young person looking at a handheld electronic device.| image:: ../resources/CNX_Psych_12_06_cyberbully.jpg

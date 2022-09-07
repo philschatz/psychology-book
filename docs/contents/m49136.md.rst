@@ -1,0 +1,1362 @@
+=======================================================
+Organizational Psychology: The Social Dimension of Work
+=======================================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define
+   organizational psychology \* Explain the measurement and determinants
+   of job satisfaction \* Describe key elements of management and
+   leadership \* Explain the significance of organizational culture
+
+Organizational psychology is the second major branch of study and
+practice within the discipline of industrial and organizational
+psychology. In **organizational psychology**\ {: data-type=“term”
+.no-emphasis}, the focus is on social interactions and their effect on
+the individual and on the functioning of the organization. In this
+section, you will learn about the work organizational psychologists have
+done to understand job satisfaction, different styles of management,
+different styles of leadership, organizational culture, and teamwork.
+
+JOB SATISFACTION
+================
+
+Some people love their jobs, some people tolerate their jobs, and some
+people cannot stand their jobs. **Job satisfaction**\ {:
+data-type=“term”} describes the degree to which individuals enjoy their
+job. It was described by Edwin Locke (1976) as the state of feeling
+resulting from appraising one’s job experiences. While job satisfaction
+results from both how we think about our work (our cognition) and how we
+feel about our work (our affect) (Saari & Judge, 2004), it is described
+in terms of affect. Job satisfaction is impacted by the work itself, our
+personality, and the culture we come from and live in (Saari & Judge,
+2004).
+
+Job satisfaction is typically measured after a change in an
+organization, such as a shift in the management model, to assess how the
+change affects employees. It may also be routinely measured by an
+organization to assess one of many factors expected to affect the
+organization’s performance. In addition, polling companies like Gallup
+regularly measure job satisfaction on a national scale to gather broad
+information on the state of the economy and the workforce (Saad, 2012).
+
+Job satisfaction is measured using questionnaires that employees
+complete. Sometimes a single question might be asked in a very
+straightforward way to which employees respond using a rating scale,
+such as a Likert scale, which was discussed in the chapter on
+personality. A Likert scale (typically) provides five possible answers
+to a statement or question that allows respondents to indicate their
+positive-to-negative strength of agreement or strength of feeling
+regarding the question or statement. Thus the possible responses to a
+question such as “How satisfied are you with your job today?” might be
+“Very satisfied,” “Somewhat satisfied,” “Neither satisfied, nor
+dissatisfied,” “Somewhat dissatisfied,” and “Very dissatisfied.” More
+commonly the survey will ask a number of questions about the employee’s
+satisfaction to determine more precisely why he is satisfied or
+dissatisfied. Sometimes these surveys are created for specific jobs; at
+other times, they are designed to apply to any job. Job satisfaction can
+be measured at a global level, meaning how satisfied in general the
+employee is with work, or at the level of specific factors intended to
+measure which aspects of the job lead to satisfaction
+(`[link] <#Table_13_03_01>`__).
+
+.. raw:: html
+
+   <table id="Table_13_03_01" summary="A table lists factors involved in job satisfaction and dissatisfaction. The left column is labeled “Factor” and the right column is labeled “Description.” Each row contains a factor and its description. “Autonomy” is described as “Individual responsibility and control over decisions.” “Work content” is described as “variety, challenge, and role clarity.” “Communication” is described as “Feedback.” “Financial rewards” are described as “Salary and benefits.” “Growth and development” are described as “Personal growth, training, and education.” “Promotion” is described as “Career advancement opportunity.” “Coworkers” are described as “Professional relations or adequacy.” “Supervision and feedback” are described as “Support, recognition, and fairness.” “Workload” is described as “Time pressure and tedium.” “Work demands” are described as “Extra work requirements and insecurity of position.”">
+
+.. raw:: html
+
+   <caption>
+
+Factors Involved in Job Satisfaction–Dissatisfaction
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Factor
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Description
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Autonomy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Individual responsibility, control over decisions
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Work content
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Variety, challenge, role clarity
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Communication
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Feedback
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Financial rewards
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Salary and benefits
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Growth and development
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Personal growth, training, education
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Promotion
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Career advancement opportunity
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Coworkers
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Professional relations or adequacy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Supervision and feedback
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Support, recognition, fairness
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Workload
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Time pressure, tedium
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Work demands
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Extra work requirements, insecurity of position
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Research has suggested that the work-content factor, which includes
+variety, difficulty level, and role clarity of the job, is the most
+strongly predictive factor of overall job satisfaction (Saari & Judge,
+2004). In contrast, there is only a weak correlation between pay level
+and job satisfaction (Judge, Piccolo, Podsakoff, Shaw, & Rich, 2010).
+Judge et al. (2010) suggest that individuals adjust or adapt to higher
+pay levels: Higher pay no longer provides the satisfaction the
+individual may have initially felt when her salary increased.
+
+Why should we care about job satisfaction? Or more specifically, why
+should an employer care about job satisfaction? Measures of job
+satisfaction are somewhat correlated with job performance; in
+particular, they appear to relate to organizational citizenship or
+discretionary behaviors on the part of an employee that further the
+goals of the organization (Judge & Kammeyer-Mueller, 2012). Job
+satisfaction is related to general life satisfaction, although there has
+been limited research on how the two influence each other or whether
+personality and cultural factors affect both job and general life
+satisfaction. One carefully controlled study suggested that the
+relationship is reciprocal: Job satisfaction affects life satisfaction
+positively, and vice versa (Judge & Watanabe, 1993). Of course,
+organizations cannot control life satisfaction’s influence on job
+satisfaction. Job satisfaction, specifically low job satisfaction, is
+also related to withdrawal behaviors, such as leaving a job or
+absenteeism (Judge & Kammeyer-Mueller, 2012). The relationship with
+turnover itself, however, is weak (Judge & Kammeyer-Mueller, 2012).
+Finally, it appears that job satisfaction is related to organizational
+performance, which suggests that implementing organizational changes to
+improve employee job satisfaction will improve organizational
+performance (Judge & Kammeyer-Mueller, 2012).
+
+There is opportunity for more research in the area of job satisfaction.
+For example, Weiss (2002) suggests that the concept of job satisfaction
+measurements have combined both emotional and cognitive concepts, and
+measurements would be more reliable and show better relationships with
+outcomes like performance if the measurement of job satisfaction
+separated these two possible elements of job satisfaction.
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Job Satisfaction in Federal Government Agencies
+
+   A 2013 study of job satisfaction in the U.S. federal government found
+   indexes of job satisfaction plummeting compared to the private
+   sector. The largest factor in the decline was satisfaction with pay,
+   followed by training and development opportunities. The Partnership
+   for Public Service, a nonprofit, nonpartisan organization, has
+   conducted research on federal employee job satisfaction since 2003.
+   Its primary goal is to improve the federal government’s management.
+   However, the results also provide information to those interested in
+   obtaining employment with the federal government.
+
+   Among large agencies, the highest job satisfaction ranking went to
+   NASA, followed by the Department of Commerce and the intelligence
+   community. The lowest scores went to the Department of Homeland
+   Security.
+
+   The data used to derive the job satisfaction score come from three
+   questions on the Federal Employee Viewpoint Survey. The questions
+   are:
+
+   1. I recommend my organization as a good place to work.
+   2. Considering everything, how satisfied are you with your job?
+   3. Considering everything, how satisfied are you with your
+      organization? {: type=“1”}
+
+   The questions have a range of six possible answers, spanning a range
+   of strong agreement or satisfaction to strong disagreement or
+   dissatisfaction. How would you answer these questions with regard to
+   your own job? Would these questions adequately assess your job
+   satisfaction?
+
+   You can explore the Best Places To Work In The Federal Government
+   study at their Web site: www.bestplacestowork.org. The Office of
+   Personnel Management also produces a report based on their survey:
+   www.fedview.opm.gov.
+
+Job **stress**\ {: data-type=“term” .no-emphasis} affects job
+satisfaction. Job stress, or job strain, is caused by specific stressors
+in an occupation. Stress can be an ambigious term as it is used in
+common language. Stress is the perception and response of an individual
+to events judged as ovewhelming or threatening to the individual’s
+well-being (Gyllensten & Palmer, 2005). The events themselves are the
+stressors. Stress is a result of an employee’s perception that the
+demands placed on them exceed their ability to meet them (Gyllensten &
+Palmer, 2005), such as having to fill multiple roles in a job or life in
+general, workplace role ambiguity, lack of career progress, lack of job
+security, lack of control over work outcomes, isolation, work overload,
+discrimination, harrassment, and bullying (Colligan & Higgins, 2005).
+The stressors are different for women than men and these differences are
+a significant area of research (Gyllensten & Palmer, 2005). Job stress
+leads to poor employee health, job performance, and family life
+(Colligan & Higgins, 2005).
+
+As already mentioned, job insecurity contributes significantly to job
+stress. Two increasing threats to job security are downsizing events and
+corporate mergers. Businesses typically involve I-O psychologists in
+planning for, implementing, and managing these types of organizational
+change.
+
+**Downsizing**\ {: data-type=“term”} is an increasingly common response
+to a business’s pronounced failure to achieve profit goals, and it
+involves laying off a significant percentage of the company’s employees.
+Industrial-organizational psychologists may be involved in all aspects
+of downsizing: how the news is delivered to employees (both those being
+let go and those staying), how laid-off employees are supported (e.g.,
+separation packages), and how retained employees are supported. The
+latter is important for the organization because downsizing events
+affect the retained employee’s intent to quit, organizational
+commitment, and job insecurity (Ugboro, 2006).
+
+In addition to downsizing as a way of responding to outside strains on a
+business, corporations often grow larger by combining with other
+businesses. This can be accomplished through a merger (i.e., the joining
+of two organizations of equal power and status) or an acquisition (i.e.,
+one organization purchases the other). In an acquisition, the purchasing
+organization is usually the more powerful or dominant partner. In both
+cases, there is usually a duplication of services between the two
+companies, such as two accounting departments and two sales forces. Both
+departments must be merged, which commonly involves a reduction of staff
+(`[link] <#CNX_Psych_13_03_Merger>`__). This leads to organizational
+processes and stresses similar to those that occur in downsizing events.
+Mergers require determining how the organizational culture will change,
+to which employees also must adjust (van Knippenberg, van Knippenberg,
+Monden, & de Lima, 2002). There can be additional stress on workers as
+they lose their connection to the old organization and try to make
+connections with the new combined group (Amiot, Terry, Jimmieson, &
+Callan, 2006). Research in this area focuses on understanding employee
+reactions and making practical recommendations for managing these
+organizational changes.
+
+|A diagram of seven boxes organized as a pyramid is shown. The top box
+reads “Merged Company” and has two lines that connect it to two boxes,
+one labeled “Company A” and the other labeled “Company B.” There are two
+lines connecting the “Company A” box to two more boxes, one labeled
+“Company A Sales Dept” and the other labeled “Company A Accounting
+Dept.” There are two lines connecting the “Company B” box to two more
+boxes, one labeled “Company B Sales Dept” and the other labeled “Company
+B Accounting Dept.”|\ {: #CNX_Psych_13_03_Merger}
+
+WORK–FAMILY BALANCE
+===================
+
+Many people juggle the demands of work life with the demands of their
+home life, whether it be caring for children or taking care of an
+elderly parent; this is known as **work-family balance**\ {:
+data-type=“term”}. We might commonly think about work interfering with
+family, but it is also the case that family responsibilities may
+conflict with work obligations (Carlson, Kacmar, & Williams, 2000).
+Greenhaus and Beutell (1985) first identified three sources of
+work–family conflicts:
+
+-  time devoted to work makes it difficult to fulfill requirements of
+   family, or vice versa,
+-  strain from participation in work makes it difficult to fulfill
+   requirements of family, or vice versa, and
+-  specific behaviors required by work make it difficult to fulfill the
+   requirements of family, or vice versa.
+
+Women often have greater responsibility for family demands, including
+home care, child care, and caring for aging parents, yet men in the
+United States are increasingly assuming a greater share of domestic
+responsibilities. However, research has documented that women report
+greater levels of stress from work–family conflict (Gyllensten & Palmer,
+2005).
+
+There are many ways to decrease work–family conflict and improve
+people’s job satisfaction (Posig & Kickul, 2004). These include support
+in the home, which can take various forms: emotional (listening),
+practical (help with chores). Workplace support can include
+understanding supervisors, flextime, leave with pay, and telecommuting.
+Flextime usually involves a requirement of core hours spent in the
+workplace around which the employee may schedule his arrival and
+departure from work to meet family demands. **Telecommuting**\ {:
+data-type=“term”} involves employees working at home and setting their
+own hours, which allows them to work during different parts of the day,
+and to spend part of the day with their family. Recall that Yahoo! had a
+policy of allowing employees to telecommute and then rescinded the
+policy. There are also organizations that have onsite daycare centers,
+and some companies even have onsite fitness centers and health clinics.
+In a study of the effectiveness of different coping methods, Lapierre &
+Allen (2006) found practical support from home more important than
+emotional support. They also found that immediate-supervisor support for
+a worker significantly reduced work–family conflict through such
+mechanisms as allowing an employee the flexibility needed to fulfill
+family obligations. In contrast, flextime did not help with coping and
+telecommuting actually made things worse, perhaps reflecting the fact
+that being at home intensifies the conflict between work and family
+because with the employee in the home, the demands of family are more
+evident.
+
+Posig & Kickul (2004) identify exemplar corporations with policies
+designed to reduce work–family conflict. Examples include IBM’s policy
+of three years of job-guaranteed leave after the birth of a child,
+Lucent Technologies offer of one year’s childbirth leave at half pay,
+and SC Johnson’s program of concierge services for daytime errands.
+
+.. container:: psychology link-to-learning
+
+   `Glassdoor <http://openstax.org/l/glassdoor>`__ is a website that
+   posts job satisfaction reviews for different careers and
+   organizations. Use this site to research possible careers and/or
+   organizations that interest you.
+
+MANAGEMENT AND ORGANIZATIONAL STRUCTURE
+=======================================
+
+A significant portion of I-O research focuses on management and human
+relations. Douglas McGregor (1960) combined **scientific
+management**\ {: data-type=“term”} (a theory of management that analyzes
+and synthesizes workflows with the main objective of improving economic
+efficiency, especially labor productivity) and human relations into the
+notion of leadership behavior. His theory lays out two different styles
+called Theory X and Theory Y. In the **Theory X**\ {: data-type=“term”}
+approach to management, managers assume that most people dislike work
+and are not innately self-directed. Theory X managers perceive employees
+as people who prefer to be led and told which tasks to perform and when.
+Their employees have to be watched carefully to be sure that they work
+hard enough to fulfill the organization’s goals. Theory X workplaces
+will often have employees punch a clock when arriving and leaving the
+workplace: Tardiness is punished. Supervisors, not employees, determine
+whether an employee needs to stay late, and even this decision would
+require someone higher up in the command chain to approve the extra
+hours. Theory X supervisors will ignore employees’ suggestions for
+improved efficiency and reprimand employees for speaking out of order.
+These supervisors blame efficiency failures on individual employees
+rather than the systems or policies in place. Managerial goals are
+achieved through a system of punishments and threats rather than
+enticements and rewards. Managers are suspicious of employees’
+motivations and always suspect selfish motivations for their behavior at
+work (e.g., being paid is their sole motivation for working).
+
+In the **Theory Y**\ {: data-type=“term”} approach, on the other hand,
+managers assume that most people seek inner satisfaction and fulfillment
+from their work. Employees function better under leadership that allows
+them to participate in, and provide input about, setting their personal
+and work goals. In Theory Y workplaces, employees participate in
+decisions about prioritizing tasks; they may belong to teams that, once
+given a goal, decide themselves how it will be accomplished. In such a
+workplace, employees are able to provide input on matters of efficiency
+and safety. One example of Theroy Y in action is the policy of Toyota
+production lines that allows any employee to stop the entire line if a
+defect or other issue appears, so that the defect can be fixed and its
+cause remedied (Toyota Motor Manufacturing, 2013). A Theory Y workplace
+will also meaningfully consult employees on any changes to the work
+process or management system. In addition, the organization will
+encourage employees to contribute their own ideas. McGregor (1960)
+characterized Theory X as the traditional method of management used in
+the United States. He agued that a Theory Y approach was needed to
+improve organizational output and the wellbeing of individuals.
+`[link] <#Table_13_03_02>`__ summarizes how these two management
+approaches differ.
+
+.. raw:: html
+
+   <table id="Table_13_03_02" summary="A table composed of two columns and five rows is shown. The first column is titled “Theory X” and the second column is titled “Theory Y.” From left to right, the first row under these titles contains “People dislike work and avoid it” and “People enjoy work and find it natural.” The next row contains “People avoid responsibility” and “People are more satisfied when given responsibility.” The next row contains “People want to be told what to do” and “People want to take part in setting their own work goals.” The final row contains “Goals are achieved through rules and punishments” and “Goals are achieved through enticements and rewards.”">
+
+.. raw:: html
+
+   <caption>
+
+Theory X and Theory Y Management Styles
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Theory X
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Theory Y
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+People dislike work and avoid it.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+People enjoy work and find it natural.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+People avoid responsibility.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+People are more satisified when given responsibility.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+People want to be told what to do.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+People want to take part in setting their own work goals.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Goals are achieved through rules and punishments.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Goals are achieved through enticements and rewards.
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Another management style was described by Donald Clifton, who focused
+his research on how an organization can best use an individual’s
+strengths, an approach he called strengths-based management. He and his
+colleagues interviewed 8,000 managers and concluded that it is important
+to focus on a person’s strengths, not their weaknesses. A strength is a
+particular enduring talent possessed by an individual that allows her to
+provide consistent, near-perfect performance in tasks involving that
+talent. Clifton argued that our strengths provide the greatest
+opportunity for growth (Buckingham & Clifton, 2001). An example of a
+strength is public speaking or the ability to plan a successful event.
+The strengths-based approach is very popular although its effect on
+organization performance is not well-studied. However, Kaiser &
+Overfield (2011) found that managers often neglected improving their
+weaknesses and overused their strengths, both of which interfered with
+performance.
+
+Leadership is an important element of management. Leadership styles have
+been of major interest within I-O research, and researchers have
+proposed numerous theories of leadership. Bass (1985) popularized and
+developed the concepts of transactional leadership versus
+transformational leadership styles. In **transactional leadership**\ {:
+data-type=“term”}, the focus is on supervision and organizational goals,
+which are achieved through a system of rewards and punishments (i.e.,
+transactions). Transactional leaders maintain the status quo: They are
+managers. This is in contrast to the transformational leader. People who
+have **transformational leadership**\ {: data-type=“term”} possess four
+attributes to varying degrees: They are charismatic (highly liked role
+models), inspirational (optimistic about goal attainment),
+intellectually stimulating (encourage critical thinking and problem
+solving), and considerate (Bass, Avolio, & Atwater, 1996).
+
+As women increasingly take on leadership roles in corporations,
+questions have arisen as to whether there are differences in leadership
+styles between men and women (Eagly, Johannesen-Schmidt, & van Engen,
+2003). Eagly & Johnson (1990) conducted a meta-analysis to examine
+gender and leadership style. They found, to a slight but significant
+degree, that women tend to practice an interpersonal style of leadership
+(i.e., she focuses on the morale and welfare of the employees) and men
+practice a task-oriented style (i.e., he focuses on accomplishing
+tasks). However, the differences were less pronounced when one looked
+only at organizational studies and excluded laboratory experiments or
+surveys that did not involve actual organizational leaders. Larger
+sex-related differences were observed when leadership style was
+categorized as democratic or autocratic, and these differences were
+consistent across all types of studies. The authors suggest that
+similarities between the sexes in leadership styles are attributable to
+both sexes needing to conform the organization’s culture; additionally,
+they propose that sex-related differences reflect inherent differences
+in the strengths each sex brings to bear on leadership practice. In
+another meta-analysis of leadership style, Eagly, Johannesen-Schmidt, &
+van Engen (2003) found that women tended to exhibit the characteristics
+of transformational leaders, while men were more likely to be
+transactional leaders. However, the differences are not absolute; for
+example, women were found to use methods of reward for performance more
+often than men, which is a component of transactional leadership. The
+differences they found were relatively small. As Eagly,
+Johannesen-Schmidt, & van Engen (2003) point out, research shows that
+transformational leadership approaches are more effective than
+transactional approaches, although individual leaders typically exhibit
+elements of both approaches.
+
+GOALS, TEAMWORK AND WORK TEAMS
+==============================
+
+The workplace today is rapidly changing due to a variety of factors,
+such as shifts in technology, economics, foreign competition,
+globalization, and workplace demographics. Organizations need to respond
+quickly to changes in these factors. Many companies are responding to
+these changes by structuring their organizations so that work can be
+delegated to **work teams**\ {: data-type=“term”}, which bring together
+diverse skills, experience, and expertise. This is in contrast to
+organizational structures that have individuals at their base (Naquin &
+Tynan, 2003). In the team-based approach, teams are brought together and
+given a specific task or goal to accomplish. Despite their burgeoning
+popularity, team structures do not always deliver greater
+productivity—the work of teams is an active area of research (Naquin &
+Tynan, 2003).
+
+Why do some teams work well while others do not? There are many
+contributing factors. For example, teams can mask team members that are
+not working (i.e., social loafing). Teams can be inefficient due to poor
+communication; they can have poor decision-making skills due to
+conformity effects; and, they can have conflict within the group. The
+popularity of teams may in part result from the team halo effect: Teams
+are given credit for their successes. but individuals within a team are
+blamed for team failures (Naquin & Tynan, 2003). One aspect of team
+diversity is their gender mix. Researchers have explored whether gender
+mix has an effect on team performance. On the one hand, diversity can
+introduce communication and interpersonal-relationship problems that
+hinder performance, but on the other hand diversity can also increase
+the team’s skill set, which may include skills that can actually improve
+team member interactions. Hoogendoorn, Oosterbeek, & van Praag (2013)
+studied project teams in a university business school in which the
+gender mix of the teams was manipulated. They found that gender-balanced
+teams (i.e., nearly equal numbers of men and women) performed better, as
+measured by sales and profits, than predominantly male teams. The study
+did not have enough data to determine the relative performance of female
+dominated teams. The study was unsuccessful in identifying which
+mechanism (interpersonal relationships, learning, or skills mixes)
+accounted for performance improvement.
+
+There are three basic types of teams: problem resolution teams, creative
+teams, and tactical teams. Problem resolution teams are created for the
+purpose of solving a particular problem or issue; for example, the
+diagnostic teams at the Centers for Disease Control. Creative teams are
+used to develop innovative possibilities or solutions; for example,
+design teams for car manufacturers create new vehicle models. Tactical
+teams are used to execute a well-defined plan or objective, such as a
+police or FBI SWAT team handling a hostage situation (Larson & LaFasto,
+1989). One area of active research involves a fourth kind of team—the
+virtual team; these studies examine how groups of geographically
+disparate people brought together using digital communications
+technology function (Powell, Piccoli, & Ives, 2004). Virtual teams are
+more common due to the growing globalization of organizations and the
+use of consulting and partnerships facilitated by digital communication.
+
+ORGANIZATIONAL CULTURE
+======================
+
+Each company and organization has an organizational culture.
+**Organizational culture**\ {: data-type=“term”} encompasses the values,
+visions, hierarchies, norms, and interactions among its employees. It is
+how an organization is run, how it operates, and how it makes
+decisions—the industry in which the organization participates may have
+an influence. Different departments within one company can develop their
+own subculture within the organization’s culture. Ostroff, Kinicki, and
+Tamkins (2003) identify three layers in organizational culture:
+observable artifacts, espoused values, and basic assumptions. Observable
+artifacts are the symbols, language (jargon, slang, and humor),
+narratives (stories and legends), and practices (rituals) that represent
+the underlying cultural assumptions. Espoused values are concepts or
+beliefs that the management or the entire organization endorses. They
+are the rules that allow employees to know which actions they should
+take in different situations and which information they should adhere
+to. These basic assumptions generally are unobservable and unquestioned.
+Researchers have developed survey instruments to measure organizational
+culture.
+
+With the workforce being a global marketplace, your company may have a
+supplier in Korea and another in Honduras and have employees in the
+United States, China, and South Africa. You may have coworkers of
+different religious, ethnic, or racial backgrounds than yourself. Your
+coworkers may be from different places around the globe. Many workplaces
+offer diversity training to help everyone involved bridge and understand
+cultural differences. **Diversity training**\ {: data-type=“term”}
+educates participants about cultural differences with the goal of
+improving teamwork. There is always the potential for prejudice between
+members of two groups, but the evidence suggests that simply working
+together, particularly if the conditions of work are set carefully that
+such prejudice can be reduced or eliminated. Pettigrew and Tropp (2006)
+conducted a meta-analysis to examine the question of whether contact
+between groups reduced prejudice between those groups. They found that
+there was a moderate but significant effect. They also found that, as
+previously theorized, the effect was enhanced when the two groups met
+under conditions in which they have equal standing, common goals,
+cooperation between the groups, and especially support on the part of
+the institution or authorities for the contact.
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Managing Generational Differences
+
+   An important consideration in managing employees is age. Workers’
+   expectations and attitudes are developed in part by experience in
+   particular cultural time periods. Generational constructs are
+   somewhat arbitrary, yet they may be helpful in setting broad
+   directions to organizational management as one generation leaves the
+   workforce and another enters it. The baby boomer generation (born
+   between 1946 and 1964) is in the process of leaving the workforce and
+   will continue to depart it for a decade or more. Generation X (born
+   between the early 1960s and the 1980s) are now in the middle of their
+   careers. Millennials (born from 1979 to the early 1994) began to come
+   of age at the turn of the century, and are early in their careers.
+
+   Today, as these three different generations work side by side in the
+   workplace, employers and managers need to be able to identify their
+   unique characteristics. Each generation has distinctive expectations,
+   habits, attitudes, and motivations (Elmore, 2010). One of the major
+   differences among these generations is knowledge of the use of
+   technology in the workplace. Millennials are technologically
+   sophisticated and believe their use of technology sets them apart
+   from other generations. They have also been characterized as
+   self-centered and overly self-confident. Their attitudinal
+   differences have raised concerns for managers about maintaining their
+   motivation as employees and their ability to integrate into
+   organizational culture created by baby boomers (Myers & Sadaghiani,
+   2010). For example, millennials may expect to hear that they need to
+   pay their dues in their jobs from baby boomers who believe they paid
+   their dues in their time. Yet millennials may resist doing so because
+   they value life outside of work to a greater degree (Myers &
+   Sadaghiani, 2010). Meister & Willyerd (2010) suggest alternative
+   approaches to training and mentoring that will engage millennials and
+   adapt to their need for feedback from supervisors: reverse mentoring,
+   in which a younger employee educates a senior employee in social
+   media or other digital resources. The senior employee then has the
+   opportunity to provide useful guidance within a less demanding role.
+
+   Recruiting and retaining millennials and Generation X employees poses
+   challenges that did not exist in previous generations. The concept of
+   building a career with the company is not relatable to most
+   Generation X employees, who do not expect to stay with one employer
+   for their career. This expectation arises from of a reduced sense of
+   loyalty because they do not expect their employer to be loyal to them
+   (Gibson, Greenwood, & Murphy, 2009). Retaining Generation X workers
+   thus relies on motivating them by making their work meaningful
+   (Gibson, Greenwood, & Murphy, 2009). Since millennials lack an
+   inherent loyalty to the company, retaining them also requires effort
+   in the form of nurturing through frequent rewards, praise, and
+   feedback.
+
+   Millennials are also interested in having many choices, including
+   options in work scheduling, choice of job duties, and so on. They
+   also expect more training and education from their employers.
+   Companies that offer the best benefit package and brand attract
+   millennials (Myers & Sadaghiani, 2010).
+
+One well-recognized negative aspect of organizational culture is a
+culture of **harassment**\ {: data-type=“term” .no-emphasis}, including
+sexual harassment. Most organizations of any size have developed sexual
+harassment policies that define sexual harassment (or harassment in
+general) and the procedures the organization has set in place to prevent
+and address it when it does occur. Thus, in most jobs you have held, you
+were probably made aware of the company’s sexual harassment policy and
+procedures, and may have received training related to the policy. The
+U.S. Equal Employment Opportunity Commission (n.d.) provides the
+following description of **sexual harassment**\ {: data-type=“term”}:
+
+   Unwelcome sexual advances, requests for sexual favors, and other
+   verbal or physical conduct of a sexual nature constitute sexual
+   harassment when this conduct explicitly or implicitly affects an
+   individual's employment, unreasonably interferes with an individual's
+   work performance, or creates an intimidating, hostile, or offensive
+   work environment. (par. 2)
+
+One form of sexual harassment is called quid pro quo. Quid pro quo means
+you give something to get something, and it refers to a situation in
+which organizational rewards are offered in exchange for sexual favors.
+Quid pro quo harassment is often between an employee and a person with
+greater power in the organization. For example, a supervisor might
+request an action, such as a kiss or a touch, in exchange for a
+promotion, a positive performance review, or a pay raise. Another form
+of sexual harassment is the threat of withholding a reward if a sexual
+request is refused. Hostile environment sexual harassment is another
+type of workplace harassment. In this situation, an employee experiences
+conditions in the workplace that are considered hostile or intimidating.
+For example, a work environment that allows offensive language or jokes
+or displays sexually explicit images. Isolated occurrences of these
+events do not constitute harassment, but a pattern of repeated
+occurrences does. In addition to violating organizational policies
+against sexual harassment, these forms of harassment are illegal.
+
+Harassment does not have to be sexual; it may be related to any of the
+protected classes in the statutes regulated by the EEOC: race, national
+origin, religion, or age.
+
+VIOLENCE IN THE WORKPLACE
+=========================
+
+In the summer of August 1986, a part-time postal worker with a troubled
+work history walked into the Edmond, Oklahoma, post office and shot and
+killed 15 people, including himself. From his action, the term “going
+postal” was coined, describing a troubled employee who engages in
+extreme violence.
+
+Workplace violence is one aspect of workplace safety that I-O
+psychologists study. **Workplace violence**\ {: data-type=“term”} is any
+act or threat of physical violence, harassment, intimidation, or other
+threatening, disruptive behavior that occurs at the workplace. It ranges
+from threats and verbal abuse to physical assaults and even homicide
+(Occupational Safety & Health Administration, 2014).
+
+There are different targets of workplace violence: a person could commit
+violence against coworkers, supervisors, or property. Warning signs
+often precede such actions: intimidating behavior, threats, sabotaging
+equipment, or radical changes in a coworker’s behavior. Often there is
+intimidation and then escalation that leads to even further escalation.
+It is important for employees to involve their immediate supervisor if
+they ever feel intimidated or unsafe.
+
+Murder is the second leading cause of death in the workplace. It is also
+the primary cause of death for women in the workplace. Every year there
+are nearly two million workers who are physically assaulted or
+threatened with assault. Many are murdered in domestic violence
+situations by boyfriends or husbands who chose the woman’s workplace to
+commit their crimes.
+
+There are many triggers for workplace violence. A significant trigger is
+the feeling of being treated unfairly, unjustly, or disrespectfully. In
+a research experiment, Greenberg (1993) examined the reactions of
+students who were given pay for a task. In one group, the students were
+given extensive explanations for the pay rate. In the second group, the
+students were given a curt uninformative explanation. The students were
+made to believe the supervisor would not know how much money the student
+withdrew for payment. The rate of stealing (taking more pay than they
+were told they deserved) was higher in the group who had been given the
+limited explanation. This is a demonstration of the importance of
+procedural justice in organizations. **Procedural justice**\ {:
+data-type=“term”} refers to the fairness of the processes by which
+outcomes are determined in conflicts with or among employees.
+
+In another study by Greenberg & Barling (1999), they found a history of
+aggression and amount of alcohol consumed to be accurate predictors of
+workplace violence against a coworker. Aggression against a supervisor
+was predicted if a worker felt unfairly treated or untrusted. Job
+security and alcohol consumption predicted aggression against a
+subordinate. To understand and predict workplace violence, Greenberg &
+Barling (1999) emphasize the importance of considering the employee
+target of aggression or violence and characteristics of both the
+workplace characteristics and the aggressive or violent person.
+
+Summary
+=======
+
+Organizational psychology is concerned with the effects of interactions
+among people in the workplace on the employees themselves and on
+organizational productivity. Job satisfaction and its determinants and
+outcomes are a major focus of organizational psychology research and
+practice. Organizational psychologists have also studied the effects of
+management styles and leadership styles on productivity. In addition to
+the employees and management, organizational psychology also looks at
+the organizational culture and how that might affect productivity. One
+aspect of organization culture is the prevention and addressing of
+sexual and other forms of harassment in the workplace. Sexual harassment
+includes language, behavior, or displays that create a hostile
+environment; it also includes sexual favors requested in exchange for
+workplace rewards (i.e., quid pro quo). Industrial-organizational
+psychology has conducted extensive research on the triggers and causes
+of workplace violence and safety. This enables the organization to
+establish procedures that can identify these triggers before they become
+a problem.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      A \_______\_ is an example of a tactical team.
+
+      1. surgical team
+      2. car design team
+      3. budget committee
+      4. sports team {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Which practice is an example of Theory X management?
+
+      1. telecommuting
+      2. flextime
+      3. keystroke monitoring
+      4. team meetings {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Which is one effect of the team halo effect?
+
+      1. teams appear to work better than they do
+      2. teams never fail
+      3. teams lead to greater job satisfaction
+      4. teams boost productivity {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Which of the following is the most strongly predictive factor of
+      overall job satisfaction?
+
+      1. financial rewards
+      2. personality
+      3. autonomy
+      4. work content {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      What is the name for what occurs when a supervisor offers a
+      work-related reward in exchange for a sexual favor?
+
+      1. hiring bias
+      2. quid pro quo
+      3. hostile work environment
+      4. immutable characteristics {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      If you designed an assessment of job satisfaction, what elements
+      would it include?
+
+   .. container::
+
+      Answers may vary, but they should include that the assessment
+      would include more than one question to try to understand the
+      reasons for the level of job satisfaction. It may also include
+      questions that assess the importance of emotional and cognitive
+      job satisfaction factors.
+
+.. container::
+
+   .. container::
+
+      Downsizing has commonly shown to result in a period of lowered
+      productivity for the organizations experiencing it. What might be
+      some of the reasons for this observation?
+
+   .. container::
+
+      Answers may vary, but they should include factors like lower job
+      satisfaction, higher job stress, disruption of organizational
+      culture, and other factors related to the concepts covered.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      How would you handle the situation if you were being sexually
+      harassed? What would you consider sexual harassment?
+
+   .. container::
+
+      Answers may vary, but they should include telling the person that
+      you are not comfortable with these actions and then reporting it
+      to human resources. The definition of sexual harassment may
+      discuss the sexual nature of the event, feelings of discomfort,
+      fear, or anxiety, and recurrences of events.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   diversity training
+      training employees about cultural differences with the goal of
+      improving teamwork ^
+   downsizing
+      process in which an organization tries to achieve greater overall
+      efficiency by reducing the number of employees ^
+   job satisfaction
+      degree of pleasure that employees derive from their job ^
+   organizational culture
+      values, visions, hierarchies, norms and interactions between its
+      employees; how an organization is run, how it operates, and how it
+      makes decisions ^
+   procedural justice
+      fairness by which means are used to achieve results in an
+      organization ^
+   sexual harassment
+      sexually-based behavior that is knowingly unwanted and has an
+      adverse effect of a person’s employment status, interferes with a
+      person’s job performance, or creates a hostile or intimidating
+      work environment ^
+   scientific management
+      theory of management that analyzed and synthesized workflows with
+      the main objective of improving economic efficiency, especially
+      labor productivity ^
+   telecommuting
+      employees’ ability to set their own hours allowing them to work
+      from home at different parts of the day ^
+   Theory X
+      assumes workers are inherently lazy and unproductive; managers
+      must have control and use punishments ^
+   Theory Y
+      assumes workers are people who seek to work hard and productively;
+      managers and workers can find creative solutions to problems;
+      workers do not need to be controlled and punished ^
+   transactional leadership style
+      characteristic of leaders who focus on supervision and
+      organizational goals achieved through a system of rewards and
+      punishments; maintenance of the organizational status quo ^
+   transformational leadership style
+      characteristic of leaders who are charismatic role models,
+      inspirational, intellectually stimulating, and individually
+      considerate and who seek to change the organization ^
+   work–family balance
+      occurs when people juggle the demands of work life with the
+      demands of family life ^
+   workplace violence
+      violence or the threat of violence against workers; can occur
+      inside or outside the workplace ^
+   work team
+      group of people within an organization or company given a specific
+      task to achieve together
+
+.. |A diagram of seven boxes organized as a pyramid is shown. The top box reads “Merged Company” and has two lines that connect it to two boxes, one labeled “Company A” and the other labeled “Company B.” There are two lines connecting the “Company A” box to two more boxes, one labeled “Company A Sales Dept” and the other labeled “Company A Accounting Dept.” There are two lines connecting the “Company B” box to two more boxes, one labeled “Company B Sales Dept” and the other labeled “Company B Accounting Dept.”| image:: ../resources/CNX_Psych_13_03_Merger.jpg

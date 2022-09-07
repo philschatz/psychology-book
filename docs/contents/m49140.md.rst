@@ -1,0 +1,459 @@
+=============================================
+Human Factors Psychology and Workplace Design
+=============================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   field of human factors psychology \* Explain the role of human
+   factors psychology in safety, productivity, and job satisfaction
+
+Human factors psychology (or ergonomics, a term that is favored in
+Europe) is the third subject area within industrial and organizational
+psychology. This field is concerned with the integration of the
+human-machine interface in the workplace, through design, and
+specifically with researching and designing machines that fit human
+requirements. The integration may be physical or cognitive, or a
+combination of both. Anyone who needs to be convinced that the field is
+necessary need only try to operate an unfamiliar television remote
+control or use a new piece of software for the first time. Whereas the
+two other areas of I-O psychology focus on the interface between the
+worker and team, group, or organization, human factors psychology
+focuses on the individual worker’s interaction with a machine, work
+station, information displays, and the local environment, such as
+lighting. In the United States, human factors psychology has origins in
+both psychology and engineering; this is reflected in the early
+contributions of Lillian **Gilbreth**\ {: data-type=“term” .no-emphasis}
+(psychologist and engineer) and her husband Frank Gilbreth (engineer).
+
+Human factor professionals are involved in design from the beginning of
+a project, as is more common in software design projects, or toward the
+end in testing and evaluation, as is more common in traditional
+industries (Howell, 2003). Another important role of human factor
+professionals is in the development of regulations and principles of
+best design. These regulations and principles are often related to work
+safety. For example, the Three Mile Island nuclear accident lead to
+Nuclear Regulatory Commission (NRC) requirements for additional
+instrumentation in nuclear facilities to provide operators with more
+critical information and increased operator training (United States
+Nuclear Regulatory Commission, 2013). The American National Standards
+Institute (ANSI, 2000), an independent developer of industrial
+standards, develops many standards related to ergonomic design, such as
+the design of control-center workstations that are used for
+transportation control or industrial process control.
+
+Many of the concerns of human factors psychology are related to
+workplace safety. These concerns can be studied to help prevent
+work-related injuries of individual workers or those around them. Safety
+protocols may also be related to activities, such as commercial driving
+or flying, medical procedures, and law enforcement, that have the
+potential to impact the public.
+
+One of the methods used to reduce accidents in the workplace is a
+**checklist**\ {: data-type=“term”}. The airline industry is one
+industry that uses checklists. Pilots are required to go through a
+detailed checklist of the different parts of the aircraft before takeoff
+to ensure that all essential equipment is working correctly. Astronauts
+also go through checklists before takeoff. The surgical safety checklist
+shown in `[link] <#CNX_Psych_13_04_Checklist>`__ was developed by the
+World Health Organization (WHO) and serves as the basis for many
+checklists at medical facilities.
+
+|A checklist contains three sections, titled “Sign in,” “Time out,” and
+“Sign out.” The section titled “Sign in” begins, “Before induction of
+anesthesia, members of the team (at least the nurse and an anesthesia
+professional) orally confirm that.” A bulleted list below this text
+contains four items. The first list item reads, “The patient has
+verified his or her identity, the surgical site and procedure, and
+consent. The surgical site is marked or site marking is not
+applicable. The pulse oximeter is on the patient and functioning.” The
+second list item reads, “All members of the team are aware of whether
+the patient has a known allergy.” The third list item reads, “The
+patient’s airway and risk of aspiration have been evaluated and
+appropriate equipment and assistance are available.” The fourth list
+item reads, “If there is a risk of blood loss of at least 500 ml (or 7
+ml/kg of body weight, in children), appropriate access and fluids are
+available.” The section titled “Time out” begins, “Before skin incision,
+the entire team (nurses, surgeons, anesthesia professionals, and any
+others participating in the care of the patient) orally.” The bulleted
+list below contains “Confirms that all team members have been introduced
+by name and role. Confirms the patient’s identity, surgical site, and
+procedure. Reviews the anticipated critical events.” This first bullet
+has three sub-bullets that read, “Surgeon reviews critical and
+unexpected steps, operative duration, and anticipated blood loss;
+Anesthesia staff review concerns specific to the patient; Nursing staff
+review confirmation of sterility, equipment availability, and other
+concerns.” The following two bullets read: Confirms that prophylactic
+antibiotics have been administered = 60 min before incision is made or
+that antibiotics are not indicated” and “Confirms that all essential
+imaging results for the correct patient are displayed in the operating
+room.” The section titled “Sign out” reads “Before the patient leaves
+the operating room.” Following this are two bullet points. The first
+reads “Nurse reviews items aloud with the team.” This bullet has four
+sub-bullets that read “Name of the procedure as recorded; That the
+needle, sponge, and instrument counts are complete (or not applicable);
+That the specimen (if any) is correctly labeled, including with the
+patient’s name; Whether there are issues with equipment to be
+addressed.” The final bullet reads “The surgeon, nurse, and anesthesia
+professional review aloud the key concerns for the recovery and care of
+the patient.”|\ {: #CNX_Psych_13_04_Checklist}
+
+Safety concerns also lead to limits to how long an operator, such as a
+pilot or truck driver, is allowed to operate the equipment. Recently the
+Federal Aviation Administration (FAA) introduced limits for how long a
+pilot is allowed to fly without an overnight break.
+
+Howell (2003) outlines some important areas of research and practice in
+the field of human factors. These are summarized in
+`[link] <#Table_13_04_01>`__.
+
+.. raw:: html
+
+   <table id="Table_13_04_01" summary="A table composed of three columns and four rows is shown. The first row includes the following three headings: “Area,” “Description,” and “I-O Questions.” Descending from the first heading, “Area,” are the following: “Attention,” “Cognitive engineering,” “Task analysis,” and “Cognitive task analysis.” Descending from the second heading, “Description,” are the following: “Includes vigilance and monitoring, recognizing signals in noise, mental resources, and divided attention;” “Includes human software interactions in complex automated systems, especially the decision-making process of workers as they are supported by the software system;” “Breaking down the elements of a task;” and “Breaking down the elements of a cognitive task.” Descending from the third heading, “I-O Questions,” are the following: “How is attention maintained? What about tasks maintains attention? How to design systems to support attention?” “How do workers use and obtain information provided by software?” “How can a task be performed more efficiently?” “How can a task be performed more safely?” and “How are decisions made?”">
+
+.. raw:: html
+
+   <caption>
+
+Areas of Study in Human Factors Psychology
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Area
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Description
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+I-O Questions
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Attention
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Includes vigilance and monitoring, recognizing signals in noise, mental
+resources, and divided attention
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+How is attention maintained? What about tasks maintains attention? How
+to design systems to support attention?
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Cognitive engineering
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Includes human software interactions in complex automated systems,
+especially the decision-making processes of workers as they are
+supported by the software system
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+How do workers use and obtain information provided by software?
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Task analysis
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Breaking down the elements of a task
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+How can a task be performed more efficiently? How can a task be
+performed more safely?
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Cognitive task analysis
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Breaking down the elements of a cognitive task
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+How are decisions made?
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+As an example of research in human factors psychology Bruno & Abrahão
+(2012) examined the impact of the volume of operator decisions on the
+accuracy of decisions made within an information security center at a
+banking institution in Brazil. The study examined a total of about
+45,000 decisions made by 35 operators and 4 managers over a period of 60
+days. Their study found that as the number of decisions made per day by
+the operators climbed, that is, as their cognitive effort increased, the
+operators made more mistakes in falsely identifying incidents as real
+security breaches (when, in reality, they were not). Interestingly, the
+opposite mistake of identifying real intrusions as false alarms did not
+increase with increased cognitive demand. This appears to be good news
+for the bank, since false alarms are not as costly as incorrectly
+rejecting a genuine threat. These kinds of studies combine research on
+attention, perception, teamwork, and human–computer interactions in a
+field of considerable societal and business significance. This is
+exactly the context of the events that led to the massive data breach
+for Target in the fall of 2013. Indications are that security personnel
+received signals of a security breach but did not interpret them
+correctly, thus allowing the breach to continue for two weeks until an
+outside agency, the FBI, informed the company (Riley, Elgin, Lawrence, &
+Matlack, 2014).
+
+Summary
+=======
+
+Human factors psychology, or ergonomics, studies the interface between
+workers and their machines and physical environments. Human factors
+psychologists specifically seek to design machines to better support the
+workers using them. Psychologists may be involved in design of work
+tools such as software, displays, or machines from the beginning of the
+design process or during the testing an already developed product. Human
+factor psychologists are also involved in the development of best design
+recommendations and regulations. One important aspect of human factors
+psychology is enhancing worker safety. Human factors research involves
+efforts to understand and improve interactions between technology
+systems and their human operators. Human–software interactions are a
+large sector of this research.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      What aspect of an office workstation would a human factors
+      psychologist be concerned about?
+
+      1. height of the chair
+      2. closeness to the supervisor
+      3. frequency of coworker visits
+      4. presence of an offensive sign {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      A human factors psychologist who studied how a worker interacted
+      with a search engine would be researching in the area of
+      \________.
+
+      1. attention
+      2. cognitive engineering
+      3. job satisfaction
+      4. management {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking
+=================
+
+.. container::
+
+   .. container::
+
+      What role could a flight simulator play in the design of a new
+      aircraft?
+
+   .. container::
+
+      Answers will vary, but they should include that the simulator
+      would be used to determine how pilots interact with the controls
+      and displays within the cockpit, including under conditions of
+      simulated emergencies.
+
+Personal Application
+====================
+
+.. container::
+
+   .. container::
+
+      Describe an example of a technology or team and technology
+      interaction that you have had in the context of school or work
+      that could have benefited from better design. What were the
+      effects of the poor design? Make one suggestion for its
+      improvement.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   checklist
+      method used to reduce workplace accidents
+
+.. |A checklist contains three sections, titled “Sign in,” “Time out,” and “Sign out.” The section titled “Sign in” begins, “Before induction of anesthesia, members of the team (at least the nurse and an anesthesia professional) orally confirm that.” A bulleted list below this text contains four items. The first list item reads, “The patient has verified his or her identity, the surgical site and procedure, and consent. The surgical site is marked or site marking is not applicable. The pulse oximeter is on the patient and functioning.” The second list item reads, “All members of the team are aware of whether the patient has a known allergy.” The third list item reads, “The patient’s airway and risk of aspiration have been evaluated and appropriate equipment and assistance are available.” The fourth list item reads, “If there is a risk of blood loss of at least 500 ml (or 7 ml/kg of body weight, in children), appropriate access and fluids are available.” The section titled “Time out” begins, “Before skin incision, the entire team (nurses, surgeons, anesthesia professionals, and any others participating in the care of the patient) orally.” The bulleted list below contains “Confirms that all team members have been introduced by name and role. Confirms the patient’s identity, surgical site, and procedure. Reviews the anticipated critical events.” This first bullet has three sub-bullets that read, “Surgeon reviews critical and unexpected steps, operative duration, and anticipated blood loss; Anesthesia staff review concerns specific to the patient; Nursing staff review confirmation of sterility, equipment availability, and other concerns.” The following two bullets read: Confirms that prophylactic antibiotics have been administered = 60 min before incision is made or that antibiotics are not indicated” and “Confirms that all essential imaging results for the correct patient are displayed in the operating room.” The section titled “Sign out” reads “Before the patient leaves the operating room.” Following this are two bullet points. The first reads “Nurse reviews items aloud with the team.” This bullet has four sub-bullets that read “Name of the procedure as recorded; That the needle, sponge, and instrument counts are complete (or not applicable); That the specimen (if any) is correctly labeled, including with the patient’s name; Whether there are issues with equipment to be addressed.” The final bullet reads “The surgeon, nurse, and anesthesia professional review aloud the key concerns for the recovery and care of the patient.”| image:: ../resources/CNX_Psych_13_04_Checklist.jpg

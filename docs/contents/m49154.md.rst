@@ -1,0 +1,1628 @@
+==================
+Types of Treatment
+==================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Distinguish
+   between psychotherapy and biomedical therapy \* Recognize various
+   orientations to psychotherapy \* Discuss psychotropic medications and
+   recognize which medications are used to treat specific psychological
+   disorders
+
+One of the goals of therapy is to help a person stop repeating and
+reenacting destructive patterns and to start looking for better
+solutions to difficult situations. This goal is reflected in the
+following poem:
+
+\ *Autobiography in Five Short Chapters* by Portia Nelson (1993)
+
+Chapter One \* \* \* {: data-type=“newline”}
+
+I walk down the street. \* \* \* {: data-type=“newline”}
+
+There is a deep hole in the sidewalk. \* \* \* {: data-type=“newline”}
+
+I fall in. \* \* \* {: data-type=“newline”}
+
+I am lost. . . . I am helpless. \* \* \* {: data-type=“newline”}
+
+It isn't my fault. \* \* \* {: data-type=“newline”}
+
+It takes forever to find a way out.
+
+Chapter Two \* \* \* {: data-type=“newline”}
+
+I walk down the same street. \* \* \* {: data-type=“newline”}
+
+There is a deep hole in the sidewalk. \* \* \* {: data-type=“newline”}
+
+I pretend I don't see it. \* \* \* {: data-type=“newline”}
+
+I fall in again. \* \* \* {: data-type=“newline”}
+
+I can't believe I am in this same place. \* \* \* {:
+data-type=“newline”}
+
+But, it isn't my fault. \* \* \* {: data-type=“newline”}
+
+It still takes a long time to get out.
+
+Chapter Three \* \* \* {: data-type=“newline”}
+
+I walk down the same street. \* \* \* {: data-type=“newline”}
+
+There is a deep hole in the sidewalk. \* \* \* {: data-type=“newline”}
+
+I *see* it is there. \* \* \* {: data-type=“newline”}
+
+I still fall in . . . it's a habit . . . but, \* \* \* {:
+data-type=“newline”}
+
+my eyes are open. \* \* \* {: data-type=“newline”}
+
+I know where I am. \* \* \* {: data-type=“newline”}
+
+It is *my* fault. \* \* \* {: data-type=“newline”}
+
+I get out immediately.
+
+Chapter Four \* \* \* {: data-type=“newline”}
+
+I walk down the same street. \* \* \* {: data-type=“newline”}
+
+There is a deep hole in the sidewalk. \* \* \* {: data-type=“newline”}
+
+I walk around it.
+
+Chapter Five \* \* \* {: data-type=“newline”}
+
+I walk down another street.
+
+Two types of therapy are psychotherapy and biomedical therapy. Both
+types of treatment help people with psychological disorders, such as
+depression, anxiety, and schizophrenia. **Psychotherapy**\ {:
+data-type=“term”} is a psychological treatment that employs various
+methods to help someone overcome personal problems, or to attain
+personal growth. In modern practice, it has evolved ino what is known as
+psychodynamic therapy, which will be discussed later. **Biomedical
+therapy**\ {: data-type=“term”} involves medication and/or medical
+procedures to treat psychological disorders. First, we will explore the
+various psychotherapeutic orientations outlined in
+`[link] <#Table_16_02_01>`__ (many of these orientations were discussed
+in the Introduction chapter).
+
+.. raw:: html
+
+   <table id="Table_16_02_01" summary="A table with three columns and seven rows is shown. From left to right, the columns are labeled “Type,” “Description,” and “Example.” Respectively, the first row reads: “Psychodynamic psychotherapy,” “Talk therapy based on belief that the unconscious and childhood conflicts impact behavior,” and “Patient talks about his past.” The next row reads: “Play therapy,” “Psychoanalytical therapy wherein interaction with toys is used instead of talk; used in child therapy,” and “Patient (child) acts out family scenes with dolls.” The next row reads: “Behavior therapy,” “Principles of learning applied to change undesirable behaviors,” and “Patient learns to overcome fear of elevators through several stages of relaxation techniques.” The next row reads: “Cognitive therapy,” “Awareness of cognitive process helps patients eliminate thought patterns that lead to distress,” and “Patient learns not to overgeneralize failure based on single failure.” The next row reads: “Cognitive-behavior therapy,” “Work to change cognitive distortions and self-defeating behaviors,” and “Patient learns to identify self-defeating behaviors to overcome an eating disorder.” The final row reads: “Humanistic therapy,” “Increase self-awareness and acceptance through focus on conscious thoughts,” and “Patient learns to articulate thoughts that keep her from achieving her goals.”">
+
+.. raw:: html
+
+   <caption>
+
+Various Psychotherapy Techniques
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Type
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Description
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Example
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Psychodynamic psychotherapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Talk therapy based on belief that the unconscious and childhood
+conflicts impact behavior
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Patient talks about his past
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Play therapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Psychoanalytical therapy wherein interaction with toys is used instead
+of talk; used in child therapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Patient (child) acts out family scenes with dolls
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Behavior therapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Principles of learning applied to change undesirable behaviors
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Patient learns to overcome fear of elevators through several stages of
+relaxation techniques
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Cognitive therapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Awareness of cognitive process helps patients eliminate thought patterns
+that lead to distress
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Patient learns not to overgeneralize failure based on single failure
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Cognitive-behavioral therapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Work to change cognitive distortions and self-defeating behaviors
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Patient learns to identify self-defeating behaviors to overcome an
+eating disorder
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Humanistic therapy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Increase self-awareness and acceptance through focus on conscious
+thoughts
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Patient learns to articulate thoughts that keep her from achieving her
+goals
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+PSYCHOTHERAPY TECHNIQUES: PSYCHOANALYSIS
+========================================
+
+Psychoanalysis was developed by Sigmund **Freud**\ {: data-type=“term”
+.no-emphasis} and was the first form of psychotherapy. It was the
+dominant therapeutic technique in the early 20th century, but it has
+since waned significantly in popularity. Freud believed most of our
+psychological problems are the result of repressed impulses and trauma
+experienced in childhood, and he believed psychoanalysis would help
+uncover long-buried feelings. In a psychoanalyst’s office, you might see
+a patient lying on a couch speaking of dreams or childhood memories, and
+the therapist using various Freudian methods such as free association
+and dream analysis (`[link] <#CNX_Psych_16_02_FreudCouch>`__). In **free
+association**\ {: data-type=“term”}, the patient relaxes and then says
+whatever comes to mind at the moment. However, Freud felt that the ego
+would at times try to block, or repress, unacceptable urges or painful
+conflicts during free association. Consequently, a patient would
+demonstrate resistance to recalling these thoughts or situations. In
+**dream analysis**\ {: data-type=“term”}, a therapist interprets the
+underlying meaning of dreams.
+
+Psychoanalysis is a therapy approach that typically takes years. Over
+the course of time, the patient reveals a great deal about himself to
+the therapist. Freud suggested that during this patient-therapist
+relationship, the patient comes to develop strong feelings for the
+therapist—maybe positive feelings, maybe negative feelings. Freud called
+this **transference**\ {: data-type=“term”}: the patient transfers all
+the positive or negative emotions associated with the patient’s other
+relationships to the psychoanalyst. For example, Crystal is seeing a
+psychoanalyst. During the years of therapy, she comes to see her
+therapist as a father figure. She transfers her feelings about her
+father onto her therapist, perhaps in an effort to gain the love and
+attention she did not receive from her own father.
+
+|This photograph shows what Freud’s famous psychoanalytic couch looked
+like. The couch is draped in tapestries and pillows, and the room is
+decorated with sculptures, books and pictures on the wall.|\ {:
+#CNX_Psych_16_02_FreudCouch}
+
+Today, Freud’s psychoanalytical perspective has been expanded upon by
+the developments of subsequent theories and methodologies: the
+**psychodynamic**\ {: data-type=“term” .no-emphasis} perspective. This
+approach to therapy remains centered on the role of people’s internal
+drives and forces, but treatment is less intensive than Freud’s original
+model.
+
+.. container:: psychology link-to-learning
+
+   View a `brief video <http://openstax.org/l/psycanalysis>`__ that
+   presents an overview of psychoanalysis theory, research, and
+   practice.
+
+PSYCHOTHERAPY: PLAY THERAPY
+===========================
+
+**Play therapy**\ {: data-type=“term”} is often used with children since
+they are not likely to sit on a couch and recall their dreams or engage
+in traditional talk therapy. This technique uses a therapeutic process
+of play to “help clients prevent or resolve psychosocial difficulties
+and achieve optimal growth” (O’Connor, 2000, p. 7). The idea is that
+children play out their hopes, fantasies, and traumas while using dolls,
+stuffed animals, and sandbox figurines
+(`[link] <#CNX_Psych_16_02_Sandtray>`__). Play therapy can also be used
+to help a therapist make a diagnosis. The therapist observes how the
+child interacts with toys (e.g., dolls, animals, and home settings) in
+an effort to understand the roots of the child’s disturbed behavior.
+Play therapy can be nondirective or directive. In nondirective play
+therapy, children are encouraged to work through their problems by
+playing freely while the therapist observes (LeBlanc & Ritchie, 2001).
+In directive play therapy, the therapist provides more structure and
+guidance in the play session by suggesting topics, asking questions, and
+even playing with the child (Harter, 1977).
+
+|This photograph shows a person playing with objects in a small box
+filled with sand. The person is organizing these objects and small play
+figures in a form of treatment called sandplay.|\ {:
+#CNX_Psych_16_02_Sandtray}
+
+PSYCHOTHERAPY: BEHAVIOR THERAPY
+===============================
+
+In **psychoanalysis**\ {: data-type=“term”}, therapists help their
+patients look into their past to uncover repressed feelings. In
+**behavior therapy**\ {: data-type=“term”}, a therapist employs
+principles of learning to help clients change undesirable
+behaviors—rather than digging deeply into one’s unconscious. Therapists
+with this orientation believe that dysfunctional behaviors, like phobias
+and bedwetting, can be changed by teaching clients new, more
+constructive behaviors. Behavior therapy employs both classical and
+operant conditioning techniques to change behavior.
+
+One type of behavior therapy utilizes classical conditioning techniques.
+Therapists using these techniques believe that dysfunctional behaviors
+are conditioned responses. Applying the conditioning principles
+developed by Ivan Pavlov, these therapists seek to recondition their
+clients and thus change their behavior. Emmie is eight years old, and
+frequently wets her bed at night. She’s been invited to several
+sleepovers, but she won’t go because of her problem. Using a type of
+conditioning therapy, Emmie begins to sleep on a liquid-sensitive bed
+pad that is hooked to an alarm. When moisture touches the pad, it sets
+off the alarm, waking up Emmie. When this process is repeated enough
+times, Emmie develops an association between urinary relaxation and
+waking up, and this stops the bedwetting. Emmie has now gone three weeks
+without wetting her bed and is looking forward to her first sleepover
+this weekend.
+
+One commonly used classical conditioning therapeutic technique is
+**counterconditioning**\ {: data-type=“term”}: a client learns a new
+response to a stimulus that has previously elicited an undesirable
+behavior. Two counterconditioning techniques are aversive conditioning
+and exposure therapy. **Aversive conditioning**\ {: data-type=“term”}
+uses an unpleasant stimulus to stop an undesirable behavior. Therapists
+apply this technique to eliminate addictive behaviors, such as smoking,
+nail biting, and drinking. In aversion therapy, clients will typically
+engage in a specific behavior (such as nail biting) and at the same time
+are exposed to something unpleasant, such as a mild electric shock or a
+bad taste. After repeated associations between the unpleasant stimulus
+and the behavior, the client can learn to stop the unwanted behavior.
+
+Aversion therapy has been used effectively for years in the treatment of
+alcoholism (Davidson, 1974; Elkins, 1991; Streeton & Whelan, 2001). One
+common way this occurs is through a chemically based substance known as
+Antabuse. When a person takes Antabuse and then consumes alcohol,
+uncomfortable side effects result including nausea, vomiting, increased
+heart rate, heart palpitations, severe headache, and shortness of
+breath. Antabuse is repeatedly paired with alcohol until the client
+associates alcohol with unpleasant feelings, which decreases the
+client’s desire to consume alcohol. Antabuse creates a conditioned
+aversion to alcohol because it replaces the original pleasure response
+with an unpleasant one.
+
+In **exposure therapy**\ {: data-type=“term”}, a therapist seeks to
+treat clients’ fears or anxiety by presenting them with the object or
+situation that causes their problem, with the idea that they will
+eventually get used to it. This can be done via reality, imagination, or
+virtual reality. Exposure therapy was first reported in 1924 by Mary
+Cover Jones, who is considered the mother of behavior therapy. Jones
+worked with a boy named Peter who was afraid of rabbits. Her goal was to
+replace Peter’s fear of rabbits with a conditioned response of
+relaxation, which is a response that is incompatible with fear
+(`[link] <#CNX_Psych_16_02_Conditioning>`__). How did she do it? Jones
+began by placing a caged rabbit on the other side of a room with Peter
+while he ate his afternoon snack. Over the course of several days, Jones
+moved the rabbit closer and closer to where Peter was seated with his
+snack. After two months of being exposed to the rabbit while relaxing
+with his snack, Peter was able to hold the rabbit and pet it while
+eating (Jones, 1924).
+
+|This figure, titled “Exposure Therapy,” illustrates the exposure
+therapy strategy of Mary Cover Jones to rid a person of the fear of
+rabbits. The first of four levels depicts an image of a person and a
+rabbit with an equals sign between them. Under the rabbit reads
+“conditioned stimulus (CS),” and under the person reads “fear of
+rabbits.” The second level depicts an image of milk and cookies, labeled
+“unconditioned stimulus (US),” and on the other side of an equals sign
+there is a picture of the same person labeled “unconditioned response
+(UR).” The third level shows the milk and cookies, labeled
+“unconditioned stimulus (US),” and rabbit, labeled “conditioned stimulus
+(CS),” to the left and right of a plus sign, with the person on the
+other side of an equals sign. The label “unconditioned response (UR) is
+below the person.” The final level shows the person and the rabbit
+separated by an equals sign. This time the rabbit is labeled
+“conditioned stimulus (CS)” and the person is labeled “conditioned
+response (CR).”|\ {: #CNX_Psych_16_02_Conditioning}
+
+Thirty years later, Joseph Wolpe (1958) refined Jones’s techniques,
+giving us the behavior therapy technique of exposure therapy that is
+used today. A popular form of exposure therapy is **systematic
+desensitization**\ {: data-type=“term”}, wherein a calm and pleasant
+state is gradually associated with increasing levels of anxiety-inducing
+stimuli. The idea is that you can’t be nervous and relaxed at the same
+time. Therefore, if you can learn to relax when you are facing
+environmental stimuli that make you nervous or fearful, you can
+eventually eliminate your unwanted fear response (Wolpe, 1958)
+(`[link] <#CNX_Psych_16_02_Spider>`__).
+
+|A close-up picture of a very large spider on a person’s arm is shown.
+The person is using its other hand to hold up two of the spider’s
+legs.|\ {: #CNX_Psych_16_02_Spider}
+
+How does exposure therapy work? Jayden is terrified of elevators.
+Nothing bad has ever happened to him on an elevator, but he’s so afraid
+of elevators that he will always take the stairs. That wasn’t a problem
+when Jayden worked on the second floor of an office building, but now he
+has a new job—on the 29th floor of a skyscraper in downtown Los Angeles.
+Jayden knows he can’t climb 29 flights of stairs in order to get to work
+each day, so he decided to see a behavior therapist for help. The
+therapist asks Jayden to first construct a hierarchy of elevator-related
+situations that elicit fear and anxiety. They range from situations of
+mild anxiety such as being nervous around the other people in the
+elevator, to the fear of getting an arm caught in the door, to
+panic-provoking situations such as getting trapped or the cable
+snapping. Next, the therapist uses progressive relaxation. She teaches
+Jayden how to relax each of his muscle groups so that he achieves a
+drowsy, relaxed, and comfortable state of mind. Once he’s in this state,
+she asks Jayden to imagine a mildly anxiety-provoking situation. Jayden
+is standing in front of the elevator thinking about pressing the call
+button.
+
+If this scenario causes Jayden anxiety, he lifts his finger. The
+therapist would then tell Jayden to forget the scene and return to his
+relaxed state. She repeats this scenario over and over until Jayden can
+imagine himself pressing the call button without anxiety. Over time the
+therapist and Jayden use progressive relaxation and imagination to
+proceed through all of the situations on Jayden’s hierarchy until he
+becomes desensitized to each one. After this, Jayden and the therapist
+begin to practice what he only previously envisioned in therapy,
+gradually going from pressing the button to actually riding an elevator.
+The goal is that Jayden will soon be able to take the elevator all the
+way up to the 29th floor of his office without feeling any anxiety.
+
+Sometimes, it’s too impractical, expensive, or embarrassing to re-create
+anxiety- producing situations, so a therapist might employ **virtual
+reality exposure therapy**\ {: data-type=“term”} by using a simulation
+to help conquer fears. Virtual reality exposure therapy has been used
+effectively to treat numerous anxiety disorders such as the fear of
+public speaking, claustrophobia (fear of enclosed spaces), aviophobia
+(fear of flying), and post-traumatic stress disorder (PTSD), a trauma
+and stressor-related disorder (Gerardi, Cukor, Difede, Rizzo, &
+Rothbaum, 2010).
+
+.. container:: psychology link-to-learning
+
+   A new virtual reality exposure therapy is being used to treat PTSD in
+   soldiers. Virtual Iraq is a simulation that mimics Middle Eastern
+   cities and desert roads with situations similar to those soldiers
+   experienced while deployed in Iraq. This method of virtual reality
+   exposure therapy has been effective in treating PTSD for combat
+   veterans. Approximately 80% of participants who completed treatment
+   saw clinically significant reduction in their symptoms of PTSD,
+   anxiety, and depression (Rizzo et al., 2010). Watch this `Virtual
+   Iraq video <https://www.youtube.com/watch?v=QCCWH_CNjM0>`__ showing
+   soldiers being treated via simulation.
+
+Some behavior therapies employ operant conditioning. Recall what you
+learned about operant conditioning: We have a tendency to repeat
+behaviors that are reinforced. What happens to behaviors that are not
+reinforced? They become extinguished. These principles can be applied to
+help people with a wide range of psychological problems. For instance,
+operant conditioning techniques designed to reinforce positive behaviors
+and punish unwanted behaviors have been an effective tool to help
+children with autism (Lovaas, 1987, 2003; Sallows & Graupner, 2005; Wolf
+& Risley, 1967). This technique is called Applied Behavior Analysis
+(ABA). In this treatment, child-specific reinforcers (e.g., stickers,
+praise, candy, bubbles, and extra play time) are used to reward and
+motivate autistic children when they demonstrate desired behaviors such
+as sitting on a chair when requested, verbalizing a greeting, or making
+eye contact. Punishment such as a timeout or a sharp “No!” from the
+therapist or parent might be used to discourage undesirable behaviors
+such as pinching, scratching, and pulling hair.
+
+One popular operant conditioning intervention is called the **token
+economy**\ {: data-type=“term”}. This involves a controlled setting
+where individuals are reinforced for desirable behaviors with tokens,
+such as a poker chip, that can be exchanged for items or privileges.
+Token economies are often used in psychiatric hospitals to increase
+patient cooperation and activity levels. Patients are rewarded with
+tokens when they engage in positive behaviors (e.g., making their beds,
+brushing their teeth, coming to the cafeteria on time, and socializing
+with other patients). They can later exchange the tokens for extra TV
+time, private rooms, visits to the canteen, and so on (Dickerson,
+Tenhula, & Green-Paden, 2005).
+
+PSYCHOTHERAPY: COGNITIVE THERAPY
+================================
+
+**Cognitive therapy**\ {: data-type=“term”} is a form of psychotherapy
+that focuses on how a person’s thoughts lead to feelings of distress.
+The idea behind cognitive therapy is that how you think determines how
+you feel and act. Cognitive therapists help their clients change
+dysfunctional thoughts in order to relieve distress. They help a client
+see how they misinterpret a situation (cognitive distortion). For
+example, a client may overgeneralize. Because Ray failed one test in his
+Psychology 101 course, he feels he is stupid and worthless. These
+thoughts then cause his mood to worsen. Therapists also help clients
+recognize when they blow things out of proportion. Because Ray failed
+his Psychology 101 test, he has concluded that he’s going to fail the
+entire course and probably flunk out of college altogether. These errors
+in thinking have contributed to Ray’s feelings of distress. His
+therapist will help him challenge these irrational beliefs, focus on
+their illogical basis, and correct them with more logical and rational
+thoughts and beliefs.
+
+Cognitive therapy was developed by psychiatrist Aaron **Beck**\ {:
+data-type=“term” .no-emphasis} in the 1960s. His initial focus was on
+depression and how a client’s self-defeating attitude served to maintain
+a depression despite positive factors in her life (Beck, Rush, Shaw, &
+Emery, 1979) (`[link] <#CNX_Psych_16_02_Cognitive>`__). Through
+questioning, a cognitive therapist can help a client recognize
+dysfunctional ideas, challenge catastrophizing thoughts about themselves
+and their situations, and find a more positive way to view things (Beck,
+2011).
+
+|This graphic depicts two three-box flowcharts showing reactions to
+failing a test. The first flowchart flows from “Failed test” to
+“Internal beliefs: I’m worthless and stupid” to “Depression.” The second
+flowchart flows from “Failed test” to “Internal beliefs: I’m smart, but
+I didn’t study for this test. I can do better.” to “No depression.”|\ {:
+#CNX_Psych_16_02_Cognitive}
+
+.. container:: psychology link-to-learning
+
+   View a brief video in which `Judith Beck talks about cognitive
+   therapy <http://openstax.org/l/JBeck>`__ and conducts a session with
+   a client.
+
+PSYCHOTHERAPY: COGNITIVE-BEHAVIORAL THERAPY
+===========================================
+
+Cognitive-behavioral therapists focus much more on present issues than
+on a patient’s childhood or past, as in other forms of psychotherapy.
+One of the first forms of cognitive-behavioral therapy was **rational
+emotive therapy (RET)**\ {: data-type=“term”}, which was founded by
+Albert Ellis and grew out of his dislike of Freudian psychoanalysis
+(Daniel, n.d.). Behaviorists such as Joseph Wolpe also influenced
+Ellis’s therapeutic approach (National Association of
+Cognitive-Behavioral Therapists, 2009).
+
+**Cognitive-behavioral therapy (CBT)**\ {: data-type=“term”} helps
+clients examine how their thoughts affect their behavior. It aims to
+change cognitive distortions and self-defeating behaviors. In essence,
+this approach is designed to change the way people think as well as how
+they act. It is similar to cognitive therapy in that CBT attempts to
+make individuals aware of their irrational and negative thoughts and
+helps people replace them with new, more positive ways of thinking. It
+is also similar to behavior therapies in that CBT teaches people how to
+practice and engage in more positive and healthy approaches to daily
+situations. In total, hundreds of studies have shown the effectiveness
+of cognitive-behavioral therapy in the treatment of numerous
+psychological disorders such as depression, PTSD, anxiety disorders,
+eating disorders, bipolar disorder, and substance abuse (Beck Institute
+for Cognitive Behavior Therapy, n.d.). For example, CBT has been found
+to be effective in decreasing levels of hopelessness and suicidal
+thoughts in previously suicidal teenagers (Alavi, Sharifi, Ghanizadeh, &
+Dehbozorgi, 2013). Cognitive-behavioral therapy has also been effective
+in reducing PTSD in specific populations, such as transit workers
+(Lowinger & Rombom, 2012).
+
+Cognitive-behavioral therapy aims to change cognitive distortions and
+self-defeating behaviors using techniques like the ABC model. With this
+model, there is an **A**\ ction (sometimes called an activating event),
+the **B**\ elief about the event, and the **C**\ onsequences of this
+belief. Let’s say, Jon and Joe both go to a party. Jon and Joe each have
+met a young woman at the party: Jon is talking with Megan most of the
+party, and Joe is talking with Amanda. At the end of the party, Jon asks
+Megan for her phone number and Joe asks Amanda. Megan tells Jon she
+would rather not give him her number, and Amanda tells Joe the same
+thing. Both Jon and Joe are surprised, as they thought things were going
+well. What can Jon and Joe tell themselves about why the women were not
+interested? Let’s say Jon tells himself he is a loser, or is ugly, or
+“has no game.” Jon then gets depressed and decides not to go to another
+party, which starts a cycle that keeps him depressed. Joe tells himself
+that he had bad breath, goes out and buys a new toothbrush, goes to
+another party, and meets someone new.
+
+Jon’s belief about what happened results in a consequence of further
+depression, whereas Joe’s belief does not. Jon is internalizing the
+attribution or reason for the rebuffs, which triggers his depression. On
+the other hand, Joe is externalizing the cause, so his thinking does not
+contribute to feelings of depression. Cognitive-behavioral therapy
+examines specific maladaptive and automatic thoughts and cognitive
+distortions. Some examples of cognitive distortions are all-or-nothing
+thinking, overgeneralization, and jumping to conclusions. In
+overgeneralization, someone takes a small situation and makes it
+huge—for example, instead of saying, “This particular woman was not
+interested in me,” the man says, “I am ugly, a loser, and no one is ever
+going to be interested in me.”
+
+All or nothing thinking, which is a common type of cognitive distortion
+for people suffering from depression, reflects extremes. In other words,
+everything is black or white. After being turned down for a date, Jon
+begins to think, “No woman will ever go out with me. I’m going to be
+alone forever.” He begins to feel anxious and sad as he contemplates his
+future.
+
+The third kind of distortion involves jumping to conclusions—assuming
+that people are thinking negatively about you or reacting negatively to
+you, even though there is no evidence. Consider the example of Savannah
+and Hillaire, who recently met at a party. They have a lot in common,
+and Savannah thinks they could become friends. She calls Hillaire to
+invite her for coffee. Since Hillaire doesn’t answer, Savannah leaves
+her a message. Several days go by and Savannah never hears back from her
+potential new friend. Maybe Hillaire never received the message because
+she lost her phone or she is too busy to return the phone call. But if
+Savannah believes that Hillaire didn’t like Savannah or didn’t want to
+be her friend, she is demonstrating the cognitive distortion of jumping
+to conclusions.
+
+How effective is CBT? One client said this about his
+cognitive-behavioral therapy:
+
+I have had many painful episodes of depression in my life, and this has
+had a negative effect on my career and has put considerable strain on my
+friends and family. The treatments I have received, such as taking
+antidepressants and psychodynamic counseling, have helped [me] to cope
+with the symptoms and to get some insights into the roots of my
+problems. CBT has been by far the most useful approach I have found in
+tackling these mood problems. It has raised my awareness of how my
+thoughts impact on my moods. How the way I think about myself, about
+others and about the world can lead me into depression. It is a
+practical approach, which does not dwell so much on childhood
+experiences, whilst acknowledging that it was then that these patterns
+were learned. It looks at what is happening now, and gives tools to
+manage these moods on a daily basis. (Martin, 2007, n.p.)
+
+PSYCHOTHERAPY: HUMANISTIC THERAPY
+=================================
+
+Humanistic psychology focuses on helping people achieve their potential.
+So it makes sense that the goal of **humanistic therapy**\ {:
+data-type=“term”} is to help people become more self-aware and accepting
+of themselves. In contrast to psychoanalysis, humanistic therapists
+focus on conscious rather than unconscious thoughts. They also emphasize
+the patient’s present and future, as opposed to exploring the patient’s
+past.
+
+Psychologist Carl **Rogers**\ {: data-type=“term” .no-emphasis}
+developed a therapeutic orientation known as **Rogerian**\ {:
+data-type=“term”}, or **client-centered therapy**\ {: data-type=“term”}.
+Note the change from *patients* to *clients*. Rogers (1951) felt that
+the term patient suggested the person seeking help was sick and looking
+for a cure. Since this is a form of **nondirective therapy**\ {:
+data-type=“term”}, a therapeutic approach in which the therapist does
+not give advice or provide interpretations but helps the person to
+identify conflicts and understand feelings, Rogers (1951) emphasized the
+importance of the person taking control of his own life to overcome
+life’s challenges.
+
+In client-centered therapy, the therapist uses the technique of active
+listening. In active listening, the therapist acknowledges, restates,
+and clarifies what the client expresses. Therapists also practice what
+Rogers called **unconditional positive regard**\ {: data-type=“term”},
+which involves not judging clients and simply accepting them for who
+they are. Rogers (1951) also felt that therapists should demonstrate
+genuineness, empathy, and acceptance toward their clients because this
+helps people become more accepting of themselves, which results in
+personal growth.
+
+EVALUATING VARIOUS FORMS OF PSYCHOTHERAPY
+=========================================
+
+How can we assess the effectiveness of psychotherapy? Is one technique
+more effective than another? For anyone considering therapy, these are
+important questions. According to the American Psychological
+Association, three factors work together to produce successful
+treatment. The first is the use of evidence-based treatment that is
+deemed appropriate for your particular issue. The second important
+factor is the clinical expertise of the psychologist or therapist. The
+third factor is your own characteristics, values, preferences, and
+culture. Many people begin psychotherapy feeling like their problem will
+never be resolved; however, psychotherapy helps people see that they can
+do things to make their situation better. Psychotherapy can help reduce
+a person’s anxiety, depression, and maladaptive behaviors. Through
+psychotherapy, individuals can learn to engage in healthy behaviors
+designed to help them better express emotions, improve relationships,
+think more positively, and perform more effectively at work or school.
+
+Many studies have explored the effectiveness of psychotherapy. For
+example, one large-scale study that examined 16 meta-analyses of CBT
+reported that it was equally effective or more effective than other
+therapies in treating PTSD, generalized anxiety disorder, depression,
+and social phobia (Butlera, Chapmanb, Formanc, & Becka, 2006). Another
+study found that CBT was as effective at treating depression (43%
+success rate) as prescription medication (50% success rate) compared to
+the placebo rate of 25% (DeRubeis et al., 2005). Another meta-analysis
+found that psychodynamic therapy was also as effective at treating these
+types of psychological issues as CBT (Shedler, 2010). However, no
+studies have found one psychotherapeutic approach more effective than
+another (Abbass, Kisely, & Kroenke, 2006; Chorpita et al., 2011), nor
+have they shown any relationship between a client’s treatment outcome
+and the level of the clinician’s training or experience (Wampold, 2007).
+Regardless of which type of psychotherapy an individual chooses, one
+critical factor that determines the success of treatment is the person’s
+relationship with the psychologist or therapist.
+
+BIOMEDICAL THERAPIES
+====================
+
+Individuals can be prescribed biologically based treatments or
+psychotropic medications that are used to treat mental disorders. While
+these are often used in combination with psychotherapy, they also are
+taken by individuals not in therapy. This is known as **biomedical
+therapy**\ {: data-type=“term”}. Medications used to treat psychological
+disorders are called psychotropic medications and are prescribed by
+medical doctors, including psychiatrists. In Louisiana and New Mexico,
+psychologists are able to prescribe some types of these medications
+(American Psychological Association, 2014).
+
+Different types and classes of medications are prescribed for different
+disorders. A depressed person might be given an antidepressant, a
+bipolar individual might be given a mood stabilizer, and a schizophrenic
+individual might be given an antipsychotic. These medications treat the
+symptoms of a psychological disorder. They can help people feel better
+so that they can function on a daily basis, but they do not cure the
+disorder. Some people may only need to take a psychotropic medication
+for a short period of time. Others with severe disorders like bipolar
+disorder or schizophrenia may need to take psychotropic medication for a
+long time. `[link] <#Table_16_02_02>`__ shows the types of medication
+and how they are used.
+
+.. raw:: html
+
+   <table id="Table_16_02_02" summary="A table showing different types of medication, the diseases they are used to treat, the brand names of the medications, how they work, and the side effects is shown. The order of the categories in each row is as follows: “Type of Medication,” “Used to Treat,” “Brand Names of Commonly Prescribed Medications,” “How They Work,” and “Side Effects.” The information for “Antipsychotics (developed in the 1950s)” is as follows: “Schizophrenia and other types of severe thought disorders,” “Haldol, Mellaril, Prolixin, Thorazine,” “Treat positive psychotic symptoms such as auditory and visual hallucinations, delusions, and paranoia by blocking the neurotransmitter dopamine,” and “Long-term use can lead to involuntary movements of the arms, legs, tongue and facial muscles, resulting in Parkinson’s-like tremors.” The information for “Atypical Antipsychotics (developed in the late 1980s)” is as follows: “Schizophrenia and other types of severe thought disorders,” “Abilify, Risperdal, Clozaril,” “Treat the negative symptoms of schizophrenia, such as withdrawal and apathy, by targeting both dopamine and serotonin receptors; newer medications may treat both positive and negative symptoms,” and “Can increase the risk of obesity and diabetes as well as elevate cholesterol levels; constipation, dry mouth, blurred vision, drowsiness, and dizziness.” The information for “Anti-depressants” is as follows: “Depression and increasingly for anxiety,” “Paxil, Prozac, Zoloft (selective serotonin reuptake inhibitors, [SSRIs]); Tofranil and Elavil (tricyclics),” “Alter levels of neurotransmitters such as serotonin and norepinephrine,” “SSRIs: headache, nausea, weight gain, drowsiness, reduced sex drive; Tricyclics: dry mouth, constipation, blurred vision, drowsiness, reduced sex drive, increased risk of suicide.” The information for “Anti-anxiety agents” is as follows: “Anxiety and agitation that occur in OCD, PTSD, panic disorder, and social phobia,” “Xanax, Valium, Ativan,” “Depress central nervous system activity,” and “Drowsiness, dizziness, headache, fatigue, lightheadedness.” The information for “Mood Stabilizers” is as follows: “Bipolar disorder,” “Lithium, Depakote, Lamictal, Tegretol,” “Treat episodes of mania as well as depression,” and “Excessive thirst, irregular heartbeat, itching/rash, swelling (face, mouth, and extremities), nausea, loss of appetite.” The information for “Stimulants” is as follows: “ADHD,” “Adderall, Ritalin,” “Improve ability to focus on a task and maintain attention,” and “Decreased appetite, difficulty sleeping, stomachache, headache.”">
+
+.. raw:: html
+
+   <caption>
+
+Commonly Prescribed Psychotropic Medications
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Type of Medication
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Used to Treat
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Brand Names of Commonly Prescribed Medications
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+How They Work
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Side Effects
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr valign="top">
+
+.. raw:: html
+
+   <td data-align="left">
+
+Antipsychotics (developed in the 1950s)
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Schizophrenia and other types of severe thought disorders
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Haldol, Mellaril, Prolixin, Thorazine
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Treat positive psychotic symptoms such as auditory and visual
+hallucinations, delusions, and paranoia by blocking the neurotransmitter
+dopamine
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Long-term use can lead to tardive dyskinesia, involuntary movements of
+the arms, legs, tongue and facial muscles, resulting in Parkinson’s-like
+tremors
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr valign="top">
+
+.. raw:: html
+
+   <td data-align="left">
+
+Atypical Antipsychotics (developed in the late 1980s)
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Schizophrenia and other types of severe thought disorders
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Abilify, Risperdal, Clozaril
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Treat the negative symptoms of schizophrenia, such as withdrawal and
+apathy, by targeting both dopamine and serotonin receptors; newer
+medications may treat both positive and negative symptoms
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Can increase the risk of obesity and diabetes as well as elevate
+cholesterol levels; constipation, dry mouth, blurred vision, drowsiness,
+and dizziness
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr valign="top">
+
+.. raw:: html
+
+   <td data-align="left">
+
+Anti-depressants
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Depression and increasingly for anxiety
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Paxil, Prozac, Zoloft (selective serotonin reuptake inhibitors,
+[SSRIs]); Tofranil and Elavil (tricyclics)
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Alter levels of neurotransmitters such as serotonin and norepinephrine
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+SSRIs: headache, nausea, weight gain, drowsiness, reduced sex drive
+
+.. raw:: html
+
+   <hr data-type="newline" />
+
+Tricyclics: dry mouth, constipation, blurred vision, drowsiness, reduced
+sex drive, increased risk of suicide
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr valign="top">
+
+.. raw:: html
+
+   <td data-align="left">
+
+Anti-anxiety agents
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Anxiety and agitation that occur in OCD, PTSD, panic disorder, and
+social phobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Xanax, Valium, Ativan
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Depress central nervous system activity
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Drowsiness, dizziness, headache, fatigue, lightheadedness
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr valign="top">
+
+.. raw:: html
+
+   <td data-align="left">
+
+Mood Stabilizers
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Bipolar disorder
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Lithium, Depakote, Lamictal, Tegretol
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Treat episodes of mania as well as depression
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Excessive thirst, irregular heartbeat, itching/rash, swelling (face,
+mouth, and extremities), nausea, loss of appetite
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr valign="top">
+
+.. raw:: html
+
+   <td data-align="left">
+
+Stimulants
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+ADHD
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Adderall, Ritalin
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Improve ability to focus on a task and maintain attention
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Decreased appetite, difficulty sleeping, stomachache, headache
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Another biologically based treatment that continues to be used, although
+infrequently, is **electroconvulsive therapy (ECT)**\ {:
+data-type=“term”} (formerly known by its unscientific name as
+electroshock therapy). It involves using an electrical current to induce
+seizures to help alleviate the effects of severe depression. The exact
+mechanism is unknown, although it does help alleviate symptoms for
+people with severe depression who have not responded to traditional drug
+therapy (Pagnin, de Queiroz, Pini, & Cassano, 2004). About 85% of people
+treated with ECT improve (Reti, n.d.). However, the memory loss
+associated with repeated administrations has led to it being implemented
+as a last resort (Donahue, 2000; Prudic, Peyser, & Sackeim, 2000). A
+more recent alternative is transcranial magnetic stimulation (TMS), a
+procedure approved by the FDA in 2008 that uses magnetic fields to
+stimulate nerve cells in the brain to improve depression symptoms; it is
+used when other treatments have not worked (Mayo Clinic, 2012).
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Evidence-based Practice
+
+   A buzzword in therapy today is evidence-based practice. However, it’s
+   not a novel concept but one that has been used in medicine for at
+   least two decades. Evidence-based practice is used to reduce errors
+   in treatment selection by making clinical decisions based on research
+   (Sackett & Rosenberg, 1995). In any case, evidence-based treatment is
+   on the rise in the field of psychology. So what is it, and why does
+   it matter? In an effort to determine which treatment methodologies
+   are evidenced-based, professional organizations such as the American
+   Psychological Association (APA) have recommended that specific
+   psychological treatments be used to treat certain psychological
+   disorders (Chambless & Ollendick, 2001). According to the APA (2005),
+   “Evidence-based practice in psychology (EBPP) is the integration of
+   the best available research with clinical expertise in the context of
+   patient characteristics, culture, and preferences” (p. 1).
+
+   The foundational idea behind evidence based treatment is that best
+   practices are determined by research evidence that has been compiled
+   by comparing various forms of treatment (Charman & Barkham, 2005).
+   These treatments are then operationalized and placed in treatment
+   manuals—trained therapists follow these manuals. The benefits are
+   that evidence-based treatment can reduce variability between
+   therapists to ensure that a specific approach is delivered with
+   integrity (Charman & Barkham, 2005). Therefore, clients have a higher
+   chance of receiving therapeutic interventions that are effective at
+   treating their specific disorder. While EBPP is based on randomized
+   control trials, critics of EBPP reject it stating that the results of
+   trials cannot be applied to individuals and instead determinations
+   regarding treatment should be based on a therapist’s judgment (Mullen
+   & Streiner, 2004).
+
+Summary
+=======
+
+Psychoanalysis was developed by Sigmund Freud. Freud’s theory is that a
+person’s psychological problems are the result of repressed impulses or
+childhood trauma. The goal of the therapist is to help a person uncover
+buried feelings by using techniques such as free association and dream
+analysis.
+
+Play therapy is a psychodynamic therapy technique often used with
+children. The idea is that children play out their hopes, fantasies, and
+traumas, using dolls, stuffed animals, and sandbox figurines.
+
+In behavior therapy, a therapist employs principles of learning from
+classical and operant conditioning to help clients change undesirable
+behaviors. Counterconditioning is a commonly used therapeutic technique
+in which a client learns a new response to a stimulus that has
+previously elicited an undesirable behavior via classical conditioning.
+Principles of operant conditioning can be applied to help people deal
+with a wide range of psychological problems. Token economy is an example
+of a popular operant conditioning technique.
+
+Cognitive therapy is a technique that focuses on how thoughts lead to
+feelings of distress. The idea behind cognitive therapy is that how you
+think determines how you feel and act. Cognitive therapists help clients
+change dysfunctional thoughts in order to relieve distress.
+Cognitive-behavioral therapy explores how our thoughts affect our
+behavior. Cognitive-behavioral therapy aims to change cognitive
+distortions and self-defeating behaviors.
+
+Humanistic therapy focuses on helping people achieve their potential.
+One form of humanistic therapy developed by Carl Rogers is known as
+client-centered or Rogerian therapy. Client-centered therapists use the
+techniques of active listening, unconditional positive regard,
+genuineness, and empathy to help clients become more accepting of
+themselves.
+
+Often in combination with psychotherapy, people can be prescribed
+biologically based treatments such as psychotropic medications and/or
+other medical procedures such as electro-convulsive therapy.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The idea behind \_______\_ is that how you think determines how
+      you feel and act.
+
+      1. cognitive therapy
+      2. cognitive-behavioral therapy
+      3. behavior therapy
+      4. client-centered therapy {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Mood stabilizers, such as lithium, are used to treat \________.
+
+      1. anxiety disorders
+      2. depression
+      3. bipolar disorder
+      4. ADHD {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Clay is in a therapy session. The therapist asks him to relax and
+      say whatever comes to his mind at the moment. This therapist is
+      using \________, which is a technique of \________.
+
+      1. active listening; client-centered therapy
+      2. systematic desensitization; behavior therapy
+      3. transference; psychoanalysis
+      4. free association; psychoanalysis {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Imagine that you are a psychiatrist. Your patient, Pat, comes to
+      you with the following symptoms: anxiety and feelings of sadness.
+      Which therapeutic approach would you recommend and why?
+
+   .. container::
+
+      I would recommend psychodynamic talk therapy or cognitive therapy
+      to help the person see how her thoughts and behaviors are having
+      negative effects.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      If you were to choose a therapist practicing one of the techniques
+      presented in this section, which kind of therapist would you
+      choose and why?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   aversive conditioning
+      counterconditioning technique that pairs an unpleasant stimulant
+      with an undesirable behavior ^
+   behavior therapy
+      therapeutic orientation that employs principles of learning to
+      help clients change undesirable behaviors ^
+   biomedical therapy
+      treatment that involves medication and/or medical procedures to
+      treat psychological disorders ^
+   cognitive-behavioral therapy
+      form of psychotherapy that aims to change cognitive distortions
+      and self-defeating behaviors ^
+   cognitive therapy
+      form of psychotherapy that focuses on how a person’s thoughts lead
+      to feelings of distress, with the aim of helping them change these
+      irrational thoughts ^
+   counterconditioning
+      classical conditioning therapeutic technique in which a client
+      learns a new response to a stimulus that has previously elicited
+      an undesirable behavior ^
+   dream analysis
+      technique in psychoanalysis in which patients recall their dreams
+      and the psychoanalyst interprets them to reveal unconscious
+      desires or struggles ^
+   electroconvulsive therapy (ECT)
+      type of biomedical therapy that involves using an electrical
+      current to induce seizures in a person to help alleviate the
+      effects of severe depression ^
+   exposure therapy
+      counterconditioning technique in which a therapist seeks to treat
+      a client’s fear or anxiety by presenting the feared object or
+      situation with the idea that the person will eventually get used
+      to it ^
+   free association
+      technique in psychoanalysis in which the patient says whatever
+      comes to mind at the moment ^
+   humanistic therapy
+      therapeutic orientation aimed at helping people become more
+      self-aware and accepting of themselves ^
+   nondirective therapy
+      therapeutic approach in which the therapist does not give advice
+      or provide interpretations but helps the person identify conflicts
+      and understand feelings ^
+   play therapy
+      therapeutic process, often used with children, that employs toys
+      to help them resolve psychological problems ^
+   psychoanalysis
+      therapeutic orientation developed by Sigmund Freud that employs
+      free association, dream analysis, and transference to uncover
+      repressed feelings ^
+   psychotherapy
+      (also, psychodynamic psychotherapy) psychological treatment that
+      employs various methods to help someone overcome personal
+      problems, or to attain personal growth ^
+   rational emotive therapy (RET)
+      form of cognitive-behavioral therapy ^
+   Rogerian (client-centered therapy)
+      non-directive form of humanistic psychotherapy developed by Carl
+      Rogers that emphasizes unconditional positive regard and
+      self-acceptance ^
+   systematic desensitization
+      form of exposure therapy used to treat phobias and anxiety
+      disorders by exposing a person to the feared object or situation
+      through a stimulus hierarchy ^
+   token economy
+      controlled setting where individuals are reinforced for desirable
+      behaviors with tokens (e.g., poker chip) that be exchanged for
+      items or privileges ^
+   transference
+      process in psychoanalysis in which the patient transfers all of
+      the positive or negative emotions associated with the patient’s
+      other relationships to the psychoanalyst ^
+   unconditional positive regard
+      fundamental acceptance of a person regardless of what they say or
+      do; term associated with humanistic psychology ^
+   virtual reality exposure therapy
+      uses a simulation rather than the actual feared object or
+      situation to help people conquer their fears
+
+.. |This photograph shows what Freud’s famous psychoanalytic couch looked like. The couch is draped in tapestries and pillows, and the room is decorated with sculptures, books and pictures on the wall.| image:: ../resources/CNX_Psych_16_02_FreudCouch.jpg
+.. |This photograph shows a person playing with objects in a small box filled with sand. The person is organizing these objects and small play figures in a form of treatment called sandplay.| image:: ../resources/CNX_Psych_16_02_Sandtray.jpg
+.. |This figure, titled “Exposure Therapy,” illustrates the exposure therapy strategy of Mary Cover Jones to rid a person of the fear of rabbits. The first of four levels depicts an image of a person and a rabbit with an equals sign between them. Under the rabbit reads “conditioned stimulus (CS),” and under the person reads “fear of rabbits.” The second level depicts an image of milk and cookies, labeled “unconditioned stimulus (US),” and on the other side of an equals sign there is a picture of the same person labeled “unconditioned response (UR).” The third level shows the milk and cookies, labeled “unconditioned stimulus (US),” and rabbit, labeled “conditioned stimulus (CS),” to the left and right of a plus sign, with the person on the other side of an equals sign. The label “unconditioned response (UR) is below the person.” The final level shows the person and the rabbit separated by an equals sign. This time the rabbit is labeled “conditioned stimulus (CS)” and the person is labeled “conditioned response (CR).”| image:: ../resources/CNX_Psych_16_02_Conditioning.jpg
+.. |A close-up picture of a very large spider on a person’s arm is shown. The person is using its other hand to hold up two of the spider’s legs.| image:: ../resources/CNX_Psych_16_02_Spider.jpg
+.. |This graphic depicts two three-box flowcharts showing reactions to failing a test. The first flowchart flows from “Failed test” to “Internal beliefs: I’m worthless and stupid” to “Depression.” The second flowchart flows from “Failed test” to “Internal beliefs: I’m smart, but I didn’t study for this test. I can do better.” to “No depression.”| image:: ../resources/CNX_Psych_16_02_Cognitive.jpg

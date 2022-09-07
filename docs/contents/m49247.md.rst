@@ -1,0 +1,865 @@
+=================
+Anxiety Disorders
+=================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Distinguish
+   normal anxiety from pathological anxiety \* List and describe the
+   major anxiety disorders, including their main features and prevalence
+   \* Describe basic psychological and biological factors that are
+   suspected to be important in the etiology of anxiety disorder
+
+Everybody experiences anxiety from time to time. Although anxiety is
+closely related to fear, the two states possess important differences.
+Fear involves an instantaneous reaction to an imminent threat, whereas
+anxiety involves apprehension, avoidance, and cautiousness regarding a
+potential threat, danger, or other negative event (Craske, 1999). While
+anxiety is unpleasant to most people, it is important to our health,
+safety, and well-being. Anxiety motivates us to take actions—such as
+preparing for exams, watching our weight, showing up to work on
+time—that enable us to avert potential future problems. Anxiety also
+motivates us to avoid certain things—such as running up debts and
+engaging in illegal activities—that could lead to future trouble. Most
+individuals’ level and duration of anxiety approximates the magnitude of
+the potential threat they face. For example, suppose a single woman in
+her late 30s who wishes to marry is concerned about the possibility of
+having to settle for a spouse who is less attractive and educated than
+desired. This woman likely would experience anxiety of greater intensity
+and duration than would a 21-year-old college junior who is having
+trouble finding a date for the annual social. Some people, however,
+experience anxiety that is excessive, persistent, and greatly out of
+proportion to the actual threat; if one’s anxiety has a disruptive
+influence on one’s life, this is a strong indicator that the individual
+is experiencing an anxiety disorder.
+
+**Anxiety disorders**\ {: data-type=“term”} are characterized by
+excessive and persistent fear and anxiety, and by related disturbances
+in behavior (APA, 2013). Although anxiety is universally experienced,
+anxiety disorders cause considerable distress. As a group, anxiety
+disorders are common: approximately 25%–30% of the U.S. population meets
+the criteria for at least one anxiety disorder during their lifetime
+(Kessler et al., 2005). Also, these disorders appear to be much more
+common in women than they are in men; within a 12-month period, around
+23% of women and 14% of men will experience at least one anxiety
+disorder (National Comorbidity Survey, 2007). Anxiety disorders are the
+most frequently occurring class of mental disorders and are often
+comorbid with each other and with other mental disorders (Kessler,
+Ruscio, Shear, & Wittchen, 2009).
+
+SPECIFIC PHOBIA
+===============
+
+*Phobia* is a Greek word that means fear. A person diagnosed with a
+**specific phobia**\ {: data-type=“term”} (formerly known as simple
+**phobia**\ {: data-type=“term” .no-emphasis}) experiences excessive,
+distressing, and persistent fear or anxiety about a specific object or
+situation (such as animals, enclosed spaces, elevators, or flying) (APA,
+2013). Even though people realize their level of fear and anxiety in
+relation to the phobic stimulus is irrational, some people with a
+specific phobia may go to great lengths to avoid the phobic stimulus
+(the object or situation that triggers the fear and anxiety). Typically,
+the fear and anxiety a phobic stimulus elicits is disruptive to the
+person’s life. For example, a man with a phobia of flying might refuse
+to accept a job that requires frequent air travel, thus negatively
+affecting his career. Clinicians who have worked with people who have
+specific phobias have encountered many kinds of phobias, some of which
+are shown in `[link] <#Table_15_04_01>`__.
+
+.. raw:: html
+
+   <table id="Table_15_04_01" summary="A table of two columns lists phobias and their associated feared object or situation. Acrophobia is fear of heights, aerophobia is fear of flying, arachnophobia is fear of spiders, claustrophobia is fear of enclosed spaces, cynophobia is fear of dogs, hematophobia is fear of blood, ophidiophobia is fear of snakes, taphophobia is fear of being buried alive, trypanophobia is fear of injections, and xenophobia is fear of strangers.">
+
+.. raw:: html
+
+   <caption>
+
+Specific Phobias
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Phobia
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Feared Object or Situation
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Acrophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+heights
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Aerophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+flying
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Arachnophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+spiders
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Claustrophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+enclosed spaces
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Cynophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+dogs
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Hematophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+blood
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Ophidiophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+snakes
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Taphophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+being buried alive
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Trypanophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+injections
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Xenophobia
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+strangers
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Specific phobias are common; in the United States, around 12.5% of the
+population will meet the criteria for a specific phobia at some point in
+their lifetime (Kessler et al., 2005). One type of phobia,
+**agoraphobia**\ {: data-type=“term”}, is listed in the DSM-5 as a
+separate anxiety disorder. Agoraphobia, which literally means “fear of
+the marketplace,” is characterized by intense fear, anxiety, and
+avoidance of situations in which it might be difficult to escape or
+receive help if one experiences symptoms of a panic attack (a state of
+extreme anxiety that we will discuss shortly). These situations include
+public transportation, open spaces (parking lots), enclosed spaces
+(stores), crowds, or being outside the home alone (APA, 2013). About
+1.4% of Americans experience agoraphobia during their lifetime (Kessler
+et al., 2005).
+
+ACQUISITION OF PHOBIAS THROUGH LEARNING
+=======================================
+
+Many theories suggest that phobias develop through learning. Rachman
+(1977) proposed that phobias can be acquired through three major
+learning pathways. The first pathway is through **classical
+conditioning**\ {: data-type=“term” .no-emphasis}. As you may recall,
+classical conditioning is a form of learning in which a previously
+neutral stimulus is paired with an unconditioned stimulus (UCS) that
+reflexively elicits an unconditioned response (UCR), eliciting the same
+response through its association with the unconditioned stimulus. The
+response is called a conditioned response (CR). For example, a child who
+has been bitten by a dog may come to fear dogs because of her past
+association with pain. In this case, the dog bite is the UCS and the
+fear it elicits is the UCR. Because a dog was associated with the bite,
+any dog may come to serve as a conditioned stimulus, thereby eliciting
+fear; the fear the child experiences around dogs, then, becomes a CR.
+
+The second pathway of phobia acquisition is through vicarious learning,
+such as **modeling**\ {: data-type=“term” .no-emphasis}. For example, a
+child who observes his cousin react fearfully to spiders may later
+express the same fears, even though spiders have never presented any
+danger to him. This phenomenon has been observed in both humans and
+nonhuman primates (Olsson & Phelps, 2007). A study of laboratory-reared
+monkeys readily acquired a fear of snakes after observing wild-reared
+monkeys react fearfully to snakes (Mineka & Cook, 1993).
+
+The third pathway is through verbal transmission or information. For
+example, a child whose parents, siblings, friends, and classmates
+constantly tell her how disgusting and dangerous snakes are may come to
+acquire a fear of snakes.
+
+Interestingly, people are more likely to develop phobias of things that
+do not represent much actual danger to themselves, such as animals and
+heights, and are less likely to develop phobias toward things that
+present legitimate danger in contemporary society, such as motorcycles
+and weapons (Öhman & Mineka, 2001). Why might this be so? One theory
+suggests that the human brain is evolutionarily predisposed to more
+readily associate certain objects or situations with fear (Seligman,
+1971). This theory argues that throughout our evolutionary history, our
+ancestors associated certain stimuli (e.g., snakes, spiders, heights,
+and thunder) with potential danger. As time progressed, the mind has
+become adapted to more readily develop fears of these things than of
+others. Experimental evidence has consistently demonstrated that
+conditioned fears develop more readily to fear-relevant stimuli (images
+of snakes and spiders) than to fear-irrelevant stimuli (images of
+flowers and berries) (Öhman & Mineka, 2001). Such prepared learning has
+also been shown to occur in monkeys. In one study (Cook & Mineka, 1989),
+monkeys watched videotapes of model monkeys reacting fearfully to either
+fear-relevant stimuli (toy snakes or a toy crocodile) or fear-irrelevant
+stimuli (flowers or a toy rabbit). The observer monkeys developed fears
+of the fear-relevant stimuli but not the fear-irrelevant stimuli.
+
+SOCIAL ANXIETY DISORDER
+=======================
+
+**Social anxiety disorder**\ {: data-type=“term”} (formerly called
+social phobia) is characterized by extreme and persistent fear or
+anxiety and avoidance of social situations in which the person could
+potentially be evaluated negatively by others (APA, 2013). As with
+specific phobias, social anxiety disorder is common in the United
+States; a little over 12% of all Americans experience social anxiety
+disorder during their lifetime (Kessler et al., 2005).
+
+The heart of the fear and anxiety in social anxiety disorder is the
+person’s concern that he may act in a humiliating or embarrassing way,
+such as appearing foolish, showing symptoms of anxiety (blushing), or
+doing or saying something that might lead to rejection (such as
+offending others). The kinds of social situations in which individuals
+with social anxiety disorder usually have problems include public
+speaking, having a conversation, meeting strangers, eating in
+restaurants, and, in some cases, using public restrooms. Although many
+people become anxious in social situations like public speaking, the
+fear, anxiety, and avoidance experienced in social anxiety disorder are
+highly distressing and lead to serious impairments in life. Adults with
+this disorder are more likely to experience lower educational attainment
+and lower earnings (Katzelnick et al., 2001), perform more poorly at
+work and are more likely to be unemployed (Moitra, Beard, Weisberg, &
+Keller, 2011), and report greater dissatisfaction with their family
+lives, friends, leisure activities, and income (Stein & Kean, 2000).
+
+When people with social anxiety disorder are unable to avoid situations
+that provoke anxiety, they typically perform **safety behaviors**\ {:
+data-type=“term”}: mental or behavioral acts that reduce anxiety in
+social situations by reducing the chance of negative social outcomes.
+Safety behaviors include avoiding eye contact, rehearsing sentences
+before speaking, talking only briefly, and not talking about oneself
+(Alden & Bieling, 1998). Other examples of safety behaviors include the
+following (Marker, 2013):
+
+-  assuming roles in social situations that minimize interaction with
+   others (e.g., taking pictures, setting up equipment, or helping
+   prepare food)
+-  asking people many questions to keep the focus off of oneself
+-  selecting a position to avoid scrutiny or contact with others
+   (sitting in the back of the room)
+-  wearing bland, neutral clothes to avoid drawing attention to oneself
+-  avoiding substances or activities that might cause anxiety symptoms
+   (such as caffeine, warm clothing, and physical exercise)
+
+Although these behaviors are intended to prevent the person with social
+anxiety disorder from doing something awkward that might draw criticism,
+these actions usually exacerbate the problem because they do not allow
+the individual to disconfirm his negative beliefs, often eliciting
+rejection and other negative reactions from others (Alden & Bieling,
+1998).
+
+People with social anxiety disorder may resort to self-medication, such
+as drinking alcohol, as a means to avert the anxiety symptoms they
+experience in social situations (Battista & Kocovski, 2010). The use of
+alcohol when faced with such situations may become negatively
+reinforcing: encouraging individuals with social anxiety disorder to
+turn to the substance whenever they experience anxiety symptoms. The
+tendency to use alcohol as a coping mechanism for social anxiety,
+however, can come with a hefty price tag: a number of large scale
+studies have reported a high rate of comorbidity between social anxiety
+disorder and alcohol use disorder (Morris, Stewart, & Ham, 2005).
+
+As with specific phobias, it is highly probable that the fears inherent
+to social anxiety disorder can develop through conditioning experiences.
+For example, a child who is subjected to early unpleasant social
+experiences (e.g., bullying at school) may develop negative social
+images of herself that become activated later in anxiety-provoking
+situations (Hackmann, Clark, & McManus, 2000). Indeed, one study
+reported that 92% of a sample of adults with social anxiety disorder
+reported a history of severe teasing in childhood, compared to only 35%
+of a sample of adults with panic disorder (McCabe, Antony, Summerfeldt,
+Liss, & Swinson, 2003).
+
+One of the most well-established risk factors for developing social
+anxiety disorder is behavioral inhibition (Clauss & Blackford, 2012).
+Behavioral inhibition is thought to be an inherited trait, and it is
+characterized by a consistent tendency to show fear and restraint when
+presented with unfamiliar people or situations (Kagan, Reznick, &
+Snidman, 1988). Behavioral inhibition is displayed very early in life;
+behaviorally inhibited toddlers and children respond with great caution
+and restraint in unfamiliar situations, and they are often timid,
+fearful, and shy around unfamiliar people (Fox, Henderson, Marshall,
+Nichols, & Ghera, 2005). A recent statistical review of studies
+demonstrated that behavioral inhibition was associated with more than a
+sevenfold increase in the risk of development of social anxiety
+disorder, demonstrating that behavioral inhibition is a major risk
+factor for the disorder (Clauss & Blackford, 2012).
+
+PANIC DISORDER
+==============
+
+Imagine that you are at the mall one day with your friends and—suddenly
+and inexplicably—you begin sweating and trembling, your heart starts
+pounding, you have trouble breathing, and you start to feel dizzy and
+nauseous. This episode lasts for 10 minutes and is terrifying because
+you start to think that you are going to die. When you visit your doctor
+the following morning and describe what happened, she tells you that you
+have experienced a panic attack (`[link] <#Figure_15_04_Panic>`__). If
+you experience another one of these episodes two weeks later and worry
+for a month or more that similar episodes will occur in the future, it
+is likely that you have developed panic disorder.
+
+|A diagram shows an outline of a person’s upper body. Within this
+outline, some of the major organs appear. The brain is labeled, “Feeling
+dizzy, unsteady, lightheaded.” The heart is labeled, “Chest pain,
+palpitations and/or accelerated heart rate.” The lungs are labeled,
+“Shortness of breath.” The stomach is labeled, “Nausea or abdominal
+distress.”|\ {: #Figure_15_04_Panic}
+
+People with **panic disorder**\ {: data-type=“term”} experience
+recurrent (more than one) and unexpected panic attacks, along with at
+least one month of persistent concern about additional panic attacks,
+worry over the consequences of the attacks, or self-defeating changes in
+behavior related to the attacks (e.g., avoidance of exercise or
+unfamiliar situations) (APA, 2013). As is the case with other anxiety
+disorders, the panic attacks cannot result from the physiological
+effects of drugs and other substances, a medical condition, or another
+mental disorder. A **panic attack**\ {: data-type=“term”} is defined as
+a period of extreme fear or discomfort that develops abruptly and
+reaches a peak within 10 minutes. Its symptoms include accelerated heart
+rate, sweating, trembling, choking sensations, hot flashes or chills,
+dizziness or lightheadedness, fears of losing control or going crazy,
+and fears of dying (APA, 2013). Sometimes panic attacks are expected,
+occurring in response to specific environmental triggers (such as being
+in a tunnel); other times, these episodes are unexpected and emerge
+randomly (such as when relaxing). According to the DSM-5, the person
+must experience unexpected panic attacks to qualify for a diagnosis of
+panic disorder.
+
+Experiencing a panic attack is often terrifying. Rather than recognizing
+the symptoms of a panic attack merely as signs of intense anxiety,
+individuals with panic disorder often misinterpret them as a sign that
+something is intensely wrong internally (thinking, for example, that the
+pounding heart represents an impending heart attack). Panic attacks can
+occasionally precipitate trips to the emergency room because several
+symptoms of panic attacks are, in fact, similar to those associated with
+heart problems (e.g., palpitations, racing pulse, and a pounding
+sensation in the chest) (Root, 2000). Unsurprisingly, those with panic
+disorder fear future attacks and may become preoccupied with modifying
+their behavior in an effort to avoid future panic attacks. For this
+reason, panic disorder is often characterized as fear of fear (Goldstein
+& Chambless, 1978).
+
+Panic attacks themselves are not mental disorders. Indeed, around 23% of
+Americans experience isolated panic attacks in their lives without
+meeting the criteria for panic disorder (Kessler et al., 2006),
+indicating that panic attacks are fairly common. Panic disorder is, of
+course, much less common, afflicting 4.7% of Americans during their
+lifetime (Kessler et al., 2005). Many people with panic disorder develop
+agoraphobia, which is marked by fear and avoidance of situations in
+which escape might be difficult or help might not be available if one
+were to develop symptoms of a panic attack. People with panic disorder
+often experience a comorbid disorder, such as other anxiety disorders or
+major depressive disorder (APA, 2013).
+
+Researchers are not entirely sure what causes panic disorder. Children
+are at a higher risk of developing panic disorder if their parents have
+the disorder (Biederman et al., 2001), and family and twins studies
+indicate that the heritability of panic disorder is around 43% (Hettema,
+Neale, & Kendler, 2001). The exact genes and gene functions involved in
+this disorder, however, are not well-understood (APA, 2013).
+Neurobiological theories of panic disorder suggest that a region of the
+brain called the **locus coeruleus**\ {: data-type=“term”} may play a
+role in this disorder. Located in the brainstem, the locus coeruleus is
+the brain’s major source of norepinephrine, a neurotransmitter that
+triggers the body’s fight-or-flight response. Activation of the locus
+coeruleus is associated with anxiety and fear, and research with
+nonhuman primates has shown that stimulating the locus coeruleus either
+electrically or through drugs produces panic-like symptoms (Charney et
+al., 1990). Such findings have led to the theory that panic disorder may
+be caused by abnormal norepinephrine activity in the locus coeruleus
+(Bremner, Krystal, Southwick, & Charney, 1996).
+
+Conditioning theories of panic disorder propose that panic attacks are
+**classical conditioning**\ {: data-type=“term” .no-emphasis} responses
+to subtle bodily sensations resembling those normally occurring when one
+is anxious or frightened (Bouton, Mineka, & Barlow, 2001). For example,
+consider a child who has asthma. An acute asthma attack produces
+sensations, such as shortness of breath, coughing, and chest tightness,
+that typically elicit fear and anxiety. Later, when the child
+experiences subtle symptoms that resemble the frightening symptoms of
+earlier asthma attacks (such as shortness of breath after climbing
+stairs), he may become anxious, fearful, and then experience a panic
+attack. In this situation, the subtle symptoms would represent a
+conditioned stimulus, and the panic attack would be a conditioned
+response. The finding that panic disorder is nearly three times as
+frequent among people with asthma as it is among people without asthma
+(Weiser, 2007) supports the possibility that panic disorder has the
+potential to develop through classical conditioning.
+
+Cognitive factors may play an integral part in panic disorder.
+Generally, cognitive theories (Clark, 1996) argue that those with panic
+disorder are prone to interpret ordinary bodily sensations
+catastrophically, and these fearful interpretations set the stage for
+panic attacks. For example, a person might detect bodily changes that
+are routinely triggered by innocuous events such getting up from a
+seated position (dizziness), exercising (increased heart rate, shortness
+of breath), or drinking a large cup of coffee (increased heart rate,
+trembling). The individual interprets these subtle bodily changes
+catastrophically (“Maybe I’m having a heart attack!”). Such
+interpretations create fear and anxiety, which trigger additional
+physical symptoms; subsequently, the person experiences a panic attack.
+Support of this contention rests with findings that people with more
+severe catastrophic thoughts about sensations have more frequent and
+severe panic attacks, and among those with panic disorder, reducing
+catastrophic cognitions about their sensations is as effective as
+medication in reducing panic attacks (Good & Hinton, 2009).
+
+GENERALIZED ANXIETY DISORDER
+============================
+
+Alex was always worried about many things. He worried that his children
+would drown when they played at the beach. Each time he left the house,
+he worried that an electrical short circuit would start a fire in his
+home. He worried that his wife would lose her job at the prestigious law
+firm. He worried that his daughter’s minor staph infection could turn
+into a massive life-threatening condition. These and other worries
+constantly weighed heavily on Alex’s mind, so much so that they made it
+difficult for him to make decisions and often left him feeling tense,
+irritable, and worn out. One night, Alex’s wife was to drive their son
+home from a soccer game. However, his wife stayed after the game and
+talked with some of the other parents, resulting in her arriving home 45
+minutes late. Alex had tried to call his cell phone three or four times,
+but he could not get through because the soccer field did not have a
+signal. Extremely worried, Alex eventually called the police, convinced
+that his wife and son had not arrived home because they had been in a
+terrible car accident.
+
+Alex suffers from **generalized anxiety disorder**\ {:
+data-type=“term”}: a relatively continuous state of excessive,
+uncontrollable, and pointless worry and apprehension. People with
+generalized anxiety disorder often worry about routine, everyday things,
+even though their concerns are unjustified
+(`[link] <#Figure_15_04_Worry>`__). For example, an individual may worry
+about her health and finances, the health of family members, the safety
+of her children, or minor matters (e.g., being late for an appointment)
+without having any legitimate reason for doing so (APA, 2013). A
+diagnosis of generalized anxiety disorder requires that the diffuse
+worrying and apprehension characteristic of this disorder—what Sigmund
+**Freud**\ {: data-type=“term” .no-emphasis} referred to as
+free-floating anxiety—is not part of another disorder, occurs more days
+than not for at least six months, and is accompanied by any three of the
+following symptoms: restlessness, difficulty concentrating, being easily
+fatigued, muscle tension, irritability, and sleep difficulties.
+
+|AA photograph shows a woman biting her fingernails.|\ {:
+#Figure_15_04_Worry}
+
+About 5.7% of the U.S. population will develop symptoms of generalized
+anxiety disorder during their lifetime (Kessler et al., 2005), and
+females are 2 times as likely as males to experience the disorder (APA,
+2013). Generalized anxiety disorder is highly comorbid with mood
+disorders and other anxiety disorders (Noyes, 2001), and it tends to be
+chronic. Also, generalized anxiety disorder appears to increase the risk
+for heart attacks and strokes, especially in people with preexisting
+heart conditions (Martens et al., 2010).
+
+Although there have been few investigations aimed at determining the
+heritability of generalized anxiety disorder, a summary of available
+family and twin studies suggests that genetic factors play a modest role
+in the disorder (Hettema et al., 2001). Cognitive theories of
+generalized anxiety disorder suggest that worry represents a mental
+strategy to avoid more powerful negative emotions (Aikins & Craske,
+2001), perhaps stemming from earlier unpleasant or traumatic
+experiences. Indeed, one longitudinal study found that childhood
+maltreatment was strongly related to the development of this disorder
+during adulthood (Moffitt et al., 2007); worrying might distract people
+from remembering painful childhood experiences.
+
+Summary
+=======
+
+Anxiety disorders are a group of disorders in which a person experiences
+excessive, persistent, and distressing fear and anxiety that interferes
+with normal functioning. Anxiety disorders include specific phobia: a
+specific unrealistic fear; social anxiety disorder: extreme fear and
+avoidance of social situations; panic disorder: suddenly overwhelmed by
+panic even though there is no apparent reason to be frightened;
+agoraphobia: an intense fear and avoidance of situations in which it
+might be difficult to escape; and generalized anxiety disorder: a
+relatively continuous state of tension, apprehension, and dread.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      In which of the following anxiety disorders is the person in a
+      continuous state of excessive, pointless worry and apprehension?
+
+      1. panic disorder
+      2. generalized anxiety disorder
+      3. agoraphobia
+      4. social anxiety disorder {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Which of the following would constitute a safety behavior?
+
+      1. encountering a phobic stimulus in the company of other people
+      2. avoiding a field where snakes are likely to be present
+      3. avoiding eye contact
+      4. worrying as a distraction from painful memories {: type=“a”}
+
+   .. container::
+
+      C
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Describe how cognitive theories of the etiology of anxiety
+      disorders differ from learning theories.
+
+   .. container::
+
+      Learning theories suggest that some anxiety disorders, especially
+      specific phobia, can develop through a number of learning
+      mechanisms. These mechanisms can include classical and operant
+      conditioning, modeling, or vicarious learning. Cognitive theories,
+      in contrast, assume that some anxiety disorder, especially panic
+      disorder, develop through cognitive misinterpretations of anxiety
+      and other symptoms.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   agoraphobia
+      anxiety disorder characterized by intense fear, anxiety, and
+      avoidance of situations in which it might be difficult to escape
+      if one experiences symptoms of a panic attack ^
+   anxiety disorder
+      characterized by excessive and persistent fear and anxiety, and by
+      related disturbances in behavior ^
+   generalized anxiety disorder
+      characterized by a continuous state of excessive, uncontrollable,
+      and pointless worry and apprehension ^
+   locus coeruleus
+      area of the brainstem that contains norepinephrine, a
+      neurotransmitter that triggers the body’s fight-or-flight
+      response; has been implicated in panic disorder ^
+   panic attack
+      period of extreme fear or discomfort that develops abruptly;
+      symptoms of panic attacks are both physiological and psychological
+      ^
+   panic disorder
+      anxiety disorder characterized by unexpected panic attacks, along
+      with at least one month of worry about panic attacks or
+      self-defeating behavior related to the attacks ^
+   safety behavior
+      mental and behavior acts designed to reduce anxiety in social
+      situations by reducing the chance of negative social outcomes;
+      common in social anxiety disorder ^
+   social anxiety disorder
+      characterized by extreme and persistent fear or anxiety and
+      avoidance of social situations in which one could potentially be
+      evaluated negatively by others ^
+   specific phobia
+      anxiety disorder characterized by excessive, distressing, and
+      persistent fear or anxiety about a specific object or situation
+
+.. |A diagram shows an outline of a person’s upper body. Within this outline, some of the major organs appear. The brain is labeled, “Feeling dizzy, unsteady, lightheaded.” The heart is labeled, “Chest pain, palpitations and/or accelerated heart rate.” The lungs are labeled, “Shortness of breath.” The stomach is labeled, “Nausea or abdominal distress.”| image:: ../resources/CNX_Psych_15_04_Panic.jpg
+.. |AA photograph shows a woman biting her fingernails.| image:: ../resources/CNX_Psych_15_04_Worry.jpg

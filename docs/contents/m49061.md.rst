@@ -1,0 +1,475 @@
+=================
+Hunger and Eating
+=================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe how
+   hunger and eating are regulated \* Differentiate between levels of
+   overweight and obesity and the associated health consequences \*
+   Explain the health consequences resulting from anorexia and bulimia
+   nervosa
+
+Eating is essential for survival, and it is no surprise that a drive
+like hunger exists to ensure that we seek out sustenance. While this
+chapter will focus primarily on the physiological mechanisms that
+regulate hunger and eating, powerful social, cultural, and economic
+influences also play important roles. This section will explain the
+regulation of hunger, eating, and body weight, and we will discuss the
+adverse consequences of disordered eating.
+
+PHYSIOLOGICAL MECHANISMS
+========================
+
+There are a number of physiological mechanisms that serve as the basis
+for hunger. When our stomachs are empty, they contract. Typically, a
+person then experiences hunger pangs. Chemical messages travel to the
+brain, and serve as a signal to initiate feeding behavior. When our
+blood glucose levels drop, the pancreas and liver generate a number of
+chemical signals that induce hunger (Konturek et al., 2003; Novin,
+Robinson, Culbreth, & Tordoff, 1985) and thus initiate feeding behavior.
+
+For most people, once they have eaten, they feel **satiation**\ {:
+data-type=“term”}, or fullness and satisfaction, and their eating
+behavior stops. Like the initiation of eating, satiation is also
+regulated by several physiological mechanisms. As blood glucose levels
+increase, the pancreas and liver send signals to shut off hunger and
+eating (Drazen & Woods, 2003; Druce, Small, & Bloom, 2004; Greary,
+1990). The food’s passage through the gastrointestinal tract also
+provides important satiety signals to the brain (Woods, 2004), and fat
+cells release **leptin**\ {: data-type=“term”}, a satiety hormone.
+
+The various **hunger**\ {: data-type=“term” .no-emphasis} and satiety
+signals that are involved in the regulation of eating are integrated in
+the brain. Research suggests that several areas of the hypothalamus and
+hindbrain are especially important sites where this integration occurs
+(Ahima & Antwi, 2008; Woods & D’Alessio, 2008). Ultimately, activity in
+the brain determines whether or not we engage in feeding behavior
+(`[link] <#Figure_10_02_Hunger>`__).
+
+|An outline of the top half of a human body contains illustrations of
+the brain and the stomach in their relative locations. A line extends
+from the location of the hypothalamus in the brain illustration, out to
+the left, past the outline, where it meets a box labeled “Hunger.”
+Down-facing arrows connect that box to a box labeled “Food,” and the box
+labeled “Food” to a box labeled “Satiety.” A line extends out to the
+right from the box labeled “Satiety,” and meets with the illustration of
+the stomach.|\ {: #Figure_10_02_Hunger}
+
+METABOLISM AND BODY WEIGHT
+==========================
+
+Our body weight is affected by a number of factors, including
+gene-environment interactions, and the number of calories we consume
+versus the number of calories we burn in daily activity. If our caloric
+intake exceeds our caloric use, our bodies store excess energy in the
+form of fat. If we consume fewer calories than we burn off, then stored
+fat will be converted to energy. Our energy expenditure is obviously
+affected by our levels of activity, but our body’s metabolic rate also
+comes into play. A person’s **metabolic rate**\ {: data-type=“term”} is
+the amount of energy that is expended in a given period of time, and
+there is tremendous individual variability in our metabolic rates.
+People with high rates of metabolism are able to burn off calories more
+easily than those with lower rates of metabolism.
+
+We all experience fluctuations in our weight from time to time, but
+generally, most people’s weights fluctuate within a narrow margin, in
+the absence of extreme changes in diet and/or physical activity. This
+observation led some to propose a set-point theory of body weight
+regulation. The **set-point theory**\ {: data-type=“term”} asserts that
+each individual has an ideal body weight, or set point, which is
+resistant to change. This set-point is genetically predetermined and
+efforts to move our weight significantly from the set-point are resisted
+by compensatory changes in energy intake and/or expenditure (Speakman et
+al., 2011).
+
+Some of the predictions generated from this particular theory have not
+received empirical support. For example, there are no changes in
+metabolic rate between individuals who had recently lost significant
+amounts of weight and a control group (Weinsier et al., 2000). In
+addition, the set-point theory fails to account for the influence of
+social and environmental factors in the regulation of body weight
+(Martin-Gronert & Ozanne, 2013; Speakman et al., 2011). Despite these
+limitations, set-point theory is still often used as a simple, intuitive
+explanation of how body weight is regulated.
+
+OBESITY
+=======
+
+When someone weighs more than what is generally accepted as healthy for
+a given height, they are considered overweight or obese. According to
+the Centers for Disease Control and Prevention (CDC), an adult with a
+**body mass index**\ {: data-type=“term” .no-emphasis} (BMI) between 25
+and 29.9 is considered **overweight**\ {: data-type=“term”}
+(`[link] <#Figure_10_02_BodyMass>`__). An adult with a **BMI**\ {:
+data-type=“term” .no-emphasis} of 30 or higher is considered
+**obese**\ {: data-type=“term”} (Centers for Disease Control and
+Prevention [CDC], 2012). People who are so overweight that they are at
+risk for death are classified as morbidly obese. **Morbid obesity**\ {:
+data-type=“term”} is defined as having a BMI over 40. Note that although
+BMI has been used as a healthy weight indicator by the World Health
+Organization (WHO), the CDC, and other groups, its value as an
+assessment tool has been questioned. The BMI is most useful for studying
+populations, which is the work of these organizations. It is less useful
+in assessing an individual since height and weight measurements fail to
+account for important factors like fitness level. An athlete, for
+example, may have a high BMI because the tool doesn’t distinguish
+between the body’s percentage of fat and muscle in a person’s weight.
+
+|A chart has an x-axis labeled “weight” (pounds/kilograms) and a y-axis
+labeled “height” (meters and feet/inches). Four areas are shaded
+different colors indicating the BMI for ranges of weight and height. The
+“underweight BMI <18.5” area begins at approximately 90 pounds and 4’11”
+and extends to approximately 160 pounds and 6’6”. The “normal range BMI
+18.5–25” area covers approximately 90–120 pounds at height 4’11” and
+extends to approximately 160–220 pounds at height 6’6”. The “overweight
+BMI 25–30” area covers approximately 120–140 pounds at height 4’11” and
+extends to approximately 220–265 pounds at height 6’6”. The “obese range
+BMI >30” area covers approximately 140–350 pounds at height 4’11” and
+extends to approximately 265–350 pounds at height 6’6.”|\ {:
+#Figure_10_02_BodyMass}
+
+Being extremely overweight or obese is a risk factor for several
+negative health consequences. These include, but are not limited to, an
+increased risk for cardiovascular disease, stroke, Type 2 diabetes,
+liver disease, sleep apnea, colon cancer, breast cancer, infertility,
+and arthritis. Given that it is estimated that in the United States
+around one-third of the adult population is obese and that nearly
+two-thirds of adults and one in six children qualify as overweight (CDC,
+2012), there is substantial interest in trying to understand how to
+combat this important public health concern.
+
+What causes someone to be overweight or obese? You have already read
+that both genes and environment are important factors for determining
+body weight, and if more calories are consumed than expended, excess
+energy is stored as fat. However, socioeconomic status and the physical
+environment must also be considered as contributing factors (CDC, 2012).
+For example, an individual who lives in an impoverished neighborhood
+that is overrun with crime may never feel comfortable walking or biking
+to work or to the local market. This might limit the amount of physical
+activity in which he engages and result in an increased body weight.
+Similarly, some people may not be able to afford healthy food options
+from their market, or these options may be unavailable (especially in
+urban areas or poorer neighborhoods); therefore, some people rely
+primarily on available, inexpensive, high fat, and high calorie fast
+food as their primary source of nutrition.
+
+Generally, overweight and obese individuals are encouraged to try to
+reduce their weights through a combination of both diet and exercise.
+While some people are very successful with these approaches, many
+struggle to lose excess weight. In cases in which a person has had no
+success with repeated attempts to reduce weight or is at risk for death
+because of obesity, bariatric surgery may be recommended. **Bariatric
+surgery**\ {: data-type=“term”} is a type of surgery specifically aimed
+at weight reduction, and it involves modifying the gastrointestinal
+system to reduce the amount of food that can be eaten and/or limiting
+how much of the digested food can be absorbed
+(`[link] <#Figure_10_02_Bariatric>`__) (Mayo Clinic, 2013). A recent
+meta-analysis suggests that bariatric surgery is more effective than
+non-surgical treatment for obesity in the two-years immediately
+following the procedure, but to date, no long-term studies yet exist
+(Gloy et al., 2013).
+
+|An illustration depicts a gastric band wrapped around the top portion
+of a stomach. A bulging area directly above the gastric band is labeled
+“Small stomach pouch.” The area directly below the stomach is labeled
+“Duodenum.” Down-facing arrows indicate the direction in which digested
+food travels from the esophagus at the top, down through the stomach,
+and into the duodenum.|\ {: #Figure_10_02_Bariatric}
+
+.. container:: psychology link-to-learning
+
+   Watch this `video <http://openstax.org/l/barsurgery>`__ that
+   describes two different types of bariatric surgeries.
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Prader-Willi Syndrome
+
+   **Prader-Willi Syndrome**\ {: data-type=“term” .no-emphasis} (PWS) is
+   a genetic disorder that results in persistent feelings of intense
+   hunger and reduced rates of metabolism. Typically, affected children
+   have to be supervised around the clock to ensure that they do not
+   engage in excessive eating. Currently, PWS is the leading genetic
+   cause of morbid obesity in children, and it is associated with a
+   number of cognitive deficits and emotional problems
+   (`[link] <#Figure_10_02_Obesity>`__).
+
+   |A painting shows Eugenia Martínez Vallejo.|\ {:
+   #Figure_10_02_Obesity}
+
+   While genetic testing can be used to make a diagnosis, there are a
+   number of behavioral diagnostic criteria associated with PWS. From
+   birth to 2 years of age, lack of muscle tone and poor sucking
+   behavior may serve as early signs of PWS. Developmental delays are
+   seen between the ages of 6 and 12, and excessive eating and cognitive
+   deficits associated with PWS usually onset a little later.
+
+   While the exact mechanisms of PWS are not fully understood, there is
+   evidence that affected individuals have hypothalamic abnormalities.
+   This is not surprising, given the hypothalamus’s role in regulating
+   hunger and eating. However, as you will learn in the next section of
+   this chapter, the hypothalamus is also involved in the regulation of
+   sexual behavior. Consequently, many individuals suffering from PWS
+   fail to reach sexual maturity during adolescence.
+
+   There is no current treatment or cure for PWS. However, if weight can
+   be controlled in these individuals, then their life expectancies are
+   significantly increased (historically, sufferers of PWS often died in
+   adolescence or early adulthood). Advances in the use of various
+   psychoactive medications and growth hormones continue to enhance the
+   quality of life for individuals with PWS (Cassidy & Driscoll, 2009;
+   Prader-Willi Syndrome Association, 2012).
+
+EATING DISORDERS
+================
+
+While nearly two out of three US adults struggle with issues related to
+being overweight, a smaller, but significant, portion of the population
+has eating disorders that typically result in being normal weight or
+underweight. Often, these individuals are fearful of gaining weight.
+Individuals who suffer from bulimia nervosa and anorexia nervosa face
+many adverse health consequences (Mayo Clinic, 2012a, 2012b).
+
+People suffering from **bulimia nervosa**\ {: data-type=“term”} engage
+in binge eating behavior that is followed by an attempt to compensate
+for the large amount of food consumed. Purging the food by inducing
+vomiting or through the use of laxatives are two common compensatory
+behaviors. Some affected individuals engage in excessive amounts of
+exercise to compensate for their binges. Bulimia is associated with many
+adverse health consequences that can include kidney failure, heart
+failure, and tooth decay. In addition, these individuals often suffer
+from anxiety and depression, and they are at an increased risk for
+substance abuse (Mayo Clinic, 2012b). The lifetime prevalence rate for
+bulimia nervosa is estimated at around 1% for women and less than 0.5%
+for men (Smink, van Hoeken, & Hoek, 2012).
+
+As of the 2013 release of the *Diagnostic and Statistical Manual, fifth
+edition*, **Binge eating disorder**\ {: data-type=“term”} is a disorder
+recognized by the American Psychiatric Association (APA). Unlike with
+bulimia, eating binges are not followed by inappropriate behavior, such
+as purging, but they are followed by distress, including feelings of
+guilt and embarrassment. The resulting psychological distress
+distinguishes binge eating disorder from overeating (American
+Psychiatric Association [APA], 2013).
+
+**Anorexia nervosa**\ {: data-type=“term”} is an eating disorder
+characterized by the maintenance of a body weight well below average
+through starvation and/or excessive exercise. Individuals suffering from
+anorexia nervosa often have a **distorted body image**\ {:
+data-type=“term”}, referenced in literature as a type of body
+dysmorphia, meaning that they view themselves as overweight even though
+they are not. Like bulimia nervosa, anorexia nervosa is associated with
+a number of significant negative health outcomes: bone loss, heart
+failure, kidney failure, amenorrhea (cessation of the menstrual period),
+reduced function of the gonads, and in extreme cases, death.
+Furthermore, there is an increased risk for a number of psychological
+problems, which include anxiety disorders, mood disorders, and substance
+abuse (Mayo Clinic, 2012a). Estimates of the prevalence of anorexia
+nervosa vary from study to study but generally range from just under one
+percent to just over four percent in women. Generally, prevalence rates
+are considerably lower for men (Smink et al., 2012).
+
+.. container:: psychology link-to-learning
+
+   Watch this `news story <http://openstax.org/l/anorexic>`__ about an
+   Italian advertising campaign to raise public awareness of anorexia
+   nervosa.
+
+While both anorexia and bulimia nervosa occur in men and women of many
+different cultures, Caucasian females from Western societies tend to be
+the most at-risk population. Recent research indicates that females
+between the ages of 15 and 19 are most at risk, and it has long been
+suspected that these eating disorders are culturally-bound phenomena
+that are related to messages of a thin ideal often portrayed in popular
+media and the fashion world (`[link] <#Figure_10_02_Model>`__) (Smink et
+al., 2012). While social factors play an important role in the
+development of eating disorders, there is also evidence that genetic
+factors may predispose people to these disorders (Collier & Treasure,
+2004).
+
+|A photograph shows a very thin model.|\ {: #Figure_10_02_Model}
+
+Summary
+=======
+
+Hunger and satiety are highly regulated processes that result in a
+person maintaining a fairly stable weight that is resistant to change.
+When more calories are consumed than expended, a person will store
+excess energy as fat. Being significantly overweight adds substantially
+to a person’s health risks and problems, including cardiovascular
+disease, type 2 diabetes, certain cancers, and other medical issues.
+Sociocultural factors that emphasize thinness as a beauty ideal and a
+genetic predisposition contribute to the development of eating disorders
+in many young females, though eating disorders span ages and genders.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      According to your reading, nearly \_______\_ of the adult
+      population in the United States can be classified as obese.
+
+      1. one half
+      2. one third
+      3. one fourth
+      4. one fifth {: type=“A”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      \_______\_ is a chemical messenger secreted by fat cells that acts
+      as an appetite suppressant.
+
+      1. orexin
+      2. angiotensin
+      3. leptin
+      4. ghrelin {: type=“A”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      \_______\_ is characterized by episodes of binge eating followed
+      by attempts to compensate for the excessive amount of food that
+      was consumed.
+
+      1. Prader-Willi syndrome
+      2. morbid obesity
+      3. anorexia nervosa
+      4. bulimia nervosa {: type=“A”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      In order to be classified as morbidly obese, an adult must have a
+      BMI of \________.
+
+      1. less than 25
+      2. 25–29.9
+      3. 30–39.9
+      4. 40 or more {: type=“A”}
+
+   .. container::
+
+      D
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      The index that is often used to classify people as being
+      underweight, normal weight, overweight, obese, or morbidly obese
+      is called BMI. Given that BMI is calculated solely on weight and
+      height, how could it be misleading?
+
+   .. container::
+
+      Using BMI as a sole metric can actually be misleading because
+      people who have large amounts of lean muscle mass can actually be
+      characterized as being overweight or obese based on their height
+      and weight. Weight versus height is a somewhat crude measurement
+      as it doesn’t distinguish the amount of body weight that comes
+      from lean versus fatty tissue.
+
+.. container::
+
+   .. container::
+
+      As indicated in this section, Caucasian women from industrialized,
+      Western cultures tend to be at the highest risk for eating
+      disorders like anorexia and bulimia nervosa. Why might this be?
+
+   .. container::
+
+      These disorders are closely associated with sociocultural emphasis
+      on a thin-ideal that is often portrayed in media. Given that
+      non-Caucasians are under-represented in popular media in the West
+      and that the thin-ideal is more heavily emphasized for women, this
+      particular group is most vulnerable.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Think about popular television programs on the air right now. What
+      do the women in these programs look like? What do the men look
+      like? What kinds of messages do you think the media is sending
+      about men and women in our society?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   anorexia nervosa
+      eating disorder characterized by an individual maintaining body
+      weight that is well below average through starvation and/or
+      excessive exercise ^
+   bariatric surgery
+      type of surgery that modifies the gastrointestinal system to
+      reduce the amount of food that can be eaten and/or limiting how
+      much of the digested food can be absorbed ^
+   binge eating disorder
+      type of eating disorder characterized by binge eating and
+      associated distress ^
+   bulimia nervosa
+      type of eating disorder characterized by binge eating followed by
+      purging ^
+   distorted body image
+      individuals view themselves as overweight even though they are not
+      ^
+   leptin
+      satiety hormone ^
+   metabolic rate
+      amount of energy that is expended in a given period of time ^
+   morbid obesity
+      adult with a BMI over 40 ^
+   obese
+      adult with a BMI of 30 or higher ^
+   overweight
+      adult with a BMI between 25 and 29.9 ^
+   satiation
+      fullness; satisfaction ^
+   set point theory
+      assertion that each individual has an ideal body weight, or set
+      point, that is resistant to change
+
+.. |An outline of the top half of a human body contains illustrations of the brain and the stomach in their relative locations. A line extends from the location of the hypothalamus in the brain illustration, out to the left, past the outline, where it meets a box labeled “Hunger.” Down-facing arrows connect that box to a box labeled “Food,” and the box labeled “Food” to a box labeled “Satiety.” A line extends out to the right from the box labeled “Satiety,” and meets with the illustration of the stomach.| image:: ../resources/CNX_Psych_10_02_Hunger.jpg
+.. |A chart has an x-axis labeled “weight” (pounds/kilograms) and a y-axis labeled “height” (meters and feet/inches). Four areas are shaded different colors indicating the BMI for ranges of weight and height. The “underweight BMI <18.5” area begins at approximately 90 pounds and 4’11” and extends to approximately 160 pounds and 6’6”. The “normal range BMI 18.5–25” area covers approximately 90–120 pounds at height 4’11” and extends to approximately 160–220 pounds at height 6’6”. The “overweight BMI 25–30” area covers approximately 120–140 pounds at height 4’11” and extends to approximately 220–265 pounds at height 6’6”. The “obese range BMI >30” area covers approximately 140–350 pounds at height 4’11” and extends to approximately 265–350 pounds at height 6’6.”| image:: ../resources/CNX_Psych_10_02_Bodymass_n.jpg
+.. |An illustration depicts a gastric band wrapped around the top portion of a stomach. A bulging area directly above the gastric band is labeled “Small stomach pouch.” The area directly below the stomach is labeled “Duodenum.” Down-facing arrows indicate the direction in which digested food travels from the esophagus at the top, down through the stomach, and into the duodenum.| image:: ../resources/CNX_Psych_10_02_Bariatric.jpg
+.. |A painting shows Eugenia Martínez Vallejo.| image:: ../resources/CNX_Psych_10_02_Obesity.jpg
+.. |A photograph shows a very thin model.| image:: ../resources/CNX_Psych_10_02_Model.jpg

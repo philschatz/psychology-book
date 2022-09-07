@@ -1,0 +1,486 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|This photo depicts a large group of people sitting in a circle on the
+beach.|\ {: #CNX_Psych_16_00_Therapy}
+
+What comes to mind when you think about therapy for psychological
+problems? You might picture someone lying on a couch talking about his
+childhood while the therapist sits and takes notes, à la Sigmund Freud.
+But can you envision a therapy session in which someone is wearing
+virtual reality headgear to conquer a fear of snakes?
+
+In this chapter, you will see that approaches to therapy include both
+psychological and biological interventions, all with the goal of
+alleviating distress. Because psychological problems can originate from
+various sources—biology, genetics, childhood experiences, conditioning,
+and sociocultural influences—psychologists have developed many different
+therapeutic techniques and approaches. The Ocean Therapy program shown
+in `[link] <#CNX_Psych_16_00_Therapy>`__ uses multiple approaches to
+support the mental health of veterans in the group.
+
+References
+==========
+
+Abbass, A., Kisely, S., & Kroenke, K. (2006). Short-term psychodynamic
+psychotherapy for somatic disorders: Systematic review and meta-analysis
+of clinical trials. *Psychotherapy and Psychosomatics, 78*, 265–274.
+
+Ahmed, S., Wilson, K. B., Henriksen, R. C., & Jones, J. W. (2011). What
+does it mean to be a culturally competent counselor? *Journal for Social
+Action in Counseling and Psychology*, 3(1), 17–28.
+
+Alavi, A., Sharifi, B., Ghanizadeh, A., & Dehbozorgi, G. (2013).
+Effectiveness of cognitive-behavioral therapy in decreasing suicidal
+ideation and hopelessness of the adolescents with previous suicidal
+attempts. *Iranian Journal of Pediatrics, 23*\ (4), 467–472.
+
+Alegría, M., Chatterji, P., Wells, K., Cao, Z., Chen, C. N., Takeuchi,
+D., . . . Meng, X. L. (2008). Disparity in depression treatment among
+racial and ethnic minority populations in the United States.
+*Psychiatric Services, 59*\ (11), 1264–1272.
+
+American Psychological Association. (2005). *Policy statement on
+evidence-based practice in psychology*. Retrieved from
+http://www.apapracticecentral.org/ce/courses/ebpstatement.pdf
+
+American Psychological Association. (2014). *Can psychologists prescribe
+medications for their patients?* Retrieved from
+http://www.apa.org/news/press/releases/2004/05/louisiana-rx.aspx
+
+American Psychological Association. (2014). *Psychotherapy:
+Understanding group therapy*. Retrieved from
+http://www.apa.org/helpcenter/group-therapy.aspx
+
+Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive
+therapy of depression*. New York, NY: The Guilford Press.
+
+Beck Institute for Cognitive Behavior Therapy. (n.d.). *History of
+cognitive therapy*. Retrieved from
+http://www.beckinstitute.org/history-of-cbt/
+
+Beck, J. S. (2011). *Cognitive behavior therapy: Basics and beyond* (2nd
+ed.). New York, NY: The Guilford Press.
+
+Belgrave, F., & Allison, K. (2010). *African-American psychology: From
+Africa to America* (2nd ed.). Thousand Oaks, CA: Sage Publications.
+
+Bertrand, K., Richer, I., Brunelle, N., Beaudoin, I., Lemieux, A., &
+Ménard, J-M. (2013). Substance abuse treatment for adolescents: How are
+family factors related to substance use change? *Journal of Psychoactive
+Drugs, 45*\ (1), 28–38.
+
+Blank, M. B., Mahmood, M., Fox, J. C., & Guterbock, T. (2002).
+Alternative mental health services: The role of the black church in the
+South. *American Journal of Public Health, 92*, 1668–1672.
+
+Blumberg, J. (2007, October 24). A brief history of the Salem witch
+trials. *Smithsonian.com*. Retrieved from
+http://www.smithsonianmag.com/history-archaeology/brief-salem.html?c=y&page=2
+
+Butlera, A. C., Chapmanb, J. E., Formanc, E. M., & Becka, A. T. (2006).
+The empirical status of cognitive-behavioral therapy: A review of
+meta-analyses. *Clinical Psychology Review, 26*,17–31.
+
+Center for Substance Abuse Treatment. (2005). *Substance Abuse
+Treatment: Group Therapy*. Treatment Improvement Protocol (TIP) Series
+41. DHHS Publication No. (SMA) 05-3991. Rockville, MD: Substance Abuse
+and Mental Health Services Administration.
+
+Centers for Disease Control and Prevention. (2014). *Suicide prevention:
+Youth suicide*. Retrieved from
+http://www.cdc.gov/violenceprevention/pub/youth\_suicide.html
+
+Chambless, D. L., & Ollendick, T. H. (2001). Empirically supported
+psychological interventions: Controversies and evidence. Annual Review
+of Psychology, 52, 685–716.
+
+Charman, D., & Barkham, M. (2005). Psychological treatments:
+Evidence-based practice and practice-based evidence. *InPsych
+Highlights*. Retrieved from
+www.psychology.org.au/publications/inpsych/treatments
+
+Chorpita, B. F., Daleiden, E. L., Ebesutani, C., Young, J., Becker, K.
+D., Nakamura, B. J., . . . Starace, N. (2011), Evidence-based treatments
+for children and adolescents: An updated review of indicators of
+efficacy and effectiveness. *Clinical Psychology: Science and Practice,
+18*, 154–172.
+
+Clement, S., Schauman, O., Graham, T., Maggioni, F., Evans-Lacko, S.,
+Bezborodovs, N., . . . Thornicroft, G. (2014, February 25). What is the
+impact of mental health-related stigma on help-seeking? A systematic
+review of quantitative and qualitative studies. Psychological Medicine,
+l–17.
+
+Daniel, D. (n.d.). *Rational emotive in behavior therapy the context of
+modern psychlogical research*. Retrieved from
+albertellis.org/rebt-in-the-context-of-modern-psychological-research
+
+Davidson, W. S. (1974). Studies of aversive conditioning for alcoholics:
+A critical review of theory and research methodology. *Psychological
+Bulletin, 81*\ (9), 571–581.
+
+DeRubeis, R. J., Hollon, S. D., Amsterdam, J. D., Shelton, R. C., Young,
+P. R., Salomon, R. M., . . . Gallop, R. (2005). Cognitive Therapy vs
+medications in the treatment of moderate to severe depression. *Archives
+of General Psychiatry, 62*\ (4), 409–416.
+
+DeYoung, S. H. (2013, November 14). The woman who raised that monster
+[Web log post]. Retrieved from
+http://www.huffingtonpost.com/suzy-hayman-deyoung/the-woman-who-raised-that\_b\_4266621.html
+
+Dickerson, F. B., Tenhula, W. N., & Green-Paden, L. D. (2005). The token
+economy for schizophrenia: Review of the literature and recommendations
+for future research. *Schizophrenia Research, 75*\ (2), 405–416.
+
+Donahue, A. B. (2000). Electroconvulsive therapy and memory loss: A
+personal journey. *The* *Journal of ECT, 162*, 133–143.
+
+Elkins, R. L. (1991). An appraisal of chemical aversion (emetic therapy)
+approaches to alcoholism treatment. *Behavior Research and Therapy,
+29*\ (5), 387–413.
+
+Gary, F. A. (2005). Stigma: Barrier to mental health care among ethnic
+minorities. *Issues in Mental Health Nursing, 26*\ (10), 979–999.
+
+Gerardi, M., Cukor, J., Difede, J., Rizzo, A., & Rothbaum, B. O. (2010).
+Virtual reality exposure therapy for post-traumatic stress disorder and
+other anxiety disorders. *Current Psychiatry Reports, 12*\ (298),
+299–305.
+
+Harter, S. (1977). A cognitive-developmental approach to children's
+expression of conflicting feelings and a technique to facilitate such
+expression in play therapy. *Journal of Consulting and Clinical
+Psychology, 45*\ (3), 417–432.
+
+Hemphill, R. E. (1966). Historical witchcraft and psychiatric illness in
+Western Europe. *Proceedings of the Royal Society of Medicine, 59*\ (9),
+891–902.
+
+Ivey, S. L., Scheffler, R., & Zazzali, J. L. (1998). Supply dynamics of
+the mental health workforce: Implications for health policy. *Milbank
+Quarterly,* *76*\ (1), 25–58.
+
+Jang, Y., Chiriboga, D. A., & Okazaki, S. (2009). Attitudes toward
+mental health services: Age group differences in Korean American adults.
+*Aging & Mental Health, 13*\ (1), 127–134.
+
+Jones, M. C. (1924). A laboratory study of fear: The case of Peter.
+*Pedagogical Seminary, 31*, 308–315.
+
+Kalff, D. M. (1991). Introduction to sandplay therapy. *Journal of
+Sandplay Therapy,* *1*\ (1), 9.
+
+Leblanc, M., & Ritchie, M. (2001). A meta-analysis of play therapy
+outcomes. *Counselling Psychology Quarterly, 14*\ (2), 149–163.
+
+Lovaas, O. I. (1987). Behavioral treatment and normal educational and
+intellectual functioning in young autistic children. *Journal of
+Consulting & Clinical Psychology, 55*, 3–9.
+
+Lovaas, O. I. (2003). *Teaching individuals with developmental delays:
+Basic intervention techniques*. Austin, TX: Pro-Ed.
+
+Lowinger, R. J., & Rombom, H. (2012). The effectiveness of cognitive
+behavioral therapy for PTSD in New York City Transit Workers. *North
+American Journal of Psychology, 14*\ (3), 471–484.
+
+Madanes, C. (1991). Strategic family therapy. In A. S. Gurman and D. P.
+Kniskern (Eds.), *Handbook of Family Therapy, Vol. 2.* (pp. 396–416).
+Philadelphia, PA: Brunner/Mazel.
+
+Marques, L., Alegría, M., Becker, A. E., Chen, C. N., Fang, A., Chosak,
+A., & Diniz, J. B. (2011). Comparative prevalence, correlates of
+impairment, and service utilization for eating disorders across US
+ethnic groups: Implications for reducing ethnic disparities in health
+care access for eating disorders. *International Journal of Eating
+Disorders, 44*\ (5), 412–420.
+
+Martin, B. (2007). *In-Depth: Cognitive behavioral therapy*. Retrieved
+from
+http://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy/000907
+
+Mayo Clinic. (2012). *Tests and procedures: Transcranial magnetic
+stimulation*. Retrieved from
+http://www.mayoclinic.org/tests-procedures/transcranial-magnetic-stimulation/basics/definition/PRC-20020555
+
+McGovern, M. P., & Carroll, K. M. (2003). Evidence-based practices for
+substance use disorders. *Psychiatric Clinics of North America, 26*,
+991–1010.
+
+McGrath, R. J., Cumming, G. F., Burchard, B. L., Zeoli, S., & Ellerby,
+L. (2009). *Current practices and emerging trends in sexual abuser
+management: The safer society North American survey*. Brandon, VT: The
+SaferSociety Press.
+
+McLellan, A. T., Lewis, D. C., O’Brien, C. P., & Kleber, H. D. (2000).
+Drug dependence, a chronic medical illness: Implications for treatment,
+insurance, and outcomes evaluation. *JAMA, 284*\ (13), 1689–1695.
+
+Minuchin, P. (1985). Families and individual development: Provocations
+from the field of family therapy. *Child Development, 56*\ (2), 289–302.
+
+Mullen, E. J., & Streiner, D. L. (2004). The evidence for and against
+evidence-based practice. *Brief Treatment and Crisis Intervention,
+4*\ (2), 111–121.
+
+Muñoz-Cuevas, F. J., Athilingam, J., Piscopo, D., & Wilbrecht, L.
+(2013). Cocaine-induced structural plasticity in frontal cortex
+correlates with conditioned place preference. *Nature Neuroscience, 16*,
+1367–1369.
+
+National Association of Cognitive-Behavioral Therapists. (2009). History
+of cognitive behavioral therapy. Retrieved from:
+http://nacbt.org/historyofcbt.htm.
+
+National Institute of Mental Health. (n.d.-a) *Any disorder among
+children*. Retrieved from
+http://www.nimh.nih.gov/statistics/1ANYDIS\_CHILD.shtml
+
+National Institute of Mental Health. (n.d.-b) *Use of mental health
+services and treatment among adults*. Retrieved from
+http://www.nimh.nih.gov/statistics/3use\_mt\_adult.shtml
+
+National Institute of Mental Health. (n.d.-c). *Use of mental health
+services and treatment among children*. Retrieved from
+http://www.nimh.nih.gov/statistics/1NHANES.shtml
+
+National Institutes of Health. (2013, August 6). Important events in
+NIMH history. Retrieved from
+http://www.nih.gov/about/almanac/organization/NIMH.htm
+
+National Institute on Drug Abuse. (2008). *Addiction science: From
+Molecules to managed care*. Retrieved from
+http://www.drugabuse.gov/publications/addiction-science/relapse
+
+National Institute on Drug Abuse. (2011). *Drug facts: Comorbidity:
+Addiction and other mental disorders*. Retrieved from
+http://www.drugabuse.gov/publications/drugfacts/comorbidity-addiction-other-mental-disorders
+
+National Institute on Drug Abuse. (2012). *Principles of drug addiction
+treatment: A research-based guide* (3rd ed.). Retrieved from
+http://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/principles-effective-treatment
+
+Nelson, P. (1993). Autobiography in Five Short Chapters. In *There’s a
+Hole in my Sidewalk: The Romance of Self-Discovery*. Hillsboro, OR:
+Beyond Words Publishing.
+
+O’Connor, K. J. (2000). *The play therapy primer* (2nd ed.). New York,
+NY: Wiley.
+
+Page, R. C., & Berkow, D. N. (1994). *Unstructured group therapy:
+Creating contact, choosing relationship*. San Francisco, CA: Jossey
+Bass.
+
+Pagnin, D., de Queiroz, V., Pini, S., & Cassano, G. B. (2004). Efficacy
+of ECT in depression: A meta-analytic review. *Journal of ECT, 20*,
+13–20.
+
+Prins, S. J., & Draper, L. (2009). *Improving outcomes for people with
+mental illnesses under community corrections supervision: A guide to
+research-informed policy and practice*. New York, NY: Council of State
+Governments Justice Center.
+
+Prochaska, J. O., & Norcross, J. C. (2010). *Systems of psychotherapy*
+(7th ed.). Belmont, CA: Wadsworth.
+
+Prudic, J., Peyser, S., & Sackeim, H. A. (2000). Subjective memory
+complaints: A review of patient self-assessment of memory after
+electroconvulsive therapy. *The Journal of ECT, 16*\ (2), 121–132.
+
+Rathus, J. H., & Sanderson, W. C. (1999). *Marital distress: Cognitive
+behavioral treatments for couples*. Northvale, NJ: Jason Aronson.
+
+Reti, I. R. (n.d.). *Electroconvulsive therapy today*. Retrieved from
+Johns Hopkins Medicine:
+http://www.hopkinsmedicine.org/psychiatry/specialty\_areas/brain\_stimulation/docs/DepBulletin407\_ECT\_extract.pdf
+
+Richman, L. S., Kohn-Wood, L. P., & Williams, D. R. (2007). The role of
+discrimination and racial identity for mental health service
+utilization. *Journal of Social and Clinical Psychology, 26*\ (8),
+960–981.
+
+Rizzo, A., Newman, B., Parsons, T., Difede, J., Reger, G., Holloway, K.,
+. . . Bordnick, P. (2010). Development and clinical results from the
+Virtual Iraq exposure therapy application for PTSD. *Annals of the New
+York Academy of Sciences, 1208*, 114–125.
+
+Rogers, C. (1951). *Client-centered psychotherapy*. Boston, MA:
+Houghton-Mifflin.
+
+Sackett, D. L., & Rosenberg, W. M. (1995). On the need for
+evidence-based medicine. *Journal of Public Health, 17*, 330–334.
+
+Sallows, G. O., & Graupner, T. D. (2005). Intensive behavioral treatment
+for children with autism: Four-year outcome and predictors. *American
+Journal of Mental Retardation, 110*\ (6), 417–438.
+
+Scott, L. D., McCoy, H., Munson, M. R., Snowden, L. R., & McMillen, J.
+C. (2011). Cultural mistrust of mental health professionals among Black
+males transitioning from foster care. *Journal of Child and Family
+Studies, 20*, 605–613.
+
+Shechtman, Z. (2002). Child group psychotherapy in the school at the
+threshold of a new millennium. *Journal of Counseling and Development,
+80*\ (3), 293–299.
+
+Shedler, J. (2010). The efficacy of psychodynamic psychotherapy.
+*American Psychologist, 65*, 98–109.
+
+Simpson D. D. (1981). Treatment for drug abuse. *Archives of General
+Psychiatry, 38*, 875–880.
+
+Simpson D. D, Joe, G. W, & Bracy, S. A. (1982). Six-year follow-up of
+opioid addicts after admission to treatment. *Archives General
+Psychiatry, 39*, 1318–1323.
+
+Snowden, L. R. (2001). Barriers to effective mental health services for
+African Americans. *Mental Health Services Research, 3*, 181–187.
+
+Stensland, M., Watson, P. R., & Grazier, K. L. (2012). An examination of
+costs, charges, and payments for inpatient psychiatric treatment in
+community hospitals. *Psychiatric Services, 63*\ (7), 66–71.
+
+Stewart, S. M., Simmons, A., & Habibpour, E. (2012). Treatment of
+culturally diverse children and adolescents with depression. *Journal of
+Child and Adolescent Psychopharmacology, 22*\ (1), 72–79.
+
+Streeton, C., & Whelan, G. (2001). Naltrexone, a relapse prevention
+maintenance treatment of alcohol dependence: A meta-analysis of
+randomized controlled trials. *Alcohol and Alcoholism, 36*\ (6),
+544–552.
+
+Sue, D. W. (2001). Multidimensional facets of cultural competence.
+*Counseling Psychologist, 29*\ (6), 790–821.
+
+Sue, D. W. (2004). Multicultural counseling and therapy (MCT). In J. A.
+Banks and C. Banks (Eds.), *Handbook of research on multicultural
+education* (2nd ed., pp. 813–827). San Francisco, CA: Jossey-Bass.
+
+Sue, D. W., & Sue, D. (2007). *Counseling the culturally different:
+Theory and practice* (5th ed.). New York, NY: Wiley.
+
+Sussman, L. K., Robins, L. N., & Earls, F. (1987). Treatment–seeking for
+depression by Black and White Americans. *Social Science & Medicine,
+24*, 187–196.
+
+Szasz, T. S. (1960). The Myth of Mental Illness. *American Psychologist,
+15*, 113–118.
+
+Thomas, K. C., & Snowden, L. R. (2002). Minority response to health
+insurance coverage for mental health services. *Journal of Mental Health
+Policy and Economics, 4*, 35–41.
+
+Tiffany, F. (2012/1891). *Life of Dorothea Lynde Dix* (7th ed.). Boston,
+MA: Houghton, Mifflin.
+
+Torrey, E. F. (1997). *Out of the shadows: Confronting America's mental
+illness crisis*. New York, NY: Wiley.
+
+Torrey, E. F., Zdanowicz, M. T., Kennard, A. D., Lamb, H. R., Eslinger,
+D. F., Biasotti, M. C., & Fuller, D. A. (2014, April 8). *The treatment
+of persons with mental illness in prisons and jails: A state survey*.
+Arlington, VA: Treatment Advocacy Center. Retrieved from
+http://tacreports.org/storage/documents/treatment-behind-bars/treatment-behind-bars.pdf
+
+Townes D. L., Cunningham N. J., & Chavez-Korell, S. (2009). Reexaming
+the relationships between racial identity, cultural mistrust,
+help-seeking attitudes, and preference for a Black counselor. *Journal
+of Counseling Psychology, 56*\ (2), 330–336.
+
+U.S. Department of Agriculture. (2013, December 10). USDA announces
+support for mental health facilities in rural areas [Press release
+No. 0234.13]. Retrieved from
+http://www.usda.gov/wps/portal/usda/usdahome?contentid=2013/12/0234.xml
+
+U.S. Department of Health and Human Services. (1999). *Mental health: A
+report of the Surgeon General*. Rockville, MD: U.S. Department of Health
+and Human Services, Substance Abuse and Mental Health Services
+Administration, Center for Mental Health Services, National Institutes
+of Health, National Institute of Mental Health.
+
+U.S. Department of Health and Human Services, Health Resources and
+Services Administration, Office of Rural Health Policy. (2005). *Mental
+health and rural America:* *1984-2005*. Retrieved from
+ftp://ftp.hrsa.gov/ruralhealth/RuralMentalHealth.pdf
+
+U.S. Department of Health and Human Services, Substance Abuse and Mental
+Health Services Administration, Center for Behavioral Health Statistics
+and Quality. (2013, December). *Results from the 2012 National Survey on
+Drug Use and Health: Mental Health Findings* (NSDUH Series H-47, HHS
+Publication No. [SMA] 13-4805). Retrieved from
+http://www.samhsa.gov/data/NSDUH/2k12MH\_FindingsandDetTables/2K12MHF/NSDUHmhfr2012.htm
+
+U.S. Department of Health and Human Services, Substance Abuse and Mental
+Health Services Administration, Center for Behavioral Health Statistics
+and Quality. (2011, September). *Results from the 2010 National Survey
+on Drug Use and Health: Summary of National Findings* (NSDUH Series
+H-41, HHS Publication No. [SMA] 11-4658). Retrieved from
+http://www.samhsa.gov/data/NSDUH/2k10ResultsRev/NSDUHresultsRev2010.htm
+
+U.S. Department of Health and Human Services, Substance Abuse and Mental
+Health Services Administration, Center for Behavioral Health Statistics
+and Quality. (2013, September). *Results from the 2012 National Survey
+on Drug Use and Health: Summary of National Findings* (NSDUH Series
+H-46, HHS Publication No. [SMA] 13-4795). Retrieved from
+http://www.samhsa.gov/data/NSDUH/2012SummNatFindDetTables/NationalFindings/NSDUHresults2012.htm#ch2.2
+
+U.S. Department of Housing and Urban Development, Office of Community
+Planning and Development. (2011). *The 2010 Annual Homeless Assessment
+Report to Congress*. Washington, DC. Retrieved from
+http://www.hudhre.info/documents/2010HomelessAssessmentReport.pdf
+
+U.S. Department of Labor. (n.d.). *Mental health parity*. Retrieved
+from: http://www.dol.gov/ebsa/mentalhealthparity/
+
+U.S. Public Health Service. (2000). *Report of the Surgeon General’s
+conference on children’s mental health: A national action agenda*.
+Washington, DC: Department of Health and Human Services.
+
+Wagenfeld, M. O., Murray, J. D., Mohatt, D. F., & DeBruiynb, J. C.
+(Eds.). (1994). *Mental health and rural America: 1980–1993* (NIH
+Publication No. 94-3500). Washington, DC: U.S. Government Printing
+Office.
+
+Wampold, B. E. (2007). Psychotherapy: The humanistic (and effective)
+treatment. *American Psychologist, 62*, 857–873.
+doi:10.1037/0003-066X.62.8.857
+
+Weil, E. (2012, March 2). Does couples therapy work? *The New York
+Times*. Retrieved from
+http://www.nytimes.com/2012/03/04/fashion/couples-therapists-confront-the-stresses-of-their-field.html?pagewanted=all&\_r=0
+
+Weiss, R. D., Jaffee, W. B., de Menil, V. P., & Cogley, C. B. (2004).
+Group therapy for substance abuse disorders: What do we know? *Harvard
+Review of Psychiatry, 12*\ (6), 339–350.
+
+Willard Psychiatric Center. (2009). *Echoes of Willard*. Retrieved from
+http://www.echoesofwillard.com/willard-psychiatric-centre/
+
+Wolf, M., & Risley, T. (1967). Application of operant conditioning
+procedures to the behavior problems of an autistic child: A follow-up
+and extension. *Behavior Research and Therapy, 5*\ (2), 103–111.
+
+Wolpe, J. (1958). *Psychotherapy by reciprocal inhibition*. Stanford,
+CA: Stanford University Press.
+
+.. |This photo depicts a large group of people sitting in a circle on the beach.| image:: ../resources/CNX_Psych_16_00_Therapy.jpg

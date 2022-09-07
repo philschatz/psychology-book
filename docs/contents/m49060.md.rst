@@ -1,0 +1,787 @@
+=====================================
+What Are Intelligence and Creativity?
+=====================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define
+   intelligence \* Explain the triarchic theory of intelligence \*
+   Identify the difference between intelligence theories \* Explain
+   emotional intelligence
+
+A four-and-a-half-year-old boy sits at the kitchen table with his
+father, who is reading a new story aloud to him. He turns the page to
+continue reading, but before he can begin, the boy says, “Wait, Daddy!”
+He points to the words on the new page and reads aloud, “Go, Pig! Go!”
+The father stops and looks at his son. “Can you read that?” he asks.
+“Yes, Daddy!” And he points to the words and reads again, “Go, Pig! Go!”
+
+This father was not actively teaching his son to read, even though the
+child constantly asked questions about letters, words, and symbols that
+they saw everywhere: in the car, in the store, on the television. The
+dad wondered about what else his son might understand and decided to try
+an experiment. Grabbing a sheet of blank paper, he wrote several simple
+words in a list: mom, dad, dog, bird, bed, truck, car, tree. He put the
+list down in front of the boy and asked him to read the words. “Mom,
+dad, dog, bird, bed, truck, car, tree,” he read, slowing down to
+carefully pronounce bird and truck. Then, “Did I do it, Daddy?” “You
+sure did! That is very good.” The father gave his little boy a warm hug
+and continued reading the story about the pig, all the while wondering
+if his son’s abilities were an indication of exceptional intelligence or
+simply a normal pattern of linguistic development. Like the father in
+this example, psychologists have wondered what constitutes intelligence
+and how it can be measured.
+
+CLASSIFYING INTELLIGENCE
+========================
+
+What exactly is intelligence? The way that researchers have defined the
+concept of intelligence has been modified many times since the birth of
+psychology. British psychologist Charles Spearman believed intelligence
+consisted of one general factor, called *g*, which could be measured and
+compared among individuals. Spearman focused on the commonalities among
+various intellectual abilities and demphasized what made each unique.
+Long before modern psychology developed, however, ancient philosophers,
+such as Aristotle, held a similar view (Cianciolo & Sternberg, 2004).
+
+Others psychologists believe that instead of a single factor,
+intelligence is a collection of distinct abilities. In the 1940s,
+Raymond Cattell proposed a theory of intelligence that divided general
+intelligence into two components: crystallized intelligence and fluid
+intelligence (Cattell, 1963). **Crystallized intelligence**\ {:
+data-type=“term”} is characterized as acquired knowledge and the ability
+to retrieve it. When you learn, remember, and recall information, you
+are using crystallized intelligence. You use crystallized intelligence
+all the time in your coursework by demonstrating that you have mastered
+the information covered in the course. **Fluid intelligence**\ {:
+data-type=“term”} encompasses the ability to see complex relationships
+and solve problems. Navigating your way home after being detoured onto
+an unfamiliar route because of road construction would draw upon your
+fluid intelligence. Fluid intelligence helps you tackle complex,
+abstract challenges in your daily life, whereas crystallized
+intelligence helps you overcome concrete, straightforward problems
+(Cattell, 1963).
+
+Other theorists and psychologists believe that intelligence should be
+defined in more practical terms. For example, what types of behaviors
+help you get ahead in life? Which skills promote success? Think about
+this for a moment. Being able to recite all 44 presidents of the United
+States in order is an excellent party trick, but will knowing this make
+you a better person?
+
+Robert Sternberg developed another theory of intelligence, which he
+titled the **triarchic theory of intelligence**\ {: data-type=“term”}
+because it sees intelligence as comprised of three parts (Sternberg,
+1988): practical, creative, and analytical intelligence
+(`[link] <#Figure_07_04_Triarchic>`__).
+
+|Three boxes are arranged in a triangle. The top box contains
+“Analytical intelligence; academic problem solving and computation.”
+There is a line with arrows on both ends connecting this box to another
+box containing “Practical intelligence; street smarts and common sense.”
+Another line with arrows on both ends connects this box to another box
+containing “Creative intelligence; imaginative and innovative problem
+solving.” Another line with arrows on both ends connects this box to the
+first box described, completing the triangle.|\ {:
+#Figure_07_04_Triarchic}
+
+**Practical intelligence**\ {: data-type=“term”}, as proposed by
+Sternberg, is sometimes compared to “street smarts.” Being practical
+means you find solutions that work in your everyday life by applying
+knowledge based on your experiences. This type of intelligence appears
+to be separate from traditional understanding of IQ; individuals who
+score high in practical intelligence may or may not have comparable
+scores in creative and analytical intelligence (Sternberg, 1988).
+
+This story about the 2007 Virginia Tech shootings illustrates both high
+and low practical intelligences. During the incident, one student left
+her class to go get a soda in an adjacent building. She planned to
+return to class, but when she returned to her building after getting her
+soda, she saw that the door she used to leave was now chained shut from
+the inside. Instead of thinking about why there was a chain around the
+door handles, she went to her class’s window and crawled back into the
+room. She thus potentially exposed herself to the gunman. Thankfully,
+she was not shot. On the other hand, a pair of students was walking on
+campus when they heard gunshots nearby. One friend said, “Let’s go check
+it out and see what is going on.” The other student said, “No way, we
+need to run away from the gunshots.” They did just that. As a result,
+both avoided harm. The student who crawled through the window
+demonstrated some creative intelligence but did not use common sense.
+She would have low practical intelligence. The student who encouraged
+his friend to run away from the sound of gunshots would have much higher
+practical intelligence.
+
+**Analytical intelligence**\ {: data-type=“term”} is closely aligned
+with academic problem solving and computations. Sternberg says that
+analytical intelligence is demonstrated by an ability to analyze,
+evaluate, judge, compare, and contrast. When reading a classic novel for
+literature class, for example, it is usually necessary to compare the
+motives of the main characters of the book or analyze the historical
+context of the story. In a science course such as anatomy, you must
+study the processes by which the body uses various minerals in different
+human systems. In developing an understanding of this topic, you are
+using analytical intelligence. When solving a challenging math problem,
+you would apply analytical intelligence to analyze different aspects of
+the problem and then solve it section by section.
+
+**Creative intelligence**\ {: data-type=“term”} is marked by inventing
+or imagining a solution to a problem or situation. Creativity in this
+realm can include finding a novel solution to an unexpected problem or
+producing a beautiful work of art or a well-developed short story.
+Imagine for a moment that you are camping in the woods with some friends
+and realize that you’ve forgotten your camp coffee pot. The person in
+your group who figures out a way to successfully brew coffee for
+everyone would be credited as having higher creative intelligence.
+
+**Multiple Intelligences Theory**\ {: data-type=“term”} was developed by
+Howard Gardner, a Harvard psychologist and former student of Erik
+Erikson. Gardner’s theory, which has been refined for more than 30
+years, is a more recent development among theories of intelligence. In
+Gardner’s theory, each person possesses at least eight intelligences.
+Among these eight intelligences, a person typically excels in some and
+falters in others (Gardner, 1983). `[link] <#Table_07_04_01>`__
+describes each type of intelligence.
+
+.. raw:: html
+
+   <table id="Table_07_04_01" summary="A three column table describes different types of intelligences. From left to right, the columns are labeled “Intelligence Type; Characteristics; and Representative Career.” The first row, respectively, reads: “linguistic intelligence; perceives different functions of language, different sounds and meanings of words, may easily learn multiple languages; and journalist, novelist, poet, teacher.” The second row reads: “logical-mathematical intelligence; capable of seeing numerical patterns, strong ability to use reason and logic; and scientist, mathematician.” The third row reads: “musical intelligence; understands and appreciates rhythm, pitch, and tone. May play multiple instruments or perform as a vocalist; and composer, performer.” The fourth row reads: “bodily-kinesthetic intelligence; high ability to control the movements of the body and use the body to perform various physical tasks; and dancer, athlete, athletic coach, yoga instructor.” The fifth row reads: “spatial intelligence; ability to perceive the relationship between objects and how they move in space; and choreographer, sculptor, architect, aviator, sailor.” The sixth row reads: “interpersonal intelligence; ability to understand and be sensitive to the various emotional states of others; and counselor, social worker, salesperson.” The seventh row reads: “intrapersonal intelligence; ability to access personal feelings and motivations and use them to direct behavior and reach personal goals; and key component of personal success over time.” The eighth row reads: “naturalist intelligence; high capacity to appreciate the natural world and interact with the species within it; and biologist, ecologist, environmentalist.”">
+
+.. raw:: html
+
+   <caption>
+
+Multiple Intelligences
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th data-align="center">
+
+Intelligence Type
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th data-align="center">
+
+Characteristics
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th data-align="center">
+
+Representative Career
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Linguistic intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Perceives different functions of language, different sounds and meanings
+of words, may easily learn multiple languages
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Journalist, novelist, poet, teacher
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Logical-mathematical intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Capable of seeing numerical patterns, strong ability to use reason and
+logic
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Scientist, mathematician
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Musical intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Understands and appreciates rhythm, pitch, and tone; may play multiple
+instruments or perform as a vocalist
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Composer, performer
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Bodily kinesthetic intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+High ability to control the movements of the body and use the body to
+perform various physical tasks
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Dancer, athlete, athletic coach, yoga instructor
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Spatial intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Ability to perceive the relationship between objects and how they move
+in space
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Choreographer, sculptor, architect, aviator, sailor
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Interpersonal intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Ability to understand and be sensitive to the various emotional states
+of others
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Counselor, social worker, salesperson
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Intrapersonal intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Ability to access personal feelings and motivations, and use them to
+direct behavior and reach personal goals
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Key component of personal success over time
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Naturalist intelligence
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+High capacity to appreciate the natural world and interact with the
+species within it
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Biologist, ecologist, environmentalist
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Gardner’s theory is relatively new and needs additional research to
+better establish empirical support. At the same time, his ideas
+challenge the traditional idea of intelligence to include a wider
+variety of abilities, although it has been suggested that Gardner simply
+relabeled what other theorists called “cognitive styles” as
+“intelligences” (Morgan, 1996). Furthermore, developing traditional
+measures of Gardner’s intelligences is extremely difficult (Furnham,
+2009; Gardner & Moran, 2006; Klein, 1997).
+
+Gardner’s inter- and intrapersonal intelligences are often combined into
+a single type: emotional intelligence. **Emotional intelligence**\ {:
+data-type=“term”} encompasses the ability to understand the emotions of
+yourself and others, show empathy, understand social relationships and
+cues, and regulate your own emotions and respond in culturally
+appropriate ways (Parker, Saklofske, & Stough, 2009). People with high
+emotional intelligence typically have well-developed social skills. Some
+researchers, including Daniel Goleman, the author of *Emotional
+Intelligence: Why It Can Matter More than IQ*, argue that emotional
+intelligence is a better predictor of success than traditional
+intelligence (Goleman, 1995). However, emotional intelligence has been
+widely debated, with researchers pointing out inconsistencies in how it
+is defined and described, as well as questioning results of studies on a
+subject that is difficulty to measure and study emperically (Locke,
+2005; Mayer, Salovey, & Caruso, 2004)
+
+Intelligence can also have different meanings and values in different
+cultures. If you live on a small island, where most people get their
+food by fishing from boats, it would be important to know how to fish
+and how to repair a boat. If you were an exceptional angler, your peers
+would probably consider you intelligent. If you were also skilled at
+repairing boats, your intelligence might be known across the whole
+island. Think about your own family’s culture. What values are important
+for Latino families? Italian families? In Irish families, hospitality
+and telling an entertaining story are marks of the culture. If you are a
+skilled storyteller, other members of Irish culture are likely to
+consider you intelligent.
+
+Some cultures place a high value on working together as a collective. In
+these cultures, the importance of the group supersedes the importance of
+individual achievement. When you visit such a culture, how well you
+relate to the values of that culture exemplifies your **cultural
+intelligence**\ {: data-type=“term”}, sometimes referred to as cultural
+competence.
+
+CREATIVITY
+==========
+
+**Creativity**\ {: data-type=“term”} is the ability to generate, create,
+or discover new ideas, solutions, and possibilities. Very creative
+people often have intense knowledge about something, work on it for
+years, look at novel solutions, seek out the advice and help of other
+experts, and take risks. Although creativity is often associated with
+the arts, it is actually a vital form of intelligence that drives people
+in many disciplines to discover something new. Creativity can be found
+in every area of life, from the way you decorate your residence to a new
+way of understanding how a cell works.
+
+Creativity is often assessed as a function of one’s ability to engage in
+**divergent thinking**\ {: data-type=“term”}. Divergent thinking can be
+described as thinking “outside the box;” it allows an individual to
+arrive at unique, multiple solutions to a given problem. In contrast,
+**convergent thinking**\ {: data-type=“term”} describes the ability to
+provide a correct or well-established answer or solution to a problem
+(Cropley, 2006; Gilford, 1967)
+
+.. container:: psychology everyday-connection
+
+   .. container::
+
+      Creativity
+
+   Dr. Tom Steitz, the Sterling Professor of Biochemistry and Biophysics
+   at Yale University, has spent his career looking at the structure and
+   specific aspects of RNA molecules and how their interactions could
+   help produce antibiotics and ward off diseases. As a result of his
+   lifetime of work, he won the Nobel Prize in Chemistry in 2009. He
+   wrote, “Looking back over the development and progress of my career
+   in science, I am reminded how vitally important good mentorship is in
+   the early stages of one's career development and constant
+   face-to-face conversations, debate and discussions with colleagues at
+   all stages of research. Outstanding discoveries, insights and
+   developments do not happen in a vacuum” (Steitz, 2010, para. 39).
+   Based on Steitz’s comment, it becomes clear that someone’s
+   creativity, although an individual strength, benefits from
+   interactions with others. Think of a time when your creativity was
+   sparked by a conversation with a friend or classmate. How did that
+   person influence you and what problem did you solve using creativity?
+
+Summary
+=======
+
+Intelligence is a complex characteristic of cognition. Many theories
+have been developed to explain what intelligence is and how it works.
+Sternberg generated his triarchic theory of intelligence, whereas
+Gardner posits that intelligence is comprised of many factors. Still
+others focus on the importance of emotional intelligence. Finally,
+creativity seems to be a facet of intelligence, but it is extremely
+difficult to measure objectively.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Fluid intelligence is characterized by \________.
+
+      1. being able to recall information
+      2. being able to create new products
+      3. being able to understand and communicate with different
+         cultures
+      4. being able to see complex relationships and solve problems {:
+         type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      Which of the following is not one of Gardner’s Multiple
+      Intelligences?
+
+      1. creative
+      2. spatial
+      3. linguistic
+      4. musical {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Which theorist put forth the triarchic theory of intelligence?
+
+      1. Goleman
+      2. Gardner
+      3. Sternberg
+      4. Steitz {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      When you are examining data to look for trends, which type of
+      intelligence are you using most?
+
+      1. practical
+      2. analytical
+      3. emotional
+      4. creative {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Describe a situation in which you would need to use practical
+      intelligence.
+
+   .. container::
+
+      You are out with friends and it is getting late. You need to make
+      it home before your curfew, but you don’t have a ride home. You
+      need to get in touch with your parents, but your cell phone is
+      dead. So, you enter a nearby convenience store and explain your
+      situation to the clerk. He allows you to use the store’s phone to
+      call your parents, and they come and pick you and your friends up,
+      and take all of you home.
+
+.. container::
+
+   .. container::
+
+      Describe a situation in which cultural intelligence would help you
+      communicate better.
+
+   .. container::
+
+      You are visiting Madrid, Spain, on a language immersion trip. Your
+      Spanish is okay, but you still not sure about some of the facial
+      expressions and body language of the native speakers. When faced
+      with a sticky social situation, you do not engage immediately as
+      you might back home. Instead, you hold back and observe what
+      others are doing before reacting.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      What influence do you think emotional intelligence plays in your
+      personal life?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   analytical intelligence
+      aligned with academic problem solving and computations ^
+   convergent thinking
+      providing correct or established answers to problems ^
+   creative intelligence
+      ability to produce new products, ideas, or inventing a new, novel
+      solution to a problem ^
+   creativity
+      ability to generate, create, or discover new ideas, solutions, and
+      possibilities ^
+   crystallized intelligence
+      characterized by acquired knowledge and the ability to retrieve it
+      ^
+   cultural intelligence
+      ability with which people can understand and relate to those in
+      another culture ^
+   divergent thinking
+      ability to think “outside the box” to arrive at novel solutions to
+      a problem ^
+   emotional intelligence
+      ability to understand emotions and motivations in yourself and
+      others ^
+   fluid intelligence
+      ability to see complex relationships and solve problems ^
+   Multiple Intelligences Theory
+      Gardner’s theory that each person possesses at least eight types
+      of intelligence ^
+   practical intelligence
+      aka “street smarts” ^
+   triarchic theory of intelligence
+      Sternberg’s theory of intelligence; three facets of intelligence:
+      practical, creative, and analytical
+
+.. |Three boxes are arranged in a triangle. The top box contains “Analytical intelligence; academic problem solving and computation.” There is a line with arrows on both ends connecting this box to another box containing “Practical intelligence; street smarts and common sense.” Another line with arrows on both ends connects this box to another box containing “Creative intelligence; imaginative and innovative problem solving.” Another line with arrows on both ends connects this box to the first box described, completing the triangle.| image:: ../resources/CNX_Psych_07_04_Triachic.jpg

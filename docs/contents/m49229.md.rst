@@ -1,0 +1,1071 @@
+=====================
+Personality Disorders
+=====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   nature of personality disorders and how they differ from other
+   disorders \* List and distinguish between the three clusters of
+   personality disorders \* Identify the basic features of borderline
+   personality disorder and antisocial personality disorder, and the
+   factors that are important in the etiology of both
+
+The term *personality* refers loosely to one’s stable, consistent, and
+distinctive way of thinking about, feeling, acting, and relating to the
+world. People with **personality disorders**\ {: data-type=“term”}
+exhibit a personality style that differs markedly from the expectations
+of their culture, is pervasive and inflexible, begins in adolescence or
+early adulthood, and causes distress or impairment (APA, 2013).
+Generally, individuals with these disorders exhibit enduring personality
+styles that are extremely troubling and often create problems for them
+and those with whom they come into contact. Their maladaptive
+personality styles frequently bring them into conflict with others,
+disrupt their ability to develop and maintain social relationships, and
+prevent them from accomplishing realistic life goals.
+
+The DSM-5 recognizes 10 personality disorders, organized into 3
+different clusters. Cluster A disorders include **paranoid personality
+disorder**\ {: data-type=“term” .no-emphasis}, **schizoid personality
+disorder**\ {: data-type=“term” .no-emphasis}, and **schizotypal
+personality disorder**\ {: data-type=“term” .no-emphasis}. People with
+these disorders display a personality style that is odd or eccentric.
+Cluster B disorders include antisocial personality disorder,
+**histrionic personality disorder**\ {: data-type=“term” .no-emphasis},
+**narcissistic personality disorder**\ {: data-type=“term”
+.no-emphasis}, and borderline personality disorder. People with these
+disorders usually are impulsive, overly dramatic, highly emotional, and
+erratic. Cluster C disorders include **avoidant personality
+disorder**\ {: data-type=“term” .no-emphasis}, **dependent personality
+disorder**\ {: data-type=“term” .no-emphasis}, and
+**obsessive-compulsive personality disorder**\ {: data-type=“term”
+.no-emphasis} (which is not the same thing as obsessive-compulsive
+disorder). People with these disorders often appear to be nervous and
+fearful. `[link] <#Table_15_10_01>`__ provides a description of each of
+the DSM-5 personality disorders:
+
+.. raw:: html
+
+   <table id="Table_15_10_01" summary="A table provides basic descriptions of the DSM-5 personality disorders and their associated clusters. Cluster A includes Paranoid (harbors a pervasive and unjustifiable suspiciousness and mistrust of others; reluctant to confide in or become close to others; reads hidden demeaning or threatening meaning into benign remarks or events; takes offense easily and bears grudges; not due to schizophrenia or other psychotic disorders), Schizoid (lacks interest and desire to form relationships with others; aloof and shows emotional coldness and detachment; indifferent to approval or criticism of others; lacks close friends or confidants; not due to schizophrenia or other psychotic disorders, not an autism spectrum disorder), and Schizotypal (exhibits eccentricities in thought, perception, emotion, speech, and behavior; shows suspiciousness or paranoia; has unusual perceptual experiences; speech is often idiosyncratic; displays inappropriate emotions; lacks friends or confidants; not due to schizophrenia or other psychotic disorder, or to autism spectrum disorder). Cluster B includes Antisocial (continuously violates the rights of others; history of antisocial tendencies prior to age 15; often lies, fights, and has problems with the law; impulsive and fails to think ahead; can be deceitful and manipulative in order to gain profit or pleasure; irresponsible and often fails to hold down a job or pay financial debts; lacks feelings for others and remorse over misdeeds), Histrionic (excessively overdramatic, emotional, and theatrical; feels uncomfortable when not the center of others’ attention; behavior is often inappropriately seductive or provocative; speech is highly emotional but often vague and diffuse; emotions are shallow and often shift rapidly; may alienate friends with demands for constant attention), Narcissistic (overinflated and unjustified sense of self-importance and preoccupied with fantasies of success; believes he is entitled to special treatment from others; shows arrogant attitudes and behaviors; takes advantage of others; lacks empathy), and Borderline (unstable in self-image, mood, and behavior; cannot tolerate being alone and experiences chronic feelings of emptiness; unstable and intense relationships with others; behavior is impulsive, unpredictable, and sometimes self-damaging; shows inappropriate and intense anger; makes suicidal gestures). Cluster C includes Avoidant (socially inhibited and oversensitive to negative evaluation; avoids occupations that involve interpersonal contact because of fears of criticism or rejection; avoids relationships with others unless guaranteed to be accepted unconditionally; feels inadequate and views self as socially inept and unappealing; unwilling to take risks or engage in new activities if they may prove embarrassing), Dependent (allows others to take over and run her life; is submissive, clingy, and fears separation; cannot make decisions without advice and reassurance from others; lacks self-confidence; cannot do things on her own; feels uncomfortable or helpless when alone), and Obsessive-Compulsive (pervasive need for perfectionism that interferes with the ability to complete tasks; preoccupied with details, rules, order, and schedules; excessively devoted to work at the expense of leisure and friendships; rigid, inflexible, and stubborn; insists things be done his way; miserly with money).">
+
+.. raw:: html
+
+   <caption>
+
+DSM-5 Personality Disorders
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <colgroup>
+
+.. raw:: html
+
+   <col />
+
+.. raw:: html
+
+   <col />
+
+.. raw:: html
+
+   <col data-align="center" />
+
+.. raw:: html
+
+   </colgroup>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th data-align="left">
+
+DSM-5 Personality Disorder
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th data-align="center">
+
+Description
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Cluster
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Paranoid
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+harbors a pervasive and unjustifiable suspiciousness and mistrust of
+others; reluctant to confide in or become close to others; reads hidden
+demeaning or threatening meaning into benign remarks or events; takes
+offense easily and bears grudges; not due to schizophrenia or other
+psychotic disorders
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+A
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Schizoid
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+lacks interest and desire to form relationships with others; aloof and
+shows emotional coldness and detachment; indifferent to approval or
+criticism of others; lacks close friends or confidants; not due to
+schizophrenia or other psychotic disorders, not an autism spectrum
+disorder
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+A
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Schizotypal
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+exhibits eccentricities in thought, perception, emotion, speech, and
+behavior; shows suspiciousness or paranoia; has unusual perceptual
+experiences; speech is often idiosyncratic; displays inappropriate
+emotions; lacks friends or confidants; not due to schizophrenia or other
+psychotic disorder, or to autism spectrum disorder
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+A
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Antisocial
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+continuously violates the rights of others; history of antisocial
+tendencies prior to age 15; often lies, fights, and has problems with
+the law; impulsive and fails to think ahead; can be deceitful and
+manipulative in order to gain profit or pleasure; irresponsible and
+often fails to hold down a job or pay financial debts; lacks feelings
+for others and remorse over misdeeds
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+B
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Histrionic
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+excessively overdramatic, emotional, and theatrical; feels uncomfortable
+when not the center of others’ attention; behavior is often
+inappropriately seductive or provocative; speech is highly emotional but
+often vague and diffuse; emotions are shallow and often shift rapidly;
+may alienate friends with demands for constant attention
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+B
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Narcissistic
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+overinflated and unjustified sense of self-importance and preoccupied
+with fantasies of success; believes he is entitled to special treatment
+from others; shows arrogant attitudes and behaviors; takes advantage of
+others; lacks empathy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+B
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Borderline
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+unstable in self-image, mood, and behavior; cannot tolerate being alone
+and experiences chronic feelings of emptiness; unstable and intense
+relationships with others; behavior is impulsive, unpredictable, and
+sometimes self-damaging; shows inappropriate and intense anger; makes
+suicidal gestures
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+B
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Avoidant
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+socially inhibited and oversensitive to negative evaluation; avoids
+occupations that involve interpersonal contact because of fears of
+criticism or rejection; avoids relationships with others unless
+guaranteed to be accepted unconditionally; feels inadequate and views
+self as socially inept and unappealing; unwilling to take risks or
+engage in new activities if they may prove embarrassing
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+C
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Dependent
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+allows others to take over and run her life; is submissive, clingy, and
+fears separation; cannot make decisions without advice and reassurance
+from others; lacks self-confidence; cannot do things on her own; feels
+uncomfortable or helpless when alone
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+C
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td data-align="left">
+
+Obsessive-Compulsive
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+pervasive need for perfectionism that interferes with the ability to
+complete tasks; preoccupied with details, rules, order, and schedules;
+excessively devoted to work at the expense of leisure and friendships;
+rigid, inflexible, and stubborn; insists things be done his way; miserly
+with money
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+C
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Slightly over 9% of the U.S. population suffers from a personality
+disorder, with avoidant and schizoid personality disorders the most
+frequent (Lezenweger, Lane, Loranger, & Kessler, 2007). Two of these
+personality disorders, borderline personality disorder and antisocial
+personality disorder, are regarded by many as especially problematic.
+
+BORDERLINE PERSONALITY DISORDER
+===============================
+
+The “borderline” in borderline personality disorder was originally
+coined in the late 1930s in an effort to describe patients who appeared
+anxious, but were prone to brief psychotic experiences—that is, patients
+who were thought to be literally on the borderline between anxiety and
+psychosis (Freeman, Stone, Martin, & Reinecke, 2005). Today,
+**borderline personality disorder**\ {: data-type=“term”} has a
+completely different meaning. Borderline personality disorder is
+characterized chiefly by instability in interpersonal relationships,
+self-image, and mood, as well as marked impulsivity (APA, 2013). People
+with borderline personality disorder cannot tolerate the thought of
+being alone and will make frantic efforts (including making suicidal
+gestures and engaging in self-mutilation) to avoid abandonment or
+separation (whether real or imagined). Their relationships are intense
+and unstable; for example, a lover may be idealized early in a
+relationship, but then later vilified at the slightest sign she appears
+to no longer show interest. These individuals have an unstable view of
+self and, thus, might suddenly display a shift in personal attitudes,
+interests, career plans, and choice of friends. For example, a law
+school student may, despite having invested tens of thousands of dollars
+toward earning a law degree and despite having performed well in the
+program, consider dropping out and pursuing a career in another field.
+People with borderline personality disorder may be highly impulsive and
+may engage in reckless and self-destructive behaviors such as excessive
+gambling, spending money irresponsibly, substance abuse, engaging in
+unsafe sex, and reckless driving. They sometimes show intense and
+inappropriate anger that they have difficulty controlling, and they can
+be moody, sarcastic, bitter, and verbally abusive.
+
+The prevalence of borderline personality disorder in the U.S. population
+is estimated to be around 1.4% (Lezenweger et al., 2007), but the rates
+are higher among those who use mental health services; approximately 10%
+of mental health outpatients and 20% of psychiatric inpatients meet the
+criteria for diagnosis (APA, 2013). Additionally, borderline personality
+disorder is comorbid with anxiety, mood, and substance use disorders
+(Lezenweger et al., 2007).
+
+Biological Basis for Borderline Personality Disorder
+----------------------------------------------------
+
+Genetic factors appear to be important in the development of borderline
+personality disorder. For example, core personality traits that
+characterize this disorder, such as impulsivity and emotional
+instability, show a high degree of heritability (Livesley, 2008). Also,
+the rates of borderline personality disorder among relatives of people
+with this disorder have been found to be as high as 24.9% (White,
+Gunderson, Zanarani, & Hudson, 2003). Individuals with borderline
+personality disorder report experiencing childhood physical, sexual,
+and/or emotional abuse at rates far greater than those observed in the
+general population (Afifi et al., 2010), indicating that environmental
+factors are also crucial. These findings would suggest that borderline
+personality disorder may be determined by an interaction between genetic
+factors and adverse environmental experiences. Consistent with this
+hypothesis, one study found that the highest rates of borderline
+personality disorder were among individuals with a borderline
+temperament (characterized by high novelty seeking and high
+harm-avoidance) and those who experienced childhood abuse and/or neglect
+(Joyce et al., 2003).
+
+ANTISOCIAL PERSONALITY DISORDER
+===============================
+
+Most human beings live in accordance with a moral compass, a sense of
+right and wrong. Most individuals learn at a very young age that there
+are certain things that should not be done. We learn that we should not
+lie or cheat. We are taught that it is wrong to take things that do not
+belong to us, and that it is wrong to exploit others for personal gain.
+We also learn the importance of living up to our responsibilities, of
+doing what we say we will do. People with antisocial personality
+disorder, however, do not seem to have a moral compass. These
+individuals act as though they neither have a sense of nor care about
+right or wrong. Not surprisingly, these people represent a serious
+problem for others and for society in general.
+
+According to the DSM-5, the individual with **antisocial personality
+disorder**\ {: data-type=“term”} (sometimes referred to as psychopathy)
+shows no regard at all for other people’s rights or feelings. This lack
+of regard is exhibited a number of ways and can include repeatedly
+performing illegal acts, lying to or conning others, impulsivity and
+recklessness, irritability and aggressiveness toward others, and failure
+to act in a responsible way (e.g., leaving debts unpaid) (APA, 2013).
+The worst part about antisocial personality disorder, however, is that
+people with this disorder have no remorse over one’s misdeeds; these
+people will hurt, manipulate, exploit, and abuse others and not feel any
+guilt. Signs of this disorder can emerge early in life; however, a
+person must be at least 18 years old to be diagnosed with antisocial
+personality disorder.
+
+People with antisocial personality disorder seem to view the world as
+self-serving and unkind. They seem to think that they should use
+whatever means necessary to get by in life. They tend to view others not
+as living, thinking, feeling beings, but rather as pawns to be used or
+abused for a specific purpose. They often have an over-inflated sense of
+themselves and can appear extremely arrogant. They frequently display
+superficial charm; for example, without really meaning it they might say
+exactly what they think another person wants to hear. They lack empathy:
+they are incapable of understanding the emotional point-of-view of
+others. People with this disorder may become involved in illegal
+enterprises, show cruelty toward others, leave their jobs with no plans
+to obtain another job, have multiple sexual partners, repeatedly get
+into fights with others, and show reckless disregard for themselves and
+others (e.g., repeated arrests for driving while intoxicated) (APA,
+2013).
+
+A useful way to conceptualize antisocial personality disorder is boiling
+the diagnosis down to three major concepts: disinhibition, boldness, and
+meanness (Patrick, Fowles, & Krueger, 2009). Disinhibition is a
+propensity toward impulse control problems, lack of planning and
+forethought, insistence on immediate gratification, and inability to
+restrain behavior. Boldness describes a tendency to remain calm in
+threatening situations, high self-assurance, a sense of dominance, and a
+tendency toward thrill-seeking. Meanness is defined as “aggressive
+resource seeking without regard for others,” and is signaled by a lack
+of empathy, disdain for and lack of close relationships with others, and
+a tendency to accomplish goals through cruelty (Patrick et al., 2009,
+p. 913).
+
+Risk Factors for Antisocial Personality Disorder
+------------------------------------------------
+
+Antisocial personality disorder is observed in about 3.6% of the
+population; the disorder is much more common among males, with a 3 to 1
+ratio of men to women, and it is more likely to occur in men who are
+younger, widowed, separated, divorced, of lower socioeconomic status,
+who live in urban areas, and who live in the western United States
+(Compton, Conway, Stinson, Colliver, & Grant, 2005). Compared to men
+with antisocial personality disorder, women with the disorder are more
+likely to have experienced emotional neglect and sexual abuse during
+childhood, and they are more likely to have had parents who abused
+substances and who engaged in antisocial behaviors themselves (Alegria
+et al., 2013).
+
+`[link] <#Table_15_10_02>`__ shows some of the differences in the
+specific types of antisocial behaviors that men and women with
+antisocial personality disorder exhibit (Alegria et al., 2013).
+
+.. raw:: html
+
+   <table id="Table_15_10_02" summary="A table lists gender differences in antisocial personality disorder. Men with this condition tend to do things that could easily hurt themselves or others, receive three or more traffic tickets for reckless driving, have their driver&#x2019;s license suspended, destroy others&#x2019; property, start a fire on purpose, make money illegally, do anything that could lead to arrest, hit someone hard enough to injure them, and hurt an animal on purpose. Women with this condition tend to run away from home overnight, frequently miss school or work, lie frequently, forge someone&#x2019;s signature, get into a fight that comes to blows with an intimate partner, live with others besides the family for at least one month, and harass, threaten, or blackmail someone.">
+
+.. raw:: html
+
+   <caption>
+
+Gender Differences in Antisocial Personality Disorder
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Men with antisocial personality disorder are more likely than women with
+antisocial personality disorder to
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Women with antisocial personality disorder are more likely than men with
+antisocial personality to
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <ul>
+
+.. raw:: html
+
+   <li>
+
+do things that could easily hurt themselves or others
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+receive three or more traffic tickets for reckless driving
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+have their driver’s license suspended
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+destroy others’ property
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+start a fire on purpose
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+make money illegally
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+do anything that could lead to arrest
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+hit someone hard enough to injure them
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+hurt an animal on purpose
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
+::
+
+             </td>
+             <td>
+               <ul>
+                 <li>run away from home overnight</li>
+                 <li>frequently miss school or work</li>
+                 <li>lie frequently </li>
+                 <li>forge someone’s signature</li>
+                 <li>get into a fight that comes to blows with an intimate partner</li>
+                 <li>live with others besides the family for at least one month</li>
+                 <li>harass, threaten, or blackmail someone</li>
+               </ul>
+             </td>
+           </tr>
+         </tbody></table>
+
+Family, twin, and adoption studies suggest that both genetic and
+environmental factors influence the development of antisocial
+personality disorder, as well as general antisocial behavior
+(criminality, violence, aggressiveness) (Baker, Bezdjian, & Raine,
+2006). Personality and temperament dimensions that are related to this
+disorder, including fearlessness, impulsive antisociality, and
+callousness, have a substantial genetic influence (Livesley & Jang,
+2008). Adoption studies clearly demonstrate that the development of
+antisocial behavior is determined by the interaction of genetic factors
+and adverse environmental circumstances (Rhee & Waldman, 2002). For
+example, one investigation found that adoptees of biological parents
+with antisocial personality disorder were more likely to exhibit
+adolescent and adult antisocial behaviors if they were raised in adverse
+adoptive family environments (e.g., adoptive parents had marital
+problems, were divorced, used drugs, and had legal problems) than if
+they were raised in a more normal adoptive environment (Cadoret, Yates,
+Ed, Woodworth, & Stewart, 1995).
+
+Researchers who are interested in the importance of environment in the
+development of antisocial personality disorder have directed their
+attention to such factors as the community, the structure and
+functioning of the family, and peer groups. Each of these factors
+influences the likelihood of antisocial behavior. One longitudinal
+investigation of more than 800 Seattle-area youth measured risk factors
+for violence at 10, 14, 16, and 18 years of age (Herrenkohl et al.,
+2000). The risk factors examined included those involving the family,
+peers, and community. A portion of the findings from this study are
+provided in `[link] <#Figure_15_10_Riskfactor>`__.
+
+|A table is titled “risk factors during adolescence that predict later
+violence.” Risk factors are matched to age groups of “age 10 predictor
+(elementary school),” “age 14 predictor (middle school),” and “age 16
+predictor (high school).” In the “family” category, “parental violence”
+is marked for age 14, “parent criminality” for ages 14 and 16, “poor
+family management” for ages 14 and 16, “family conflict” for ages 14 and
+16, “parental attitudes favorable to violence” for age 10, and
+“residential mobility” for age 16. In the “peer” category, “peer
+delinquency” is marked for ages 10, 14, and 16; “gang membership” is
+marked for ages 14 and 16. In the “community” category, “economic
+deprivation” is marked for ages 10 and 16, “community disorganization”
+is marked for ages 14 and 16, “availability of drugs” is marked for ages
+10, 14, and 16, and “neighborhood adults involved in crime” is marked
+for ages 14 and 16.|\ {: #Figure_15_10_Riskfactor}
+
+Those with antisocial tendencies do not seem to experience emotions the
+way most other people do. These individuals fail to show fear in
+response to environment cues that signal punishment, pain, or noxious
+stimulation. For instance, they show less skin conductance (sweatiness
+on hands) in anticipation of electric shock than do people without
+antisocial tendencies (Hare, 1965). Skin conductance is controlled by
+the sympathetic nervous system and is used to assess autonomic nervous
+system functioning. When the sympathetic nervous system is active,
+people become aroused and anxious, and sweat gland activity increases.
+Thus, increased sweat gland activity, as assessed through skin
+conductance, is taken as a sign of arousal or anxiety. For those with
+antisocial personality disorder, a lack of skin conductance may indicate
+the presence of characteristics such as emotional deficits and
+impulsivity that underlie the propensity for antisocial behavior and
+negative social relationships (Fung et al., 2005).
+
+While emotional deficits may contribute to antisocial personality
+disorder, so too might an inability to relate to others’ pain. In a
+recent study, 80 prisoners were shown photos of people being
+intentionally hurt by others (e.g., someone crushing a person’s hand in
+an automobile door) while undergoing brain imaging (Decety, Skelly, &
+Kiehl, 2013). Prisoners who scored high on a test of antisocial
+tendencies showed significantly less activation in brain regions
+involved in the experience of empathy and feeling concerned for others
+than did prisoners with low scores on the antisocial test. Notably, the
+prisoners who scored high on the antisocial test showed greater
+activation in a brain area involved self-awareness, cognitive function,
+and interpersonal experience. The investigators suggested that the
+heightened activation in this region when watching social interactions
+involving one person harming another may reflect a propensity or desire
+for this kind of behavior.
+
+Summary
+=======
+
+Individuals with personality disorders exhibit a personality style that
+is inflexible, causes distress and impairment, and creates problems for
+themselves and others. The DSM-5 recognizes 10 personality disorders,
+organized into three clusters. The disorders in Cluster A include those
+characterized by a personality style that is odd and eccentric. Cluster
+B includes personality disorders characterized chiefly by a personality
+style that is impulsive, dramatic, highly emotional, and erratic, and
+those in Cluster C are characterized by a nervous and fearful
+personality style. Two Cluster B personality disorders, borderline
+personality disorder and antisocial personality disorder, are especially
+problematic. People with borderline personality disorder show marked
+instability in mood, behavior, and self-image, as well as impulsivity.
+They cannot stand to be alone, are unpredictable, have a history of
+stormy relationships, and frequently display intense and inappropriate
+anger. Genetic factors and adverse childhood experiences (e.g., sexual
+abuse) appear to be important in its development. People with antisocial
+personality display a lack of regard for the rights of others; they are
+impulsive, deceitful, irresponsible, and unburdened by any sense of
+guilt. Genetic factors and socialization both appear to be important in
+the origin of antisocial personality disorder. Research has also shown
+that those with this disorder do not experience emotions the way most
+other people do.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      People with borderline personality disorder often \________.
+
+      1. try to be the center of attention
+      2. are shy and withdrawn
+      3. are impulsive and unpredictable
+      4. tend to accomplish goals through cruelty {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Antisocial personality disorder is associated with \________.
+
+      1. emotional deficits
+      2. memory deficits
+      3. parental overprotection
+      4. increased empathy {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Imagine that a child has a genetic vulnerability to antisocial
+      personality disorder. How might this child’s environment shape the
+      likelihood of developing this personality disorder?
+
+   .. container::
+
+      The environment is likely to be very instrumental in determining
+      the likelihood of developing antisocial personality disorder.
+      Research has shown that adverse family environments (e.g., divorce
+      or marital problems, legal problems, and drug use) are connected
+      to antisocial personality disorder, particularly if one is
+      genetically vulnerable. Beyond one’s family environment, peer
+      group delinquency and community variables (e.g., economic
+      deprivation, community disorganization, drug use, and the presence
+      of adult antisocial models) heighten the risk of violent behavior.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   antisocial personality disorder
+      characterized by a lack of regard for others’ rights, impulsivity,
+      deceitfulness, irresponsibility, and lack of remorse over misdeeds
+      ^
+   borderline personality disorder
+      instability in interpersonal relationships, self-image, and mood,
+      as well as impulsivity; key features include intolerance of being
+      alone and fear of abandonment, unstable relationships,
+      unpredictable behavior and moods, and intense and inappropriate
+      anger ^
+   personality disorder
+      group of DSM-5 disorders characterized by an inflexible and
+      pervasive personality style that differs markedly from the
+      expectations of one’s culture and causes distress and impairment;
+      people with these disorders have a personality style that
+      frequently brings them into conflict with others and disrupts
+      their ability to develop and maintain social relationships
+
+.. |A table is titled “risk factors during adolescence that predict later violence.” Risk factors are matched to age groups of “age 10 predictor (elementary school),” “age 14 predictor (middle school),” and “age 16 predictor (high school).” In the “family” category, “parental violence” is marked for age 14, “parent criminality” for ages 14 and 16, “poor family management” for ages 14 and 16, “family conflict” for ages 14 and 16, “parental attitudes favorable to violence” for age 10, and “residential mobility” for age 16. In the “peer” category, “peer delinquency” is marked for ages 10, 14, and 16; “gang membership” is marked for ages 14 and 16. In the “community” category, “economic deprivation” is marked for ages 10 and 16, “community disorganization” is marked for ages 14 and 16, “availability of drugs” is marked for ages 10, 14, and 16, and “neighborhood adults involved in crime” is marked for ages 14 and 16.| image:: ../resources/CNX_Psych_15_10_Riskfactorn.jpg

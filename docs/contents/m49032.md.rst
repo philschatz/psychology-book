@@ -1,0 +1,322 @@
+======================
+Sleep and Why We Sleep
+======================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe areas of
+   the brain involved in sleep \* Understand hormone secretions
+   associated with sleep \* Describe several theories aimed at
+   explaining the function of sleep
+
+We spend approximately one-third of our lives sleeping. Given the
+average life expectancy for U.S. citizens falls between 73 and 79 years
+old (Singh & Siahpush, 2006), we can expect to spend approximately 25
+years of our lives sleeping. Some animals never sleep (e.g., several
+fish and amphibian species); other animals can go extended periods of
+time without sleep and without apparent negative consequences (e.g.,
+dolphins); yet some animals (e.g., rats) die after two weeks of sleep
+deprivation (Siegel, 2008). Why do we devote so much time to sleeping?
+Is it absolutely essential that we sleep? This section will consider
+these questions and explore various explanations for why we sleep.
+
+WHAT IS SLEEP?
+==============
+
+You have read that sleep is distinguished by low levels of physical
+activity and reduced sensory awareness. As discussed by Siegel (2008), a
+definition of sleep must also include mention of the interplay of the
+circadian and homeostatic mechanisms that regulate sleep. Homeostatic
+regulation of sleep is evidenced by sleep rebound following sleep
+deprivation. **Sleep rebound**\ {: data-type=“term”} refers to the fact
+that a sleep-deprived individual will tend to take a shorter time to
+fall asleep during subsequent opportunities for sleep. Sleep is
+characterized by certain patterns of activity of the brain that can be
+visualized using electroencephalography (EEG), and different phases of
+sleep can be differentiated using EEG as well
+(`[link] <#Figure_04_02_SleepEEG>`__).
+
+|A polysonograph shows 14 rows of waves with some rows appearing
+visually similar. Rows 1–2, rows 4–7, and rows 9–11 show similar
+patterns. Rows 4–7 are outlined in read to emphasize the similarity in
+wave patterns.|\ {: #Figure_04_02_SleepEEG}
+
+Sleep-wake cycles seem to be controlled by multiple brain areas acting
+in conjunction with one another. Some of these areas include the
+thalamus, the hypothalamus, and the pons. As already mentioned, the
+hypothalamus contains the SCN—the biological clock of the body—in
+addition to other nuclei that, in conjunction with the thalamus,
+regulate slow-wave sleep. The pons is important for regulating rapid eye
+movement (REM) sleep (National Institutes of Health, n.d.).
+
+Sleep is also associated with the secretion and regulation of a number
+of hormones from several endocrine glands including: melatonin, follicle
+stimulating hormone (FSH), luteinizing hormone (LH), and growth hormone
+(National Institutes of Health, n.d.). You have read that the pineal
+gland releases melatonin during sleep
+(`[link] <#Figure_04_02_Pituitary>`__). Melatonin is thought to be
+involved in the regulation of various biological rhythms and the immune
+system (Hardeland et al., 2006). During sleep, the pituitary gland
+secretes both FSH and LH which are important in regulating the
+reproductive system (Christensen et al., 2012; Sofikitis et al., 2008).
+The pituitary gland also secretes growth hormone, during sleep, which
+plays a role in physical growth and maturation as well as other
+metabolic processes (Bartke, Sun, & Longo, 2013).
+
+|An illustration of a brain shows the locations of the hypothalamus,
+thalamus, pons, suprachiasmatic nucleus, pituitary gland, and pineal
+gland.|\ {: #Figure_04_02_Pituitary}
+
+WHY DO WE SLEEP?
+================
+
+Given the central role that sleep plays in our lives and the number of
+adverse consequences that have been associated with sleep deprivation,
+one would think that we would have a clear understanding of why it is
+that we sleep. Unfortunately, this is not the case; however, several
+hypotheses have been proposed to explain the function of sleep.
+
+Adaptive Function of Sleep
+--------------------------
+
+One popular hypothesis of sleep incorporates the perspective of
+evolutionary psychology. **Evolutionary psychology**\ {:
+data-type=“term”} is a discipline that studies how universal patterns of
+behavior and cognitive processes have evolved over time as a result of
+**natural selection**\ {: data-type=“term” .no-emphasis}. Variations and
+adaptations in cognition and behavior make individuals more or less
+successful in reproducing and passing their genes to their offspring.
+One hypothesis from this perspective might argue that sleep is essential
+to restore resources that are expended during the day. Just as bears
+hibernate in the winter when resources are scarce, perhaps people sleep
+at night to reduce their energy expenditures. While this is an intuitive
+explanation of sleep, there is little research that supports this
+explanation. In fact, it has been suggested that there is no reason to
+think that energetic demands could not be addressed with periods of rest
+and inactivity (Frank, 2006; Rial et al., 2007), and some research has
+actually found a negative correlation between energetic demands and the
+amount of time spent sleeping (Capellini, Barton, McNamara, Preston, &
+Nunn, 2008).
+
+Another evolutionary hypothesis of sleep holds that our sleep patterns
+evolved as an adaptive response to predatory risks, which increase in
+darkness. Thus we sleep in safe areas to reduce the chance of harm.
+Again, this is an intuitive and appealing explanation for why we sleep.
+Perhaps our ancestors spent extended periods of time asleep to reduce
+attention to themselves from potential predators. Comparative research
+indicates, however, that the relationship that exists between predatory
+risk and sleep is very complex and equivocal. Some research suggests
+that species that face higher predatory risks sleep fewer hours than
+other species (Capellini et al., 2008), while other researchers suggest
+there is no relationship between the amount of time a given species
+spends in deep sleep and its predation risk (Lesku, Roth, Amlaner, &
+Lima, 2006).
+
+It is quite possible that sleep serves no single universally adaptive
+function, and different species have evolved different patterns of sleep
+in response to their unique evolutionary pressures. While we have
+discussed the negative outcomes associated with sleep deprivation, it
+should be pointed out that there are many benefits that are associated
+with adequate amounts of sleep. A few such benefits listed by the
+National Sleep Foundation (n.d.) include maintaining healthy weight,
+lowering stress levels, improving mood, and increasing motor
+coordination, as well as a number of benefits related to cognition and
+memory formation.
+
+Cognitive Function of Sleep
+---------------------------
+
+Another theory regarding why we sleep involves sleep’s importance for
+cognitive function and memory formation (Rattenborg, Lesku,
+Martinez-Gonzalez, & Lima, 2007). Indeed, we know sleep deprivation
+results in disruptions in cognition and memory deficits (Brown, 2012),
+leading to impairments in our abilities to maintain attention, make
+decisions, and recall long-term memories. Moreover, these impairments
+become more severe as the amount of sleep deprivation increases (Alhola
+& Polo-Kantola, 2007). Furthermore, slow-wave sleep after learning a new
+task can improve resultant performance on that task (Huber, Ghilardi,
+Massimini, & Tononi, 2004) and seems essential for effective memory
+formation (Stickgold, 2005). Understanding the impact of sleep on
+cognitive function should help you understand that cramming all night
+for a test may be not effective and can even prove counterproductive.
+
+.. container:: psychology link-to-learning
+
+   Watch this brief `video <http://openstax.org/l/sleepdeprived>`__
+   describing sleep deprivation in college students.
+
+   Here’s another brief `video <http://openstax.org/l/sleeptips>`__
+   describing sleep tips for college students.
+
+Sleep has also been associated with other cognitive benefits. Research
+indicates that included among these possible benefits are increased
+capacities for creative thinking (Cai, Mednick, Harrison, Kanady, &
+Mednick, 2009; Wagner, Gais, Haider, Verleger, & Born, 2004), language
+learning (Fenn, Nusbaum, & Margoliash, 2003; Gómez, Bootzin, & Nadel,
+2006), and inferential judgments (Ellenbogen, Hu, Payne, Titone, &
+Walker, 2007). It is possible that even the processing of emotional
+information is influenced by certain aspects of sleep (Walker, 2009).
+
+.. container:: psychology link-to-learning
+
+   Watch this brief `video <http://openstax.org/l/sleepmemory>`__
+   describing the relationship between sleep and memory.
+
+Summary
+=======
+
+We devote a very large portion of time to sleep, and our brains have
+complex systems that control various aspects of sleep. Several hormones
+important for physical growth and maturation are secreted during sleep.
+While the reason we sleep remains something of a mystery, there is some
+evidence to suggest that sleep is very important to learning and memory.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Growth hormone is secreted by the \_______\_ while we sleep.
+
+      1. pineal gland
+      2. thyroid
+      3. pituitary gland
+      4. pancreas {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      The \_______\_ plays a role in controlling slow-wave sleep.
+
+      1. hypothalamus
+      2. thalamus
+      3. pons
+      4. both a and b {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      \_______\_ is a hormone secreted by the pineal gland that plays a
+      role in regulating biological rhythms and immune function.
+
+      1. growth hormone
+      2. melatonin
+      3. LH
+      4. FSH {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      \_______\_ appears to be especially important for enhanced
+      performance on recently learned tasks.
+
+      1. melatonin
+      2. slow-wave sleep
+      3. sleep deprivation
+      4. growth hormone {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      If theories that assert sleep is necessary for restoration and
+      recovery from daily energetic demands are correct, what do you
+      predict about the relationship that would exist between
+      individuals’ total sleep duration and their level of activity?
+
+   .. container::
+
+      Those individuals (or species) that expend the greatest amounts of
+      energy would require the longest periods of sleep.
+
+.. container::
+
+   .. container::
+
+      How could researchers determine if given areas of the brain are
+      involved in the regulation of sleep?
+
+   .. container::
+
+      Researchers could use lesion or brain stimulation techniques to
+      determine how deactivation or activation of a given brain region
+      affects behavior. Furthermore, researchers could use any number of
+      brain imaging techniques like fMRI or CT scans to come to these
+      conclusions.
+
+.. container::
+
+   .. container::
+
+      Differentiate the evolutionary theories of sleep and make a case
+      for the one with the most compelling evidence.
+
+   .. container::
+
+      One evolutionary theory of sleep holds that sleep is essential for
+      restoration of resources that are expended during the demands of
+      day-to-day life. A second theory proposes that our sleep patterns
+      evolved as an adaptive response to predatory risks, which increase
+      in darkness. The first theory has little or no empirical support,
+      and the second theory is supported by some, though not all,
+      research.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Have you (or someone you know) ever experienced significant
+      periods of sleep deprivation because of simple insomnia, high
+      levels of stress, or as a side effect from a medication? What were
+      the consequences of missing out on sleep?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   evolutionary psychology
+      discipline that studies how universal patterns of behavior and
+      cognitive processes have evolved over time as a result of natural
+      selection ^
+   sleep rebound
+      sleep-deprived individuals will experience shorter sleep latencies
+      during subsequent opportunities for sleep
+
+.. |A polysonograph shows 14 rows of waves with some rows appearing visually similar. Rows 1–2, rows 4–7, and rows 9–11 show similar patterns. Rows 4–7 are outlined in read to emphasize the similarity in wave patterns.| image:: ../resources/CNX_Psych_04_02_SleepEEG.jpg
+.. |An illustration of a brain shows the locations of the hypothalamus, thalamus, pons, suprachiasmatic nucleus, pituitary gland, and pineal gland.| image:: ../resources/CNX_Psych_04_02_Pituitary.jpg

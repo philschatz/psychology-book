@@ -1,0 +1,286 @@
+==================================================
+Diagnosing and Classifying Psychological Disorders
+==================================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Explain why
+   classification systems are necessary in the study of psychopathology
+   \* Describe the basic features of the Diagnostic and Statistical
+   Manual of Mental Disorders, Fifth Edition (DSM-5) \* Discuss changes
+   in the DSM over time, including criticisms of the current edition \*
+   Identify which disorders are generally the most common
+
+A first step in the study of psychological disorders is carefully and
+systematically discerning significant signs and symptoms. How do mental
+health professionals ascertain whether or not a person’s inner states
+and behaviors truly represent a psychological disorder? Arriving at a
+proper **diagnosis**\ {: data-type=“term”}—that is, appropriately
+identifying and labeling a set of defined symptoms—is absolutely
+crucial. This process enables professionals to use a common language
+with others in the field and aids in communication about the disorder
+with the patient, colleagues and the public. A proper diagnosis is an
+essential element to guide proper and successful treatment. For these
+reasons, classification systems that organize psychological disorders
+systematically are necessary.
+
+*THE DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS* (DSM)
+=================================================================
+
+Although a number of classification systems have been developed over
+time, the one that is used by most mental health professionals in the
+United States is the **Diagnostic and Statistical Manual of Mental
+Disorders (DSM-5)**\ {: data-type=“term”}, published by the American
+Psychiatric Association (2013). (Note that the American Psychiatric
+Association differs from the American Psychological Association; both
+are abbreviated APA.) The first edition of the DSM, published in 1952,
+classified psychological disorders according to a format developed by
+the U.S. Army during World War II (Clegg, 2012). In the years since, the
+DSM has undergone numerous revisions and editions. The most recent
+edition, published in 2013, is the DSM-5 (APA, 2013). The DSM-5 includes
+many categories of disorders (e.g., anxiety disorders, depressive
+disorders, and dissociative disorders). Each disorder is described in
+detail, including an overview of the disorder (diagnostic features),
+specific symptoms required for diagnosis (diagnostic criteria),
+prevalence information (what percent of the population is thought to be
+afflicted with the disorder), and risk factors associated with the
+disorder. `[link] <#Figure_15_02_Disorders>`__ shows lifetime prevalence
+rates—the percentage of people in a population who develop a disorder in
+their lifetime—of various psychological disorders among U.S. adults.
+These data were based on a national sample of 9,282 U.S. residents
+(National Comorbidity Survey, 2007).
+
+|A bar graph has an x-axis labeled “DSM disorder” and a y-axis labeled
+“Lifetime prevalence rates.” For each disorder, a prevalence rate is
+given for total population, females, and males. The approximate data
+shown is: “major depressive disorder” 17% total, 20% females, 13% males;
+“alcohol abuse” 13% total, 7% females, 20% males; “specific phobia” 13%
+total, 16% females, 8% males; “social anxiety disorder” 12% total, 13%
+females, 11% males; “drug abuse” 8% total, 5% females, 12% males;
+“posttraumatic stress disorder” 7% total, 10% females, 3% males;
+“generalized anxiety disorder” 6% total, 7% females, 4% males; “panic
+disorder” 5% total, 6% females, 3% males; “obsessive-compulsive
+disorder” 3% total, 3% females, 2% males; “dysthymia” 3% total, 3%
+females, 2% males.|\ {: #Figure_15_02_Disorders}
+
+The DSM-5 also provides information about **comorbidity**\ {:
+data-type=“term”}; the co-occurrence of two disorders. For example, the
+DSM-5 mentions that 41% of people with obsessive-compulsive disorder
+(OCD) also meet the diagnostic criteria for major depressive disorder
+(`[link] <#Figure_15_02_Comorbidity>`__). Drug use is highly comorbid
+with other mental illnesses; 6 out of 10 people who have a substance use
+disorder also suffer from another form of mental illness (National
+Institute on Drug Abuse [NIDA], 2007).
+
+|A Venn-diagram shows two overlapping circles. One circle is titled
+“Obsessive-Compulsive Disorder” and the other is titled “Major
+Depressive Disorder.” The area in which these two circles overlap
+includes forty-one percent of each circle. This area is titled
+“Comorbidity 41%.”|\ {: #Figure_15_02_Comorbidity}
+
+The DSM has changed considerably in the half-century since it was
+originally published. The first two editions of the DSM, for example,
+listed homosexuality as a disorder; however, in 1973, the APA voted to
+remove it from the manual (Silverstein, 2009). Additionally, beginning
+with the DSM-III in 1980, mental disorders have been described in much
+greater detail, and the number of diagnosable conditions has grown
+steadily, as has the size of the manual itself. DSM-I included 106
+diagnoses and was 130 total pages, whereas DSM-III included more than 2
+times as many diagnoses (265) and was nearly seven times its size (886
+total pages) (Mayes & Horowitz, 2005). Although DSM-5 is longer than
+DSM-IV, the volume includes only 237 disorders, a decrease from the 297
+disorders that were listed in DSM-IV. The latest edition, DSM-5,
+includes revisions in the organization and naming of categories and in
+the diagnostic criteria for various disorders (Regier, Kuhl, & Kupfer,
+2012), while emphasizing careful consideration of the importance of
+gender and cultural difference in the expression of various symptoms
+(Fisher, 2010).
+
+Some believe that establishing new diagnoses might overpathologize the
+human condition by turning common human problems into mental illnesses
+(The Associated Press, 2013). Indeed, the finding that nearly half of
+all Americans will meet the criteria for a DSM disorder at some point in
+their life (Kessler et al., 2005) likely fuels much of this skepticism.
+The DSM-5 is also criticized on the grounds that its diagnostic criteria
+have been loosened, thereby threatening to “turn our current diagnostic
+inflation into diagnostic hyperinflation” (Frances, 2012, para. 22). For
+example, DSM-IV specified that the symptoms of major depressive disorder
+must not be attributable to normal bereavement (loss of a loved one).
+The DSM-5, however, has removed this bereavement exclusion, essentially
+meaning that grief and sadness after a loved one’s death can constitute
+major depressive disorder.
+
+THE INTERNATIONAL CLASSIFICATION OF DISEASES
+============================================
+
+A second classification system, the **International Classification of
+Diseases (ICD)**\ {: data-type=“term”}, is also widely recognized.
+Published by the World Health Organization (WHO), the ICD was developed
+in Europe shortly after World War II and, like the DSM, has been revised
+several times. The categories of psychological disorders in both the DSM
+and ICD are similar, as are the criteria for specific disorders;
+however, some differences exist. Although the ICD is used for clinical
+purposes, this tool is also used to examine the general health of
+populations and to monitor the prevalence of diseases and other health
+problems internationally (WHO, 2013). The ICD is in its 10th edition
+(ICD-10); however, efforts are now underway to develop a new edition
+(ICD-11) that, in conjunction with the changes in DSM-5, will help
+harmonize the two classification systems as much as possible (APA,
+2013).
+
+A study that compared the use of the two classification systems found
+that worldwide the ICD is more frequently used for clinical diagnosis,
+whereas the DSM is more valued for research (Mezzich, 2002). Most
+research findings concerning the etiology and treatment of psychological
+disorders are based on criteria set forth in the DSM (Oltmanns &
+Castonguay, 2013). The DSM also includes more explicit disorder
+criteria, along with an extensive and helpful explanatory text (Regier
+et al., 2012). The DSM is the classification system of choice among U.S.
+mental health professionals, and this chapter is based on the DSM
+paradigm.
+
+THE COMPASSIONATE VIEW OF PSYCHOLOGICAL DISORDERS
+=================================================
+
+As these disorders are outlined, please bear two things in mind. First,
+remember that psychological disorders represent *extremes* of inner
+experience and behavior. If, while reading about these disorders, you
+feel that these descriptions begin to personally characterize you, do
+not worry—this moment of enlightenment probably means nothing more than
+you are normal. Each of us experiences episodes of sadness, anxiety, and
+preoccupation with certain thoughts—times when we do not quite feel
+ourselves. These episodes should not be considered problematic unless
+the accompanying thoughts and behaviors become extreme and have a
+disruptive effect on one’s life. Second, understand that people with
+psychological disorders are far more than just embodiments of their
+disorders. We do not use terms such as schizophrenics, depressives, or
+phobics because they are labels that objectify people who suffer from
+these conditions, thus promoting biased and disparaging assumptions
+about them. It is important to remember that a psychological disorder is
+not what a person *is*; it is something that a person *has*—through no
+fault of his or her own. As is the case with cancer or diabetes, those
+with psychological disorders suffer debilitating, often painful
+conditions that are not of their own choosing. These individuals deserve
+to be viewed and treated with compassion, understanding, and dignity.
+
+Summary
+=======
+
+The diagnosis and classification of psychological disorders is essential
+in studying and treating psychopathology. The classification system used
+by most U.S. professionals is the DSM-5. The first edition of the DSM
+was published in 1952, and has undergone numerous revisions. The 5th and
+most recent edition, the DSM-5, was published in 2013. The diagnostic
+manual includes a total of 237 specific diagnosable disorders, each
+described in detail, including its symptoms, prevalence, risk factors,
+and comorbidity. Over time, the number of diagnosable conditions listed
+in the DSM has grown steadily, prompting criticism from some.
+Nevertheless, the diagnostic criteria in the DSM are more explicit than
+that of any other system, which makes the DSM system highly desirable
+for both clinical diagnosis and research.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The letters in the abbreviation DSM-5 stand for \________.
+
+      1. Diseases and Statistics Manual of Medicine
+      2. Diagnosable Standards Manual of Mental Disorders
+      3. Diseases and Symptoms Manual of Mental Disorders
+      4. Diagnostic and Statistical Manual of Mental Disorders {:
+         type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      A study based on over 9,000 U. S. residents found that the most
+      prevalent disorder was \________.
+
+      1. major depressive disorder
+      2. social anxiety disorder
+      3. obsessive-compulsive disorder
+      4. specific phobia {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Describe the DSM-5. What is it, what kind of information does it
+      contain, and why is it important to the study and treatment of
+      psychological disorders?
+
+   .. container::
+
+      The DSM-5 is the classification system of psychological disorders
+      preferred by most U.S. mental health professionals, and it is
+      published by the American Psychiatric Association (APA). It
+      consists of broad categories of disorders and specific disorders
+      that fall within each category. Each disorder has an explicit
+      description of its symptoms, as well as information concerning
+      prevalence, risk factors, and comorbidity. The DSM-5 provides a
+      common language that enables mental health professionals to
+      communicate effectively about sets of symptoms.
+
+.. container::
+
+   .. container::
+
+      The International Classification of Diseases (ICD) and the DSM
+      differ in various ways. What are some of the differences in these
+      two classification systems?
+
+   .. container::
+
+      The ICD is used primarily for making clinical diagnoses and more
+      broadly for examining the general health of populations and
+      monitoring the international prevalence of diseases and other
+      health problems. While the DSM is also used for diagnostic
+      purposes, it is also highly valued as a research tool. For
+      example, much of the data regarding the etiology and treatment of
+      psychological disorders are based on diagnostic criteria set forth
+      in the DSM.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   comorbidity
+      co-occurrence of two disorders in the same individual ^
+   diagnosis
+      determination of which disorder a set of symptoms represents ^
+   *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* (DSM-5)
+      authoritative index of mental disorders and the criteria for their
+      diagnosis; published by the American Psychiatric Association (APA)
+      ^
+   *International Classification of Diseases* (ICD)
+      authoritative index of mental and physical diseases, including
+      infectious diseases, and the criteria for their diagnosis;
+      published by the World Health Organization (WHO)
+
+.. |A bar graph has an x-axis labeled “DSM disorder” and a y-axis labeled “Lifetime prevalence rates.” For each disorder, a prevalence rate is given for total population, females, and males. The approximate data shown is: “major depressive disorder” 17% total, 20% females, 13% males; “alcohol abuse” 13% total, 7% females, 20% males; “specific phobia” 13% total, 16% females, 8% males; “social anxiety disorder” 12% total, 13% females, 11% males; “drug abuse” 8% total, 5% females, 12% males; “posttraumatic stress disorder” 7% total, 10% females, 3% males; “generalized anxiety disorder” 6% total, 7% females, 4% males; “panic disorder” 5% total, 6% females, 3% males; “obsessive-compulsive disorder” 3% total, 3% females, 2% males; “dysthymia” 3% total, 3% females, 2% males.| image:: ../resources/CNX_Psych_15_02_Disorders.jpg
+.. |A Venn-diagram shows two overlapping circles. One circle is titled “Obsessive-Compulsive Disorder” and the other is titled “Major Depressive Disorder.” The area in which these two circles overlap includes forty-one percent of each circle. This area is titled “Comorbidity 41%.”| image:: ../resources/CNX_Psych_15_02_Comorbidity.jpg

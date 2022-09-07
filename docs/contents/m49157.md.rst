@@ -1,0 +1,631 @@
+====================
+Regulation of Stress
+====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define coping and
+   differentiate between problem-focused and emotion-focused coping \*
+   Describe the importance of perceived control in our reactions to
+   stress \* Explain how social support is vital in health and longevity
+
+As we learned in the previous section, **stress**\ {: data-type=“term”
+.no-emphasis}—especially if it is chronic—takes a toll on our bodies and
+can have enormously negative health implications. When we experience
+events in our lives that we appraise as stressful, it is essential that
+we use effective coping strategies to manage our stress. **Coping**\ {:
+data-type=“term”} refers to mental and behavioral efforts that we use to
+deal with problems relating to stress, including its presumed cause and
+the unpleasant feelings and emotions it produces.
+
+COPING STYLES
+=============
+
+Lazarus and Folkman (1984) distinguished two fundamental kinds of
+coping: problem-focused coping and emotion-focused coping. In
+problem-focused coping, one attempts to manage or alter the problem that
+is causing one to experience stress (i.e., the stressor).
+Problem-focused coping strategies are similar to strategies used in
+everyday problem-solving: they typically involve identifying the
+problem, considering possible solutions, weighing the costs and benefits
+of these solutions, and then selecting an alternative (Lazarus &
+Folkman, 1984). As an example, suppose Bradford receives a midterm
+notice that he is failing statistics class. If Bradford adopts a
+**problem-focused coping**\ {: data-type=“term” .no-emphasis} approach
+to managing his stress, he would be proactive in trying to alleviate the
+source of the stress. He might contact his professor to discuss what
+must be done to raise his grade, he might also decide to set aside two
+hours daily to study statistics assignments, and he may seek tutoring
+assistance. A problem-focused approach to managing stress means we
+actively try to do things to address the problem.
+
+Emotion-focused coping, in contrast, consists of efforts to change or
+reduce the negative emotions associated with stress. These efforts may
+include avoiding, minimizing, or distancing oneself from the problem, or
+positive comparisons with others (“I’m not as bad off as she is”), or
+seeking something positive in a negative event (“Now that I’ve been
+fired, I can sleep in for a few days”). In some cases, **emotion-focused
+coping**\ {: data-type=“term” .no-emphasis} strategies involve
+reappraisal, whereby the stressor is construed differently (and somewhat
+self-deceptively) without changing its objective level of threat
+(Lazarus & Folkman, 1984). For example, a person sentenced to federal
+prison who thinks, “This will give me a great chance to network with
+others,” is using reappraisal. If Bradford adopted an emotion-focused
+approach to managing his midterm deficiency stress, he might watch a
+comedy movie, play video games, or spend hours on Twitter to take his
+mind off the situation. In a certain sense, emotion-focused coping can
+be thought of as treating the symptoms rather than the actual cause.
+
+While many stressors elicit both kinds of coping strategies,
+problem-focused coping is more likely to occur when encountering
+stressors we perceive as controllable, while emotion-focused coping is
+more likely to predominate when faced with stressors that we believe we
+are powerless to change (Folkman & Lazarus, 1980). Clearly,
+emotion-focused coping is more effective in dealing with uncontrollable
+stressors. For example, if at midnight you are stressing over a 40-page
+paper due in the morning that you have not yet started, you are probably
+better off recognizing the hopelessness of the situation and doing
+something to take your mind off it; taking a problem-focused approach by
+trying to accomplish this task would only lead to frustration, anxiety,
+and even more stress.
+
+Fortunately, most stressors we encounter can be modified and are, to
+varying degrees, controllable. A person who cannot stand her job can
+quit and look for work elsewhere; a middle-aged divorcee can find
+another potential partner; the freshman who fails an exam can study
+harder next time, and a breast lump does not necessarily mean that one
+is fated to die of breast cancer.
+
+CONTROL AND STRESS
+==================
+
+The desire and ability to predict events, make decisions, and affect
+outcomes—that is, to enact control in our lives—is a basic tenet of
+human behavior (Everly & Lating, 2002). Albert Bandura (1997) stated
+that “the intensity and chronicity of human stress is governed largely
+by perceived control over the demands of one’s life” (p. 262). As
+cogently described in his statement, our reaction to potential stressors
+depends to a large extent on how much control we feel we have over such
+things. **Perceived control**\ {: data-type=“term”} is our beliefs about
+our personal capacity to exert influence over and shape outcomes, and it
+has major implications for our health and happiness (Infurna & Gerstorf,
+2014). Extensive research has demonstrated that perceptions of personal
+control are associated with a variety of favorable outcomes, such as
+better physical and mental health and greater psychological well-being
+(Diehl & Hay, 2010). Greater personal control is also associated with
+lower reactivity to stressors in daily life. For example, researchers in
+one investigation found that higher levels of perceived control at one
+point in time were later associated with lower emotional and physical
+reactivity to interpersonal stressors (Neupert, Almeida, & Charles,
+2007). Further, a daily diary study with 34 older widows found that
+their stress and anxiety levels were significantly reduced on days
+during which the widows felt greater perceived control (Ong, Bergeman, &
+Bisconti, 2005).
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Learned Helplessness
+
+   When we lack a sense of control over the events in our lives,
+   particularly when those events are threatening, harmful, or noxious,
+   the psychological consequences can be profound. In one of the better
+   illustrations of this concept, psychologist Martin Seligman conducted
+   a series of classic experiments in the 1960s (Seligman & Maier, 1967)
+   in which dogs were placed in a chamber where they received electric
+   shocks from which they could not escape. Later, when these dogs were
+   given the opportunity to escape the shocks by jumping across a
+   partition, most failed to even try; they seemed to just give up and
+   passively accept any shocks the experimenters chose to administer. In
+   comparison, dogs who were previously allowed to escape the shocks
+   tended to jump the partition and escape the pain
+   (`[link] <#CNX_Psych_14_04_Helpless>`__).
+
+   |An illustration shows a dog about to jump over a partition
+   separating an area of a floor delivering shocks from an area that
+   doesn’t deliver shocks.|\ {: #CNX_Psych_14_04_Helpless}
+
+   Seligman believed that the dogs who failed to try to escape the later
+   shocks were demonstrating **learned helplessness**\ {:
+   data-type=“term” .no-emphasis}: They had acquired a belief that they
+   were powerless to do anything about the noxious stimulation they were
+   receiving. Seligman also believed that the passivity and lack of
+   initiative these dogs demonstrated was similar to that observed in
+   human depression. Therefore, Seligman speculated that acquiring a
+   sense of learned helplessness might be an important cause of
+   depression in humans: Humans who experience negative life events that
+   they believe they are unable to control may become helpless. As a
+   result, they give up trying to control or change the situation and
+   some may become depressed and show lack of initiative in future
+   situations in which they can control the outcomes (Seligman, Maier, &
+   Geer, 1968).
+
+   Seligman and colleagues later reformulated the original learned
+   helplessness model of depression (Abramson, Seligman, & Teasdale,
+   1978). In their reformulation, they emphasized attributions (i.e., a
+   mental explanation for why something occurred) that lead to the
+   perception that one lacks control over negative outcomes are
+   important in fostering a sense of learned helplessness. For example,
+   suppose a coworker shows up late to work; your belief as to what
+   caused the coworker’s tardiness would be an attribution (e.g., too
+   much traffic, slept too late, or just doesn’t care about being on
+   time).
+
+   The reformulated version of Seligman’s study holds that the
+   attributions made for negative life events contribute to depression.
+   Consider the example of a student who performs poorly on a midterm
+   exam. This model suggests that the student will make three kinds of
+   attributions for this outcome: internal vs. external (believing the
+   outcome was caused by his own personal inadequacies or by
+   environmental factors), stable vs. unstable (believing the cause can
+   be changed or is permanent), and global vs. specific (believing the
+   outcome is a sign of inadequacy in most everything versus just this
+   area). Assume that the student makes an internal (“I’m just not
+   smart”), stable (“Nothing can be done to change the fact that I’m not
+   smart”) and global (“This is another example of how lousy I am at
+   everything”) attribution for the poor performance. The reformulated
+   theory predicts that the student would perceive a lack of control
+   over this stressful event and thus be especially prone to developing
+   depression. Indeed, research has demonstrated that people who have a
+   tendency to make internal, global, and stable attributions for bad
+   outcomes tend to develop symptoms of depression when faced with
+   negative life experiences (Peterson & Seligman, 1984).
+
+   Seligman’s learned helplessness model has emerged over the years as a
+   leading theoretical explanation for the onset of major depressive
+   disorder. When you study psychological disorders, you will learn more
+   about the latest reformulation of this model—now called hopelessness
+   theory.
+
+People who report higher levels of perceived control view their health
+as controllable, thereby making it more likely that they will better
+manage their health and engage in behaviors conducive to good health
+(Bandura, 2004). Not surprisingly, greater perceived control has been
+linked to lower risk of physical health problems, including declines in
+physical functioning (Infurna, Gerstorf, Ram, Schupp, & Wagner, 2011),
+heart attacks (Rosengren et al., 2004), and both cardiovascular disease
+incidence (Stürmer, Hasselbach, & Amelang, 2006) and mortality from
+cardiac disease (Surtees et al., 2010). In addition, longitudinal
+studies of British civil servants have found that those in low-status
+jobs (e.g., clerical and office support staff) in which the degree of
+control over the job is minimal are considerably more likely to develop
+heart disease than those with high-status jobs or considerable control
+over their jobs (Marmot, Bosma, Hemingway, & Stansfeld, 1997).
+
+The link between perceived control and health may provide an explanation
+for the frequently observed relationship between social class and health
+outcomes (Kraus, Piff, Mendoza-Denton, Rheinschmidt, & Keltner, 2012).
+In general, research has found that more affluent individuals experience
+better health mainly because they tend to believe that they can
+personally control and manage their reactions to life’s stressors
+(Johnson & Krueger, 2006). Perhaps buoyed by the perceived level of
+control, individuals of higher social class may be prone to
+overestimating the degree of influence they have over particular
+outcomes. For example, those of higher social class tend to believe that
+their votes have greater sway on election outcomes than do those of
+lower social class, which may explain higher rates of voting in more
+affluent communities (Krosnick, 1990). Other research has found that a
+sense of perceived control can protect less affluent individuals from
+poorer health, depression, and reduced life-satisfaction—all of which
+tend to accompany lower social standing (Lachman & Weaver, 1998).
+
+Taken together, findings from these and many other studies clearly
+suggest that perceptions of control and coping abilities are important
+in managing and coping with the stressors we encounter throughout life.
+
+SOCIAL SUPPORT
+==============
+
+The need to form and maintain strong, stable relationships with others
+is a powerful, pervasive, and fundamental human motive (Baumeister &
+Leary, 1995). Building strong interpersonal relationships with others
+helps us establish a network of close, caring individuals who can
+provide social support in times of distress, sorrow, and fear. **Social
+support**\ {: data-type=“term”} can be thought of as the soothing impact
+of friends, family, and acquaintances (Baron & Kerr, 2003). Social
+support can take many forms, including advice, guidance, encouragement,
+acceptance, emotional comfort, and tangible assistance (such as
+financial help). Thus, other people can be very comforting to us when we
+are faced with a wide range of life stressors, and they can be extremely
+helpful in our efforts to manage these challenges. Even in nonhuman
+animals, species mates can offer social support during times of stress.
+For example, elephants seem to be able to sense when other elephants are
+stressed and will often comfort them with physical contact—such as a
+trunk touch—or an empathetic vocal response (Krumboltz, 2014).
+
+Scientific interest in the importance of social support first emerged in
+the 1970s when health researchers developed an interest in the health
+consequences of being socially integrated (Stroebe & Stroebe, 1996).
+Interest was further fueled by longitudinal studies showing that social
+connectedness reduced mortality. In one classic study, nearly 7,000
+Alameda County, California, residents were followed over 9 years. Those
+who had previously indicated that they lacked social and community ties
+were more likely to die during the follow-up period than those with more
+extensive social networks. Compared to those with the most social
+contacts, isolated men and women were, respectively, 2.3 and 2.8 times
+more likely to die. These trends persisted even after controlling for a
+variety of health-related variables, such as smoking, alcohol
+consumption, self-reported health at the beginning of the study, and
+physical activity (Berkman & Syme, 1979).
+
+Since the time of that study, social support has emerged as one of the
+well-documented psychosocial factors affecting health outcomes (Uchino,
+2009). A statistical review of 148 studies conducted between 1982 and
+2007 involving over 300,000 participants concluded that individuals with
+stronger social relationships have a 50% greater likelihood of survival
+compared to those with weak or insufficient social relationships
+(Holt-Lunstad, Smith, & Layton, 2010). According to the researchers, the
+magnitude of the effect of social support observed in this study is
+comparable with quitting smoking and exceeded many well-known risk
+factors for mortality, such as obesity and physical inactivity
+(`[link] <#CNX_Psych_14_04_SocialSupport>`__).
+
+|Photograph A shows a large group of people holding hands with the sun
+setting in the distance. Photograph B shows a close relationship between
+three people by the water.|\ {: #CNX_Psych_14_04_SocialSupport}
+
+A number of large-scale studies have found that individuals with low
+levels of social support are at greater risk of mortality, especially
+from cardiovascular disorders (Brummett et al., 2001). Further, higher
+levels of social supported have been linked to better survival rates
+following breast cancer (Falagas et al., 2007) and infectious diseases,
+especially HIV infection (Lee & Rotheram-Borus, 2001). In fact, a person
+with high levels of social support is less likely to contract a common
+cold. In one study, 334 participants completed questionnaires assessing
+their sociability; these individuals were subsequently exposed to a
+virus that causes a common cold and monitored for several weeks to see
+who became ill. Results showed that increased sociability was linearly
+associated with a decreased probability of developing a cold (Cohen,
+Doyle, Turner, Alper, & Skoner, 2003).
+
+For many of us, friends are a vital source of social support. But what
+if you found yourself in a situation in which you lacked friends or
+companions? For example, suppose a popular high school student attends a
+far-away college, does not know anyone, and has trouble making friends
+and meaningful connections with others during the first semester. What
+can be done? If real life social support is lacking, access to distant
+friends via social media may help compensate. In a study of college
+freshmen, those with few face-to-face friends on campus but who
+communicated electronically with distant friends were less distressed
+that those who did not (Raney & Troop-Gordon, 2012). Also, for some
+people, our families—especially our parents—are a major source of social
+support.
+
+Social support appears to work by boosting the immune system, especially
+among people who are experiencing stress (Uchino, Vaughn, Carlisle, &
+Birmingham, 2012). In a pioneering study, spouses of cancer patients who
+reported high levels of social support showed indications of better
+immune functioning on two out of three immune functioning measures,
+compared to spouses who were below the median on reported social support
+(Baron, Cutrona, Hicklin, Russell, & Lubaroff, 1990). Studies of other
+populations have produced similar results, including those of spousal
+caregivers of dementia sufferers, medical students, elderly adults, and
+cancer patients (Cohen & Herbert, 1996; Kiecolt-Glaser, McGuire, Robles,
+& Glaser, 2002).
+
+In addition, social support has been shown to reduce blood pressure for
+people performing stressful tasks, such as giving a speech or performing
+mental arithmetic (Lepore, 1998). In these kinds of studies,
+participants are usually asked to perform a stressful task either alone,
+with a stranger present (who may be either supportive or unsupportive),
+or with a friend present. Those tested with a friend present generally
+exhibit lower blood pressure than those tested alone or with a stranger
+(Fontana, Diegnan, Villeneuve, & Lepore, 1999). In one study, 112 female
+participants who performed stressful mental arithmetic exhibited lower
+blood pressure when they received support from a friend rather than a
+stranger, but only if the friend was a male (Phillips, Gallagher, &
+Carroll, 2009). Although these findings are somewhat difficult to
+interpret, the authors mention that it is possible that females feel
+less supported and more evaluated by other females, particularly females
+whose opinions they value.
+
+Taken together, the findings above suggest one of the reasons social
+support is connected to favorable health outcomes is because it has
+several beneficial physiological effects in stressful situations.
+However, it is also important to consider the possibility that social
+support may lead to better health behaviors, such as a healthy diet,
+exercising, smoking cessation, and cooperation with medical regimens
+(Uchino, 2009).
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Coping with Prejudice and Discrimination
+
+   While having social support is quite beneficial, being the recipient
+   of prejudicial attitudes and discriminatory behaviors is associated
+   with a number of negative outcomes. In their literature review,
+   Brondolo, Brady, Pencille, Beatty, and Contrada (2009) describe how
+   racial **prejudice**\ {: data-type=“term” .no-emphasis} and
+   **discrimination**\ {: data-type=“term” .no-emphasis} serve as
+   unique, significant stressors for those who are the targets of such
+   attitudes and behavior. Being the target of racism is associated with
+   increased rates of depression, lowered self-esteem, hypertension, and
+   cardiovascular disease.
+
+   Given the complex and pervasive nature of racism as a stressor,
+   Brondolo et al. (2009) point out the importance of coping with this
+   specific stressor. Their review is aimed at determining which coping
+   strategies are most effective at offsetting negative health outcomes
+   associated with racism-related stress. The authors examine the
+   effectiveness of three coping strategies: focusing on racial identity
+   to handle race-related stress, **anger**\ {: data-type=“term”
+   .no-emphasis} expression/suppression, and seeking social support.
+   You’ve learned a bit about social support, so we’ll focus the
+   remainder of this discussion on the potential coping strategies of
+   focusing on racial identity and anger expression/suppression.
+
+   Focusing on racial identity refers to the process by which a person
+   comes to feel as if he belongs to a given racial group; this may
+   increase a sense of pride associated with group membership. Brondolo
+   et al. (2009) suggest that a strong sense of racial identity might
+   help an individual who is the target of racism differentiate between
+   prejudicial attitudes/behaviors that are directed toward his group as
+   a whole rather than at him as a person. Furthermore, the sense of
+   belonging to his group might alleviate the distress of being
+   ostracized by others. However, the research literature on the
+   effectiveness of this technique has produced mixed results.
+
+   Anger expression/suppression refers to the options available as a
+   function of the anger evoked by racial prejudice and discrimination.
+   Put simply, a target of racist attitudes and behaviors can act upon
+   her anger or suppress her anger. As discussed by Brondolo et
+   al. (2009), there has been very little research on the effectiveness
+   of either approach; the results are quite mixed with some showing
+   anger expression and others showing anger suppression as the
+   healthier option.
+
+   In the end, racism-related stress is a complex issue and each of the
+   coping strategies discussed here has strengths and weaknesses.
+   Brondolo et al. (2009) argue that it is imperative that additional
+   research be conducted to ascertain the most effective strategies for
+   coping with the negative outcomes that are experienced by the targets
+   of racism.
+
+STRESS REDUCTION TECHNIQUES
+===========================
+
+Beyond having a sense of control and establishing social support
+networks, there are numerous other means by which we can manage stress
+(`[link] <#CNX_Psych_14_04_StressRed>`__). A common technique people use
+to combat stress is **exercise**\ {: data-type=“term” .no-emphasis}
+(Salmon, 2001). It is well-established that exercise, both of long
+(aerobic) and short (anaerobic) duration, is beneficial for both
+physical and mental health (Everly & Lating, 2002). There is
+considerable evidence that physically fit individuals are more resistant
+to the adverse effects of stress and recover more quickly from stress
+than less physically fit individuals (Cotton, 1990). In a study of more
+than 500 Swiss police officers and emergency service personnel,
+increased physical fitness was associated with reduced stress, and
+regular exercise was reported to protect against stress-related health
+problems (Gerber, Kellman, Hartman, & Pühse, 2010).
+
+|Photograph A shows an exercise room with several treadmills, elliptical
+machines, and stationary bikes. There are people exercising with
+multiple televisions hanging from the ceiling in front of them.
+Photograph B shows a person meditating next to a tree. Photograph C
+shows two people sitting across from each other at a table, each in
+front of a monitor. The person in the foreground has straps around the
+head holding up wires or devices.|\ {: #CNX_Psych_14_04_StressRed}
+
+One reason exercise may be beneficial is because it might buffer some of
+the deleterious physiological mechanisms of stress. One study found rats
+that exercised for six weeks showed a decrease in
+hypothalamic-pituitary-adrenal responsiveness to mild stressors (Campeau
+et al., 2010). In high-stress humans, exercise has been shown to prevent
+telomere shortening, which may explain the common observation of a
+youthful appearance among those who exercise regularly (Puterman et al.,
+2010). Further, exercise in later adulthood appears to minimize the
+detrimental effects of stress on the hippocampus and memory (Head,
+Singh, & Bugg, 2012). Among cancer survivors, exercise has been shown to
+reduce anxiety (Speck, Courneya, Masse, Duval, & Schmitz, 2010) and
+depressive symptoms (Craft, VanIterson, Helenowski, Rademaker, &
+Courneya, 2012). Clearly, exercise is a highly effective tool for
+regulating stress.
+
+In the 1970s, Herbert Benson, a cardiologist, developed a stress
+reduction method called the **relaxation response technique**\ {:
+data-type=“term”} (Greenberg, 2006). The relaxation response technique
+combines relaxation with transcendental **meditation**\ {:
+data-type=“term” .no-emphasis}, and consists of four components (Stein,
+2001):
+
+1. sitting upright on a comfortable chair with feet on the ground and
+   body in a relaxed position,
+2. a quiet environment with eyes closed,
+3. repeating a word or a phrase—a mantra—to oneself, such as “alert
+   mind, calm body,”
+4. passively allowing the mind to focus on pleasant thoughts, such as
+   nature or the warmth of your blood nourishing your body. {: type=“1”}
+
+The relaxation response approach is conceptualized as a general approach
+to stress reduction that reduces sympathetic arousal, and it has been
+used effectively to treat people with high blood pressure (Benson &
+Proctor, 1994).
+
+Another technique to combat stress, **biofeedback**\ {:
+data-type=“term”}, was developed by Gary Schwartz at Harvard University
+in the early 1970s. Biofeedback is a technique that uses electronic
+equipment to accurately measure a person’s neuromuscular and autonomic
+activity—feedback is provided in the form of visual or auditory signals.
+The main assumption of this approach is that providing somebody
+biofeedback will enable the individual to develop strategies that help
+gain some level of voluntary control over what are normally involuntary
+bodily processes (Schwartz & Schwartz, 1995). A number of different
+bodily measures have been used in biofeedback research, including facial
+muscle movement, brain activity, and skin temperature, and it has been
+applied successfully with individuals experiencing tension headaches,
+high blood pressure, asthma, and phobias (Stein, 2001).
+
+Summary
+=======
+
+When faced with stress, people must attempt to manage or cope with it.
+In general, there are two basic forms of coping: problem-focused coping
+and emotion-focused coping. Those who use problem-focused coping
+strategies tend to cope better with stress because these strategies
+address the source of stress rather than the resulting symptoms. To a
+large extent, perceived control greatly impacts reaction to stressors
+and is associated with greater physical and mental well-being. Social
+support has been demonstrated to be a highly effective buffer against
+the adverse effects of stress. Extensive research has shown that social
+support has beneficial physiological effects for people, and it seems to
+influence immune functioning. However, the beneficial effects of social
+support may be related to its influence on promoting healthy behaviors.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Emotion-focused coping would likely be a better method than
+      problem-focused coping for dealing with which of the following
+      stressors?
+
+      1. terminal cancer
+      2. poor grades in school
+      3. unemployment
+      4. divorce {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Studies of British civil servants have found that those in the
+      lowest status jobs are much more likely to develop heart disease
+      than those who have high status jobs. These findings attest to the
+      importance of \_______\_ in dealing with stress.
+
+      1. biofeedback
+      2. social support
+      3. perceived control
+      4. emotion-focused coping {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Relative to those with low levels of social support, individuals
+      with high levels of social support \________.
+
+      1. are more likely to develop asthma
+      2. tend to have less perceived control
+      3. are more likely to develop cardiovascular disorders
+      4. tend to tolerate stress well {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The concept of learned helplessness was formulated by Seligman to
+      explain the \________.
+
+      1. inability of dogs to attempt to escape avoidable shocks after
+         having received inescapable shocks
+      2. failure of dogs to learn to from prior mistakes
+      3. ability of dogs to learn to help other dogs escape situations
+         in which they are receiving uncontrollable shocks
+      4. inability of dogs to learn to help other dogs escape situations
+         in which they are receiving uncontrollable electric shocks {:
+         type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Although problem-focused coping seems to be a more effective
+      strategy when dealing with stressors, do you think there are any
+      kinds of stressful situations in which emotion-focused coping
+      might be a better strategy?
+
+   .. container::
+
+      Emotion-focused coping would likely be a better coping strategy in
+      situations in which a stressor is uncontrollable, or in which
+      nothing could otherwise be done about it, such as a fatal illness.
+
+.. container::
+
+   .. container::
+
+      Describe how social support can affect health both directly and
+      indirectly.
+
+   .. container::
+
+      Social support seems to have a direct effect on immune system
+      functioning. Social support can affect health indirectly by
+      influencing health-related behaviors, such as exercise and eating
+      properly.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Try to think of an example in which you coped with a particular
+      stressor by using problem-focused coping. What was the stressor?
+      What did your problem-focused efforts involve? Were they
+      effective?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   biofeedback
+      stress-reduction technique using electronic equipment to measure a
+      person’s involuntary (neuromuscular and autonomic) activity and
+      provide feedback to help the person gain a level of voluntary
+      control over these processes ^
+   coping
+      mental or behavioral efforts used to manage problems relating to
+      stress, including its cause and the unpleasant feelings and
+      emotions it produces ^
+   perceived control
+      peoples’ beliefs concerning their capacity to influence and shape
+      outcomes in their lives ^
+   relaxation response technique
+      stress reduction technique combining elements of relaxation and
+      meditation ^
+   social support
+      soothing and often beneficial support of others; can take
+      different forms, such as advice, guidance, encouragement,
+      acceptance, emotional comfort, and tangible assistance
+
+.. |An illustration shows a dog about to jump over a partition separating an area of a floor delivering shocks from an area that doesn’t deliver shocks.| image:: ../resources/CNX_Psych_14_04_Helpless.jpg
+.. |Photograph A shows a large group of people holding hands with the sun setting in the distance. Photograph B shows a close relationship between three people by the water.| image:: ../resources/CNX_Psych_14_04_Support.jpg
+.. |Photograph A shows an exercise room with several treadmills, elliptical machines, and stationary bikes. There are people exercising with multiple televisions hanging from the ceiling in front of them. Photograph B shows a person meditating next to a tree. Photograph C shows two people sitting across from each other at a table, each in front of a monitor. The person in the foreground has straps around the head holding up wires or devices.| image:: ../resources/CNX_Psych_14_04_StressRed.jpg

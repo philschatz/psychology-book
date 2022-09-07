@@ -1,0 +1,217 @@
+======================================
+Cultural Understandings of Personality
+======================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section you should be able to: \* Discuss
+   personality differences of people from collectivist and individualist
+   cultures \* Discuss the three approaches to studying personality in a
+   cultural context
+
+As you have learned in this chapter, personality is shaped by both
+genetic and environmental factors. The **culture**\ {: data-type=“term”
+.no-emphasis} in which you live is one of the most important
+environmental factors that shapes your personality (Triandis & Suh,
+2002). The term **culture**\ {: data-type=“term”} refers to all of the
+beliefs, customs, art, and traditions of a particular society. Culture
+is transmitted to people through language as well as through the
+modeling of culturally acceptable and nonacceptable behaviors that are
+either rewarded or punished (Triandis & Suh, 2002). With these ideas in
+mind, personality psychologists have become interested in the role of
+culture in understanding personality. They ask whether personality
+traits are the same across cultures or if there are variations. It
+appears that there are both universal and culture-specific aspects that
+account for variation in people’s personalities.
+
+Why might it be important to consider cultural influences on
+personality? Western ideas about personality may not be applicable to
+other cultures (Benet-Martinez & Oishi, 2008). In fact, there is
+evidence that the strength of personality traits varies across cultures.
+Let’s take a look at some of the Big Five factors (conscientiousness,
+neuroticism, openness, and extroversion) across cultures. As you will
+learn when you study social psychology, Asian cultures are more
+collectivist, and people in these cultures tend to be less extroverted.
+People in Central and South American cultures tend to score higher on
+openness to experience, whereas Europeans score higher on neuroticism
+(Benet-Martinez & Karakitapoglu-Aygun, 2003).
+
+According to this study, there also seem to be regional personality
+differences within the United States
+(`[link] <#Figure_11_08_Clusters>`__). Researchers analyzed responses
+from over 1.5 million individuals in the United States and found that
+there are three distinct regional personality clusters: Cluster 1, which
+is in the Upper Midwest and Deep South, is dominated by people who fall
+into the “friendly and conventional” personality; Cluster 2, which
+includes the West, is dominated by people who are more relaxed,
+emotionally stable, calm, and creative; and Cluster 3, which includes
+the Northeast, has more people who are stressed, irritable, and
+depressed. People who live in Clusters 2 and 3 are also generally more
+open (Rentfrow et al., 2013).
+
+|A map of the United States is shown. Above it is the label “Personality
+Clusters in the Continental United States.” Below it is a legend which
+defines areas in the map as either, “Cluster 1: friendly, conventional;”
+“Cluster 2: relaxed, creative;” or “Cluster 3: temperamental,
+uninhibited.” Cluster 1occurs mainly in the center of the country.
+Cluster 2 occurs mainly on the west side of the country. Cluster 3
+occurs mainly in the North-East region of the country and also in Texas.
+These are generalizations; there are several states which are comprised
+of a combination of two different clusters.|\ {: #Figure_11_08_Clusters}
+
+One explanation for the regional differences is **selective
+migration**\ {: data-type=“term”} (Rentfrow et al., 2013). Selective
+migration is the concept that people choose to move to places that are
+compatible with their personalities and needs. For example, a person
+high on the agreeable scale would likely want to live near family and
+friends, and would choose to settle or remain in such an area. In
+contrast, someone high on openness would prefer to settle in a place
+that is recognized as diverse and innovative (such as California).
+
+PERSONALITY IN INDIVIDUALIST AND COLLECTIVIST CULTURES
+======================================================
+
+Individualist cultures and collectivist cultures place emphasis on
+different basic values. People who live in individualist cultures tend
+to believe that independence, competition, and personal achievement are
+important. Individuals in Western nations such as the United States,
+England, and Australia score high on individualism (Oyserman, Coon, &
+Kemmelmier, 2002). People who live in collectivist cultures value social
+harmony, respectfulness, and group needs over individual needs.
+Individuals who live in countries in Asia, Africa, and South America
+score high on collectivism (Hofstede, 2001; Triandis, 1995). These
+values influence personality. For example, Yang (2006) found that people
+in individualist cultures displayed more personally oriented personality
+traits, whereas people in collectivist cultures displayed more socially
+oriented personality traits.
+
+APPROACHES TO STUDYING PERSONALITY IN A CULTURAL CONTEXT
+========================================================
+
+There are three approaches that can be used to study personality in a
+cultural context, the *cultural-comparative approach*; the *indigenous
+approach*; and the *combined approach*, which incorporates elements of
+both views. Since ideas about personality have a Western basis, the
+cultural-comparative approach seeks to test Western ideas about
+personality in other cultures to determine whether they can be
+generalized and if they have cultural validity (Cheung van de Vijver, &
+Leong, 2011). For example, recall from the previous section on the trait
+perspective that researchers used the cultural-comparative approach to
+test the universality of McCrae and Costa’s Five Factor Model. They
+found applicability in numerous cultures around the world, with the Big
+Five traits being stable in many cultures (McCrae & Costa, 1997; McCrae
+et al., 2005). The indigenous approach came about in reaction to the
+dominance of Western approaches to the study of personality in
+non-Western settings (Cheung et al., 2011). Because Western-based
+personality assessments cannot fully capture the personality constructs
+of other cultures, the indigenous model has led to the development of
+personality assessment instruments that are based on constructs relevant
+to the culture being studied (Cheung et al., 2011). The third approach
+to cross-cultural studies of personality is the combined approach, which
+serves as a bridge between Western and indigenous psychology as a way of
+understanding both universal and cultural variations in personality
+(Cheung et al., 2011).
+
+Summary
+=======
+
+The culture in which you live is one of the most important environmental
+factors that shapes your personality. Western ideas about personality
+may not be applicable to other cultures. In fact, there is evidence that
+the strength of personality traits varies across cultures. Individualist
+cultures and collectivist cultures place emphasis on different basic
+values. People who live in individualist cultures tend to believe that
+independence, competition, and personal achievement are important.
+People who live in collectivist cultures value social harmony,
+respectfulness, and group needs over individual needs. There are three
+approaches that can be used to study personality in a cultural context:
+the cultural-comparative approach, the indigenous approach, and the
+combined approach, which incorporates both elements of both views.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The United States is considered a \_______\_ culture.
+
+      1. collectivistic
+      2. individualist
+      3. traditional
+      4. nontraditional {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      The concept that people choose to move to places that are
+      compatible with their personalities and needs is known as
+      \________.
+
+      1. selective migration
+      2. personal oriented personality
+      3. socially oriented personality
+      4. individualism {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Why might it be important to consider cultural influences on
+      personality?
+
+   .. container::
+
+      Since culture influences one’s personality, then Western ideas
+      about personality may not be applicable to people of other
+      cultures. In addition, Western-based measures of personality
+      assessment may not be valid when used to collect data on people
+      from other cultures.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      According to the work of Rentfrow and colleagues, personalities
+      are not randomly distributed. Instead they fit into distinct
+      geographic clusters. Based on where you live, do you agree or
+      disagree with the traits associated with yourself and the
+      residents of your area of the country? Why or why not?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   culture
+      all of the beliefs, customs, art, and traditions of a particular
+      society ^
+   selective migration
+      concept that people choose to move to places that are compatible
+      with their personalities and needs
+
+.. |A map of the United States is shown. Above it is the label “Personality Clusters in the Continental United States.” Below it is a legend which defines areas in the map as either, “Cluster 1: friendly, conventional;” “Cluster 2: relaxed, creative;” or “Cluster 3: temperamental, uninhibited.” Cluster 1occurs mainly in the center of the country. Cluster 2 occurs mainly on the west side of the country. Cluster 3 occurs mainly in the North-East region of the country and also in Texas. These are generalizations; there are several states which are comprised of a combination of two different clusters.| image:: ../resources/CNX_Psych_11_08_Clusters.jpg

@@ -1,0 +1,13 @@
+sphinx
+sphinx_rtd_theme
+docutils
+pybtex
+setuptools
+sphinxcontrib-bibtex
+myst_parser
+sphinx
+sphinxcontrib-bibtex
+sphinxcontrib.apa
+sphinx_opensearch
+sphinx_design
+sphinx-sitemap

@@ -1,0 +1,301 @@
+=======
+Preface
+=======
+
+
+
+.. contents::
+   :depth: 3
+..
+
+Welcome to *Psychology*, an OpenStax resource. This textbook was written
+to increase student access to high-quality learning materials,
+maintaining highest standards of academic rigor at little to no cost.
+
+About OpenStax
+==============
+
+OpenStax is a nonprofit based at Rice University, and it’s our mission
+to improve student access to education. Our first openly licensed
+college textbook was published in 2012, and our library has since scaled
+to over 25 books for college and AP® courses used by hundreds of
+thousands of students. Our adaptive learning technology, designed to
+improve learning outcomes through personalized educational paths, is
+being piloted in college courses throughout the country. Through our
+partnerships with philanthropic foundations and our alliance with other
+educational resource organizations, OpenStax is breaking down the most
+common barriers to learning and empowering students and instructors to
+succeed.
+
+About OpenStax Resources
+========================
+
+Customization
+-------------
+
+*Psychology* is licensed under a Creative Commons Attribution 4.0
+International (CC BY) license, which means that you can distribute,
+remix, and build upon the content, as long as you provide attribution to
+OpenStax and its content contributors.
+
+Because our books are openly licensed, you are free to use the entire
+book or pick and choose the sections that are most relevant to the needs
+of your course. Feel free to remix the content by assigning your
+students certain chapters and sections in your syllabus, in the order
+that you prefer. You can even provide a direct link in your syllabus to
+the sections in the web view of your book.
+
+Instructors also have the option of creating a customized version of
+their OpenStax book. The custom version can be made available to
+students in low-cost print or digital form through their campus
+bookstore. Visit your book page on openstax.org for more information.
+
+Errata
+------
+
+All OpenStax textbooks undergo a rigorous review process. However, like
+any professional-grade textbook, errors sometimes occur. Since our books
+are web based, we can make updates periodically when deemed
+pedagogically necessary. If you have a correction to suggest, submit it
+through the link on your book page on openstax.org. Subject matter
+experts review all errata suggestions. OpenStax is committed to
+remaining transparent about all updates, so you will also find a list of
+past errata changes on your book page on openstax.org.
+
+Format
+------
+
+You can access this textbook for free in web view or PDF through
+openstax.org, and in low-cost print and iBooks editions.
+
+About *Psychology*
+==================
+
+*Psychology* is designed to meet scope and sequence requirements for the
+single-semester introduction to psychology course. The book offers a
+comprehensive treatment of core concepts, grounded in both classic
+studies and current and emerging research. The text also includes
+coverage of the DSM-5 in examinations of psychological disorders.
+*Psychology* incorporates discussions that reflect the diversity within
+the discipline, as well as the diversity of cultures and communities
+across the globe.
+
+Coverage and Scope
+------------------
+
+This book is designed to make psychology, as a discipline, interesting
+and accessible to students research and examples that represent and
+include the various sociocultural backgrounds of the many students who
+take this course. The result is a book that covers the breadth of
+psychology topics with variety and depth that promote student
+engagement. The organization and pedagogical features were developed and
+vetted with feedback from psychology educators dedicated to the project.
+
+-  Chapter 1: Introduction to Psychology
+-  Chapter 2: Psychological Research
+-  Chapter 3: Biopsychology
+-  Chapter 4: States of Consciousness
+-  Chapter 5: Sensation and Perception
+-  Chapter 6: Learning
+-  Chapter 7: Thinking and Intelligence
+-  Chapter 8: Memory
+-  Chapter 9: Lifespan Development
+-  Chapter 10: Motivation and Emotion
+-  Chapter 11: Personality
+-  Chapter 12: Social Psychology
+-  Chapter 13: Industrial-Organizational Psychology
+-  Chapter 14: Stress, Lifestyle, and Health
+-  Chapter 15: Psychological Disorders
+-  Chapter 16: Therapy and Treatment {: data-bullet-style=“bullet”}
+
+.. _eip-962:
+
+Pedagogical Foundation
+----------------------
+
+Throughout *Psychology*, you will find features that draw the students
+into psychological inquiry by taking selected topics a step further.
+
+-  **Everyday Connection** features tie psychological topics to everyday
+   issues and behaviors that students encounter in their lives and the
+   world. Topics include the validity of scores on college entrance
+   exams, advertising and associative learning, and cognitive mapping.
+-  **What Do You Think?** features provide research-based information
+   and ask students their views on controversial issues. Topics include
+   “Brain Dead and on Life Support,” “Hooters and BFOQ Laws,” and
+   “Intellectually Disabled Criminals and Capital Punishment.”
+-  **Dig Deeper** features discuss one specific aspect of a topic in
+   greater depth so students can dig more deeply into the concept.
+   Examples include a discussion on the distinction between evolutionary
+   psychology and behavioral genetics, an analysis of the increasing
+   prevalence rate of ADHD, and a presentation of research on strategies
+   for coping with prejudice and discrimination.
+-  **Connect the Concepts** features revisit a concept learned in
+   another chapter, expanding upon it within a different context.
+   Features include “Autism Spectrum Disorder and the Expression of
+   Emotions,” “Tweens, Teens, and Social Norms,” and “Conditioning and
+   OCD.”
+
+Art, Interactives, and Assessments That Engage
+----------------------------------------------
+
+Our art program is designed to enhance students’ understanding of
+psychological concepts through simple, effective graphs, diagrams, and
+photographs. *Psychology* also incorporates links to relevant
+interactive exercises and animations that help bring topics to life.
+Selected assessment items touch directly on students’ lives.
+
+-  **Link to Learning** features direct students to online interactive
+   exercises and animations that add a fuller context to core content
+   and provide an opportunity for application.
+-  **Personal Application Questions** engage students in topics at a
+   personal level to encourage reflection and promote discussion.
+
+Additional Resources
+====================
+
+.. _eip-541:
+
+Student and Instructor Resources
+--------------------------------
+
+We’ve compiled additional resources for both students and instructors,
+including Getting Started Guides, an instructor solution guide, a test
+bank, and PowerPoint slides. Instructor resources require a verified
+instructor account, which you can apply for when you log in or create
+your account on openstax.org. Take advantage of these resources to
+supplement your OpenStax book.
+
+.. _eip-911:
+
+Partner Resources
+-----------------
+
+OpenStax Partners are our allies in the mission to make high-quality
+learning materials affordable and accessible to students and instructors
+everywhere. Their tools integrate seamlessly with our OpenStax titles at
+a low cost. To access the partner resources for your text, visit your
+book page on openstax.org.
+
+About the Authors
+=================
+
+.. _eip-901:
+
+Senior Contributing Authors
+---------------------------
+
+Rose M. Spielman (Content Lead)\* \* \* {: data-type=“newline”}
+
+Dr. Rose Spielman has been teaching psychology and working as a licensed
+clinical psychologist for 20 years. Her academic career has included
+positions at Quinnipiac University, Housatonic Community College, and
+Goodwin College. As a licensed clinical psychologist, educator, and
+volunteer director, Rose is able to connect with people from diverse
+backgrounds and facilitate treatment, advocacy, and education. In her
+years of work as a teacher, therapist, and administrator, she has helped
+thousands of students and clients and taught them to advocate for
+themselves and move their lives forward to become more productive
+citizens and family members.
+
+Kathryn Dumper, Bainbridge State College\* \* \* {: data-type=“newline”}
+
+William Jenkins, Mercer University\* \* \* {: data-type=“newline”}
+
+Arlene Lacombe, Saint Joseph’s University\* \* \* {:
+data-type=“newline”}
+
+Marilyn Lovett, Livingstone College\* \* \* {: data-type=“newline”}
+
+Marion Perlmutter, University of Michigan
+
+.. _eip-860:
+
+Reviewers
+---------
+
+Daniel Bellack, Trident Technical College\* \* \* {:
+data-type=“newline”}
+
+Jerimy Blowers, Cayuga Community College\* \* \* {: data-type=“newline”}
+
+Salena Brody, Collin College\* \* \* {: data-type=“newline”}
+
+Bettina Casad, University of Missouri–St. Louis\* \* \* {:
+data-type=“newline”}
+
+Sharon Chacon, Northeast Wisconsin Technical College\* \* \* {:
+data-type=“newline”}
+
+Barbara Chappell, Walden University\* \* \* {: data-type=“newline”}
+
+James Corpening\* \* \* {: data-type=“newline”}
+
+Frank Eyetsemitan, Roger Williams University\* \* \* {:
+data-type=“newline”}
+
+Tamara Ferguson, Utah State University\* \* \* {: data-type=“newline”}
+
+Kathleen Flannery, Saint Anselm College\* \* \* {: data-type=“newline”}
+
+Johnathan Forbey, Ball State University\* \* \* {: data-type=“newline”}
+
+Laura Gaudet, Chadron State College\* \* \* {: data-type=“newline”}
+
+William Goggin, University of Southern Mississippi\* \* \* {:
+data-type=“newline”}
+
+Jeffery K. Gray, Charleston Southern University\* \* \* {:
+data-type=“newline”}
+
+Heather Griffiths, Fayetteville State University\* \* \* {:
+data-type=“newline”}
+
+Mark Holder, University of British Columbia\* \* \* {:
+data-type=“newline”}
+
+Rita Houge, Des Moines Area Community College\* \* \* {:
+data-type=“newline”}
+
+Colette Jacquot, Strayer University\* \* \* {: data-type=“newline”}
+
+John Johanson, Winona State University\* \* \* {: data-type=“newline”}
+
+Andrew Johnson, Park University\* \* \* {: data-type=“newline”}
+
+Shaila Khan, Tougaloo College\* \* \* {: data-type=“newline”}
+
+Carol Laman, Houston Community College\* \* \* {: data-type=“newline”}
+
+Thomas Malloy, Rhode Island College\* \* \* {: data-type=“newline”}
+
+Jan Mendoza, Golden West College\* \* \* {: data-type=“newline”}
+
+Christopher Miller, University of Minnesota\* \* \* {:
+data-type=“newline”}
+
+Lisa Moeller, Beckfield College\* \* \* {: data-type=“newline”}
+
+Hugh Riley, Baylor University\* \* \* {: data-type=“newline”}
+
+Juan Salinas, University of Texas at Austin\* \* \* {:
+data-type=“newline”}
+
+Brittney Schrick, Southern Arkansas University\* \* \* {:
+data-type=“newline”}
+
+Phoebe Scotland, College of the Rockies\* \* \* {: data-type=“newline”}
+
+Christine Selby, Husson University\* \* \* {: data-type=“newline”}
+
+Brian Sexton, Kean University\* \* \* {: data-type=“newline”}
+
+Nancy Simpson, Trident Technical College\* \* \* {: data-type=“newline”}
+
+Robert Stennett, University of Georgia\* \* \* {: data-type=“newline”}
+
+Jennifer Stevenson, Ursinus College\* \* \* {: data-type=“newline”}
+
+Eric Weiser, Curry College\* \* \* {: data-type=“newline”}
+
+Valjean Whitlow, American Public University

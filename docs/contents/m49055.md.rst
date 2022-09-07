@@ -1,0 +1,752 @@
+========
+Language
+========
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Define language
+   and demonstrate familiarity with the components of language \*
+   Understand how the use of language develops \* Explain the
+   relationship between language and thinking
+
+**Language**\ {: data-type=“term”} is a communication system that
+involves using words and systematic rules to organize those words to
+transmit information from one individual to another. While language is a
+form of communication, not all communication is language. Many species
+communicate with one another through their postures, movements, odors,
+or vocalizations. This communication is crucial for species that need to
+interact and develop social relationships with their conspecifics.
+However, many people have asserted that it is language that makes humans
+unique among all of the animal species (Corballis & Suddendorf, 2007;
+Tomasello & Rakoczy, 2003). This section will focus on what
+distinguishes language as a special form of communication, how the use
+of language develops, and how language affects the way we think.
+
+COMPONENTS OF LANGUAGE
+======================
+
+Language, be it spoken, signed, or written, has specific components: a
+lexicon and grammar. **Lexicon**\ {: data-type=“term”} refers to the
+words of a given language. Thus, lexicon is a language’s vocabulary.
+**Grammar**\ {: data-type=“term”} refers to the set of rules that are
+used to convey meaning through the use of the lexicon (Fernández &
+Cairns, 2011). For instance, English grammar dictates that most verbs
+receive an “-ed” at the end to indicate past tense.
+
+Words are formed by combining the various phonemes that make up the
+language. A **phoneme**\ {: data-type=“term”} (e.g., the sounds “ah”
+vs. “eh”) is a basic sound unit of a given language, and different
+languages have different sets of phonemes. Phonemes are combined to form
+**morphemes**\ {: data-type=“term”}, which are the smallest units of
+language that convey some type of meaning (e.g., “I” is both a phoneme
+and a morpheme). We use semantics and syntax to construct language.
+Semantics and syntax are part of a language’s grammar. **Semantics**\ {:
+data-type=“term”} refers to the process by which we derive meaning from
+morphemes and words. **Syntax**\ {: data-type=“term”} refers to the way
+words are organized into sentences (Chomsky, 1965; Fernández & Cairns,
+2011).
+
+We apply the rules of grammar to organize the lexicon in novel and
+creative ways, which allow us to communicate information about both
+concrete and abstract concepts. We can talk about our immediate and
+observable surroundings as well as the surface of unseen planets. We can
+share our innermost thoughts, our plans for the future, and debate the
+value of a college education. We can provide detailed instructions for
+cooking a meal, fixing a car, or building a fire. The flexibility that
+language provides to relay vastly different types of information is a
+property that makes language so distinct as a mode of communication
+among humans.
+
+LANGUAGE DEVELOPMENT
+====================
+
+Given the remarkable complexity of a language, one might expect that
+mastering a language would be an especially arduous task; indeed, for
+those of us trying to learn a second language as adults, this might seem
+to be true. However, young children master language very quickly with
+relative ease. B. F. **Skinner**\ {: data-type=“term” .no-emphasis}
+(1957) proposed that language is learned through reinforcement. Noam
+**Chomsky**\ {: data-type=“term” .no-emphasis} (1965) criticized this
+behaviorist approach, asserting instead that the mechanisms underlying
+language acquisition are biologically determined. The use of language
+develops in the absence of formal instruction and appears to follow a
+very similar pattern in children from vastly different cultures and
+backgrounds. It would seem, therefore, that we are born with a
+biological predisposition to acquire a language (Chomsky, 1965;
+Fernández & Cairns, 2011). Moreover, it appears that there is a critical
+period for language acquisition, such that this proficiency at acquiring
+language is maximal early in life; generally, as people age, the ease
+with which they acquire and master new languages diminishes (Johnson &
+Newport, 1989; Lenneberg, 1967; Singleton, 1995).
+
+Children begin to learn about language from a very early age
+(`[link] <#Table_07_02_01>`__). In fact, it appears that this is
+occurring even before we are born. Newborns show preference for their
+mother’s voice and appear to be able to discriminate between the
+language spoken by their mother and other languages. Babies are also
+attuned to the languages being used around them and show preferences for
+videos of faces that are moving in synchrony with the audio of spoken
+language versus videos that do not synchronize with the audio (Blossom &
+Morgan, 2006; Pickens, 1994; Spelke & Cortelyou, 1981).
+
+.. raw:: html
+
+   <table id="Table_07_02_01" summary="A three column table describes Stages of Language and Communication Development. The columns, from left to right, are labeled “Stage; Age; and Developmental Language and Communication.” The first row, respectively, reads: “1; 0–3 months; and reflexive communication.” The second row reads: “2; 3–8 months; and reflexive communication, interest in others.” The third row reads: “3; 8–13 months; and intentional communication, sociability.” The fourth row reads: “4; 12–18 months; and first words.” The fifth row reads: “5; 18–24 months; and simple sentences of two words.” The sixth row reads: “6; 2–3 years; and sentences of three or more words.” The seventh row reads: “7; 3–5 years; and complex sentences, has conversations.”">
+
+.. raw:: html
+
+   <caption>
+
+Stages of Language and Communication Development
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Stage
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Age
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Developmental Language and Communication
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+1
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+0–3 months
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Reflexive communication
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+2
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+3–8 months
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Reflexive communication; interest in others
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+3
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+8–13 months
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Intentional communication; sociability
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+4
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+12–18 months
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+First words
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+5
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+18–24 months
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Simple sentences of two words
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+6
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+2–3 years
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Sentences of three or more words
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+7
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+3–5 years
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Complex sentences; has conversations
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      The Case of Genie
+
+   In the fall of 1970, a social worker in the Los Angeles area found a
+   13-year-old girl who was being raised in extremely neglectful and
+   abusive conditions. The girl, who came to be known as Genie, had
+   lived most of her life tied to a potty chair or confined to a crib in
+   a small room that was kept closed with the curtains drawn. For a
+   little over a decade, Genie had virtually no social interaction and
+   no access to the outside world. As a result of these conditions,
+   Genie was unable to stand up, chew solid food, or speak (Fromkin,
+   Krashen, Curtiss, Rigler, & Rigler, 1974; Rymer, 1993). The police
+   took Genie into protective custody.
+
+   Genie’s abilities improved dramatically following her removal from
+   her abusive environment, and early on, it appeared she was acquiring
+   language—much later than would be predicted by critical period
+   hypotheses that had been posited at the time (Fromkin et al., 1974).
+   Genie managed to amass an impressive vocabulary in a relatively short
+   amount of time. However, she never developed a mastery of the
+   grammatical aspects of language (Curtiss, 1981). Perhaps being
+   deprived of the opportunity to learn language during a critical
+   period impeded Genie’s ability to fully acquire and use language.
+
+You may recall that each language has its own set of phonemes that are
+used to generate morphemes, words, and so on. Babies can discriminate
+among the sounds that make up a language (for example, they can tell the
+difference between the “s” in vision and the “ss” in fission); early on,
+they can differentiate between the sounds of all human languages, even
+those that do not occur in the languages that are used in their
+environments. However, by the time that they are about 1 year old, they
+can only discriminate among those phonemes that are used in the language
+or languages in their environments (Jensen, 2011; Werker & Lalonde,
+1988; Werker & Tees, 1984).
+
+.. container:: psychology link-to-learning
+
+   Visit this `website <http://openstax.org/l/language>`__ to learn more
+   about how babies lose the ability to discriminate among all possible
+   human phonemes as they age.
+
+After the first few months of life, babies enter what is known as the
+babbling stage, during which time they tend to produce single syllables
+that are repeated over and over. As time passes, more variations appear
+in the syllables that they produce. During this time, it is unlikely
+that the babies are trying to communicate; they are just as likely to
+babble when they are alone as when they are with their caregivers
+(Fernández & Cairns, 2011). Interestingly, babies who are raised in
+environments in which sign language is used will also begin to show
+babbling in the gestures of their hands during this stage (Petitto,
+Holowka, Sergio, Levy, & Ostry, 2004).
+
+Generally, a child’s first word is uttered sometime between the ages of
+1 year to 18 months, and for the next few months, the child will remain
+in the “one word” stage of language development. During this time,
+children know a number of words, but they only produce one-word
+utterances. The child’s early vocabulary is limited to familiar objects
+or events, often nouns. Although children in this stage only make
+one-word utterances, these words often carry larger meaning (Fernández &
+Cairns, 2011). So, for example, a child saying “cookie” could be
+identifying a cookie or asking for a cookie.
+
+As a child’s lexicon grows, she begins to utter simple sentences and to
+acquire new vocabulary at a very rapid pace. In addition, children begin
+to demonstrate a clear understanding of the specific rules that apply to
+their language(s). Even the mistakes that children sometimes make
+provide evidence of just how much they understand about those rules.
+This is sometimes seen in the form of **overgeneralization**\ {:
+data-type=“term”}. In this context, overgeneralization refers to an
+extension of a language rule to an exception to the rule. For example,
+in English, it is usually the case that an “s” is added to the end of a
+word to indicate plurality. For example, we speak of one dog versus two
+dogs. Young children will overgeneralize this rule to cases that are
+exceptions to the “add an s to the end of the word” rule and say things
+like “those two gooses” or “three mouses.” Clearly, the rules of the
+language are understood, even if the exceptions to the rules are still
+being learned (Moskowitz, 1978).
+
+LANGUAGE AND THOUGHT
+====================
+
+When we speak one language, we agree that words are representations of
+ideas, people, places, and events. The given language that children
+learn is connected to their culture and surroundings. But can words
+themselves shape the way we think about things? Psychologists have long
+investigated the question of whether language shapes thoughts and
+actions, or whether our thoughts and beliefs shape our language. Two
+researchers, Edward Sapir and Benjamin Lee Whorf, began this
+investigation in the 1940s. They wanted to understand how the language
+habits of a community encourage members of that community to interpret
+language in a particular manner (Sapir, 1941/1964). Sapir and Whorf
+proposed that language determines thought, suggesting, for example, that
+a person whose community language did not have past-tense verbs would be
+challenged to think about the past (Whorf, 1956). Researchers have since
+identified this view as too absolute, pointing out a lack of empiricism
+behind what Sapir and Whorf proposed (Abler, 2013; Boroditsky, 2011; van
+Troyer, 1994). Today, psychologists continue to study and debate the
+relationship between language and thought.
+
+.. container:: psychology what-do-you-think
+
+   .. container::
+
+      The Meaning of Language
+
+   Think about what you know of other languages; perhaps you even speak
+   multiple languages. Imagine for a moment that your closest friend
+   fluently speaks more than one language. Do you think that friend
+   thinks differently, depending on which language is being spoken? You
+   may know a few words that are not translatable from their original
+   language into English. For example, the Portuguese word saudade
+   originated during the 15th century, when Portuguese sailors left home
+   to explore the seas and travel to Africa or Asia. Those left behind
+   described the emptiness and fondness they felt as saudade
+   (`[link] <#Figure_07_02_Saudade>`__)\ *.* The word came to express
+   many meanings, including loss, nostalgia, yearning, warm memories,
+   and hope. There is no single word in English that includes all of
+   those emotions in a single description. Do words such as *saudade*
+   indicate that different languages produce different patterns of
+   thought in people? What do you think??
+
+   |Photograph A shows a painting of a person leaning against a ledge,
+   slumped sideways over a box. Photograph B shows a painting of a
+   person reading by a window.|\ {: #Figure_07_02_Saudade}
+
+Language may indeed influence the way that we think, an idea known as
+linguistic determinism. One recent demonstration of this phenomenon
+involved differences in the way that English and Mandarin Chinese
+speakers talk and think about time. English speakers tend to talk about
+time using terms that describe changes along a horizontal dimension, for
+example, saying something like “I’m running behind schedule” or “Don’t
+get ahead of yourself.” While Mandarin Chinese speakers also describe
+time in horizontal terms, it is not uncommon to also use terms
+associated with a vertical arrangement. For example, the past might be
+described as being “up” and the future as being “down.” It turns out
+that these differences in language translate into differences in
+performance on cognitive tests designed to measure how quickly an
+individual can recognize temporal relationships. Specifically, when
+given a series of tasks with vertical priming, Mandarin Chinese speakers
+were faster at recognizing temporal relationships between months.
+Indeed, Boroditsky (2001) sees these results as suggesting that “habits
+in language encourage habits in thought” (p. 12).
+
+One group of researchers who wanted to investigate how language
+influences thought compared how English speakers and the Dani people of
+Papua New Guinea think and speak about color. The Dani have two words
+for color: one word for light and one word for *dark*. In contrast, the
+English language has 11 color words. Researchers hypothesized that the
+number of color terms could limit the ways that the Dani people
+conceptualized color. However, the Dani were able to distinguish colors
+with the same ability as English speakers, despite having fewer words at
+their disposal (Berlin & Kay, 1969). A recent review of research aimed
+at determining how language might affect something like color perception
+suggests that language can influence perceptual phenomena, especially in
+the left hemisphere of the brain. You may recall from earlier chapters
+that the left hemisphere is associated with language for most people.
+However, the right (less linguistic hemisphere) of the brain is less
+affected by linguistic influences on perception (Regier & Kay, 2009)
+
+Summary
+=======
+
+Language is a communication system that has both a lexicon and a system
+of grammar. Language acquisition occurs naturally and effortlessly
+during the early stages of life, and this acquisition occurs in a
+predictable sequence for individuals around the world. Language has a
+strong influence on thought, and the concept of how language may
+influence cognition remains an area of study and debate in psychology.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      \_______\_ provides general principles for organizing words into
+      meaningful sentences.
+
+      1. Linguistic determinism
+      2. Lexicon
+      3. Semantics
+      4. Syntax {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      \_______\_ are the smallest unit of language that carry meaning.
+
+      1. Lexicon
+      2. Phonemes
+      3. Morphemes
+      4. Syntax {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      The meaning of words and phrases is determined by applying the
+      rules of \________.
+
+      1. lexicon
+      2. phonemes
+      3. overgeneralization
+      4. semantics {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      \_______\_ is (are) the basic sound units of a spoken language.
+
+      1. Syntax
+      2. Phonemes
+      3. Morphemes
+      4. Grammar {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      How do words not only represent our thoughts but also represent
+      our values?
+
+   .. container::
+
+      People tend to talk about the things that are important to them or
+      the things they think about the most. What we talk about,
+      therefore, is a reflection of our values.
+
+.. container::
+
+   .. container::
+
+      How could grammatical errors actually be indicative of language
+      acquisition in children?
+
+   .. container::
+
+      People tend to talk about the things that are important to them or
+      the things they think about the most. What we talk about,
+      therefore, is a reflection of our values.
+
+.. container::
+
+   .. container::
+
+      How do words not only represent our thoughts but also represent
+      our values?
+
+   .. container::
+
+      Grammatical errors that involve overgeneralization of specific
+      rules of a given language indicate that the child recognizes the
+      rule, even if he or she doesn’t recognize all of the subtleties or
+      exceptions involved in the rule’s application.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Can you think of examples of how language affects cognition?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   grammar
+      set of rules that are used to convey meaning through the use of a
+      lexicon ^
+   language
+      communication system that involves using words to transmit
+      information from one individual to another ^
+   lexicon
+      the words of a given language ^
+   morpheme
+      smallest unit of language that conveys some type of meaning ^
+   overgeneralization
+      extension of a rule that exists in a given language to an
+      exception to the rule ^
+   phoneme
+      basic sound unit of a given language ^
+   semantics
+      process by which we derive meaning from morphemes and words ^
+   syntax
+      manner by which words are organized into sentences
+
+.. |Photograph A shows a painting of a person leaning against a ledge, slumped sideways over a box. Photograph B shows a painting of a person reading by a window.| image:: ../resources/CNX_Psych_07_02_Saudade.jpg

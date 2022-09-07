@@ -1,0 +1,841 @@
+===========================
+Cells of the Nervous System
+===========================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Identify the
+   basic parts of a neuron \* Describe how neurons communicate with each
+   other \* Explain how drugs act as agonists or antagonists for a given
+   neurotransmitter system
+
+Psychologists striving to understand the human mind may study the
+nervous system. Learning how the cells and organs (like the brain)
+function, help us understand the biological basis behind human
+psychology. The **nervous system**\ {: data-type=“term”} is composed of
+two basic cell types: glial cells (also known as glia) and neurons.
+Glial cells, which outnumber neurons ten to one, are traditionally
+thought to play a supportive role to neurons, both physically and
+metabolically. **Glial cells**\ {: data-type=“term”} provide scaffolding
+on which the nervous system is built, help neurons line up closely with
+each other to allow neuronal communication, provide insulation to
+neurons, transport nutrients and waste products, and mediate immune
+responses. **Neurons**\ {: data-type=“term”}, on the other hand, serve
+as interconnected information processors that are essential for all of
+the tasks of the nervous system. This section briefly describes the
+structure and function of neurons.
+
+Neuron Structure
+================
+
+**Neurons**\ {: data-type=“term” .no-emphasis} are the central building
+blocks of the nervous system, 100 billion strong at birth. Like all
+cells, neurons consist of several different parts, each serving a
+specialized function (`[link] <#CNX_Psych_03_02_Neuron>`__). A neuron’s
+outer surface is made up of a **semipermeable membrane**\ {:
+data-type=“term”}. This membrane allows smaller molecules and molecules
+without an electrical charge to pass through it, while stopping larger
+or highly charged molecules.
+
+|An illustration shows a neuron with labeled parts for the cell
+membrane, dendrite, cell body, axon, and terminal buttons. A myelin
+sheath covers part of the neuron.|\ {: #CNX_Psych_03_02_Neuron}
+
+The nucleus of the neuron is located in the **soma**\ {:
+data-type=“term”}, or cell body. The soma has branching extensions known
+as **dendrites**\ {: data-type=“term”}. The neuron is a small
+information processor, and dendrites serve as input sites where signals
+are received from other neurons. These signals are transmitted
+electrically across the soma and down a major extension from the soma
+known as the **axon**\ {: data-type=“term”}, which ends at multiple
+**terminal buttons**\ {: data-type=“term”}. The terminal buttons contain
+**synaptic vesicles**\ {: data-type=“term”} that house
+**neurotransmitters**\ {: data-type=“term”}, the chemical messengers of
+the nervous system.
+
+Axons range in length from a fraction of an inch to several feet. In
+some axons, glial cells form a fatty substance known as the **myelin
+sheath**\ {: data-type=“term”}, which coats the axon and acts as an
+insulator, increasing the speed at which the signal travels. The myelin
+sheath is crucial for the normal operation of the neurons within the
+nervous system: the loss of the insulation it provides can be
+detrimental to normal function. To understand how this works, let’s
+consider an example. Multiple sclerosis (MS), an autoimmune disorder,
+involves a large-scale loss of the myelin sheath on axons throughout the
+nervous system. The resulting interference in the electrical signal
+prevents the quick transmittal of information by neurons and can lead to
+a number of symptoms, such as dizziness, fatigue, loss of motor control,
+and sexual dysfunction. While some treatments may help to modify the
+course of the disease and manage certain symptoms, there is currently no
+known cure for multiple sclerosis.
+
+In healthy individuals, the neuronal signal moves rapidly down the axon
+to the terminal buttons, where synaptic vesicles release
+neurotransmitters into the synapse
+(`[link] <#CNX_Psych_03_02_Synapse>`__). The **synapse**\ {:
+data-type=“term”} is a very small space between two neurons and is an
+important site where communication between neurons occurs. Once
+neurotransmitters are released into the synapse, they travel across the
+small space and bind with corresponding receptors on the dendrite of an
+adjacent neuron. **Receptors**\ {: data-type=“term”}, proteins on the
+cell surface where neurotransmitters attach, vary in shape, with
+different shapes “matching” different neurotransmitters.
+
+How does a neurotransmitter “know” which receptor to bind to? The
+neurotransmitter and the receptor have what is referred to as a
+lock-and-key relationship—specific neurotransmitters fit specific
+receptors similar to how a key fits a lock. The neurotransmitter binds
+to any receptor that it fits.
+
+|Image (a) shows the synaptic space between two neurons, with
+neurotransmitters being released into the synapse and attaching to
+receptors. Image (b) is a micrograph showing a spherical terminal button
+with part of the exterior removed, revealing a solid interior of small
+round parts.|\ {: #CNX_Psych_03_02_Synapse}
+
+Neuronal Communication
+======================
+
+Now that we have learned about the basic structures of the neuron and
+the role that these structures play in neuronal communication, let’s
+take a closer look at the signal itself—how it moves through the neuron
+and then jumps to the next neuron, where the process is repeated.
+
+We begin at the neuronal membrane. The **neuron**\ {: data-type=“term”
+.no-emphasis} exists in a fluid environment—it is surrounded by
+extracellular fluid and contains intracellular fluid (i.e., cytoplasm).
+The neuronal membrane keeps these two fluids separate—a critical role
+because the electrical signal that passes through the neuron depends on
+the intra- and extracellular fluids being electrically different. This
+difference in charge across the membrane, called the **membrane
+potential**\ {: data-type=“term”}, provides energy for the signal.
+
+The electrical charge of the fluids is caused by charged molecules
+(ions) dissolved in the fluid. The semipermeable nature of the neuronal
+membrane somewhat restricts the movement of these charged molecules,
+and, as a result, some of the charged particles tend to become more
+concentrated either inside or outside the cell.
+
+Between signals, the neuron membrane’s potential is held in a state of
+readiness, called the **resting potential**\ {: data-type=“term”}. Like
+a rubber band stretched out and waiting to spring into action, ions line
+up on either side of the cell membrane, ready to rush across the
+membrane when the neuron goes active and the membrane opens its gates
+(i.e., a **sodium-potassium pump**\ {: data-type=“term” .no-emphasis}
+that allows movement of ions across the membrane). Ions in
+high-concentration areas are ready to move to low-concentration areas,
+and positive ions are ready to move to areas with a negative charge.
+
+In the resting state, sodium (Na+) is at higher concentrations outside
+the cell, so it will tend to move into the cell. Potassium (K+), on the
+other hand, is more concentrated inside the cell, and will tend to move
+out of the cell (`[link] <#CNX_Psych_03_02_NaKConc>`__). In addition,
+the inside of the cell is slightly negatively charged compared to the
+outside. This provides an additional force on sodium, causing it to move
+into the cell.
+
+|A close-up illustration depicts the difference in charges across the
+cell membrane, and shows how Na+ and K+ cells concentrate more closely
+near the membrane.|\ {: #CNX_Psych_03_02_NaKConc}
+
+From this resting potential state, the neuron receives a signal and its
+state changes abruptly (`[link] <#CNX_Psych_03_02_ActionP>`__). When a
+neuron receives signals at the dendrites—due to neurotransmitters from
+an adjacent neuron binding to its receptors—small pores, or gates, open
+on the neuronal membrane, allowing Na+ ions, propelled by both charge
+and concentration differences, to move into the cell. With this influx
+of positive ions, the internal charge of the cell becomes more positive.
+If that charge reaches a certain level, called the **threshold of
+excitation**\ {: data-type=“term”}, the neuron becomes active and the
+action potential begins.
+
+Many additional pores open, causing a massive influx of Na+ ions and a
+huge positive spike in the membrane potential, the peak action
+potential. At the peak of the spike, the sodium gates close and the
+potassium gates open. As positively charged potassium ions leave, the
+cell quickly begins repolarization. At first, it hyperpolarizes,
+becoming slightly more negative than the resting potential, and then it
+levels off, returning to the resting potential.
+
+|A graph shows the increase, peak, and decrease in membrane potential.
+The millivolts through the phases are approximately -70mV at resting
+potential, -55mV at threshold of excitation, 30mV at peak action
+potential, 5mV at repolarization, and -80mV at hyperpolarization.|\ {:
+#CNX_Psych_03_02_ActionP}
+
+This positive spike constitutes the **action potential**\ {:
+data-type=“term”}: the electrical signal that typically moves from the
+cell body down the axon to the axon terminals. The electrical signal
+moves down the axon like a wave; at each point, some of the sodium ions
+that enter the cell diffuse to the next section of the axon, raising the
+charge past the threshold of excitation and triggering a new influx of
+sodium ions. The action potential moves all the way down the axon to the
+terminal buttons.
+
+The action potential is an **all-or-none**\ {: data-type=“term”}
+phenomenon. In simple terms, this means that an incoming signal from
+another neuron is either sufficient or insufficient to reach the
+threshold of excitation. There is no in-between, and there is no turning
+off an action potential once it starts. Think of it like sending an
+email or a text message. You can think about sending it all you want,
+but the message is not sent until you hit the send button. Furthermore,
+once you send the message, there is no stopping it.
+
+Because it is all or none, the **action potential**\ {: data-type=“term”
+.no-emphasis} is recreated, or propagated, at its full strength at every
+point along the axon. Much like the lit fuse of a firecracker, it does
+not fade away as it travels down the axon. It is this all-or-none
+property that explains the fact that your brain perceives an injury to a
+distant body part like your toe as equally painful as one to your nose.
+
+As noted earlier, when the action potential arrives at the terminal
+button, the synaptic vesicles release their neurotransmitters into the
+synapse. The neurotransmitters travel across the synapse and bind to
+receptors on the dendrites of the adjacent neuron, and the process
+repeats itself in the new neuron (assuming the signal is sufficiently
+strong to trigger an action potential). Once the signal is delivered,
+excess neurotransmitters in the synapse drift away, are broken down into
+inactive fragments, or are reabsorbed in a process known as
+**reuptake**\ {: data-type=“term”}. Reuptake involves the
+neurotransmitter being pumped back into the neuron that released it, in
+order to clear the synapse (`[link] <#CNX_Psych_03_02_Reuptake>`__).
+Clearing the synapse serves both to provide a clear “on” and “off” state
+between signals and to regulate the production of neurotransmitter (full
+synaptic vesicles provide signals that no additional neurotransmitters
+need to be produced).
+
+|The synaptic space between two neurons is shown. Some neurotransmitters
+that have been released into the synapse are attaching to receptors
+while others undergo reuptake into the axon terminal.|\ {:
+#CNX_Psych_03_02_Reuptake}
+
+Neuronal communication is often referred to as an electrochemical event.
+The movement of the action potential down the length of the axon is an
+electrical event, and movement of the neurotransmitter across the
+synaptic space represents the chemical portion of the process.
+
+.. container:: psychology link-to-learning
+
+   Click through this `interactive
+   simulation <http://openstax.org/l/chospital>`__ for a closer look at
+   neuronal communication.
+
+Neurotransmitters and Drugs
+===========================
+
+There are several different types of **neurotransmitters**\ {:
+data-type=“term” .no-emphasis} released by different neurons, and we can
+speak in broad terms about the kinds of functions associated with
+different neurotransmitters (`[link] <#fs-id1346979>`__). Much of what
+psychologists know about the functions of neurotransmitters comes from
+research on the effects of drugs in psychological disorders.
+Psychologists who take a **biological perspective**\ {:
+data-type=“term”} and focus on the physiological causes of behavior
+assert that psychological disorders like depression and schizophrenia
+are associated with imbalances in one or more neurotransmitter systems.
+In this perspective, psychotropic medications can help improve the
+symptoms associated with these disorders. **Psychotropic
+medications**\ {: data-type=“term”} are drugs that treat psychiatric
+symptoms by restoring neurotransmitter balance.
+
+.. raw:: html
+
+   <table summary="A table with 3 columns and 8 rows lists major neurotransmitters, the body functions they are involved in, and their potential effect on behavior. Acetylcholine is involved in muscle action and memory; it can increase arousal and enhance cognition. Beta-endorphin is involved in pain and pleasure; it can decrease anxiety and tension. Dopamine is involved in mood, sleep, and learning; it can increase pleasure and suppress appetite. Gamma-aminobutyric acid is involved in brain function and sleep; it can decrease anxiety and tension. Glutamate is involved in memory and learning; it can increase learning and enhance memory. Norepinephrine is involved in heart and intestinal function and alertness; it can increase arousal and suppress appetite. Serotonin is involved in mood and sleep; it can modulate mood and suppress appetite.">
+
+.. raw:: html
+
+   <caption>
+
+Major Neurotransmitters and How They Affect Behavior
+
+.. raw:: html
+
+   </caption>
+
+.. raw:: html
+
+   <thead>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <th>
+
+Neurotransmitter
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Involved in
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   <th>
+
+Potential Effect on Behavior
+
+.. raw:: html
+
+   </th>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </thead>
+
+.. raw:: html
+
+   <tbody>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Acetylcholine
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Muscle action, memory
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Increased arousal, enhanced cognition
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Beta-endorphin
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Pain, pleasure
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Decreased anxiety, decreased tension
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Dopamine
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Mood, sleep, learning
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Increased pleasure, suppressed appetite
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Gamma-aminobutyric acid (GABA)
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Brain function, sleep
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Decreased anxiety, decreased tension
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Glutamate
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Memory, learning
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Increased learning, enhanced memory
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Norepinephrine
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Heart, intestines, alertness
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Increased arousal, suppressed appetite
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+Serotonin
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Mood, sleep
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+Modulated mood, suppressed appetite
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </tbody>
+
+.. raw:: html
+
+   </table>
+
+Psychoactive drugs can act as agonists or antagonists for a given
+neurotransmitter system. **Agonists**\ {: data-type=“term”} are
+chemicals that mimic a neurotransmitter at the receptor site and, thus,
+strengthen its effects. An **antagonist**\ {: data-type=“term”}, on the
+other hand, blocks or impedes the normal activity of a neurotransmitter
+at the receptor. Agonist and antagonist drugs are prescribed to correct
+the specific neurotransmitter imbalances underlying a person’s
+condition. For example, Parkinson's disease, a progressive nervous
+system disorder, is associated with low levels of dopamine. Therefore
+dopamine agonists, which mimic the effects of dopamine by binding to
+dopamine receptors, are one treatment strategy.
+
+Certain symptoms of schizophrenia are associated with overactive
+dopamine neurotransmission. The antipsychotics used to treat these
+symptoms are antagonists for dopamine—they block dopamine’s effects by
+binding its receptors without activating them. Thus, they prevent
+dopamine released by one neuron from signaling information to adjacent
+neurons.
+
+In contrast to agonists and antagonists, which both operate by binding
+to receptor sites, reuptake inhibitors prevent unused neurotransmitters
+from being transported back to the neuron. This leaves more
+neurotransmitters in the synapse for a longer time, increasing its
+effects. Depression, which has been consistently linked with reduced
+serotonin levels, is commonly treated with selective serotonin reuptake
+inhibitors (SSRIs). By preventing reuptake, SSRIs strengthen the effect
+of serotonin, giving it more time to interact with serotonin receptors
+on dendrites. Common SSRIs on the market today include Prozac, Paxil,
+and Zoloft. The drug LSD is structurally very similar to serotonin, and
+it affects the same neurons and receptors as serotonin. Psychotropic
+drugs are not instant solutions for people suffering from psychological
+disorders. Often, an individual must take a drug for several weeks
+before seeing improvement, and many psychoactive drugs have significant
+negative side effects. Furthermore, individuals vary dramatically in how
+they respond to the drugs. To improve chances for success, it is not
+uncommon for people receiving pharmacotherapy to undergo psychological
+and/or behavioral therapies as well. Some research suggests that
+combining drug therapy with other forms of therapy tends to be more
+effective than any one treatment alone (for one such example, see March
+et al., 2007).
+
+Summary
+=======
+
+Glia and neurons are the two cell types that make up the nervous system.
+While glia generally play supporting roles, the communication between
+neurons is fundamental to all of the functions associated with the
+nervous system. Neuronal communication is made possible by the neuron’s
+specialized structures. The soma contains the cell nucleus, and the
+dendrites extend from the soma in tree-like branches. The axon is
+another major extension of the cell body; axons are often covered by a
+myelin sheath, which increases the speed of transmission of neural
+impulses. At the end of the axon are terminal buttons that contain
+synaptic vesicles filled with neurotransmitters.
+
+Neuronal communication is an electrochemical event. The dendrites
+contain receptors for neurotransmitters released by nearby neurons. If
+the signals received from other neurons are sufficiently strong, an
+action potential will travel down the length of the axon to the terminal
+buttons, resulting in the release of neurotransmitters into the synapse.
+Action potentials operate on the all-or-none principle and involve the
+movement of Na+ and K+ across the neuronal membrane.
+
+Different neurotransmitters are associated with different functions.
+Often, psychological disorders involve imbalances in a given
+neurotransmitter system. Therefore, psychotropic drugs are prescribed in
+an attempt to bring the neurotransmitters back into balance. Drugs can
+act either as agonists or as antagonists for a given neurotransmitter
+system.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The \_______\_ receive(s) incoming signals from other neurons.
+
+      1. soma
+      2. terminal buttons
+      3. myelin sheath
+      4. dendrites {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      A(n) \_______\_ facilitates or mimics the activity of a given
+      neurotransmitter system.
+
+      1. axon
+      2. SSRI
+      3. agonist
+      4. antagonist {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Multiple sclerosis involves a breakdown of the \________.
+
+      1. soma
+      2. myelin sheath
+      3. synaptic vesicles
+      4. dendrites {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      An action potential involves Na+ moving \_______\_ the cell and K+
+      moving \_______\_ the cell.
+
+      1. inside; outside
+      2. outside; inside
+      3. inside; inside
+      4. outside; outside {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Cocaine has two effects on synaptic transmission: it impairs
+      reuptake of dopamine and it causes more dopamine to be released
+      into the synapse. Would cocaine be classified as an agonist or
+      antagonist? Why?
+
+   .. container::
+
+      As a reuptake inhibitor, cocaine blocks the normal activity of
+      dopamine at the receptor. The function causing more dopamine to be
+      released into the synapse is agonist because it mimics and
+      strengthens the effect of the neurotransmitter. Cocaine would be
+      considered an agonist because by preventing the enzymatic
+      degradation of the neurotransmitters, it increases the potential
+      time that these neurotransmitters might be active in the synapse.
+
+.. container::
+
+   .. container::
+
+      Drugs such as lidocaine and novocaine act as Na+ channel blockers.
+      In other words, they prevent sodium from moving across the
+      neuronal membrane. Why would this particular effect make these
+      drugs such effective local anesthetics?
+
+   .. container::
+
+      The action potential is initiated by an influx of Na+ into the
+      neuron. If this process is prevented, then no action potentials in
+      neurons in a given area will occur. Therefore, any painful stimuli
+      would not result in action potentials carrying that information to
+      the brain.
+
+Personal Application Queation
+=============================
+
+.. container::
+
+   .. container::
+
+      Have you or someone you know ever been prescribed a psychotropic
+      medication? If so, what side effects were associated with the
+      treatment?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   action potential
+      electrical signal that moves down the neuron’s axon ^
+   agonist
+      drug that mimics or strengthens the effects of a neurotransmitter
+      ^
+   all-or-none
+      phenomenon that incoming signal from another neuron is either
+      sufficient or insufficient to reach the threshold of excitation ^
+   antagonist
+      drug that blocks or impedes the normal activity of a given
+      neurotransmitter ^
+   axon
+      major extension of the soma ^
+   biological perspective
+      view that psychological disorders like depression and
+      schizophrenia are associated with imbalances in one or more
+      neurotransmitter systems ^
+   dendrite
+      branch-like extension of the soma that receives incoming signals
+      from other neurons ^
+   glial cell
+      nervous system cell that provides physical and metabolic support
+      to neurons, including neuronal insulation and communication, and
+      nutrient and waste transport ^
+   membrane potential
+      difference in charge across the neuronal membrane ^
+   myelin sheath
+      fatty substance that insulates axons ^
+   neuron
+      cells in the nervous system that act as interconnected information
+      processors, which are essential for all of the tasks of the
+      nervous system ^
+   neurotransmitter
+      chemical messenger of the nervous system ^
+   psychotropic medication
+      drugs that treat psychiatric symptoms by restoring
+      neurotransmitter balance ^
+   receptor
+      protein on the cell surface where neurotransmitters attach ^
+   resting potential
+      the state of readiness of a neuron membrane’s potential between
+      signals ^
+   reuptake
+      neurotransmitter is pumped back into the neuron that released it ^
+   semipermeable membrane
+      cell membrane that allows smaller molecules or molecules without
+      an electrical charge to pass through it, while stopping larger or
+      highly charged molecules ^
+   soma
+      cell body ^
+   synapse
+      small gap between two neurons where communication occurs ^
+   synaptic vesicle
+      storage site for neurotransmitters ^
+   terminal button
+      axon terminal containing synaptic vesicles ^
+   threshold of excitation
+      level of charge in the membrane that causes the neuron to become
+      active
+
+.. |An illustration shows a neuron with labeled parts for the cell membrane, dendrite, cell body, axon, and terminal buttons. A myelin sheath covers part of the neuron.| image:: ../resources/CNX_Psych_03_02_Neuron_n.jpg
+.. |Image (a) shows the synaptic space between two neurons, with neurotransmitters being released into the synapse and attaching to receptors. Image (b) is a micrograph showing a spherical terminal button with part of the exterior removed, revealing a solid interior of small round parts.| image:: ../resources/CNX_Psych_03_02_Synapse.jpg
+.. |A close-up illustration depicts the difference in charges across the cell membrane, and shows how Na+ and K+ cells concentrate more closely near the membrane.| image:: ../resources/CNX_Psych_03_02_NaKConc.jpg
+.. |A graph shows the increase, peak, and decrease in membrane potential. The millivolts through the phases are approximately -70mV at resting potential, -55mV at threshold of excitation, 30mV at peak action potential, 5mV at repolarization, and -80mV at hyperpolarization.| image:: ../resources/CNX_Psych_03_02_ActionPn.jpg
+.. |The synaptic space between two neurons is shown. Some neurotransmitters that have been released into the synapse are attaching to receptors while others undergo reuptake into the axon terminal.| image:: ../resources/CNX_Psych_03_02_Reuptake.jpg

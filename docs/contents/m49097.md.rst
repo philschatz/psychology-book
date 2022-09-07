@@ -1,0 +1,619 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|A picture shows two intertwined hands. One is the large hand of an
+adult, and the other is the tiny hand of an infant. The infant’s entire
+hand grasp is about the size of a single adult finger.|\ {:
+#Figure_09_00_Hands}
+
+Welcome to the story of your life. In this chapter we explore the
+fascinating tale of how you have grown and developed into the person you
+are today. We also look at some ideas about who you will grow into
+tomorrow. Yours is a story of lifespan development
+(`[link] <#Figure_09_00_Hands>`__), from the start of life to the end.
+
+The process of human growth and development is more obvious in infancy
+and childhood, yet your development is happening this moment and will
+continue, minute by minute, for the rest of your life. Who you are today
+and who you will be in the future depends on a blend of genetics,
+environment, culture, relationships, and more, as you continue through
+each phase of life. You have experienced firsthand much of what is
+discussed in this chapter. Now consider what psychological science has
+to say about your physical, cognitive, and psychosocial development,
+from the womb to the tomb.
+
+References
+==========
+
+Ainsworth, M. D. S., & Bell, S. M. (1970). Attachment, exploration, and
+separation: Illustrated by the behavior of one-year-olds in a strange
+situation. *Child Development, 41*, 49–67.
+
+Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978).
+*Patterns of attachment: A psychological study of the strange
+situation*. Hillsdale, NJ: Erlbaum.
+
+American Academy of Pediatrics. (2007). The importance of play in
+promoting healthy child development and maintaining strong parent-child
+bonds. *Pediatrics, 199*\ (1), 182–191.
+
+Amsterdam, B. (1972). Mirror image reactions before age two.
+*Developmental Psychobiology, 5*, 297–305.
+
+Archer, J. (1992). *Ethology and human development*. New York, NY:
+Harvester Wheatsheaf.
+
+Arnett, J. (2000). Emerging adulthood: A theory of development from the
+late teens through the twenties. *American Psychologist, 55*\ (5),
+469–480.
+
+Ashley, S. J., Magnuson, S. I., Omnell, L. M., & Clarren, S. K. (1999).
+Fetal alcohol syndrome: Changes in craniofacial form with age,
+cognition, and timing of ethanol exposure in the macaque. *Teratology,
+59*\ (3), 163–172.
+
+Bahr, S. J., & Hoffman, J. P. (2010). Parenting style, religiosity,
+peers, and adolescent heavy drinking. *Journal of Studies on Alcohol and
+Drugs, 71*, 539–543.
+
+Baillargeon, R. (2004). Infants’ reasoning about hidden objects:
+Evidence for event-general and event-specific expectations.
+*Developmental Science, 7*\ (4), 391–424.
+
+Baillargeon, R. (1987). Young infants' reasoning about the physical and
+spatial properties of a hidden object. *Cognitive
+Development*, *2*\ (3), 179–200.
+
+Baillargeon, R., Li, J., Gertner, Y., & Wu, D. (2011). How do infants
+reason about physical events. *The Wiley-Blackwell handbook of childhood
+cognitive development*, *2*, 11–48.
+
+Barber, B. K. (1994). Cultural, family, and person contexts of
+parent-adolescent conflict. *Journal of Marriage and the Family, 56*,
+375–386.
+
+Basseches, M. (1984). Dialectical thinking as metasystematic form of
+cognitive organization. In M. L. Commons, F. A. Richards, & C. Armon
+(Eds.), Beyond formal operations: Late adolescent and adult cognitive
+development (pp. 216–238). New York, NY: Praeger.
+
+Baumrind, D. (1971). Current patterns of parental authority.
+*Developmental Psychology, 4*\ (1, Pt. 2), 1–103. doi:10.1037/h0030372
+
+Baumrind, D. (1991). The influence of parenting style on adolescent
+competence and substance use\ *. Journal of Early Adolescence, 11*\ (1),
+56–95.
+
+Bayley, N., & Oden, M. H. (1955). The maintenance of intellectual
+ability in gifted adults. *Journal of Gerontology, 10*, 91–107.
+
+Bjorklund, D. F. (1987). A note on neonatal imitation. *Developmental
+Review, 7*, 86–92.
+
+Blossom, M., & Morgan, J.L. (2006). Does the face say what the mouth
+says? A study of infants’ sensitivity to visual prosody. In *30th anuual
+Boston University conference on language development, Somerville, MA.*
+
+Bogartz, R. S., Shinskey, J. L., & Schilling, T. (2000). *Infancy,
+1*\ (4), 403–428.
+
+Bowlby, J. (1969). *Attachment and loss: Attachment* (Vol. 1). New York,
+NY: Basic Books.
+
+Bowlby, J. (1988). *A secure base: Parent-child attachment and health
+human development*. New York, NY: Basic Books.
+
+Brumley, R., Enquidanos, S., Jamison, P., Seitz, R., Morgenstern, N.,
+Saito, S., . . . Gonzalez, J. (2007). Increased satisfaction with care
+and lower costs: Results of a randomized trial of in-home palliative
+care. *Journal of the American Geriatric Society, 55*\ (7), 993–1000.
+
+Brumley, R. D., Enquidanos, S., & Cherin, D. A. (2003). Effectiveness of
+a home-based palliative care program for end-of-life. *Journal of
+Palliative Medicine, 6*\ (5), 715–724.
+
+Callaghan, T. C., Rochat, P., Lillard, A., Claux, M.L., Odden, H.,
+Itakura, S., . . . Singh, S. (2005). Synchrony in the onset of
+mental-state reasoning. *Psychological Science, 16*, 378–384.
+
+Carel, J-C., Lahlou, N., Roger, M., & Chaussain, J. L. (2004).
+Precocious puberty and statural growth. *Human Reproduction Update,
+10*\ (2), 135–147.
+
+Carstensen, L. L. (1992). Social and emotional patterns in adulthood:
+Support for socioemotional selectivity. *Psychology and Aging, 7*\ (3),
+331–338.
+
+Case, R. (1985). *Intellectual development: Birth to Adulthood*. New
+York, NY: Academic.
+
+Casey, B. J., Tottenham, N., Liston, C., & Durston, S. (2005). Imaging
+the developing brain: What have we learned about cognitive development?
+*TRENDS in Cognitive Sciences, 19*\ (3), 104–110.
+
+Centers for Disease Control and Prevention. (2013). *Smoking during
+pregnancy*. Retrieved from
+http://www.cdc.gov/tobacco/basic\_information/health\_effects/pregnancy/
+
+Chick, K., Heilman-Houser, R., & Hunter, M. (2002). The impact of child
+care on gender role development and gender stereotypes. *Early Childhood
+Education Journal, 29*\ (3), 149–154.
+
+Chomsky, N. (1957). *Syntactic structures*. The Hague, Netherlands:
+Mouton.
+
+Clements, R. (2004). An investigation of the status of outdoor play.
+*Contemporary Issues in Early Childhood, 5*\ (1), 68–80.
+
+Commons, M. L., & Bresette, L. M. (2006). Illuminating major creative
+scientific innovators with postformal stages. In C. Hoare (Ed.),
+*Handbook of adult development and learning* (pp. 255–280). New York,
+NY: Oxford University Press.
+
+Connor, S. R., Pyenson, B., Fitch, K., Spence, C., & Iwasaki, K. (2007).
+Comparing hospice and nonhospice patient survival among patients who die
+within a three-year window. *Journal of Pain and Symptom Management,
+33*\ (3), 238–246.
+
+Courage, M. L., & Howe, M. L. (2002). From infant to child: The dynamics
+of cognitive change in the second year of life. *Psychological Bulletin,
+128*, 250–277.
+
+Curtiss, S. (1981). Dissociations between language and cognition: Cases
+and implications. *Journal of Autism and Developmental Disorders,
+11*\ (1), 15–30.
+
+Darling, N. (1999). *Parenting style and its correlates*. Retrieved from
+ERIC database (EDO-PS-99-3)
+http://ecap.crc.illinois.edu/eecearchive/digests/1999/darlin99.pdf
+
+de Hevia, M. D., & Spelke, E. S. (2010). Number-space mapping in human
+infants. *Psychological Science, 21*\ (5), 653–660.
+
+Dennett, D. (1987). *The intentional stance*. Cambridge, MA: MIT Press.
+
+Diamond, A. (2009). The interplay of biology and the environment broadly
+defined. *Developmental Psychology, 45*\ (1), 1–8.
+
+Donenberg, G. R., Wilson, H. W., Emerson, E., Bryant, F. B. (2002).
+Holding the line with a watchful eye: The impact of perceived parental
+permissiveness and parental monitoring on risky sexual behavior among
+adolescents in psychiatric care. *AIDS Education Prevention, 14*\ (2),
+138–157.
+
+Dornbusch, S. M., Ritter, P. L., Leiderman, P. H., Roberts, D. F., &
+Fraleigh, M. J. (1987). The relation of parenting style to adolescent
+school performance. *Child Development, 58*\ (5), 1244–1257.
+
+Duncan, G. J., & Magnuson, K. A. (2005). Can family socioeconomic
+resources account for racial and ethnic test score gaps? *The Future of
+Children, 15*\ (1), 35–54.
+
+Erikson, E. H. (1963). *Childhood and Society* (2nd ed.). New York, NY:
+Norton.
+
+Erikson, E. H. (1968). *Identity: Youth and crisis*. New York, NY:
+Norton.
+
+Ferrer, M., & Fugate, A. (2003). *Helping your school-age child develop
+a healthy self-concept*. Retrieved from
+http://edis.ifas.ufl.edu/fy570#FOOTNOTE\_2
+
+Figdor, E., & Kaeser, L. (1998). Concerns mount over punitive approaches
+to substance abuse among pregnant women. *The Guttmacher Report on
+Public Policy 1*\ (5), 3–5.
+
+Fischer, K. W., Yan, Z., & Stewart, J. (2003). Adult cognitive
+development: Dynamics in the developmental web. In J. Valsiner & K
+Connolly (Eds.), *Handbook of developmental psychology* (pp. 491–516).
+Thousand Oaks, CA: Sage Publications.
+
+Flannery, D. J., Rowe, D. C., & Gulley, B. L. (1993). Impact of pubertal
+status, timing, and age on adolescent sexual experience and delinquency.
+*Journal of Adolescent Research, 8*, 21–40.
+
+Freud, S. (1909). Analysis of a phobia in a five-year-old boy. In
+*Collected Papers: Volume 111, Case Histories (1949)* (pp. 149–289).
+Hogarth Press: London.
+
+Fromkin, V., Krashen, S., Curtiss, S., Rigler, D., & Rigler, M. (1974).
+The development of language in Genie: A case of language acquisition
+beyond the critical period. *Brain and Language, 1*, 81–107.
+
+Galambos, N. L., & Almeida, D. M. (1992). Does parent-adolescent
+conflict increase in early adolescence? *Journal of Marriage and the
+Family, 54*, 737–747.
+
+Ganger, J., & Brent, M.R. (2004). Reexamining the vocabulary spurt.
+*Developmental Psychology, 40*\ (4), 621–632.
+
+Ge, X., Conger, R. D., & Elder, G. H. (2001). Pubertal transition,
+stressful life events, and the emergence of gender differences in
+adolescent depressive symptoms. *Developmental Psychology, 37*, 404–417.
+
+Gervai, J. (2009). Environmental and genetic influences on early
+attachment. *Child and Adolescent Psychiatry and Mental Health, 3*, 25.
+
+Gesell, A. (1933). Maturation and the patterning of behavior. In C.
+Murchison (Ed.), *A handbook of child psychology* (2nd ed.,
+pp. 209–235). Worcester, MA: Clark University Press.
+
+Gesell, A. (1939). *Biographies of child development*. New York, NY:
+Paul B. Hoeber.
+
+Gesell, A. (1940). *The first five years of life*. New York, NY: Harper.
+
+Gesell, A., & Ilg, F. L. (1946). *The child from five to ten*. New York,
+NY: Harper.
+
+Gilligan, C. (1982). In a different voice: Psychological theory and
+women's development. Cambridge, MA: Harvard University Press.
+
+Gleitman, L.R., & Newport, E. L. (1995). The invention of language by
+children: Environmental and biological influences on the acquisition of
+language. In D.N. Osherson , L.R. Gleitman, & M. Liberman (Eds.), An
+invitation to cognitive science: Language (pp. 1–24). Cambridge, MA: The
+MIT Press.
+
+Gleitman, L. R., & Newport, E. L. (1995). The invention of language by
+children: Environmental and biological influences on the acquisition of
+language. In L. R. Gleitman & M. Liberman (Eds.), *An invitation to
+cognitive science, Vol. 1: Language*. (2nd ed.) (pp. 1–24). Cambridge,
+MA: MIT Press.
+
+Godkin, M., Krant, M., & Doster, N. (1984). The impact of hospice care
+on families. *International Journal of Psychiatry in Medicine, 13*,
+153–165.
+
+Graber, J. A., Lewinsohn, P. M., Seeley, J. R., & Brooks-Gunn, J.
+(1997). Is psychopathology associated with the timing of pubertal
+development? *Journal of the Academy of Child and Adolescent Psychiatry,
+36*, 1768–1776.
+
+Hair, E. C., Moore, K. A., Garrett, S. B., Kinukawa, A., Lippman, L., &
+Michelson, E. (2005). The parent-adolescent relationship scale. In L.
+Lippman (Ed.), *Conceptualizing and Measuring Indicators of Positive
+Development: What Do Children Need to Fluorish?* (pp. 183–202). New
+York, NY: Kluwer Academic/Plenum Press.
+
+Hall, S. S. (2004, May). The good egg. *Discover*, 30–39.
+
+Hall, G. S. (1904). *Adolescence*. New York, NY: Appleton.
+
+Harlow, H. (1958). The nature of love. *American Psychologist, 13*,
+673–685.
+
+Harris, J. R. (2009). *The nurture assumption: Why children turn out the
+way they do* (2nd ed.). New York, NY: Free Press.
+
+Hart, B., & Risley, T. R. (2003). The early catastrophe: The 30 million
+word gap. *American Educator, 27*\ (1), 4–9.
+
+Hatch, E. (1983). *Psycholinguistics: A second language perspective*.
+Rowley, MA: Newbury House.
+
+Hertzog, C., Kramer, A. F., Wilson, R. S., & Lindenberger, U. (2009).
+Enrichment effects on adult cognitive development. *Psychological
+Science in the Public Interest, 9*\ (1), 1–65.
+
+Hood, R. W., Jr., Spilka, B., Hunsberger, B., & Corsuch, R. (1996). *The
+psychology of religion: An empirical approach* (2nd ed.). New York, NY:
+Guilford.
+
+Huebler, F. (2005, December 14). International education statistics [Web
+log post]. Retrieved from
+http://huebler.blogspot.com/2005/12/age-and-level-of-education-in-nigeria.html
+
+Hutchinson, N. (2011). A geographically informed vision of skills
+development. *Geographical Education*, *24*, 15.
+
+Huttenlocher, P. R., & Dabholkar, A. S. (1997). Regional differences in
+synaptogenesis in human cerebral cortex. *Journal of Comparative
+Neurology, 387*\ (2), 167–178.
+
+Iverson, J.M., & Goldin-Meadow, S. (2005). Gesture paves the way for
+language development. *Psychological Science, 16*\ (5), 367–71.
+
+Iyengar, S. S., Wells, R. E., & Schwartz, B. (2006). Doing better but
+feeling worse: Looking for the best job undermines satisfaction.
+*Psychological Science, 17*, 143–150.
+
+Jos, P. H., Marshall, M. F., & Perlmutter, M. (1995). The Charleston
+policy on cocaine use during pregnancy: A cautionary tale. *The Journal
+of Law, Medicine & Ethics, 23*\ (2), 120–128.
+
+Kaltiala-Heino, R. A., Rimpela, M., Rissanen, A., & Rantanen, P. (2001).
+Early puberty and early sexual activity are associated with bulimic-type
+eating pathology in middle adolescence. *Journal of Adolescent Health,
+28*, 346–352.
+
+Kaplan, H., & Dove, H. (1987). Infant development among the Aché of
+Eastern Paraguay. *Developmental Psychology, 23*, 190–198.
+
+Karasik, L. B., Adolph, K. E., Tamis-LeMonda, C. S., & Bornstein, M. H.
+(2010). WEIRD Walking: Cross-cultural research on motor development.
+*Behavioral & Brain Sciences, 33*\ (2-3), 95–96.
+
+Karnik, S., & Kanekar, A. (2012). Childhood obesity: A global public
+health crisis. *International Journal of Preventive Medicine, 3*\ (1),
+1–7.
+
+Kohlberg, L. (1969). Stage and sequence: The cognitive-developmental
+approach to socialization. In D. A. Goslin (Ed.), *Handbook of
+socialization theory and research* (p. 379). Chicago, IL: Rand McNally.
+
+Kolb, B., & Whishaw, I. Q. (2009). *Fundamentals of human
+neuropsychology*. New York, NY: Worth.
+
+Kübler-Ross, E. (1969). *On death and dying*. New York, NY: Macmillan.
+
+Labouvie-Vief, G., & Diehl, M. (1999). Self and personality development.
+In J. C. Cavanaugh & S. K. Whitbourne (Eds.), *Gerontology: An
+interdisciplinary perspective* (pp. 238–268). New York, NY: Oxford
+University Press.
+
+Larson, E. B., Wang, L., Bowen, J. D., McCormick, W. C., Teri, L.,
+Crane, P., & Kukull, W. (2006). Exercise is associated with reduced risk
+for incident dementia among persons 65 years of age or older. *Annals of
+Internal Medicine, 144*, 73–81.
+
+Lee, V. E., & Burkam, D. T. (2002). *Inequality at the starting gate:
+Social background differences in achievement as children begin school*.
+Washington, DC: Economic Policy Institute.
+
+Lobo, I. (2008) Environmental influences on gene expression. *Nature
+Education 1*\ (1), 39.
+
+Loop, E. (2013). *Major milestones in cognitive development in early
+childhood*. Retrieved from
+http://everydaylife.globalpost.com/major-milestones-cognitive-development-early-childhood-4625.html
+
+Maccoby, E. (1980). *Social development: Psychological growth and the
+parent-child relationship*. New York, NY: Harcourt Brace Jovanovich.
+
+MacFarlane, A. (1978, February). What a baby knows. *Human Nature*,
+74–81.
+
+Maier, S. E., & West, J. R. (2001). Drinking patterns and
+alcohol-related birth defects. *Alcohol Research & Health, 25*\ (3),
+168–174.
+
+Main, M., & Solomon, J. (1990). Procedures for identifying infants as
+disorganized/disoriented during the Ainsworth Strange Situation. In M.
+T. Greenberg, D. Cicchetti, & E. M. Cummings (Eds.), *Attachment in the
+Preschool Years* (pp. 121–160). Chicago, IL: University of Chicago
+Press.
+
+Markus, H. R., Ryff, C. D., Curan, K., & Palmersheim, K. A. (2004). In
+their own words: Well-being at midlife among high school-educated and
+college-educated adults. In O. G. Brim, C. D. Ryff, & R. C. Kessler
+(Eds.), *How healthy are we? A national study of well-being at midlife*
+(pp. 273–319). Chicago, IL: University of Chicago Press.
+
+McIntosh, D. N., Silver, R. C., & Wortman, C. B. (1993). Religion’s role
+in adjustment to a negative life event: Coping with the loss of a child.
+*Journal of Personality and Social Psychology, 65*, 812–821.
+
+McMillan, S. C., Small, B. J., Weitzner, M., Schonwetter, R., Tittle,
+M., Moody, L., & Haley, W. E. (2006). Impact of coping skills
+intervention with family caregivers of hospice patients with
+cancer. *Cancer*, *106*\ (1), 214-222.
+
+Miklikowska, M., Duriez, B., & Soenens, B. (2011). Family roots of
+empathy-related characteristics: The role of perceived maternal and
+paternal need support in adolescence. *Developmental Psychology,
+47*\ (5), 1342–1352.
+
+Mills, M., & Melhuish, E. (1974). Recognition of mother’s voice in early
+infancy. *Nature, 252*, 123–124.
+
+Mohr, R. D., & Zoghi, C. (2006). Is job enrichment really enriching?
+(U.S. Bureau of Labor Statistics Working Paper 389). Washington, DC:
+U.S. Bureau of Labor Statistics. Retrieved from
+http://www.bls.gov/ore/pdf/ec060010.pdf
+
+Moore, K. A., Guzman, L., Hair, E. C., Lippman, L., & Garrett, S. B.
+(2004). Parent-teen relationships and interactions: Far more positive
+than not. *Child Trends Research Brief, 2004-25*. Washington, DC: Child
+Trends.
+
+National Institutes of Health. (2013). *What is prenatal care and why is
+it important?* Retrieved from
+http://www.nichd.nih.gov/health/topics/pregnancy/conditioninfo/Pages/prenatal-care.aspx
+
+Nolen-Hoeksema, S., & Larson, J. (1999). *Coping with loss*. Mahweh, NJ:
+Erlbaum.
+
+Overman, W. H., Bachevalier, J., Turner, M., & Peuster, A. (1992).
+Object recognition versus object discrimination: Comparison between
+human infants and infant monkeys. *Behavioral Neuroscience, 106*, 15–29.
+
+Paloutzian, R. F. (1996). *Invitation to the psychology of religion*.
+Boston, MA: Allyn & Bacon.
+
+Parent, J., Forehand, R., Merchant, M. J., Edwards, M. C.,
+Conners-Burrow, N. A., Long, N., & Jones, D. J. (2011). The relation of
+harsh and permissive discipline with child disruptive behaviors: Does
+child gender make a difference in an at-risk sample? *Journal of Family
+Violence, 26*, 527–533.
+
+Piaget, J. (1954). The construction of reality in the child. New York:
+Basic Books.
+
+Pickens, J. (1994). Full-term and preterm infants’ perception of
+face-voice synchrony. Infant Behavior and Development, 17, 447–455.
+
+Piaget, J. (1930). *The child’s conception of the world*. New York, NY:
+Harcourt, Brace & World.
+
+Piaget, J. (1932). *The moral judgment of the child*. New York, NY:
+Harcourt, Brace & World.
+
+Podewils, L. J., Guallar, E., Kuller, L. H., Fried, L. P., Lopez, O. L.,
+Carlson, M., & Lyketsos, C. G. (2005). Physical activity, APOE genotype,
+and dementia risk: Findings from the Cardiovascular Health Cognition
+Study. *American Journal of Epidemiology, 161*, 639–651.
+
+Pollack, W., & Shuster, T. (2000). *Real boys’ voices*. New York, NY:
+Random House.
+
+Rhodes, R. L., Mitchell, S. L., Miller, S. C., Connor, S. R., & Teno, J.
+M. (2008). Bereaved family members' evaluation of hospice care: What
+factors influence overall satisfaction with services? *Journal of Pain
+and Symptom Management, 35*, 365–371.
+
+Risley, T. R., & Hart, B. (2006). Promoting early language development.
+In N. F. Watt, C. Ayoub, R. H. Bradley, J. E. Puma, & W. A. LeBoeuf
+(Eds.), The crisis in youth mental health: Early intervention programs
+and policies (Vol. 4, pp. 83–88). Westport, CT: Praeger.
+
+Rothbaum, R., Weisz, J., Pott, M., Miyake, K., & Morelli, G. (2000).
+Attachment and culture: Security in the United States and Japan.
+*American Psychologist, 55*, 1093–1104.
+
+Russell, S. T., Crockett, L. J., & Chao, R. (Eds.). (2010). Asian
+American parenting and parent-adolescent relationships. In R. Levesque
+(Series Ed.), *Advancing responsible adolescent development*. New York,
+NY: Springer.
+
+Ryff, C. D., & Singer, B. (2009). Understanding healthy aging: Key
+components and their integration. In V. L. Bengtson, D. Gans., N. M.
+Putney, & M. Silverstein. (Eds.), *Handbook of theories of aging* (2nd
+ed., pp. 117–144). New York, NY: Springer.
+
+Samarel, N. (1991). *Caring for life after death*. Washington, DC:
+Hemisphere.
+
+Sanson, A., & Rothbart, M. K. (1995). Child temperament and parenting.
+In M. Bornstein (Ed.), Applied and practical parenting (Vol. 4,
+pp. 299–321). Mahwah, NJ: Lawrence Erlbaum.
+
+Schechter, C., & Byeb, B. (2007). Preliminary evidence for the impact of
+mixed-income preschools on low-income children’s language growth. *Early
+Childhood Research Quarterly, 22*, 137–146.
+
+Shamay-Tsoory, S. G., Tomer, R., & Aharon-Peretz, J. (2005). The
+neuroanatomical basis of understanding sarcasm and its relationship to
+social cognition. *Neuropsychology, 19*\ (3), 288–300.
+
+Shanahan, L., McHale, S. M., Osgood, D. W., & Crouter, A. C. (2007).
+Conflict frequency with mothers and fathers from middle childhood to
+late adolescence: Within and between family comparisons. *Developmental
+Psychology, 43*, 539–550.
+
+Siegler, R. S. (2005). Children’s thinking (4th ed). Mahwah, NJ:
+Erlbaum.
+
+Siegler, R. S. (2006). Microgenetic analyses of learning. In D. Kuhn &
+R. S. Siegler (Eds.), Handbook of child psychology: Cognition,
+perception, and language (6th ed., Vol. 2). New York: Wiley.
+
+Sinnott, J. D. (1998). *The development of logic in adulthood:
+Postformal thought and its applications*. New York, NY: Springer.
+
+Small, M. F. (1999). *Our babies, ourselves: How biology and culture
+shape the way we parent*. New York, NY: Anchor Books.
+
+Spelke, E.S., & Cortelyou, A. (1981). Perceptual aspects of social
+knowing: Looking and listening in infancy. In M.E. Lamb & L.R. Sherrod
+(Eds.), Infant social cognition: Empirical and theoretical
+considerations (pp. 61–83). Hillsdale, NJ: Erlbaum.
+
+Steinberg, L., & Morris, A. S. (2001). Adolescent development. *Annual
+Review of Psychology, 52*, 83–110.
+
+Sterns, H. L., & Huyck, M. H. (2001). The role of work in midlife. In M.
+Lachman (Ed.), *The handbook of midlife development* (pp. 447–486). New
+York, NY:Wiley.
+
+Steven L. Youngentob, et. al. (2007). Experience-induced fetal
+plasticity: The effect of gestational ethanol exposure on the behavioral
+and neurophysiologic olfactory response to ethanol odor in early
+postnatal and adult rats. *Behavioral Neuroscience, 121*\ (6),
+1293–1305.
+
+Stork, F. C., & Widdowson, D. A. (1974). *Learning about linguistics*.
+London, UK: Hutchinson Ltd.
+
+Streissguth, A. P., Bookstein, F. L., Barr, H. M., Sampson, P. D.,
+O’Malley, K., & Young, J. K. (2004). Risk factors for adverse life
+outcomes in fetal alcohol syndrome and fetal alcohol effects.
+*Developmental and Behavioral Pediatrics, 25*\ (4), 228–238.
+
+Striegel-Moore, R. H., & Cachelin, F. M. (1999). Body image concerns and
+disordered eating in adolescent girls: Risk and protective factors. In
+N. G. Johnson, M. C. Roberts, & J. Worell (Eds.), *Beyond appearance: A
+new look at adolescent girls*. Washington, DC: American Psychological
+Association
+
+Tanner, J. M. (1978). *Fetus into man: Physical growth from conception
+to maturity*. Cambridge, MA: Harvard University Press.
+
+Temel, J. S., Greer, J. A., Muzikansky, A., Gallagher, E. R., Admane,
+S., Jackson, V. A. . . . Lynch, T. J. (2010). Early palliative care for
+patients with metastic non-small-cell lung cancer. *New England Journal
+of Medicine, 363*, 733–742.
+
+Thomas, A. (1984). Temperament research: Where we are, where we are
+going. *Merrill-Palmer Quarterly, 30*\ (2), 103–109.
+
+Tran, T. D., & Kelly, S. J. (2003). Critical periods for ethanol-induced
+cell loss in the hippocampal formation. *Neurotoxicology and Teratology,
+25*\ (5), 519–528.
+
+Umberson, D., Pudrovska, T., & Reczek, C. (2010). Parenthood,
+childlessness, and well-being: A life course perspective. *Journal of
+Marriage and the Family, 72*\ (3), 612–629.
+
+United Nations Educational, Scientific and Cultural Organization. (2013,
+June). *UIS Fact Sheet: Schooling for millions of children jeopardized
+by reductions in aid*. Montreal, Canada: UNESCO Institute for
+Statistics.
+
+Vaillant, G. E. (2002). *Aging well*. New York, NY: Little Brown & Co.
+
+Van der Graaff, J., Branje, S., De Wied, M., Hawk, S., Van Lier, P., &
+Meeus, W. (2013). Perspective taking and empathetic concern in
+adolescence: Gender differences in developmental changes. *Developmental
+Psychology, 50*\ (3), 881.
+
+van Ijzendoorn, M. H., & Sagi-Schwartz, A. (2008). Cross-cultural
+patterns of attachment: Universal and contextual dimensions. In J.
+Cassidy & P. R. Shaver (Eds.), *Handbook of attachment*. New York, NY:
+Guilford.
+
+Vouloumanos, A., & Werker, J. F. (2004). Tuned to the signal: The
+privileged status of speech for young infants. Developmental Science, 7,
+270–276.
+
+WHO Multicentre Growth Reference Study Group. (2006). *WHO Child growth
+standards: Methods and development: Length/height-for-age,
+weight-for-age, weight-for-length, weight-for-height and body mass
+index-for-age*. Geneva, Switzerland: World Health Organization.
+
+Winerman, L. (2011). Closing the achievement gap. *Monitor of
+Psychology, 42*\ (8), 36.
+
+Wortman, J. H., & Park, C. L. (2008). Religion and spirituality in
+adjustment following bereavement: An integrative review. *Death Studies*
+
+.. |A picture shows two intertwined hands. One is the large hand of an adult, and the other is the tiny hand of an infant. The infant’s entire hand grasp is about the size of a single adult finger.| image:: ../resources/CNX_Psych_09_00_Hands.jpg

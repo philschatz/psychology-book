@@ -1,0 +1,260 @@
+=========================================================
+Substance-Related and Addictive Disorders: A Special Case
+=========================================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Recognize the
+   goal of substance-related and addictive disorders treatment \*
+   Discuss what makes for effective treatment \* Describe how comorbid
+   disorders are treated
+
+Addiction is often viewed as a chronic disease
+(`[link] <#CNX_Psych_16_04_DrugSurvey>`__). The choice to use a
+substance is initially voluntary; however, because chronic substance use
+can permanently alter the neural structure in the prefrontal cortex, an
+area of the brain associated with decision-making and judgment, a person
+becomes driven to use drugs and/or alcohol (Muñoz-Cuevas, Athilingam,
+Piscopo, & Wilbrecht, 2013). This helps explain why relapse rates tend
+to be high. About 40%–60% of individuals **relapse**\ {:
+data-type=“term”}, which means they return to abusing drugs and/or
+alcohol after a period of improvement (National Institute on Drug Abuse
+[NIDA], 2008).
+
+|A chart labeled “Prevalence of Drug Use by Age Group” graphs “Age
+(years)” on the x axis and “Percentage of use” on the y axis. Note that
+the following percentages are estimates. According to this chart, 10
+percent of people in the age range of 12–17 use illicit drugs, compared
+to 22 percent usage in the age range of 18–25, and 7 percent usage in
+the age range of 26 and older. 7.5 percent of people in the age range of
+12–17 use marijuana, compared to 18 percent usage in the age range of
+18–25, and 5 percent usage in the age range of 26 and older. 3 percent
+of people in the age range of 12–17 use psychotherapeutics, compared to
+6 percent usage in the age range of 18–25, and 2.5 percent usage in the
+age range of 26 and older. 1 percent of people in the age range of 12–17
+use inhalants. This number steadily drops off to 0 percent in the 26 and
+older age group. 1 percent of people in the age range of 12–17 use
+hallucinogens, compared to 2.5 percent usage in the age range of 18–25,
+and almost 0 percent usage in the age range of 26 and older. Cocaine use
+in the age range of 18–25 is around 2 percent, and it drops off to
+nearly 0 percent by the age range of 26 and older.|\ {:
+#CNX_Psych_16_04_DrugSurvey}
+
+The goal of substance-related treatment is to help an addicted person
+stop compulsive drug-seeking behaviors (NIDA, 2012). This means an
+addicted person will need long-term treatment, similar to a person
+battling a chronic physical disease such as hypertension or diabetes.
+Treatment usually includes behavioral therapy and/or medication,
+depending on the individual (NIDA, 2012). Specialized therapies have
+also been developed for specific types of substance-related disorders,
+including alcohol, cocaine, and opioids (McGovern & Carroll, 2003).
+Substance-related treatment is considered much more cost-effective than
+incarceration or not treating those with addictions (NIDA, 2012)
+(`[link] <#CNX_Psych_16_04_Crack>`__).
+
+|A photograph shows a person injecting heroin intravenously with a
+hypodermic needle into her ankle.|\ {: #CNX_Psych_16_04_Crack}
+
+WHAT MAKES TREATMENT EFFECTIVE?
+===============================
+
+Specific factors make substance-related treatment much more effective.
+One factor is duration of treatment. Generally, the addict needs to be
+in treatment for at least three months to achieve a positive outcome
+(Simpson, 1981; Simpson, Joe, & Bracy, 1982; NIDA, 2012). This is due to
+the psychological, physiological, behavioral, and social aspects of
+abuse (Simpson, 1981; Simpson et al., 1982; NIDA, 2012). While in
+treatment, an addict might receive behavior therapy, which can help
+motivate the addict to participate in the treatment program and teach
+strategies for dealing with cravings and how to prevent relapse. Also,
+treatment needs to be holistic and address multiple needs, not just the
+drug addiction. This means that treatment will address factors such as
+communication, stress management, relationship issues, parenting,
+vocational concerns, and legal concerns (McGovern & Carroll, 2003; NIDA,
+2012).
+
+While individual therapy is used in the treatment of substance-related
+disorders, group therapy is the most widespread treatment modality
+(Weiss, Jaffee, de Menil, & Cogley, 2004). The rationale behind using
+group therapy for addiction treatment is that addicts are much more
+likely to maintain sobriety in a group format. It has been suggested
+that this is due to the rewarding and therapeutic benefits of the group,
+such as support, affiliation, identification, and even confrontation
+(Center for Substance Abuse Treatment, 2005). For teenagers, the whole
+family often needs to participate in treatment to address issues such as
+family dynamics, communication, and relapse prevention. Family
+involvement in teen drug addiction is vital. Research suggests that
+greater parental involvement is correlated with a greater reduction in
+use by teen substance abusers. Also, mothers who participated in
+treatment displayed better mental health and greater warmth toward their
+children (Bertrand et al., 2013). However, neither individual nor group
+therapy has been found to be more effective (Weiss et al., 2004).
+Regardless of the type of treatment service, the primary focus is on
+abstinence or at the very least a significant reduction in use (McGovern
+& Carroll, 2003).
+
+Treatment also usually involves medications to detox the addict safely
+after an overdose, to prevent seizures and agitation that often occur in
+detox, to prevent reuse of the drug, and to manage withdrawal symptoms.
+Getting off drugs often involves the use of drugs—some of which can be
+just as addictive. Detox can be difficult and dangerous.
+
+.. container:: psychology link-to-learning
+
+   Watch this `video <http://openstax.org/l/subdisorder>`__ to find out
+   more about treating substance-related disorders using the biological,
+   behavioral, and psychodynamic approaches.
+
+COMORBID DISORDERS
+==================
+
+Frequently, a person who is addicted to drugs and/or alcohol has an
+additional psychological disorder. Saying a person has **comorbid
+disorders**\ {: data-type=“term”} means the individual has two or more
+diagnoses. This can often be a substance-related diagnosis and another
+psychiatric diagnosis, such as depression, bipolar disorder, or
+schizophrenia. These individuals fall into the category of mentally ill
+and chemically addicted (MICA)—their problems are often chronic and
+expensive to treat, with limited success. Compared with the overall
+population, substance abusers are twice as likely to have a mood or
+anxiety disorder. Drug abuse can cause symptoms of mood and anxiety
+disorders and the reverse is also true—people with debilitating symptoms
+of a psychiatric disorder may self-medicate and abuse substances.
+
+In cases of **comorbidity**\ {: data-type=“term” .no-emphasis}, the best
+treatment is thought to address both (or multiple) disorders
+simultaneously (NIDA, 2012). Behavior therapies are used to treat
+comorbid conditions, and in many cases, psychotropic medications are
+used along with psychotherapy. For example, evidence suggests that
+bupropion (trade names: Wellbutrin and Zyban), approved for treating
+depression and nicotine dependence, might also help reduce craving and
+use of the drug methamphetamine (NIDA, 2011). However, more research is
+needed to better understand how these medications work—particularly when
+combined in patients with comorbidities.
+
+Summary
+=======
+
+Addiction is often viewed as a chronic disease that rewires the brain.
+This helps explain why relapse rates tend to be high, around 40%–60%
+(McLellan, Lewis, & O’Brien, & Kleber, 2000). The goal of treatment is
+to help an addict stop compulsive drug-seeking behaviors. Treatment
+usually includes behavioral therapy, which can take place individually
+or in a group setting. Treatment may also include medication. Sometimes
+a person has comorbid disorders, which usually means that they have a
+substance-related disorder diagnosis and another psychiatric diagnosis,
+such as depression, bipolar disorder, or schizophrenia. The best
+treatment would address both problems simultaneously.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      What is the minimum amount of time addicts should receive
+      treatment if they are to achieve a desired outcome?
+
+      1. 3 months
+      2. 6 months
+      3. 9 months
+      4. 12 months {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      When an individual has two or more diagnoses, which often includes
+      a substance-related diagnosis and another psychiatric diagnosis,
+      this is known as \________.
+
+      1. bipolar disorder
+      2. comorbid disorder
+      3. codependency
+      4. bi-morbid disorder {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      John was drug-free for almost six months. Then he started hanging
+      out with his addict friends, and he has now started abusing drugs
+      again. This is an example of \________.
+
+      1. release
+      2. reversion
+      3. re-addiction
+      4. relapse {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      You are conducting an intake assessment. Your client is a
+      45-year-old single, employed male with cocaine dependence. He
+      failed a drug screen at work and is mandated to treatment by his
+      employer if he wants to keep his job. Your client admits that he
+      needs help. Why would you recommend group therapy for him?
+
+   .. container::
+
+      The rationale behind using group therapy for addiction treatment
+      is that addicts are much more likely to maintain sobriety when
+      treatment is in a group format. It has been suggested that it’s
+      due to the rewarding and therapeutic benefits of the group, such
+      as support, affiliation, identification, and even confrontation.
+      Because this client is single, he may not have family support, so
+      support from the group may be even more important in his ability
+      to recover and maintain his sobriety.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      What are some substance-related and addictive disorder treatment
+      facilities in your community, and what types of services do they
+      provide? Would you recommend any of them to a friend or family
+      member with a substance abuse problem? Why or why not?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   comorbid disorder
+      individual who has two or more diagnoses, which often includes a
+      substance abuse diagnosis and another psychiatric diagnosis, such
+      as depression, bipolar disorder, or schizophrenia ^
+   relapse
+      repeated drug use and/or alcohol use after a period of improvement
+      from substance abuse
+
+.. |A chart labeled “Prevalence of Drug Use by Age Group” graphs “Age (years)” on the x axis and “Percentage of use” on the y axis. Note that the following percentages are estimates. According to this chart, 10 percent of people in the age range of 12–17 use illicit drugs, compared to 22 percent usage in the age range of 18–25, and 7 percent usage in the age range of 26 and older. 7.5 percent of people in the age range of 12–17 use marijuana, compared to 18 percent usage in the age range of 18–25, and 5 percent usage in the age range of 26 and older. 3 percent of people in the age range of 12–17 use psychotherapeutics, compared to 6 percent usage in the age range of 18–25, and 2.5 percent usage in the age range of 26 and older. 1 percent of people in the age range of 12–17 use inhalants. This number steadily drops off to 0 percent in the 26 and older age group. 1 percent of people in the age range of 12–17 use hallucinogens, compared to 2.5 percent usage in the age range of 18–25, and almost 0 percent usage in the age range of 26 and older. Cocaine use in the age range of 18–25 is around 2 percent, and it drops off to nearly 0 percent by the age range of 26 and older.| image:: ../resources/CNX_Psych_16_04_DrugSurvey.jpg
+.. |A photograph shows a person injecting heroin intravenously with a hypodermic needle into her ankle.| image:: ../resources/CNX_Psych_16_04_Crack.jpg

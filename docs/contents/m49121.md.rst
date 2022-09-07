@@ -1,0 +1,452 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|A collage of three color photographs is shown. From left to right
+appear a person in front of a laptop computer sitting outdoors, a person
+sitting on the floor with a laptop, and a person sitting on the couch
+with a small child and a laptop.|\ {: #CNX_Psych_13_00_IOPsych}
+
+In July 2012, Yahoo!, one of the largest and oldest web companies,
+announced the appointment of Marissa Mayer as CEO. Yahoo! had struggled
+to define itself and excel in the industry for several years, and the
+appointment of Mayer, a top Google executive, made big news. Among her
+many decisions, in February 2013, Mayer announced that employees would
+no longer be allowed to telecommute. Telecommuting is representative of
+many management innovations that have been made in recent years, largely
+by tech companies. Telecommuting reflects a belief on the part of
+companies that employees are responsible, self-motivating, and perhaps
+work best when they are left alone. It also has an impact on work–family
+balance, though which way is yet unclear. And telecommuting reflects the
+more general trend of increasing overlap between workers’ time spent *on
+the job* and time spent *off the job*.
+
+The reversal of this policy at Yahoo! brought controversy and a lot of
+questions about what it meant. Mayer has stayed largely quiet on her
+reasoning behind the decision, except to say that it was meant to better
+the company. She finally addressed her decision briefly at the 2013
+Great Place to Work conference (Tkaczyk, 2013) by saying, among other
+things, that while “people are more productive when they're alone,
+they're more collaborative and innovative when they're together.”
+Interestingly, shortly after the Yahoo! change, consumer electronics
+retailer Best Buy also eliminated telecommuting as an option for their
+employees. Will the change make Yahoo! more innovative or more
+productive? How has the change affected employees at the company,
+particularly working parents and those taking care of elderly relatives?
+Was the change introduced in the most effective way? These are questions
+that are commonly studied by a branch of psychology called industrial
+and organizational psychology.
+
+References
+==========
+
+ABC News. (2000, September 8). *Court OKs barring high IQs for Cops*.
+Retreived from
+http://abcnews.go.com/US/court-oks-barring-high-iqs-cops/story?id=95836
+
+Agerström, J., & Rooth, D.-O. (2011). The role of automatic obesity
+stereotypes in real hiring discrimination. *Journal of Applied
+Psychology, 96*, 790–805.
+
+Allen, T. D., Eby, L. T., Poteet, M. L., Lentz, E., & Lima, L. (2004).
+Career benefits associated with mentoring for protégés: A
+meta-analysis\ *. Journal of Applied Psychology, 89*, 127–136.
+
+Allen, T. D., Lentz, E., & Day, R. (2006). Career success outcomes
+associated with mentoring others: A comparison of mentors and
+nonmentors. *Journal of Career Development, 32*, 272–285.
+
+American Civil Liberties Union. (n.d.). *Non-Discrimination Laws: State
+by State Information—Map*. Retrieved from
+https://www.aclu.org/maps/non-discrimination-laws-state-state-information-map
+
+American National Standards Institute. (2000). *Control center ergonomic
+standards*. Retrieved from
+http://webstore.ansi.org/ergonomics/control\_centre\_ergonomics.aspx
+
+Amiot, C. E., Terry, D. J., Jimmieson, N. L., & Callan, V. J. (2006). A
+longitudinal investigation of coping processes during a merger:
+Implications for job satisfaction and organizational identification.
+*Journal of Management, 32*, 552–574.
+
+Arthur, W., Bennett, W., Edens, P. S., & Bell, S. T. (2003).
+Effectiveness of training in organizations: A meta-analysis of design
+and evaluation features. *Journal of Applied Psychology,* *88*, 234–245.
+
+Arthur, W., Woehr, D. J., & Graziano, W. G. (2001). Personality testing
+in employment settings: Problems and issues in the application of
+typical selection practices. *Personnel Review,* *30*, 657–676.
+
+Atkins, P. W. B., & Wood, R. E. (2002). Self-versus others’ ratings as
+predictors of assessment center ratings: Validation evidence for
+360-degree feedback programs. *Personnel Psychology, 55*, 871–904.
+
+Badgett, M. V. L., Sears, B., Lau, H., & Ho, D. (2009). Bias in the
+workplace: Consistent evidence of sexual orientation and gender identity
+discrimination 1998–2008. *Chicago-Kent Law Review,* *84*, 559–595.
+
+Barrick, M. R., Swider, B. W., & Stewart, G. L. (2010). Initial
+evaluations in the interview: Relationships with subsequent interviewer
+evaluations and employment offers. *Journal of Applied Psychology, 95*,
+1163–1172.
+
+Bass, B. M. (1985). *Leadership and performance beyond expectations*.
+New York, NY: Free Press.
+
+Bass, B. M., Avolio, B. J., & Atwater, L. (1996). The transformational
+and transactional leadership of men and women. *Applied Psychology: An
+International Review, 45*, 5–34.
+
+Bruno, T., & Abrahão, J. (2012). False alarms and incorrect rejections
+in an information security center: Correlation with the frequency of
+incidents. *Work, 41*, 2902–2907.
+
+Buckingham, M., & Clifton, D. O. (2001). *Now, discover your strengths*.
+New York, NY: Free Press.
+
+Bureau of Labor Statistics—U.S. Department of Labor. (2013). American
+Time Use Survey—2013 Results [Press release: USDL-14-1137]. Available at
+http://www.bls.gov/news.release/pdf/atus.pdf
+
+Bye, H. H., Horverak, J. G., Sandal, G. M., Sam, D. L., & Vijver, F. J.
+R. van de (2014). Cultural fit and ethnic background in the job
+interview. *International Journal of Cross Cultural Management, 14*,
+7–26.
+
+Carlson, D. S., Kacmar, K. M., & Williams, L. J. (2000). Construction
+and initial validation of a multidimensional measure of work–family
+conflict. *Journal of Vocational Behavior, 56*, 249–276.
+
+Colligan, T. W., & Higgins, E. M. (2005). Workplace stress: Etiology and
+consequences. *Journal of Workplace Behavioral Health, 21*, 89–97.
+
+Corbett, C., & Hill, C. (2012) *Graduating to a pay gap: The earnings of
+women and men one year after college graduation*. Washington, DC:
+American Association of University Women.
+
+DeGroot, T., & Gooty, J. (2009). Can nonverbal cues be used to make
+meaningful personality attributions in employment interviews? *Journal
+of Business Psychology, 24*, 179–192.
+
+DeNisi, A. S., & Kluger, A. N. (2000). Feedback effectiveness: Can
+360-degree appraisals be improved? *Academy of Management Executive,
+14*, 129–139.
+
+Dierdorff, E. C., & Wilson, M. A. (2003). A meta-analysis of job
+analysis reliability. *Journal of Applied Psychology, 88*, 635–646.
+
+Eagly, A. H., Johannesen-Schmidt, M. C., & van Engen, M. L. (2003).
+Transformational, transactional, and laissez-faire leadership styles: A
+meta-analysis comparing women and men. *Psychological Bulletin, 129*,
+569–591.
+
+Eagly, A. H., & Johnson, B. T. (1990). Gender and leadership style: A
+meta-analysis. *Psychological Bulletin, 108*, 233–256.
+
+Eby, L. T., Allen, T. D., Evans, S. C., Ng, T., & DuBois, D. (2008).
+Does mentoring matter? A multidisciplinary meta-analysis comparing
+mentored and non-mentored individuals. *Journal of Vocational Behavior,
+72*, 254–267.
+
+Eby, L. T., Durley, J. R., Evans, S. C., & Ragins, B. R. (2006). The
+relationship between short-term mentoring benefits and long-term mentor
+outcomes. *Journal of Vocational Behavior, 69*, 424–444.
+
+Elmore, L. (2010, June). The workplace generation gaps. *Women in
+Business, 62*\ (2), 8–11.
+
+Fletcher, C. (2001). Performance appraisal and management: The
+developing research agenda. *Journal of Occupational and Organizational
+Psychology, 74*, 473–487.
+
+Gentry, W. A., Weber, T. J., & Sadri, G. (2008). Examining
+career-related mentoring and managerial performance across cultures: A
+multilevel analysis. *Journal of Vocational Behavior, 72*, 241–253.
+
+Gibson, J. W., Greenwood, R. A., & Murphy, E. F. (2009). Generational
+differences in the workplace: Personal values, behaviors, and popular
+beliefs. *Journal of Diversity Management, 4*, 1–7.
+
+Gilbreth, L. M. (1914). *The psychology of management:* *The function of
+the mind in determining, teaching, and installing methods of least
+waste*. New York, NY: Sturgis and Walton.
+
+Gilbreth, L. M. (1998). *As I remember: An autobiography of Lillian
+Gilbreth*. Norcross, GA: Industrial Engineering and Management Press.
+
+Gilmore, D. C., & Ferris, G. R. (1989). The effects of applicant
+impression management tactics on interviewer judgments. *Journal of
+Management,15*, 557–564.
+
+Greenberg, J. (1993). Stealing in the name of justice: Informational and
+interpersonal moderators of theft reactions to underpayment inequity.
+*Organizational Behavior and Human Decision Processes, 54*, 81–103.
+
+Greenberg, L., & Barling, J. (1999). Predicting employee agression
+against coworkers, subordinates and supervisors: The roles of person
+behaviors and perceived workplace factors. *Journal of Organizational
+Behavior, 20*, 897–913.
+
+Greenhaus, J. H., & Beutell, N. J. (1985). Sources of conflict between
+work and family roles. *Academy of Management Review, 10*, 76–88.
+
+Gyllensten, K., & Palmer, S. (2005). The role of gender in workplace
+stress: A critical literature review. *Health Education Journal, 64*,
+271–288.
+
+Hoogendoorn, S., Oosterbeek, H., & van Praag, M. (2013). The impact of
+gender diversity on the performance of business teams: Evidence from a
+field experiment. *Management Science, 59*, 1514–1528.
+
+Hosoda, M., Stone-Romero, E., & Coats, G. (2003). The effects of
+physical attractiveness on job-related outcomes: A meta-analysis of
+experimental studies. *Personnel Psychology, 56*, 431–462.
+
+Howard, J. L., & Ferris, G. R. (1996). The employment interview context:
+Social and situational influences on interviewer decisions. *Journal of
+Applied Social Psychology, 26*, 112–136.
+
+Howell, W. C. (2003). Human factors and ergonomics. In W. C. Borman, D.
+R. Ilgen, R. J. Limoski, & I. B. Weiner (Eds.), *Handbook of psychology:
+Vol. 12: Industrial and organizational psychology* (pp. 565–593).
+Hoboken, NJ: Wiley.
+
+Human Rights Campaign. (2013a). *Cities and counties with
+non-discrimination ordinances that include gender identity*. Retrieved
+from
+http://www.hrc.org/resources/entry/cities-and-counties-with-non-discrimination-ordinances-that-include-gender
+
+Human Rights Campaign. (2013b). *Corporate equality index 2014: Rating
+American workplaces on lesbian, gay, bisexual and transgender equality*.
+Retrieved from http://www.hrc.org/campaigns/corporate-equality-index
+
+Jordan v. New London, No. 99-9188, 2000 U.S. App. LEXIS 22195 (2d Cir.
+2000) (unpublished). Retrieved from
+http://www.aele.org/apa/jordan-newlondon.html
+
+Judge, T. A., & Kammeyer-Mueller, J. D. (2012). Job attitudes. *Annual
+Reviews of Psychology, 63*, 341–367.
+
+Judge, T. A., Piccolo, R. F., Podsakoff, N. P., Shaw, J. C., & Rich, B.
+(2010). The relationship between pay and job satisfaction: A
+meta-analysis of the literature. *Journal of Vocational Behavior, 77*,
+157–167.
+
+Judge, T. A., & Watanabe, S. (1993). Another look at the job
+satisfaction–life satisfaction relationship. *Journal of Applied
+Psychology, 78*, 939–948.
+
+Kaiser, R. B., & Overfield, D. V. (2011). Strengths, strengths overused,
+and lopsided leadership. *Consulting Psychology, 63*, 89–109.
+
+Katzell, R. A., & Austin, J. T. (1992). From then to now: The
+development of industrial–organizational psychology in the United
+States. *Journal of Applied Psychology*, *77*, 803–835.
+
+Khanna, C., Medsker, G. J., & Ginter, R. (2012). 2012 income and
+employment survey results for the Society for Industrial and
+Organizational Psychology. Retrieved from
+http://www.siop.org/2012SIOPIncomeSurvey.pdf
+
+Koppes, L. L. (1997). American female pioneers of industrial and
+organizational psychology during the early years. *Journal of Applied
+Psychology*, *82*, 500–515.
+
+Lancaster, J. (2004). *Making time: Lillian Moller Gilbreth—A life
+beyond “Cheaper by the Dozen.”* Boston, MA: Northeastern University
+Press.
+
+Lapierre, L. M., & Allen, T. D. (2006). Work-supportive family,
+family-supportive supervision, use of organizational benefits, and
+problem-focused coping: Implications for work–family conflict and
+employee well-being. *Journal of Occupational Health Psychology, 11*,
+169–181.
+
+Larson, C., & LaFasto, F. (1989). *Teamwork: What must go right / What
+can go wrong*. Thousand Oaks, CA: Sage.
+
+Levine, S. P., & Feldman, R. S. (2002). Women and men’s nonverbal
+behavior and self-monitoring in a job interview setting. *Applied Human
+Resources Management Research, 7*, 1–14.
+
+Lewin, K., Lippitt, R., & White, R. K. (1939). Patterns of aggressive
+behavior in experimentally created “social climates.” *Journal of Social
+Psychology, 10*, 271–301.
+
+Liden, R. C., Martin, C. L., & Parsons, C. K. (1993). Interviewer and
+applicant behaviors in employment interviews. *Academy of Management
+Journal, 36*, 373–386.
+
+Lips, H. (2013). The gender pay gap: Challenging the rationalizations.
+Perceived equity, discrimination, and the limits of human capital
+models. *Sex Roles, 68*, 169–185.
+
+Locke, E. A. (1976). The nature and causes of job satisfaction. In M. D.
+Dunnette (Ed.), *Handbook of industrial and organizational psychology*
+(pp. 1297–1349). Chicago, IL: Rand McNally.
+
+Manley, K. (2009). The BFOQ defense: Title VII’s concession to gender
+discrimination. *Duke Journal of Gender Law & Policy, 16*, 169–210.
+
+McCarney, R., Warner, J., Iliffe, S., van Haselen, R., Griffin, M., &
+Fisher, P. (2007). The Hawthorne effect: A randomised, controlled trial.
+*BMC Medical Research Methodology,* *7*, 30.
+
+McDaniel, M. A., Whetzel, D. L., Schmidt, F. L., & Maurer, S. D. (1994).
+The validity of employment interviews: A comprehensive review and
+meta-analysis. *Journal of Applied Psychology, 79*, 599–616.
+
+McGregor, D. (1960). *The human side of enterprise*. New York, NY:
+McGraw Hill.
+
+McKeen, C., & Bujaki, M. (2007). Gender and mentoring. In B. R. Ragins &
+K. E. Kram (Eds.), The handbook of mentoring at work: Theory, research
+and practice (pp. 197–222). Thousand Oaks, CA: Sage Publications.
+
+McMillan, S. K., Stevens, S., & Kelloway, E. K. (2009). History and
+development of industrial/organizational psychology in the Canadian
+forces personnel selection branch: 1938–2009. *Canadian Psychology,*
+*50*, 283–291.
+
+Meister, J. C., & Willyerd, K. (2010, May). Mentoring millennials.
+*Harvard Business Review*, 1–4.
+
+Münsterberg, H. (1913). *Psychology and industrial efficiency*. Boston,
+MA: Houghton Mifflin Company.
+
+Myers, K. K., & Sadaghiani, K. (2010). Millennials in the workplace: A
+communication pespective on millennials organizational relationships and
+performance. *Journal of Business Psychology, 25*, 225–238.
+
+Naquin, C., & Tynan, R. (2003). The team halo effect: Why teams are not
+blamed for their failures. *Journal of Applied Psychology, 88*, 332–340.
+
+Occupational Safety & Health Administration. (2014). *Workplace
+violence*. Retrieved from United States Department of Labor website:
+https://www.osha.gov/SLTC/workplaceviolence/
+
+O'Keefe, J., & Bruyere, S. (1994). *Implications of the Americans with
+Disabilities Act for psychology*. New York, NY: Springer.
+
+Ostroff, C., Kinicki, A. J., & Tamkins, M. M. (2003). Organizational
+culture and climate. In W. C. Borman, D. R. Ilgen, R. J. Klimoski, & I.
+B. Weiner (Eds.), *Handbook of psychology: Vol. 12: Industrial and
+organizational psychology* (pp. 145–158). Hoboken, NJ: Wiley.
+
+Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of
+intergroup contact theory. *Journal of Personality and Social
+Psychology, 90*, 751–783.
+
+Posig, M., & Kickul, J. (2004). Work-role expectation and work family
+conflict: Gender differences in emotional exhaustion. *Women in
+Management Review, 19*, 373–386.
+
+Powell, A., Piccoli, G., & Ives, B. (2004). Virtual teams: A review of
+current literature and directions for future research. *The DATA BASE
+for Advances in Information Systems, 35*, 6–36.
+
+Ragins, B. R., & Cotton, J. L. (1999). Mentor functions and outcomes: A
+comparison of men and women in formal and informal mentoring
+relationships. *Journal of Applied Psychology, 84*, 529–550.
+
+Rakić, T., Steffens, M. C., & Mummendey, A. (2011). When it matters how
+you pronounce it: The influence of regional accents on job interview
+outcome. *British Journal of Psychology,* *102*, 868–883.
+
+Riley, M., Elgin, B., Lawrence, D., & Matlack, C. (2014, March 13).
+Missed alarms and 40 million stolen credit card numbers: How Target blew
+it. *Bloomberg Businessweek*. Retrieved from
+http://www.businessweek.com/articles/2014-03-13/target-missed-alarms-in-epic-hack-of-credit-card-data
+
+Roethlisberg, F., & Dickson, W. (1939). *Management and the worker*.
+Cambridge, MA: Harvard University Press.
+
+Saad, L. (2012). U.S. workers least happy with their work stress and
+pay: Satisfaction is highest for safety conditions and relations with
+coworkers. Retrieved from Gallup Economy website:
+http://www.gallup.com/poll/158723/workers-least-happy-work-stress-pay.aspx
+
+Saari, L. M., & Judge, T. A. (2004). Employee attitudes and job
+satisfaction. *Human Resouce Management, 43*, 395–407.
+
+Schraeder, M., Becton, J. B., & Portis, R. (2007). A critical
+examination of performance appraisals: An organization’s friend or foe?
+*The Journal for Quality and Participation, 30*, 20–25.
+
+Society for Industrial and Organizational Psychology (SIOP). (2014).
+What value does SIOP membership provide? Retrieved from
+http://www.siop.org/benefits/
+
+Taylor, F. W. (1911). *The principles of scientific management*. New
+York, NY: Harper & Brothers.
+
+Tkaczyk, C. (2013, April 19). Marissa Mayer breaks her silence on
+Yahoo's telecommuting policy. *Fortune*. Retrieved from
+http://tech.fortune.cnn.com/2013/04/19/marissa-mayer-telecommuting/
+
+The New York Times. (1999, Sept. 9). *Metro news briefs:
+Connecticut—Judge rules that police can bar high IQ scores*. Retrieved
+from
+http://www.nytimes.com/1999/09/09/nyregion/metro-news-briefs-connecticut-judge-rules-that-police-can-bar-high-iq-scores.html
+
+Tornow, W. W. (1993a). Editor’s note: Introduction to special issue on
+360-degree feedback. *Human Resource Management, 32*, 211–219.
+
+Tornow, W. W. (1993b). Perceptions or reality: Is multi-perspective
+measurement a means or an end? *Human Resource Management, 32*, 221–229.
+
+Toyota Motor Manufacturing. (2013). *Toyota production system terms*.
+Retrieved from http://www.toyotageorgetown.com/terms.asp
+
+Ugboro, I. O. (2006). Organizational commitment, job redesign, employee
+empowerment and intent to quit among survivors of restructuring and
+downsizing. *Journal of Behavioral and Applied Management, 7*, 232–257.
+
+United States Nuclear Regulatory Commission. (2013). *Backgrounder on
+the Three Mile Island accident*. Retrieved from
+http://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html
+
+U.S. Equal Employment Opportunity Commission. (2014). *EEOC charge
+receipts by state (includes U.S. territories) and basis for 2013*.
+Retrieved from
+http://www1.eeoc.gov/eeoc/statistics/enforcement/state\_13.cfm
+
+U.S. Equal Employment Opportunity Commission. (n.d.). *Facts about
+sexual harassment*. Retrieved from
+http://www.eeoc.gov/eeoc/publications/fs-sex.cfm
+
+Van De Water, T. (1997). Psychology's entrepreneurs and the marketing of
+industrial psychology. *Journal of Applied Psychology, 82*, 486–499.
+
+van Knippenberg, D., van Knippenberg, B., Monden, L., & de Lima, F.
+(2002). Organizational identification after a merger: A social identity
+perspective. *British Journal of Social Psychology, 41*, 233–252.
+
+Vinchur, A. J., & Koppes, L. L. (2014). Early contributors to the
+science and practice of industrial psychology. In L. L. Koppes, (Ed.),
+*Historical perspectives in industrial and organizational psychology*
+(pp. 37–58). Mahweh, NJ: Erlbaum.
+
+Weiss, H. M. (2002). Deconstructing job satisfaction: Separating
+evaluations, beliefs and affective experiences. *Human Resouces
+Management Review, 12*, 173–194.
+
+.. |A collage of three color photographs is shown. From left to right appear a person in front of a laptop computer sitting outdoors, a person sitting on the floor with a laptop, and a person sitting on the couch with a small child and a laptop.| image:: ../resources/CNX_Psych_13_00_IOPsych.jpg

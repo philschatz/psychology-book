@@ -1,0 +1,280 @@
+====================
+The Endocrine System
+====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Identify the
+   major glands of the endocrine system \* Identify the hormones
+   secreted by each gland \* Describe each hormone’s role in regulating
+   bodily functions
+
+The **endocrine system**\ {: data-type=“term”} consists of a series of
+glands that produce chemical substances known as **hormones**\ {:
+data-type=“term”} (`[link] <#CNX_Psych_03_05_Endocrine>`__). Like
+neurotransmitters, hormones are chemical messengers that must bind to a
+receptor in order to send their signal. However, unlike
+neurotransmitters, which are released in close proximity to cells with
+their receptors, hormones are secreted into the bloodstream and travel
+throughout the body, affecting any cells that contain receptors for
+them. Thus, whereas neurotransmitters’ effects are localized, the
+effects of hormones are widespread. Also, hormones are slower to take
+effect, and tend to be longer lasting.
+
+|A diagram of the human body illustrates the locations of the thymus,
+several parts within the brain (pineal gland, hypothalamus, thalamus,
+pituitary gland), several parts within the thyroid (cartilage, thyroid
+gland, parathyroid glands, trachea), the adrenal glands, pancreas,
+uterus, ovaries, and testes.|\ {: #CNX_Psych_03_05_Endocrine}
+
+Hormones are involved in regulating all sorts of bodily functions, and
+they are ultimately controlled through interactions between the
+hypothalamus (in the central nervous system) and the pituitary gland (in
+the endocrine system). Imbalances in hormones are related to a number of
+disorders. This section explores some of the major glands that make up
+the endocrine system and the hormones secreted by these glands.
+
+Major Glands
+============
+
+The **pituitary gland**\ {: data-type=“term”} descends from the
+hypothalamus at the base of the brain, and acts in close association
+with it. The pituitary is often referred to as the “master gland”
+because its messenger hormones control all the other glands in the
+endocrine system, although it mostly carries out instructions from the
+hypothalamus. In addition to messenger hormones, the pituitary also
+secretes growth hormone, endorphins for pain relief, and a number of key
+hormones that regulate fluid levels in the body.
+
+Located in the neck, the **thyroid gland**\ {: data-type=“term”}
+releases hormones that regulate growth, metabolism, and appetite. In
+hyperthyroidism, or Grave’s disease, the thyroid secretes too much of
+the hormone thyroxine, causing agitation, bulging eyes, and weight loss.
+In hypothyroidism, reduced hormone levels cause sufferers to experience
+tiredness, and they often complain of feeling cold. Fortunately, thyroid
+disorders are often treatable with medications that help reestablish a
+balance in the hormones secreted by the thyroid.
+
+The **adrenal glands**\ {: data-type=“term”} sit atop our kidneys and
+secrete hormones involved in the stress response, such as epinephrine
+(adrenaline) and norepinephrine (noradrenaline). The **pancreas**\ {:
+data-type=“term”} is an internal organ that secretes hormones that
+regulate blood sugar levels: insulin and glucagon. These pancreatic
+hormones are essential for maintaining stable levels of blood sugar
+throughout the day by lowering blood glucose levels (insulin) or raising
+them (glucagon). People who suffer from **diabetes**\ {:
+data-type=“term”} do not produce enough insulin; therefore, they must
+take medications that stimulate or replace insulin production, and they
+must closely control the amount of sugars and carbohydrates they
+consume.
+
+The **gonads**\ {: data-type=“term”} secrete sexual hormones, which are
+important in reproduction, and mediate both sexual motivation and
+behavior. The female gonads are the ovaries; the male gonads are the
+testes. Ovaries secrete estrogens and progesterone, and the testes
+secrete androgens, such as testosterone.
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Athletes and Anabolic Steroids
+
+   Although it is against Federal laws and many professional athletic
+   associations (The National Football League, for example) have banned
+   their use, anabolic steroid drugs continue to be used by amateur and
+   professional athletes. The drugs are believed to enhance athletic
+   performance. Anabolic steroid drugs mimic the effects of the body’s
+   own steroid hormones, like testosterone and its derivatives. These
+   drugs have the potential to provide a competitive edge by increasing
+   muscle mass, strength, and endurance, although not all users may
+   experience these results. Moreover, use of performance-enhancing
+   drugs (PEDs) does not come without risks. Anabolic steroid use has
+   been linked with a wide variety of potentially negative outcomes,
+   ranging in severity from largely cosmetic (acne) to life threatening
+   (heart attack). Furthermore, use of these substances can result in
+   profound changes in mood and can increase aggressive behavior
+   (National Institute on Drug Abuse, 2001).
+
+   Baseball player Alex Rodriguez (A-Rod) has been at the center of a
+   media storm regarding his use of illegal PEDs. Rodriguez’s
+   performance on the field was unparalleled while using the drugs; his
+   success played a large role in negotiating a contract that made him
+   the highest paid player in professional baseball. Although Rodriguez
+   maintains that he has not used PEDs for the several years, he
+   received a substantial suspension in 2013 that, if upheld, will cost
+   him more than 20 million dollars in earnings (Gaines, 2013). What are
+   your thoughts on athletes and doping? Why or why not should the use
+   of PEDs be banned? What advice would you give an athlete who was
+   considering using PEDs?
+
+Summary
+=======
+
+The glands of the endocrine system secrete hormones to regulate normal
+body functions. The hypothalamus serves as the interface between the
+nervous system and the endocrine system, and it controls the secretions
+of the pituitary. The pituitary serves as the master gland, controlling
+the secretions of all other glands. The thyroid secretes thyroxine,
+which is important for basic metabolic processes and growth; the adrenal
+glands secrete hormones involved in the stress response; the pancreas
+secretes hormones that regulate blood sugar levels; and the ovaries and
+testes produce sex hormones that regulate sexual motivation and
+behavior.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      The two major hormones secreted from the pancreas are:
+
+      1. estrogen and progesterone
+      2. norepinephrine and epinephrine
+      3. thyroxine and oxytocin
+      4. glucagon and insulin {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The \_______\_ secretes messenger hormones that direct the
+      function of the rest of the endocrine glands.
+
+      1. ovary
+      2. thyroid
+      3. pituitary
+      4. pancreas {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      The \_______\_ gland secretes epinephrine.
+
+      1. adrenal
+      2. thyroid
+      3. pituitary
+      4. master {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      The \_______\_ secretes hormones that regulate the body’s fluid
+      levels.
+
+      1. adrenal
+      2. pituitary
+      3. testes
+      4. thyroid {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Hormone secretion is often regulated through a negative feedback
+      mechanism, which means that once a hormone is secreted it will
+      cause the hypothalamus and pituitary to shut down the production
+      of signals necessary to secrete the hormone in the first place.
+      Most oral contraceptives are made of small doses of estrogen
+      and/or progesterone. Why would this be an effective means of
+      contraception?
+
+   .. container::
+
+      The introduction of relatively low, yet constant, levels of
+      gonadal hormones places the hypothalamus and pituitary under
+      inhibition via negative feedback mechanisms. This prevents the
+      alterations in both estrogen and progesterone concentrations that
+      are necessary for successful ovulation and implantation.
+
+.. container::
+
+   .. container::
+
+      Chemical messengers are used in both the nervous system and the
+      endocrine system. What properties do these two systems share? What
+      properties are different? Which one would be faster? Which one
+      would result in long-lasting changes?
+
+   .. container::
+
+      Both systems involve chemical messengers that must interact with
+      receptors in order to have an effect. The relative proximity of
+      the release site and target tissue varies dramatically between the
+      two systems. In neurotransmission, reuptake and enzymatic
+      breakdown immediately clear the synapse. Metabolism of hormones
+      must occur in the liver. Therefore, while neurotransmission is
+      much more rapid in signaling information, hormonal signaling can
+      persist for quite some time as the concentrations of the hormone
+      in the bloodstream vary gradually over time.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Given the negative health consequences associated with the use of
+      anabolic steroids, what kinds of considerations might be involved
+      in a person’s decision to use them?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   adrenal gland
+      sits atop our kidneys and secretes hormones involved in the stress
+      response ^
+   diabetes
+      disease related to insufficient insulin production ^
+   endocrine system
+      series of glands that produce chemical substances known as
+      hormones ^
+   gonad
+      secretes sexual hormones, which are important for successful
+      reproduction, and mediate both sexual motivation and behavior ^
+   hormone
+      chemical messenger released by endocrine glands ^
+   pancreas
+      secretes hormones that regulate blood sugar ^
+   pituitary gland
+      secretes a number of key hormones, which regulate fluid levels in
+      the body, and a number of messenger hormones, which direct the
+      activity of other glands in the endocrine system ^
+   thyroid
+      secretes hormones that regulate growth, metabolism, and appetite
+
+.. |A diagram of the human body illustrates the locations of the thymus, several parts within the brain (pineal gland, hypothalamus, thalamus, pituitary gland), several parts within the thyroid (cartilage, thyroid gland, parathyroid glands, trachea), the adrenal glands, pancreas, uterus, ovaries, and testes.| image:: ../resources/CNX_Psych_03_05_Endocrine.jpg

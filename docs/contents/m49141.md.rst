@@ -1,0 +1,1014 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|Three photos side by side from left to right show someone looking
+stressed while taking an exam, a close up of an answer sheet, and a room
+full of people taking an exam.|\ {: #CNX_Psych_14_00_College}
+
+Few would deny that today’s college students are under a lot of
+pressure. In addition to many usual stresses and strains incidental to
+the college experience (e.g., exams, term papers, and the dreaded
+freshman 15), students today are faced with increased college tuitions,
+burdensome debt, and difficulty finding employment after graduation. A
+significant population of non-traditional college students may face
+additional stressors, such as raising children or holding down a
+full-time job while working toward a degree.
+
+Of course, life is filled with many additional challenges beyond those
+incurred in college or the workplace. We might have concerns with
+financial security, difficulties with friends or neighbors, family
+responsibilities, and we may not have enough time to do the things we
+want to do. Even minor hassles—losing things, traffic jams, and loss of
+internet service—all involve pressure and demands that can make life
+seem like a struggle and that can compromise our sense of well-being.
+That is, all can be stressful in some way.
+
+Scientific interest in stress, including how we adapt and cope, has been
+longstanding in psychology; indeed, after nearly a century of research
+on the topic, much has been learned and many insights have been
+developed. This chapter examines stress and highlights our current
+understanding of the phenomenon, including its psychological and
+physiological natures, its causes and consequences, and the steps we can
+take to master stress rather than become its victim.
+
+References
+==========
+
+Aboa-Éboulé, C., Brisson, C., Maunsell, E., Mâsse, B., Bourbonnais, R.,
+Vézina, M., . . . Dagenais, G. R. (2007). Job strain and risk for acute
+recurrent coronary heart disease events. *Journal of the American
+Medical Association, 298*, 1652–1660.
+
+Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned
+helplessness in humans: Critique and reformulation. *Journal of Abnormal
+Psychology, 87*, 49–74.
+
+Ader, R. & Cohen, N. (2001). Conditioning and immunity. In R. Ader, D.
+L. Felten & N. Cohen (Eds.), *Psychoneuroimmunology* (3rd ed.,
+pp. 3–34). New York, NY: Academic Press.
+
+Ader, R., & Cohen, N. (1975). Behaviorally conditioned
+immunosuppression. *Psychosomatic Medicine, 37*, 333–340.
+
+Ahola, K., Honkonen, T., Isometsä, E., Kalimo, R., Nykyri, E., Aromaa,
+A., & Lönnqvist, J. (2005). The relationship between job-related burnout
+and depressive disorders—Results from the Finnish Health 2000 study.
+*Journal of Affective Disorders, 88*, 55–62.
+
+Ahola, K., Honkonen, T., Kivamäki, M., Virtanen, M., Isometsä, E.,
+Aromaa, A., & Lönnqvist, J. (2006). Contribution of burnout to the
+association between job strain and depression: The Health 2000 study.
+*Journal of Occupational and Environmental Medicine, 48*, 1023–1030.
+
+Alexander, F. (1950). *Psychosomatic medicine*. New York, NY: Norton.
+
+American Academy of Neurology. (2014). *Headache*. Retrieved from
+https://patients.aan.com/disorders/index.cfm?event=view&disorder\_id=936
+
+American Heart Association. (2012a). *What is angina?* Retrieved from
+http://www.heart.org/idc/groups/heart-public/(wcm?)/(hcm/documents/downloadable/ucm?)\\_300287.pdf
+
+American Heart Association. (2012b). *Why blood pressure matters*.
+Retrieved from
+http://www.heart.org/HEARTORG/Conditions/HighBloodPressure/
+WhyBloodPressureMatters/Why-Blood-Pressure-Matters\_UCM\_002051\_Article.jsp
+
+American Heart Association. (2014, February 24). Depression as a risk
+factor for poor prognosis among patients with acute coronary syndrome:
+Systematic review and recommendations: A scientific statement from the
+American Heart Association. *Circulation*. Retrieved from
+http://circ.ahajournals.org/content/early/2014/02/24/CIR.0000000000000019.full.pdf+html
+
+American Lung Association. (2010). *Asthma*. Retrieved from
+http://www.lung.org/assets/documents/publications/solddc-chapters/asthma.pdf
+
+American Psychiatric Association. (2013). Diagnostic and statistical
+manual of mental disorders (5th ed.). Washington, DC: Author.
+
+Bandura, A. (1994). Self-efficacy. In V. S. Ramachandran (Ed.),
+*Encyclopedia of human behavior* (Vol. 4, pp. 71–81). New York, NY:
+Academic Press.
+
+Bandura, A. (1997). *Self-efficacy: The exercise of control*. New York,
+NY: Freeman.
+
+Bandura, A. (2004). Health promotion by social cognitive means. *Health
+Education & Behavior, 31*, 143–164.
+
+Barefoot, J. C., & Schroll, M. S. (1996). Symptoms of depression, acute
+myocardial infarction, and total mortality in a community sample.
+*Circulation, 93*, 1976–1980.
+
+Baron, R. S., & Kerr, N. L. (2003). *Group process, group decision,
+group action* (2nd ed.). Berkshire, United Kingdom: Open University
+Press.
+
+Baron, R. S., Cutrona, C. E., Hicklin, D., Russell, D. W., & Lubaroff,
+D. M. (1990). Social support and immune function among spouses of cancer
+patients. *Journal of Personality and Social Psychology, 59*, 344–352.
+
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for
+interpersonal attachments as a fundamental human motivation.
+*Psychological Bulletin, 117*, 497–529.
+
+Benson, H., & Proctor, W. (1994). *Beyond the relaxation response: How
+to harness the healing power of your personal beliefs*. East Rutherford,
+NJ: Berkley Publishing Group.
+
+Berkman, L. F., & Syme, L. (1979). Social networks, host resistance, and
+mortality: A nine-year follow-up study of Alameda County residents.
+*American Journal of Epidemiology, 109*, 186–204.
+
+Blackburn, E. H., & Epel, E. S. (2012). Telomeres and adversity: Too
+toxic to ignore. *Nature, 490*\ (7419), 169–171.
+
+Boehm, J. K., & Kubzansky, L. D. (2012). The heart’s content: The
+association between positive psychological well-being and cardiovascular
+health. *Psychological Bulletin, 138*, 655–691.
+
+Bolger, N., DeLongis, A., Kessler, R. C., & Schilling, E. A. (1989).
+Effects of daily stress on negative mood. *Journal of Personality and
+Social Psychology, 57*, 808–818.
+
+Boyle, S. H., Michalek, J. E., & Suarez, E. C. (2006). Covariation of
+psychological attributes and incident coronary heart disease in U.S. Air
+Force veterans of the Vietnam War. *Psychosomatic Medicine, 68*,
+844–850.
+
+Brickman, P., & Campbell, D. T. (1971). Hedonic relativism and planning
+the good society. In M. H. Appley (Ed.), *Adaptation level theory: A*
+symposium (pp. 287–302). New York, NY: Academic Press.
+
+Brickman, P., Coats, D., & Janoff-Bulman, R. (1978). Lottery winners and
+accident victims: Is happiness relative? *Journal of Personality and
+Social Psychology, 36*, 917–927.
+
+Brondolo, E., Brady, N., Pencille, M., Beatty, D., & Contrada, R. J.
+(2009). Coping with racism: A selective review of the literature and a
+theoretical and methodological critique. *Journal of Behavioral
+Medicine, 32*\ (1), 64–88.
+
+Brummett, B. H., Barefoot, J. C., Siegler, I. C., Clapp-Channing, N. E.,
+Lytle, B. L., Bosworth, H. B., . . . Mark, D. B. (2001). Characteristics
+of socially isolated patients with coronary artery disease who are at
+elevated risk for mortality. *Psychosomatic Medicine, 63*, 267–272.
+
+Caceres, C., & Burns, J. W. (1997). Cardiovascular reactivity to
+psychological stress may enhance subsequent pain sensitivity. *Pain,
+69*, 237–244.
+
+Campeau, S., Nyhuis, T. J., Sasse, S. K., Kryskow, E. M., Herlihy, L.,
+Masini, C. V., . . . Day, H. E. W. (2010). Hypothalamic pituitary
+adrenal axis responses to low-intensity stressors are reduced after
+voluntary wheel running in rats. *Journal of Neuroendocrinology, 22*,
+872–888.
+
+Campisi, J., Bynog, P., McGehee, H., Oakland, J. C., Quirk, S., Taga,
+C., & Taylor, M. (2012). Facebook, stress, and incidence of upper
+respiratory infection in undergraduate college students.
+*Cyberpsychology, Behavior, and Social Networking, 15*, 675–681.
+
+Cannon, W. B. (1932). *The wisdom of the body.* New York, NY: W. W.
+Norton.
+
+Carroll, J. (2007). *Most Americans “very satisfied” with their personal
+lives*. Retrieved from Gallup website:
+http://www.gallup.com/poll/103483/Most-Americans-Very-Satisfied-Their-Personal-Lives.aspx
+
+Cathcart, S., Petkov, J., & Pritchard, D. (2008). Effects of induced
+stress on experimental pain sensitivity in chronic tension-type headache
+sufferers. *European Journal of Neurology, 15*, 552–558.
+
+Centers for Disease Control and Prevention (CDC). (2006). *You can
+control your asthma: A guide to understanding asthma and its triggers*.
+Retrieved from http://www.cdc.gov/asthma/pdfs/asthma\_brochure.pdf
+
+Centers for Disease Control and Prevention (CDC). (2011). Million
+hearts: Strategies to reduce the prevalence of leading cardiovascular
+disease risk factors—United States, 2011. *Morbidity and Mortality
+Weekly Report [MMWR], 60*\ (36), 1248–1251. Retrieved from
+http://www.cdc.gov/mmwr/pdf/wk/mm6036.pdf
+
+Centers for Disease Control and Prevention (CDC). (2013a). *Asthma’s
+impact on the nation: Data from the CDC National Asthma Control
+Program*. Retrieved from
+http://www.cdc.gov/asthma/impacts\_nation/AsthmaFactSheet.pdf
+
+Centers for Disease Control and Prevention (CDC). (2013b). *Breathing
+easier*. Retrieved from
+http://www.cdc.gov/asthma/pdfs/breathing\_easier\_brochure.pdf
+
+Center for Investigating Health Minds. (2013). About. Retrieved from
+http://www.investigatinghealthyminds.org/cihmCenter.html
+
+Chandola, T., Britton, A., Brunner, E., Hemingway, H., Malik, M.,
+Kumari, M., . . . Marmot, M. (2008). Work stress and coronary heart
+disease: What are the mechanisms? *European Heart Journal, 29*, 640–648.
+
+Chang, E. C. (2001). Introduction: Optimism and pessimism and moving
+beyond the most fundamental questions. In E. C. Chang (Ed.), *Optimism
+and pessimism: Implications for theory, research, and practice*
+(pp. 3–12). Washington, DC: American Psychological Association.
+
+Chang, P. P., Ford, D. E., Meoni, L. A., Wang, N. Y., & Klag, M. J.
+(2002). Anger in young and subsequent premature cardiovascular disease.
+*Archives of Internal Medicine, 162*, 901–906.
+
+Chida, Y., & Steptoe, A. (2009). The association of anger and hostility
+with future coronary heart disease: A meta-analytic review or
+prospective evidence. *Journal of the American College of Cardiology,
+53*, 936–946.
+
+Cohen, S., Frank, E., Doyle, W. J., Skoner, D. P., Rabin, B. S., &
+Gwaltney, J. M. J. (1998). Types of stressors that increase
+susceptibility to the common cold in healthy adults. *Health Psychology,
+17*, 214–223.
+
+Cohen, S., & Herbert, T. B. (1996). Health psychology: Psychological
+factors and physical disease from the perspective of human
+psychoneuroimmunology. *Annual Review of Psychology, 47*, 113–142.
+
+Cohen, S., & Janicki-Deverts, D. (2012). Who’s stressed? Distributions
+of psychological stress in the United States in probability samples in
+1993, 2006, and 2009. *Journal of Applied Social Psychology, 42*,
+1320–1334.
+
+Cohen, S., Janicki-Deverts, D., & Miller, G. E. (2007). Psychological
+distress and disease. *Journal of the American Medical Association, 98*,
+1685–1687.
+
+Cohen, S., Doyle, W. J., Turner, R., Alper, C. M., & Skoner, D. P.
+(2003). Sociability and susceptibility to the common cold.
+*Psychological Science, 14*, 389–395.
+
+Cohrs, J. C., Christie, D. J., White, M. P., & Das, C. (2013).
+Contributions of positive psychology to peace: Toward global well-being
+and resilience. *American Psychologist, 68*, 590–600.
+
+Compton, W. C. (2005). *An introduction to positive psychology*.
+Belmont, CA: Thomson Wadsworth.
+
+Cotton, D. H. G. (1990). *Stress management: An integrated approach to
+therapy*. New York, NY: Brunner/Mazel.
+
+Craft, L. L., VanIterson, E. H., Helenowski, I. B., Rademaker, A. W., &
+Courneya, K. S. (2012). Exercise effects on depressive symptoms in
+cancer survivors: A systematic review and meta-analysis. *Cancer
+Epidemiology, Biomarkers & Prevention, 21*, 3–19.
+
+Csikszentmihalyi, M. (1997). Finding flow. New York, NY: Basic Books.
+
+Csikszentmihalyi, M. (1999). If we are so rich, why aren’t we happy?
+*American Psychologist, 54*, 821–827.
+
+D’Amato, G., Liccardi, G., Cecchi, L., Pellegrino, F., & D’Amato, M.
+(2010). Facebook: A new trigger for asthma? *The Lancet, 376*, 1740.
+
+Davidson, K. W., Mostofsky, E., & Whang, W. (2010). Don’t worry: be
+happy: Positive affect and reduced 10-year incident coronary heart
+disease: The Canadian Nova Scotia Health Survey. *European Heart
+Journal, 31*, 1065–1070.
+
+de Kluizenaar, Y., Gansevoort, R. T., Miedema, H. M. E., & de Jong, P.
+E. (2007). Hypertension and road traffic noise exposure. *Journal of
+Occupational and Environmental Medicine, 49*, 484–492.
+
+De Vogli, R., Chandola, T., & Marmot, M. G. (2007). Negative aspects of
+close relationships and heart disease. *Archives of Internal Medicine,
+167*, 1951–1957.
+
+DeLongis, A., Coyne, J. C., Dakof, G., Folkman, S., & Lazarus, R. S.
+(1982). Relationship of daily hassles, uplifts, and major life events to
+health status. *Health Psychology, 1*, 119–136.
+
+Derogatis, L. R., & Coons, H. L. (1993). Self-report measures of stress.
+In L. Goldberger & S. Breznitz (Eds.), *Handbook of stress: Theoretical
+and clinical aspec*\ ts (2nd ed., pp. 200–233). New York, NY: Free
+Press.
+
+Diehl, M., & Hay, E. L. (2010). Risk and resilience factors in coping
+with daily stress in adulthood: The role of age, self-concept
+incoherence, and personal control. *Developmental Psychology, 46*,
+1132–1146.
+
+Diener, E. (2012). New findings and future directions for subjective
+well-being research. *American Psychologist, 67*, 590–597.
+
+Diener, E. (2013). The remarkable changes in the science of subjective
+well-being. *Perspectives on Psychological Science, 8*, 663–666.
+
+Diener, E., & Biswas-Diener, R. (2002). Will money increase subjective
+well-being? A literature review and guide to needed research. *Social
+Indicators Research, 57*, 119–169.
+
+Diener, E., Diener, M., & Diener, C. (1995). Factors predicting the
+subjective well-being of nations. *Journal of Personality and Social*
+*Psychology, 69*, 851–864.
+
+Diener, E., Lucas, R., & Scollon, C. N. (2006). Beyond the hedonic
+treadmill: Revising the adaptation theory of well-being. *American
+Psychologist,* *61*, 305–314.
+
+Diener, E., Ng, W., Harter, J., & Arora, R. (2010). Wealth and happiness
+across the world: Material prosperity predicts life evaluation, whereas
+psychosocial prosperity predicts positive feelings. *Journal of
+Personality and Social Psychology, 99*, 52–61.
+
+Diener, E., Oishi, S., & Ryan, K. L. (2013). Universals and cultural
+differences in the causes and structure of happiness: A multilevel
+review. In Mental Well-Being (pp. 153–176). Springer Netherlands.
+
+Diener, E., Suh, E. M., Lucas, R. E., & Smith, H. L. (1999). Subjective
+well-being: Three decades of progress. *Psychological Bulletin, 125*,
+276–302.
+
+Diener, E., Tay, L., & Myers, D. (2011). The religion paradox: If
+religion makes people happy, why are so many dropping out? *Journal of
+Personality* *and Social Psychology, 101*, 1278–1290.
+
+Diener, E., Tay, L., & Oishi, S. (2013). Rising income and the
+subjective well-being of nations. *Journal of Personality and Social
+Psychology, 104*, 267–276.
+
+Diener, E., Wolsic, B., & Fujita, F. (1995). Physical attractiveness and
+subjective well-being. *Journal of Personality and Social Psychology,*
+*69*, 120–129.
+
+Dohrenwend, B. P. (2006). Inventorying stressful life events as risk
+factors for psychopathology: Toward resolution of the problem of
+intracategory variability. *Psychological Bulletin, 132*, 477–495.
+
+Entringer, S., Epel, E. S., Kumsta, R., Lin, J., Hellhammer, D. H.,
+Blackburn, E., Wüst, S., & Wadhwa, P. D. (2011). Stress exposure in
+intrauterine life is associated with shorter telomere length in young
+adulthood. *Proceedings of the National Academy of Sciences, USA, 108*,
+E513–E518.
+
+Epel, E. S., Blackburn, E. H., Lin, J., Dhabhar, F. S., Adler, N. E.,
+Morrow, J. D., & Cawthon, R. M. (2004). Accelerated telomere shortening
+in response to life stress. *Proceedings of the National Academy of
+Sciences, USA, 101*, 17312–17315.
+
+Everly, G. S., & Lating, J. M. (2002). *A clinical guide to the
+treatment of the human stress response* (2nd ed.). New York, NY: Kluwer
+Academic/Plenum Publishing.
+
+Falagas, M. E., Zarkadoulia, E. A., Ioannidou, E. N., Peppas, G.,
+Christodoulou, C., & Rafailidis, P. I. (2007). The effect of
+psychosocial factors on breast cancer outcome: A systematic review.
+*Breast Cancer Research, 9:R44*. Retrieved from
+http://breast-cancer-research.com/content/pdf/bcr1744.pdf
+
+Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a
+middle-aged community sample. *Journal of Health and Social Behavior,
+21*, 219–239.
+
+Fontana, A. M., Diegnan, T., Villeneuve, A., & Lepore, S. J. (1999).
+Nonevaluative social support reduces cardiovascular reactivity in young
+women during acutely stressful performance situations. *Journal of
+Behavioral Medicine, 22*, 75–91.
+
+Friedman, H. S., & Booth-Kewley, S. (1987). The “disease-prone
+personality”: A meta-analytic view of the construct. *American
+Psychologist, 42*, 539–555.
+
+Friedman, M. (1977). Type A behavior pattern: Some of its
+pathophysiological components. *Bulletin of the New York Academy of
+Medicine, 53*, 593–604.
+
+Friedman, M., & Rosenman, R. (1974). *Type A behavior and your heart*.
+New York, NY: Alfred A. Knopf.
+
+Friedman, M., & Rosenman, R. H. (1959). Association of specific overt
+behavior pattern with blood and cardiovascular findings blood
+cholesterol level, blood clotting time, incidence of arcus senilis, and
+clinical coronary artery disease. *Journal of the American Medical
+Association, 169*\ (12), 1286–1296.
+
+Fujita, F., & Diener, E. (2005). Life satisfaction set point: Stability
+and change. *Journal of Personality and Social Psychology, 88*, 158–164.
+
+Fulmer, C. A., Gelfand, M. J., Kruglanski, A., Kim-Prieto, C., Diener,
+E., Pierro, A., & Higgins, E. T. (2010). On “feeling right” in cultural
+contexts: How person-culture match affects self-esteem and subjective
+well-being. *Psychological Science, 21*, 1563–1569.
+
+Geoffroy, M. C., Hertzman, C., Li, L., & Power, C. (2013). Prospective
+association of morning salivary cortisol with depressive symptoms in
+mid-life: A life-course study. *PLoS ONE, 8*\ (11), 1–9.
+
+Gerber, M., Kellman, M., Hartman, T., & Pühse, U. (2010). Do exercise
+and fitness buffer against stress among Swiss police and emergency
+response service officers? *Psychology of Sport and Exercise, 11*,
+286–294.
+
+Glaser, R., & Kiecolt-Glaser, J. K. (2005). Stress-induced immune
+dysfunction: Implications for health. *Nature Reviews Immunology, 5*,
+243–251.
+
+Glaser, R., Kiecolt-Glaser, J. K., Marucha, P. T., MacCallum, R. C.,
+Laskowski, B. F., & Malarkey, W. B. (1999). Stress-related changes in
+proinflammatory cytokine production in wounds. *Archives of General
+Psychiatry, 56*, 450–456.
+
+Glassman, A. H. (2007). Depression and cardiovascular comorbidity.
+*Dialogues in Clinical Neuroscience, 9*, 9–17.
+
+Glassman, A. H., & Shapiro, P. A. (1998). Depression and the course of
+coronary artery disease. *American Journal of Psychiatry, 155*, 4–11.
+
+Greenberg, J. S. (2006). *Comprehensive stress management* (9th ed.).
+Boston, MA: McGraw-Hill.
+
+Gregoire, C. (2013, June 5). Happiness index: Only 1 in 3 Americans are
+very happy, according to Harris Poll. *The Huffington Post*. Retrieved
+from
+http://www.huffingtonpost.com/2013/06/01/happiness-index-only-1-in\_n\_3354524.html
+
+Hackney, C. H., & Sanders, G. S. (2003). Religiosity and mental health:
+A meta-analysis of recent studies. *Journal for the Scientific Study of
+Religion, 42*, 43–55.
+
+Hansen, T. (2012). Parenthood and happiness: A review of folk theories
+versus empirical evidence. *Social Indicators Research, 108*, 29–64.
+
+Hare, D. L., Toukhsati, S. R., Johansson, P., & Jaarsma, T. (2013).
+Depression and cardiovascular disease: A clinical review. *European
+Heart Journal*. Advance online publication. doi:10.1093/eurheartj/eht462
+
+Hatch, S. L., & Dohrenwend, B. P. (2007). Distribution of traumatic and
+other stressful life events by race/ethnicity, gender, SES, and age: A
+review of the research. *American Journal of Community Psychology, 40*,
+313–332.
+
+Haynes, S. G., Feinleib, M., & Kannel, W. B. (1980). The relationship of
+psychosocial factors to coronary disease in the Framingham study: III.
+Eight-year incidence of coronary heart disease. *American Journal of
+Epidemiology, 111*, 37–58.
+
+Head, D., Singh, T., & Bugg, J. M. (2012). The moderating role of
+exercise on stress-related effects on the hippocampus and memory in
+later adulthood. *Neuropsychology, 26*, 133–143.
+
+Helliwell, J., Layard, R., & Sachs, J. (Eds.). (2013). *World happiness
+report 2013*. Retrieved from United Nations Sustainable Development
+Solutions Network:
+http://unsdsn.org/wp-content/uploads/2014/02/WorldHappinessReport2013\_online.pdf
+
+Helson, H. (1964). Current trends and issues in adaptation-level theory.
+*American Psychologist, 19*, 26–38.
+
+Holmes, T. H., & Masuda, M. (1974). Life change and illness
+susceptibility. In B. S. Dohrenwend & B. P. Dohrenwend (Eds.),
+*Stressful life events: Their nature and effects* (pp. 45–72). New York,
+NY: John Wiley & Sons.
+
+Holmes, T. H., & Rahe, R. H. (1967). The social readjustment rating
+scale. *Journal of Psychosomatic Research, 11*, 213–218.
+
+Holmes, T. S., & Holmes, T. H. (1970). Short-term intrusions into the
+life style routine. *Journal of Psychosomatic Research, 14*, 121–132.
+
+Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social
+relationships and mortality risk: A meta-analytic review. *PLoS
+Medicine, 7*\ (7), e1000316.
+
+Hupbach, A., & Fieman, R. (2012). Moderate stress enhances immediate and
+delayed retrieval of educationally relevant material in healthy young
+men. *Behavioral Neuroscience, 126*, 819–825.
+
+Infurna, F. J., & Gerstorf, D. (2014). Perceived control relates to
+better functional health and lower cardio-metabolic risk: The mediating
+role of physical activity. *Health Psychology, 33*, 85–94.
+
+Infurna, F. J., Gerstorf, D., Ram, N., Schupp, J., & Wagner, G. G.
+(2011). Long-term antecedents and outcomes of perceived control.
+*Psychology and Aging, 26*, 559–575.
+
+Johnson, W., & Krueger, R. F. (2006). How money buys happiness: Genetic
+and environmental processes linking finances and life satisfaction.
+*Journal of Personality and Social Psychology, 90*, 680–691.
+
+Jonas, B. S., & Lando, J. F. (2000). Negative affect as a prospective
+risk factor for hypertension. *Psychosomatic Medicine, 62*, 188–196.
+
+Jordan, H. T., Miller-Archie, S. A., Cone, J. E., Morabia, A., &
+Stellman, S. D. (2011). Heart disease among those exposed to the
+September 11, 2001 World Trade Center disaster: Results from the World
+Trade Center Health Registry. *Preventive Medicine: An International
+Journal Devoted to Practice and Theory, 53*, 370–376.
+
+Kahneman, D. (2011). *Thinking fast and slow*. New York, NY: Farrar,
+Straus, & Giroux.
+
+Kahneman, D., & Deaton, A. (2010). High income improves evaluation of
+life, but not emotional well-being. *Proceedings of the National Academy
+of Sciences, USA, 107*, 16489–16493.
+
+Kanner, A. D., Coyne, J. C., Schaefer, C., & Lazarus, R. S. (1981).
+Comparison of two modes of stress measurement: Daily hassles and uplifts
+versus major life events. *Journal of Behavioral Medicine, 4*, 1–39.
+
+Karasek, R., & Theorell, T. (1990). *Healthy work: Stress, productivity,
+and the reconstruction of working life*. New York, NY: Basic Books.
+
+Kiecolt-Glaser, J. K. (2009). Psychoneuroimmunology: Psychology’s
+gateway to the biomedical future. *Perspectives on Psychological
+Science, 4*, 367–369.
+
+Kiecolt-Glaser, J. K., Glaser, R., Gravenstein, S., Malarkey, W. B., &
+Sheridan, J., (1996). Chronic stress alters the immune response to
+influenza virus vaccine in older adults. *Proceedings of the National
+Academy of Sciences, USA, 93*, 3043–3047.
+
+Kiecolt-Glaser, J. K., McGuire, L., Robles, T. F., & Glaser, R. (2002).
+Psychoneuroimmunology and psychosomatic medicine: Back to the future.
+*Psychosomatic Medicine, 64*, 15–28.
+
+Kiecolt-Glaser, J. K., McGuire, L., Robles, T. F., & Glaser, R.
+(2002).Psychoneuroimmunology: Psychological influences on immune
+function and health. *Journal of Consulting and Clinical Psychology,
+70*, 537–547.
+
+Kilpeläinen, M., Koskenvuo, M., Helenius, H., & Terho, E. O. (2002).
+Stressful life events promote the manifestation of asthma and atopic
+diseases. *Clinical and Experimental Allergy, 32*, 256–263.
+
+Kivimäki, M., Head, J., Ferrie, J. E., Shipley, M. J., Brunner, E.,
+Vahtera, J., & Marmot, M. G. (2006). Work stress, weight gain and weight
+loss. Evidence for bidirectional effects of body mass index in the
+Whitehall II study. *International Journal of Obesity, 30*, 982–987.
+
+Klinnert, M. D., Nelson, H. S., Price, M. R., Adinoff, A. D., Leung, M.,
+& Mrazek, D. A. (2001). Onset and persistence of childhood asthma:
+Predictors from infancy. *Pediatrics, 108*, E69.
+
+Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., &
+Keltner, D. (2012). Social class, solipsism, and contextualism: How the
+rich are different from the poor. *Psychological Review, 119*, 546–572.
+
+Krosnick, J. A. (1990). Thinking about politics: Comparisons of experts
+and novices. New York, NY: Guilford.
+
+Krumboltz, M. (2014, February 18). Just like us? Elephants comfort each
+other when they’re stressed out. *Yahoo News*. Retrieved from
+http://news.yahoo.com/elephants-know-a-thing-or-two-about-empathy-202224477.html
+
+Lachman, M. E., & Weaver, S. L. (1998). The sense of control as a
+moderator of social class differences in health and well-being. *Journal
+of Personality and Social Psychology, 74*, 763–773.
+
+Lavner, J. A., Karney, B. R., & Bradbury, T. N. (2013). Newlyweds’
+optimistic forecasts of their marriage: For better or for worse?
+*Journal of Family Psychology, 27*, 531–540.
+
+Lazarus, R. P., & Folkman, S. (1984). *Stress, appraisal, and coping*.
+New York, NY: Springer.
+
+Lee, M., & Rotheram-Borus, M. J. (2001). Challenges associated with
+increased survival among parents living with HIV. *American Journal of
+Public Health, 91*, 1303–1309.
+
+Lehrer, P. M., Isenberg, S., & Hochron, S. M. (1993). Asthma and
+emotion: A review. *Journal of Asthma, 30*, 5–21.
+
+Lepore, S. J. (1998). Problems and prospects for the social
+support-reactivity hypothesis. *Annals of Behavioral Medicine, 20*,
+257–269.
+
+Lichtman, J. H., Bigger, T., Blumenthal, J. A., Frasure-Smith, N.,
+Kaufmann, P. G., Lespérance, F., . . . Froelicher, E. S. (2008).
+Depression and coronary heart disease: Recommendations for screening,
+referral, and treatment: A science advisory from the American Heart
+Association Prevention Committee of the Council on Cardiovascular
+Nursing, Council on Clinical Cardiology, Council on Epidemiology and
+Prevention, and Interdisciplinary Council on Quality of Care and
+Outcomes Research. *Circulation, 118*, 1768–1775.
+
+Loerbroks, A., Apfelbacher, C. J., Thayer, J. F., Debling, D., &
+Stürmer, T. (2009). Neuroticism, extraversion, stressful life events and
+asthma: A cohort study of middle-aged adults. *Allergy, 64*, 1444–1450.
+
+Logan H., Lutgendorf, S., Rainville, P., Sheffield, D., Iverson, K., &
+Lubaroff, D. (2001). Effects of stress and relaxation on
+capsaicin-induced pain. *The Journal of Pain, 2*, 160–170.
+
+Lutter, M. (2007). Book review: Winning a lottery brings no happiness.
+*Journal of Happiness Studies, 8*, 155–160.
+
+Lyon, B. L. (2012). Stress, coping, and health. In V. H. Rice (Ed.),
+*Handbook of stress, coping, and health: Implications for nursing
+research, theory, and practice* (2nd ed., pp. 2–20). Thousand Oaks, CA:
+Sage.
+
+Lyubomirsky, S. (2001). Why are some people happier than others? The
+role of cognitive and motivational processes in well-being. *American
+Psychologist, 56*, 239–249.
+
+Lyubomirsky, S., King, L., & Diener, E. (2005). The benefits of frequent
+positive affect: Does happiness lead to success? *Psychological
+Bulletin, 131*, 803–855.
+
+Maier, S. F., Watkins, L. R., & Fleshner, M. (1994).
+Psychoneuroimmunology: The interface between behavior, brain, and
+immunity. *American Journal of Psychology 49*\ (12), 1004–1017.
+
+Malzberg, B. (1937). Mortality among patients with involution
+melancholia. *American Journal of Psychiatry, 93*, 1231–1238.
+
+Marmot, M. G., Bosma, H., Hemingway, H., & Stansfeld, S. (1997).
+Contribution of job control and other risk factors to social variations
+in coronary heart disease incidence. *The Lancet, 350*, 235–239.
+
+Martin, M. W. (2012). *Happiness and the good life*. New York, NY:
+Oxford University Press.
+
+Maslach, C., & Jackson, S. E. (1981). The measurement of experienced
+burnout. *Journal of Occupational Behavior, 2*, 99–113.
+
+McEwan, B. (1998). Protective and damaging effects of stress mediators.
+*New England Journal of Medicine, 338*\ (3), 171–179.
+
+McIntosh, J. (2014, July 28) What are headaches? What causes headaches?
+*Medical News Today*. Retrieved from
+http://www.medicalnewstoday.com/articles/73936.php
+
+MedicineNet. (2013). *Headaches*. Retrieved from
+http://www.medicinenet.com/tension\_headache/article.htm#what\_causes\_tension\_headaches
+
+Monat, A., & Lazarus, R. S. (1991). *Stress and coping: An anthology*
+(3rd ed.). New York, NY: Columbia University Press.
+
+Myers, D. G. (2000). The funds, friends, and faith of happy people.
+*American Psychologist, 55*, 56–67.
+
+Myers, T. C., Wittrock, D. A., & Foreman, G. W., (1998). Appraisal of
+subjective stress in individuals with tension-type headache: The
+influence of baseline measures. *Journal of Behavioral Medicine, 21*,
+469–484.
+
+Mykletun, A., Bjerkeset, O., Dewey, M., Prince, M., Overland, S., &
+Stewart, R. (2007). Anxiety, depression, and cause-speciﬁc mortality:
+The HUNT study. *Psychosomatic Medicine, 69*, 323–331.
+
+Myrtek, M. (2001). Meta-analyses of prospective studies on coronary
+heart disease, type A personality, and hostility. *International Journal
+of Cardiology, 79*, 245–251.
+
+Nabi, H., Kivimaki, M., De Vogli, R., Marmot, M. G., & Singh-Manoux, A.
+(2008). Positive and negative affect and risk of coronary heart disease:
+Whitehall II prospective cohort study. *British Medical Journal, 337*,
+a118.
+
+National Institute of Arthritis and Musculoskeletal and Skin Diseases
+(NIAMS). (2012). *Understanding autoimmune diseases*. Retrieved from
+http://www.niams.nih.gov/Health\_Info/Autoimmune/understanding\_autoimmune.pdf
+
+Nealey-Moore, J. B., Smith, T. W., Uchino, B. N., Hawkins, M. W., &
+Olson-Cerny, C. (2007). Cardiovascular reactivity during positive and
+negative marital interactions. *Journal of Behavioral Medicine, 30*,
+505–519.
+
+Neelakantan, S. (2013). Mind over myocardium. *Nature, 493*, S16–S17.
+
+Neupert, S. D., Almeida, D. M., & Charles, S. T. (2007). Age differences
+in reactivity to daily stressors: The role of personal control. *Journal
+of Gerontology: Psychological Sciences, 62B*, P216–P225.
+
+Nusair, M., Al-dadah, A., & Kumar, A. (2012). The tale of mind and
+heart: Psychiatric disorders and coronary heart disease. *Missouri
+Medicine, 109*, 199–203.
+
+Office on Women’s Health, U.S. Department of Health and Human Services.
+(2009). *Heart disease: Frequently asked questions*. Retrieved from
+http://www.womenshealth.gov/publications/our-publications/fact-sheet/heart-disease.pdf
+
+Ong, A. D., Bergeman, C. S., & Bisconti, T. L. (2005). Unique effects of
+daily perceived control on anxiety symptomatology during conjugal
+bereavement. *Personality and Individual Differences, 38*, 1057–1067.
+
+Ösby, U., Brandt, L., Correia, N., Ekbom, A., & Sparén, P. (2001).
+Excess mortality in bipolar and unipolar depression in Sweden. *Archives
+of General Psychiatry, 58*, 844–850.
+
+Park, S. G., Kim, H. C., Min, J. Y., Hwang, S. H., Park, Y. S., & Min,
+K. B. (2011). A prospective study of work stressors and the common cold.
+*Occupational Medicine, 61*, 53–56. \*\*
+
+Peterson, C., & Seligman, M. E. P. (1984). Causal explanations as a risk
+factor for depression: Theory and evidence. *Psychological Review, 91*,
+347–374.
+
+Peterson, C., & Steen, T. A. (2002). Optimistic explanatory style. In C.
+R. Snyder & S. J. Lopez (Eds.), *Handbook of positive psychology*
+(pp. 244–256). New York, NY: Oxford University Press.
+
+Phillips, A. C. (2011). Blunted as well as exaggerated cardiovascular
+reactivity to stress is associated with negative health outcomes.
+*Japanese Psychological Research, 53*, 177–192.
+
+Phillips, A. C., Gallagher, S., & Carroll, D. (2009). Social support,
+social intimacy, and cardiovascular reactions to acute psychological
+stress. *Annals of Behavioral Medicine, 37*, 38–45.
+
+Pinquart, M., & Sörensen, S. (2000). Influence of socioeconomic status,
+social network, and competence on subjective well-being in later life. A
+meta-analysis. *Psychology and Aging, 15*, 187–224.
+
+Ploubidis, G. B., & Grundy, E. (2009). Personality and all cause
+mortality: Evidence for indirect links. *Personality and Individual
+differences, 47*, 203–208.
+
+Powell, J. (1996). *AIDS and HIV-related diseases: An educational guide
+for professionals and the public*. New York, NY: Insight Books.
+
+Pressman, S. D., & Cohen, S. (2005). Does positive affect influence
+health? *Psychological Bulletin, 131*, 925–971.
+
+Puterman, E., Lin, J., Blackburn, E., O’Donovan, A., Adler, N., & Epel,
+E. (2010). The power of exercise: Buffering the effect of chronic stress
+on telomere length. *PLoS ONE, 5*\ (5), e10837.
+
+Quoidbach, J., Dunn, E. W., Petrides, K. V., & Mikolajczak, M. (2010).
+Money giveth, money taketh away: The dual effect of wealth on happiness.
+*Psychological Science, 21*, 759–763.
+
+Rahe, R. H. (1974). The pathway between subjects’ recent life changes
+and their near-future illness reports: Representative results and
+methodological issues. In B. S. Dohrenwend & B. P. Dohrenwend (Eds.),
+*Stressful life events: Their nature and effects* (pp. 73–86). New York,
+NY: Wiley & Sons.
+
+Rahe, R. H., McKeen, J. D., & Arthur, R. J. (1967). A longitudinal study
+of life change and illness patterns. *Journal of Psychosomatic Research,
+10*, 355–366.
+
+Raney, J. D., & Troop-Gordon, W. (2012). Computer-mediated communication
+with distant friends: Relations with adjustment during students’ first
+semester in college. *Journal of Educational Psychology, 104*, 848–861.
+
+Rasmussen, H. N., & Wallio, S. C. (2008). The health benefits of
+optimism. In S. J. Lopez (Ed.), *Positive psychology: Exploring the best
+in people* (pp. 131–149). Westport, CT: Praeger Publishers.
+
+Rasmussen, H. N., Scheier, M. F., & Greenhouse, J. B. (2009). Optimism
+and physical health: A meta-analytic review. *Annals of Behavioral
+Medicine, 37*, 239–256.
+
+Ritz, T., Steptoe, A., Bobb, C., Harris, A. H. S., & Edwards, M. (2006).
+The asthma trigger inventory: Validation of a questionnaire for
+perceived triggers of asthma. *Psychosomatic Medicine, 68*, 956–965.
+
+Rosengren, A., Hawken, S., Ounpuu, S., Sliwa, K., Zubaid, M., Almahmeed,
+W. A., . . . Yusuf, S. (2004). Association of psychosocial risk factors
+with risk of acute myocardial infarction in 11,119 cases and 13,648
+controls from 52 countries (the INTERHEART study): Case-control study.
+*The Lancet, 364*, 953–962.
+
+Rosenman, R. H., Brand, R. J., Jenkins, C. D., Friedman, M., Straus, R.,
+& Wurm, M. (1975). Coronary heart disease in the Western Collaborative
+Group Study: Final follow-up experience of 8.5 years. *Journal of the
+American Medical Association, 223*, 872–877.
+
+Rottenberg, J., Yaroslavsky, I., Carney, R. M., Freedland, K. E.,
+George, C. J., Baki, I., Kovacs, M. (2014). The association between
+major depressive disorder and risk factors for cardiovascular disease in
+adolescence\ *. Psychosomatic Medicine, 76*, 122–127.
+
+Salmon, P. (2001). Effects of physical exercise on anxiety, depression,
+and sensitivity to stress: A unifying theory. *Clinical Psychology
+Review, 21*, 33–61.
+
+Saito, K., Kim, J. I., Maekawa, K., Ikeda, Y., & Yokoyama, M. (1997).
+The great Hanshin-Awaji earthquake aggravates blood pressure control in
+treated hypertensive patients. *American Journal of Hypertension, 10*,
+217–221.
+
+Salonen, P., Arola, H., Nygård, C., & Huhtala, H. (2008). Long-term
+associations of stress and chronic diseases in ageing and retired
+employees. *Psychology, Health, and Medicine, 13*, 55–62.
+
+Sapolsky, R. M. (1998). *Why zebras don’t get ulcers: An updated guide
+to stress, stress-related disease, and coping*. New York, NY: Freeman.
+
+Sapolsky, R. M. (2004). Organismal stress and telomeric aging. An
+unexpected connection. *Proceedings of the National Academy of Sciences,
+USA, 101*, 17323–17324.
+
+Schnall, P. L., & Landsbergis, P. A. (1994). Job strain and
+cardiovascular disease. *Annual Review of Public Health*, 15, 381–411.
+
+Schwartz, B. S., Stewart, W. F., Simon, D., & Lipton, R. B. (1998).
+Epidemiology of tension-type headache. *Journal of the American Medical
+Association, 279*, 381–383.
+
+Schwartz, N. M., & Schwartz, M. S. (1995). Definitions of biofeedback
+and applied physiology. In M. S. Schwartz & F. Andrasik (Eds.),
+*Biofeedback: A practitioners guide* (pp. 32–42). New York, NY:
+Guilford.
+
+Scully, J. A., Tosi, H., & Banning, K. (2000). Life event checklists:
+Revisiting the Social Readjustment Rating Scale after 30 years.
+*Educational and Psychological Measurement, 60*, 864–876.
+
+Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the
+human immune system: A meta-analytic study of 30 years of inquiry.
+*Psychological Bulletin, 130*, 601–630.
+
+Seligman, M. E., & Maier, S. F. (1967). Failure to escape traumatic
+shock. *Journal of* *Experimental Psychology, 74*, 1–9.
+
+Seligman, M. E., Maier, S. F., & Geer, J. H. (1968). Alleviation of
+learned helplessness in the dog. *Journal of Abnormal Psychology, 3*,
+256–262.
+
+Seligman, M. E. P. (2002). *Authentic happiness: Using the new positive
+psychology to realize your potential for lasting fulfillment*. New York,
+NY: Free Press.
+
+Seligman, M. E. P., Steen, T. A., Park, N., & Peterson, C. (2005).
+Positive psychology progress: Empirical validation of interventions.
+*American* *Psychologist, 60*, 410–421.
+
+Seligman, M. P., & Csikszentmihalyi, M. (2000). Positive psychology: An
+introduction. *American Psychologist, 55*, 5–14.
+
+Selye, H. (1936). A syndrome produced by diverse nocuous agents.
+*Nature, 138*, 32–33.
+
+Selye, H. (1974). *Stress without distress*. Philadelphia, PA:
+Lippencott.
+
+Selye, H. (1976). *The stress of life* (Rev. ed.). New York, NY:
+McGraw-Hill.
+
+Shalev, I., Moffitt, T. E., Sugden, K., Williams, B., Houts, R. M.,
+Danese, A., . . . Caspi, A. (2013). Exposure to violence during
+childhood is associated with telomere erosion from 5 to 10 years of age:
+A longitudinal study. *Molecular Psychiatry, 18*, 576–581.
+
+Shapiro, P. A. (2005). Heart disease. In J. L. Levenson (Ed.), *Textbook
+of psychosomatic medicine* (pp. 423–444). Washington, DC: American
+Psychiatric Publishing.
+
+Sims, M., Diez-Roux, A. V., Dudley, A., Gebreab, S., Wyatt, S. B.,
+Bruce, M. A., . . . Taylor, H. A. (2012). Perceived discrimination and
+hypertension among African Americans in the Jackson Heart Study
+[Supplemental material]. *American Journal of Public Health*, *102*\ (2
+Suppl.), S258–S265.
+
+Smyth, J. M., Soefer, M. H., Hurewitz, A., Kliment, A., & Stone, A. A.
+(1999). Daily psychosocial factors predict levels and diurnal cycles of
+asthma symptomatology and peak flow. *Journal of Behavioral Medicine,
+22*, 179–193.
+
+Sodergren, S. C., & Hyland, M. H. (1999). Expectancy and asthma. In I.
+Kirsch (Ed.), *How expectancies shape experience* (pp. 197–212).
+Washington, DC: American Psychological Association.
+
+Speck, R. M., Courneya, K. S., Masse, L. C., Duval, S., & Schmitz, K. H.
+(2010). An update of controlled physical activity trials in cancer
+survivors: A systematic review and meta-analysis. *Journal of Cancer
+Survivorship, 4*, 87–100.
+
+Stansfeld, S. A., Shipley, M. J., Head, J., & Fuhrer, R. (2012).
+Repeated job strain and the risk of depression: Longitudinal analyses
+from the Whitehall II study. *American Journal of Public Health, 102*,
+2360–2366.
+
+Stein, F. (2001). Occupational stress, relaxation therapies, exercise,
+and biofeedback. *Work: Journal of Prevention, Assessment, and
+Rehabilitation, 17*, 235–246.
+
+Steptoe, A., O’Donnell, K., Marmot, M., & Wardle, J. (2008). Positive
+affect and psychosocial processes related to health. *British Journal of
+Psychology, 99*, 211–227.
+
+Stovner, L. J., Hagen, K., Jensen, R., Katsarava, Z., Lipson, R., Scher,
+A., . . . Zwart, J. (2007). The global burden of headache: A
+documentation of headache prevalence and disability worldwide.
+*Cephalalgia, 27*, 193–210.
+
+Straub, R. O. (2007). *Health psychology: A biopsychosocial approach*
+(2nd ed.). New York, NY: Worth.
+
+Stroebe, W., & Stroebe, M. (1996). The social psychology of social
+support. In E. T. Higgins & A. W. Kruglanski (Eds.), *Social psychology:
+Handbook of basic principles* (pp. 597–621). New York, NY: Guilford.
+
+Stürmer, T., Hasselbach, P., & Amelang, M. (2006). Personality,
+lifestyle, and risk of cardiovascular disease and cancer: Follow-up of
+population based cohort. *British Medical Journal, 332*, 1359–1362.
+
+Suls, J., & Bunde, J. (2005). Anger, anxiety, and depression as risk
+factors for cardiovascular disease: The problems and implications of
+overlapping affective dispositions. *Psychological Bulletin, 131*,
+260–300.
+
+Sulsky, L., & Smith, C. (2005). *Work stress*. Belmont, CA: Thomson
+Wadsworth.
+
+Surtees, P. G., Wainwright, N. W. J., Luben, R., Wareham, N. J.,
+Bingham, S. A., & Khaw, K.-T. (2010). Mastery is associated with
+cardiovascular disease mortality in men and women at apparently low
+risk. *Health Psychology, 29*, 412–420.
+
+Tatris, T. W., Peeters, M. C. W., Le Blanc, P. M., Schreurs, P. J. G., &
+Schaufeli, W. B. (2001). From inequity to burnout: The role of job
+stress. *Journal of Occupational Health Psychology, 6*, 303–323.
+
+Taylor, S. E. (1999). *Health psychology* (4th ed.). Boston, MA:
+McGraw-Hill.
+
+Theorell, T., Tsutsumi, A., Hallquist, J., Reuterwall, C., Hogstedt, C.,
+Fredlund, P., . . . Johnson, J. V. (1998). Decision latitude, job
+strain, and myocardial infarction: A study of working men in Stockholm.
+*American Journal of Public Health, 88*, 382–388.
+
+Thoits, P. A. (2010). Stress and health: Major findings and policy
+implications [Supplemental material]. *Journal of Health and Social
+Behavior, 51*\ (1 Suppl.), S41–S53.
+
+Trudel, X., Brisson, C., & Milot, A. (2010). Job strain and masked
+hypertension. *Psychosomatic Medicine, 72*, 786–793.
+
+Trueba, A. F., & Ritz, T. (2013). Stress, asthma, and respiratory
+infections: Pathways involving airway immunology and microbal
+endocrinology. *Brain, Behavior and Immunity, 29*, 11–27.
+
+Uchino, B. N. (2009). Understanding the links between social support and
+physical health: A life-span perspective with emphasis on the
+separability of perceived and received support. *Perspectives on
+Psychological Science, 4*, 236–255.
+
+Uchino, B. N., Vaughn, A. A., Carlisle, M., & Birmingham, W. (2012).
+Social support and immunity. In S. C. Segerstrom (Ed.), *The Oxford
+handbook of psychoneuroimmunology* (pp. 214–233). New York, NY: Oxford
+University Press.
+
+Ukestad, L. K., and Wittrock, D. A. (1996). Pain perception and coping
+in recurrent headache. *Health Psychology, 15*, 65–68.
+
+Vella, E. J., Kamarck, T. W., Flory, J. D., & Manuck, S. (2012). Hostile
+mood and social strain during daily life: A test of the transactional
+model. *Annals of Behavioral Medicine, 44*, 341–352.
+
+von Leupoldt, A., Ehnes, F., & Dahme, B. (2006). Emotions and
+respiratory function in asthma: A comparison of findings in everyday
+life and laboratory. *British Journal of Health Psychology, 11*,
+185–198.
+
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and
+validation of brief measures of positive and negative affect: The PANAS
+scales. *Journal of Personality and Social Psychology, 54*, 1063–1070.
+
+Weeke, A. (1979). Causes of death in manic-depressive. In M. Shou & M.
+Stromgren (Eds.), *Origin, prevention, and treatment of affective
+disorders* (pp. 289–299). London, England: Academic Press.
+
+Whang, W., Kubzansky, L. D., Kawachi, I., Rexrod, K. M., Kroenke, C. H.,
+Glynn, R. J., . . . Albert, C. M. (2009). Depression and risk of sudden
+cardiac death and coronary heart disease in women: Results from the
+Nurses’ Health Study. *Journal of the American College of Cardiology,
+53*, 950–958.
+
+Wilson, T. D., & Gilbert, D. T. (2003). Affective forecasting. *Advances
+in Experimental Social Psychology, 35*, 345–411. \*\*
+
+World Health Organization (WHO). (2013). *A global brief on
+hypertension: Silent killer, global public health crisis*. Retrieved
+from
+http://apps.who.int/iris/bitstream/10665/79059/1/WHO\_DCO\_WHD\_2013.2\_eng.pdf?ua=1
+
+Wright, R. J., Rodriguez, M., & Cohen, S. (1998). Review of psychosocial
+stress and asthma: An integrated biopsychosocial approach. *Thorax, 53*,
+1066–1074.
+
+Wulsin, L. R., & Singal, B. M. (2003). Do depressive symptoms increase
+the risk for the onset of coronary disease? A systematic quantitative
+review. *Psychosomatic Medicine, 65*, 201–210.
+
+Zacharie, R. (2009). Psychoneuroimmunology: A bio-psycho-social approach
+to health and disease. *Scandinavian Journal of Psychology, 50*,
+645–651.
+
+.. |Three photos side by side from left to right show someone looking stressed while taking an exam, a close up of an answer sheet, and a room full of people taking an exam.| image:: ../resources/CNX_Psych_14_00_College.jpg

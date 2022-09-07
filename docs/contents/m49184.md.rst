@@ -1,0 +1,268 @@
+======================
+Dissociative Disorders
+======================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   essential nature of dissociative disorders \* Identify and
+   differentiate the symptoms of dissociative amnesia,
+   depersonalization/ derealization disorder, and dissociative identity
+   disorder \* Discuss the potential role of both social and
+   psychological factors in dissociative identity disorder
+
+**Dissociative disorders**\ {: data-type=“term”} are characterized by an
+individual becoming split off, or dissociated, from her core sense of
+self. Memory and identity become disturbed; these disturbances have a
+psychological rather than physical cause. Dissociative disorders listed
+in the DSM-5 include dissociative amnesia,
+depersonalization/derealization disorder, and dissociative identity
+disorder.
+
+DISSOCIATIVE AMNESIA
+====================
+
+Amnesia refers to the partial or total forgetting of some experience or
+event. An individual with **dissociative amnesia**\ {: data-type=“term”}
+is unable to recall important personal information, usually following an
+extremely stressful or traumatic experience such as combat, natural
+disasters, or being the victim of violence. The memory impairments are
+not caused by ordinary forgetting. Some individuals with dissociative
+amnesia will also experience **dissociative fugue**\ {:
+data-type=“term”} (from the word “to flee” in French), whereby they
+suddenly wander away from their home, experience confusion about their
+identity, and sometimes even adopt a new identity (Cardeña & Gleaves,
+2006). Most fugue episodes last only a few hours or days, but some can
+last longer. One study of residents in communities in upstate New York
+reported that about 1.8% experienced dissociative amnesia in the
+previous year (Johnson, Cohen, Kasen, & Brook, 2006).
+
+Some have questioned the validity of dissociative amnesia (Pope, Hudson,
+Bodkin, & Oliva, 1998); it has even been characterized as a “piece of
+psychiatric folklore devoid of convincing empirical support” (McNally,
+2003, p. 275). Notably, scientific publications regarding dissociative
+amnesia rose during the 1980s and reached a peak in the mid-1990s,
+followed by an equally sharp decline by 2003; in fact, only 13 cases of
+individuals with dissociative amnesia worldwide could be found in the
+literature that same year (Pope, Barry, Bodkin, & Hudson, 2006).
+Further, no description of individuals showing dissociative amnesia
+following a trauma exists in any fictional or nonfictional work prior to
+1800 (Pope, Poliakoff, Parker, Boynes, & Hudson, 2006). However, a study
+of 82 individuals who enrolled for treatment at a psychiatric outpatient
+hospital found that nearly 10% met the criteria for dissociative
+amnesia, perhaps suggesting that the condition is underdiagnosed,
+especially in psychiatric populations (Foote, Smolin, Kaplan, Legatt, &
+Lipschitz, 2006).
+
+DEPERSONALIZATION/DEREALIZATION DISORDER
+========================================
+
+**Depersonalization/derealization disorder**\ {: data-type=“term”} is
+characterized by recurring episodes of depersonalization, derealization,
+or both. Depersonalization is defined as feelings of “unreality or
+detachment from, or unfamiliarity with, one’s whole self or from aspects
+of the self” (APA, 2013, p. 302). Individuals who experience
+**depersonalization**\ {: data-type=“term” .no-emphasis} might believe
+their thoughts and feelings are not their own; they may feel robotic as
+though they lack control over their movements and speech; they may
+experience a distorted sense of time and, in extreme cases, they may
+sense an “out-of-body” experience in which they see themselves from the
+vantage point of another person. **Derealization**\ {: data-type=“term”
+.no-emphasis} is conceptualized as a sense of “unreality or detachment
+from, or unfamiliarity with, the world, be it individuals, inanimate
+objects, or all surroundings” (APA, 2013, p. 303). A person who
+experiences derealization might feel as though he is in a fog or a
+dream, or that the surrounding world is somehow artificial and unreal.
+Individuals with depersonalization/derealization disorder often have
+difficulty describing their symptoms and may think they are going crazy
+(APA, 2013).
+
+DISSOCIATIVE IDENTITY DISORDER
+==============================
+
+By far, the most well-known dissociative disorder is **dissociative
+identity disorder**\ {: data-type=“term”} (formerly called multiple
+personality disorder). People with dissociative identity disorder
+exhibit two or more separate personalities or identities, each
+well-defined and distinct from one another. They also experience memory
+gaps for the time during which another identity is in charge (e.g., one
+might find unfamiliar items in her shopping bags or among her
+possessions), and in some cases may report hearing voices, such as a
+child’s voice or the sound of somebody crying (APA, 2013). The study of
+upstate New York residents mentioned above (Johnson et al., 2006)
+reported that 1.5% of their sample experienced symptoms consistent with
+dissociative identity disorder in the previous year.
+
+Dissociative identity disorder (DID) is highly controversial. Some
+believe that people fake symptoms to avoid the consequences of illegal
+actions (e.g., “I am not responsible for shoplifting because it was my
+other personality”). In fact, it has been demonstrated that people are
+generally skilled at adopting the role of a person with different
+personalities when they believe it might be advantageous to do so. As an
+example, Kenneth Bianchi was an infamous serial killer who, along with
+his cousin, murdered over a dozen females around Los Angeles in the late
+1970s. Eventually, he and his cousin were apprehended. At Bianchi’s
+trial, he pled not guilty by reason of insanity, presenting himself as
+though he had DID and claiming that a different personality (“Steve
+Walker”) committed the murders. When these claims were scrutinized, he
+admitted faking the symptoms and was found guilty (Schwartz, 1981).
+
+A second reason DID is controversial is because rates of the disorder
+suddenly skyrocketed in the 1980s. More cases of DID were identified
+during the five years prior to 1986 than in the preceding two centuries
+(Putnam, Guroff, Silberman, Barban, & Post, 1986). Although this
+increase may be due to the development of more sophisticated diagnostic
+techniques, it is also possible that the popularization of DID—helped in
+part by *Sybil*, a popular 1970s book (and later film) about a woman
+with 16 different personalities—may have prompted clinicians to
+overdiagnose the disorder (Piper & Merskey, 2004). Casting further
+scrutiny on the existence of multiple personalities or identities is the
+recent suggestion that the story of Sybil was largely fabricated, and
+the idea for the book might have been exaggerated (Nathan, 2011).
+
+Despite its controversial nature, DID is clearly a legitimate and
+serious disorder, and although some people may fake symptoms, others
+suffer their entire lives with it. People with this disorder tend to
+report a history of childhood trauma, some cases having been
+corroborated through medical or legal records (Cardeña & Gleaves, 2006).
+Research by Ross et al. (1990) suggests that in one study about 95% of
+people with DID were physically and/or sexually abused as children. Of
+course, not all reports of childhood abuse can be expected to be valid
+or accurate. However, there is strong evidence that traumatic
+experiences can cause people to experience states of dissociation,
+suggesting that dissociative states—including the adoption of multiple
+personalities—may serve as a psychologically important coping mechanism
+for threat and danger (Dalenberg et al., 2012).
+
+Summary
+=======
+
+The main characteristic of dissociative disorders is that people become
+dissociated from their sense of self, resulting in memory and identity
+disturbances. Dissociative disorders listed in the DSM-5 include
+dissociative amnesia, depersonalization/derealization disorder, and
+dissociative identity disorder. A person with dissociative amnesia is
+unable to recall important personal information, often after a stressful
+or traumatic experience.
+
+Depersonalization/derealization disorder is characterized by recurring
+episodes of depersonalization (i.e., detachment from or unfamiliarity
+with the self) and/or derealization (i.e., detachment from or
+unfamiliarity with the world). A person with dissociative identity
+disorder exhibits two or more well-defined and distinct personalities or
+identities, as well as memory gaps for the time during which another
+identity was present.
+
+Dissociative identity disorder has generated controversy, mainly because
+some believe its symptoms can be faked by patients if presenting its
+symptoms somehow benefits the patient in avoiding negative consequences
+or taking responsibility for one’s actions. The diagnostic rates of this
+disorder have increased dramatically following its portrayal in popular
+culture. However, many people legitimately suffer over the course of a
+lifetime with this disorder.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Dissociative amnesia involves \________.
+
+      1. memory loss following head trauma
+      2. memory loss following stress
+      3. feeling detached from the self
+      4. feeling detached from the world {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Dissociative identity disorder mainly involves \________.
+
+      1. depersonalization
+      2. derealization
+      3. schizophrenia
+      4. different personalities {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      The prevalence of most psychological disorders has increased since
+      the 1980s. However, as discussed in this section, scientific
+      publications regarding dissociative amnesia peaked in the
+      mid-1990s but then declined steeply through 2003. In addition, no
+      fictional or nonfictional description of individuals showing
+      dissociative amnesia following a trauma exists prior to 1800. How
+      would you explain this phenomenon?
+
+   .. container::
+
+      Several explanations are possible. One explanation is that perhaps
+      there is little scientific interest in this phenomenon, maybe
+      because it has yet to gain consistent scientific acceptance.
+      Another possible explanation is that perhaps the dissociative
+      amnesia was fashionable at the time publications dealing with this
+      topic peaked (1990s); perhaps since that time it has become less
+      fashionable.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Try to find an example (via a search engine) of a past instance in
+      which a person committed a horrible crime, was apprehended, and
+      later claimed to have dissociative identity disorder during the
+      trial. What was the outcome? Was the person revealed to be faking?
+      If so, how was this determined?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   depersonalization/derealization disorder
+      dissociative disorder in which people feel detached from the self
+      (depersonalization), and the world feels artificial and unreal
+      (derealization) ^
+   dissociative amnesia
+      dissociative disorder characterized by an inability to recall
+      important personal information, usually following an extremely
+      stressful or traumatic experience ^
+   dissociative disorders
+      group of DSM-5 disorders in which the primary feature is that a
+      person becomes dissociated, or split off, from his or her core
+      sense of self, resulting in disturbances in identity and memory ^
+   dissociative fugue
+      symptom of dissociative amnesia in which a person suddenly wanders
+      away from one’s home and experiences confusion about his or her
+      identity ^
+   dissociative identity disorder
+      dissociative disorder (formerly known as multiple personality
+      disorder) in which a person exhibits two or more distinct,
+      well-defined personalities or identities and experiences memory
+      gaps for the time during which another identity emerged

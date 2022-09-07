@@ -1,0 +1,404 @@
+===================
+Learning Approaches
+===================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   behaviorist perspective on personality \* Describe the cognitive
+   perspective on personality \* Describe the social cognitive
+   perspective on personality
+
+In contrast to the psychodynamic approaches of Freud and the
+neo-Freudians, which relate personality to inner (and hidden) processes,
+the learning approaches focus only on observable behavior. This
+illustrates one significant advantage of the learning approaches over
+psychodynamics: Because learning approaches involve observable,
+measurable phenomena, they can be scientifically tested.
+
+THE BEHAVIORAL PERSPECTIVE
+==========================
+
+Behaviorists do not believe in biological determinism: They do not see
+personality traits as inborn. Instead, they view personality as
+significantly shaped by the reinforcements and consequences outside of
+the organism. In other words, people behave in a consistent manner based
+on prior learning. B. F. **Skinner**\ {: data-type=“term” .no-emphasis},
+a strict behaviorist, believed that environment was solely responsible
+for all behavior, including the enduring, consistent behavior patterns
+studied by personality theorists.
+
+As you may recall from your study on the psychology of learning, Skinner
+proposed that we demonstrate consistent behavior patterns because we
+have developed certain response tendencies (Skinner, 1953). In other
+words, we *learn* to behave in particular ways. We increase the
+behaviors that lead to positive consequences, and we decrease the
+behaviors that lead to negative consequences. Skinner disagreed with
+Freud’s idea that personality is fixed in childhood. He argued that
+personality develops over our entire life, not only in the first few
+years. Our responses can change as we come across new situations;
+therefore, we can expect more variability over time in personality than
+Freud would anticipate. For example, consider a young woman, Greta, a
+risk taker. She drives fast and participates in dangerous sports such as
+hang gliding and kiteboarding. But after she gets married and has
+children, the system of reinforcements and punishments in her
+environment changes. Speeding and extreme sports are no longer
+reinforced, so she no longer engages in those behaviors. In fact, Greta
+now describes herself as a cautious person.
+
+THE SOCIAL-COGNITIVE PERSPECTIVE
+================================
+
+Albert **Bandura**\ {: data-type=“term” .no-emphasis} agreed with
+Skinner that personality develops through **learning**\ {:
+data-type=“term” .no-emphasis}. He disagreed, however, with Skinner’s
+strict behaviorist approach to personality development, because he felt
+that thinking and reasoning are important components of learning. He
+presented a **social-cognitive theory**\ {: data-type=“term”} of
+personality that emphasizes both learning and cognition as sources of
+individual differences in personality. In social-cognitive theory, the
+concepts of reciprocal determinism, observational learning, and
+self-efficacy all play a part in personality development.
+
+Reciprocal Determinism
+----------------------
+
+In contrast to Skinner’s idea that the environment alone determines
+behavior, Bandura (1990) proposed the concept of **reciprocal
+determinism**\ {: data-type=“term”}, in which cognitive processes,
+behavior, and context all interact, each factor influencing and being
+influenced by the others simultaneously
+(`[link] <#Figure_11_04_RecipDeter>`__). Cognitive processes refer to
+all characteristics previously learned, including beliefs, expectations,
+and personality characteristics. *Behavior* refers to anything that we
+do that may be rewarded or punished. Finally, the *context* in which the
+behavior occurs refers to the environment or situation, which includes
+rewarding/punishing stimuli.
+
+|Three boxes are arranged in a triangle. There are lines with arrows on
+each end connecting the boxes. The boxes are labeled “Behavior,”
+“Situational factors,” and “Personal factors.”|\ {:
+#Figure_11_04_RecipDeter}
+
+Consider, for example, that you’re at a festival and one of the
+attractions is bungee jumping from a bridge. Do you do it? In this
+example, the behavior is bungee jumping. Cognitive factors that might
+influence this behavior include your beliefs and values, and your past
+experiences with similar behaviors. Finally, context refers to the
+reward structure for the behavior. According to reciprocal determinism,
+all of these factors are in play.
+
+Observational Learning
+----------------------
+
+Bandura’s key contribution to learning theory was the idea that much
+learning is vicarious. We learn by observing someone else’s behavior and
+its consequences, which Bandura called observational learning. He felt
+that this type of learning also plays a part in the development of our
+personality. Just as we learn individual behaviors, we learn new
+behavior patterns when we see them performed by other people or models.
+Drawing on the behaviorists’ ideas about reinforcement, Bandura
+suggested that whether we choose to imitate a model’s behavior depends
+on whether we see the model reinforced or punished. Through
+observational learning, we come to learn what behaviors are acceptable
+and rewarded in our culture, and we also learn to inhibit deviant or
+socially unacceptable behaviors by seeing what behaviors are punished.
+
+We can see the principles of reciprocal determinism at work in
+observational learning. For example, personal factors determine which
+behaviors in the environment a person chooses to imitate, and those
+environmental events in turn are processed cognitively according to
+other personal factors.
+
+Self-Efficacy
+-------------
+
+Bandura (1977, 1995) has studied a number of cognitive and personal
+factors that affect learning and personality development, and most
+recently has focused on the concept of self-efficacy.
+**Self-efficacy**\ {: data-type=“term”} is our level of confidence in
+our own abilities, developed through our social experiences.
+Self-efficacy affects how we approach challenges and reach goals. In
+observational learning, self-efficacy is a cognitive factor that affects
+which behaviors we choose to imitate as well as our success in
+performing those behaviors.
+
+People who have high self-efficacy believe that their goals are within
+reach, have a positive view of challenges seeing them as tasks to be
+mastered, develop a deep interest in and strong commitment to the
+activities in which they are involved, and quickly recover from
+setbacks. Conversely, people with low self-efficacy avoid challenging
+tasks because they doubt their ability to be successful, tend to focus
+on failure and negative outcomes, and lose confidence in their abilities
+if they experience setbacks. Feelings of self-efficacy can be specific
+to certain situations. For instance, a student might feel confident in
+her ability in English class but much less so in math class.
+
+JULIAN ROTTER AND LOCUS OF CONTROL
+==================================
+
+Julian **Rotter**\ {: data-type=“term” .no-emphasis} (1966) proposed the
+concept of locus of control, another cognitive factor that affects
+learning and personality development. Distinct from self-efficacy, which
+involves our belief in our own abilities, **locus of control**\ {:
+data-type=“term”} refers to our beliefs about the power we have over our
+lives. In Rotter’s view, people possess either an internal or an
+external locus of control (`[link] <#Figure_11_04_Control>`__). Those of
+us with an internal locus of control (“internals”) tend to believe that
+most of our outcomes are the direct result of our efforts. Those of us
+with an external locus of control (“externals”) tend to believe that our
+outcomes are outside of our control. Externals see their lives as being
+controlled by other people, luck, or chance. For example, say you didn’t
+spend much time studying for your psychology test and went out to dinner
+with friends instead. When you receive your test score, you see that you
+earned a D. If you possess an internal locus of control, you would most
+likely admit that you failed because you didn’t spend enough time
+studying and decide to study more for the next test. On the other hand,
+if you possess an external locus of control, you might conclude that the
+test was too hard and not bother studying for the next test, because you
+figure you will fail it anyway. Researchers have found that people with
+an internal locus of control perform better academically, achieve more
+in their careers, are more independent, are healthier, are better able
+to cope, and are less depressed than people who have an external locus
+of control (Benassi, Sweeney, & Durfour, 1988; Lefcourt, 1982; Maltby,
+Day, & Macaskill, 2007; Whyte, 1977, 1978, 1980).
+
+|A box is labeled “Locus of Control.” An arrow points to the left from
+this box to another labeled “Internal” containing “I am in control of
+outcomes: belief that one’s effort and decisions determine outcomes.”
+Another arrow points to the right from the “Locus of Control” box to
+another box labeled “External” containing “Outcomes are beyond my
+control: belief that luck, fate, and other people determine
+outcomes.”|\ {: #Figure_11_04_Control}
+
+.. container:: psychology link-to-learning
+
+   Take the `Locus of Control <http://openstax.org/l/locuscontrol>`__
+   questionnaire. Scores range from 0 to 13. A low score on this
+   questionnaire indicates an internal locus of control, and a high
+   score indicates an external locus of control.
+
+WALTER MISCHEL AND THE PERSON-SITUATION DEBATE
+==============================================
+
+Walter **Mischel**\ {: data-type=“term” .no-emphasis} was a student of
+Julian Rotter and taught for years at Stanford, where he was a colleague
+of Albert Bandura. Mischel surveyed several decades of empirical
+psychological literature regarding trait prediction of behavior, and his
+conclusion shook the foundations of personality psychology. Mischel
+found that the data did not support the central principle of the
+field—that a person’s personality traits are consistent across
+situations. His report triggered a decades-long period of
+self-examination, known as the person-situation debate, among
+personality psychologists.
+
+Mischel suggested that perhaps we were looking for consistency in the
+wrong places. He found that although behavior was inconsistent across
+different situations, it was much more consistent within situations—so
+that a person’s behavior in one situation would likely be repeated in a
+similar one. And as you will see next regarding his famous “marshmallow
+test,” Mischel also found that behavior is consistent in equivalent
+situations across time.
+
+One of Mischel’s most notable contributions to personality psychology
+was his ideas on self-regulation. According to Lecci & Magnavita (2013),
+“Self-regulation is the process of identifying a goal or set of goals
+and, in pursuing these goals, using both internal (e.g., thoughts and
+affect) and external (e.g., responses of anything or anyone in the
+environment) feedback to maximize goal attainment” (p. 6.3).
+Self-regulation is also known as will power. When we talk about will
+power, we tend to think of it as the ability to delay gratification. For
+example, Bettina’s teenage daughter made strawberry cupcakes, and they
+looked delicious. However, Bettina forfeited the pleasure of eating one,
+because she is training for a 5K race and wants to be fit and do well in
+the race. Would you be able to resist getting a small reward now in
+order to get a larger reward later? This is the question Mischel
+investigated in his now-classic marshmallow test.
+
+Mischel designed a study to assess self-regulation in young children. In
+the marshmallow study, Mischel and his colleagues placed a preschool
+child in a room with one marshmallow on the table. The child was told
+that he could either eat the marshmallow now, or wait until the
+researcher returned to the room and then he could have two marshmallows
+(Mischel, Ebbesen & Raskoff, 1972). This was repeated with hundreds of
+preschoolers. What Mischel and his team found was that young children
+differ in their degree of self-control. Mischel and his colleagues
+continued to follow this group of preschoolers through high school, and
+what do you think they discovered? The children who had more
+self-control in preschool (the ones who waited for the bigger reward)
+were more successful in high school. They had higher SAT scores, had
+positive peer relationships, and were less likely to have substance
+abuse issues; as adults, they also had more stable marriages (Mischel,
+Shoda, & Rodriguez, 1989; Mischel et al., 2010). On the other hand,
+those children who had poor self-control in preschool (the ones who
+grabbed the one marshmallow) were not as successful in high school, and
+they were found to have academic and behavioral problems.
+
+.. container:: psychology link-to-learning
+
+   To learn more about the marshmallow test and view the test given to
+   children in Columbia, follow the link below to Joachim de Posada’s
+   `TEDTalks <http://openstax.org/l/TEDPosada>`__ video.
+
+Today, the debate is mostly resolved, and most psychologists consider
+both the situation and personal factors in understanding behavior. For
+Mischel (1993), people are situation processors. The children in the
+marshmallow test each processed, or interpreted, the rewards structure
+of that situation in their own way. Mischel’s approach to personality
+stresses the importance of both the situation and the way the person
+perceives the situation. Instead of behavior being determined by the
+situation, people use cognitive processes to interpret the situation and
+then behave in accordance with that interpretation.
+
+Summary
+=======
+
+Behavioral theorists view personality as significantly shaped and
+impacted by the reinforcements and consequences outside of the organism.
+People behave in a consistent manner based on prior learning. B. F.
+Skinner, a prominent behaviorist, said that we demonstrate consistent
+behavior patterns, because we have developed certain response
+tendencies. Mischel focused on how personal goals play a role in the
+self-regulation process. Albert Bandura said that one’s environment can
+determine behavior, but at the same time, people can influence the
+environment with both their thoughts and behaviors, which is known as
+reciprocal determinism. Bandura also emphasized how we learn from
+watching others. He felt that this type of learning also plays a part in
+the development of our personality. Bandura discussed the concept of
+self-efficacy, which is our level of confidence in our own abilities.
+Finally, Rotter proposed the concept of locus of control, which refers
+to our beliefs about the power we have over our lives. He said that
+people fall along a continuum between a purely internal and a purely
+external locus of control.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Self-regulation is also known as \________.
+
+      1. self-efficacy
+      2. will power
+      3. internal locus of control
+      4. external locus of control {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Your level of confidence in your own abilities is known as
+      \________.
+
+      1. self-efficacy
+      2. self-concept
+      3. self-control
+      4. self-esteem {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Jane believes that she got a bad grade on her psychology paper
+      because her professor doesn’t like her. Jane most likely has an
+      \______\_ locus of control.
+
+      1. internal
+      2. external
+      3. intrinsic
+      4. extrinsic {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Compare the personalities of someone who has high self-efficacy to
+      someone who has low self-efficacy.
+
+   .. container::
+
+      People who have high self-efficacy believe that their efforts
+      matter. They perceive their goals as being within reach; have a
+      positive view of challenges, seeing them as tasks to be mastered;
+      develop a deep interest in and strong commitment to the activities
+      in which they are involved; and quickly recover from setbacks.
+      Conversely, people with low self-efficacy believe their efforts
+      have little or no effect, and that outcomes are beyond their
+      control. They avoid challenging tasks because they doubt their
+      abilities to be successful; tend to focus on failure and negative
+      outcomes; and lose confidence in their abilities if they
+      experience setbacks.
+
+.. container::
+
+   .. container::
+
+      Compare and contrast Skinner’s perspective on personality
+      development to Freud’s.
+
+   .. container::
+
+      Skinner disagreed with Freud’s idea that childhood plays an
+      important role in shaping our personality. He argued that
+      personality develops over our entire life, rather than in the
+      first few years of life as Freud suggested. Skinner said that our
+      responses can change as we come across new situations; therefore,
+      we can see more variability over time in personality.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      Do you have an internal or an external locus of control? Provide
+      examples to support your answer.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   locus of control
+      beliefs about the power we have over our lives; an external locus
+      of control is the belief that our outcomes are outside of our
+      control; an internal locus of control is the belief that we
+      control our own outcomes ^
+   reciprocal determinism
+      belief that one’s environment can determine behavior, but at the
+      same time, people can influence the environment with both their
+      thoughts and behaviors ^
+   self-efficacy
+      someone’s level of confidence in their own abilities ^
+   social-cognitive theory
+      Bandura’s theory of personality that emphasizes both cognition and
+      learning as sources of individual differences in personality
+
+.. |Three boxes are arranged in a triangle. There are lines with arrows on each end connecting the boxes. The boxes are labeled “Behavior,” “Situational factors,” and “Personal factors.”| image:: ../resources/CNX_Psych_11_04_RecipDeterR.jpg
+.. |A box is labeled “Locus of Control.” An arrow points to the left from this box to another labeled “Internal” containing “I am in control of outcomes: belief that one’s effort and decisions determine outcomes.” Another arrow points to the right from the “Locus of Control” box to another box labeled “External” containing “Outcomes are beyond my control: belief that luck, fate, and other people determine outcomes.”| image:: ../resources/CNX_Psych_11_04_Control.jpg

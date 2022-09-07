@@ -1,0 +1,416 @@
+=======
+Hearing
+=======
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   basic anatomy and function of the auditory system \* Explain how we
+   encode and perceive pitch \* Discuss how we localize sound
+
+Our auditory system converts pressure waves into meaningful sounds. This
+translates into our ability to hear the sounds of nature, to appreciate
+the beauty of music, and to communicate with one another through spoken
+language. This section will provide an overview of the basic anatomy and
+function of the auditory system. It will include a discussion of how the
+sensory stimulus is translated into neural impulses, where in the brain
+that information is processed, how we perceive pitch, and how we know
+where sound is coming from.
+
+ANATOMY OF THE AUDITORY SYSTEM
+==============================
+
+The ear can be separated into multiple sections. The outer ear includes
+the **pinna**\ {: data-type=“term”}, which is the visible part of the
+ear that protrudes from our heads, the auditory canal, and the
+**tympanic membrane**\ {: data-type=“term”}, or eardrum. The middle ear
+contains three tiny bones known as the **ossicles**\ {:
+data-type=“term”}, which are named the **malleus**\ {: data-type=“term”}
+(or hammer), **incus**\ {: data-type=“term”} (or anvil), and the
+**stapes**\ {: data-type=“term”} (or stirrup). The inner ear contains
+the semi-circular canals, which are involved in balance and movement
+(the vestibular sense), and the cochlea. The **cochlea**\ {:
+data-type=“term”} is a fluid-filled, snail-shaped structure that
+contains the sensory receptor cells (hair cells) of the auditory system
+(`[link] <#Figure_05_04_Ear>`__).
+
+|An illustration shows sound waves entering the “auditory canal” and
+traveling to the inner ear. The locations of the “pinna,” “tympanic
+membrane (eardrum)” are labeled, as well as parts of the inner ear: the
+“ossicles” and its subparts, the “malleus,” “incus,” and “stapes.” A
+callout leads to a close-up illustration of the inner ear that shows the
+locations of the “semicircular canals,” “uticle,” “oval window,”
+“saccule,” “cochlea,” and the “basilar membrane and hair cells.”|\ {:
+#Figure_05_04_Ear}
+
+Sound waves travel along the auditory canal and strike the tympanic
+membrane, causing it to vibrate. This vibration results in movement of
+the three ossicles. As the ossicles move, the stapes presses into a thin
+membrane of the cochlea known as the oval window. As the stapes presses
+into the oval window, the fluid inside the cochlea begins to move, which
+in turn stimulates **hair cells**\ {: data-type=“term”}, which are
+auditory receptor cells of the inner ear embedded in the basilar
+membrane. The **basilar membrane**\ {: data-type=“term”} is a thin strip
+of tissue within the cochlea.
+
+The activation of hair cells is a mechanical process: the stimulation of
+the hair cell ultimately leads to activation of the cell. As hair cells
+become activated, they generate neural impulses that travel along the
+auditory nerve to the brain. Auditory information is shuttled to the
+inferior colliculus, the medial geniculate nucleus of the thalamus, and
+finally to the auditory cortex in the temporal lobe of the brain for
+processing. Like the visual system, there is also evidence suggesting
+that information about auditory recognition and localization is
+processed in parallel streams (Rauschecker & Tian, 2000; Renier et al.,
+2009).
+
+PITCH PERCEPTION
+================
+
+Different frequencies of sound waves are associated with differences in
+our perception of the pitch of those sounds. Low-frequency sounds are
+lower pitched, and high-frequency sounds are higher pitched. How does
+the auditory system differentiate among various pitches?
+
+Several theories have been proposed to account for pitch perception.
+We’ll discuss two of them here: temporal theory and place theory. The
+**temporal theory**\ {: data-type=“term”} of pitch perception asserts
+that frequency is coded by the activity level of a sensory neuron. This
+would mean that a given hair cell would fire action potentials related
+to the frequency of the sound wave. While this is a very intuitive
+explanation, we detect such a broad range of frequencies (20–20,000 Hz)
+that the frequency of action potentials fired by hair cells cannot
+account for the entire range. Because of properties related to sodium
+channels on the neuronal membrane that are involved in action
+potentials, there is a point at which a cell cannot fire any faster
+(Shamma, 2001).
+
+The **place theory**\ {: data-type=“term”} of pitch perception suggests
+that different portions of the basilar membrane are sensitive to sounds
+of different frequencies. More specifically, the base of the basilar
+membrane responds best to high frequencies and the tip of the basilar
+membrane responds best to low frequencies. Therefore, hair cells that
+are in the base portion would be labeled as high-pitch receptors, while
+those in the tip of basilar membrane would be labeled as low-pitch
+receptors (Shamma, 2001).
+
+In reality, both theories explain different aspects of pitch perception.
+At frequencies up to about 4000 Hz, it is clear that both the rate of
+action potentials and place contribute to our perception of pitch.
+However, much higher frequency sounds can only be encoded using place
+cues (Shamma, 2001).
+
+SOUND LOCALIZATION
+==================
+
+The ability to locate sound in our environments is an important part of
+**hearing**\ {: data-type=“term” .no-emphasis}. Localizing sound could
+be considered similar to the way that we perceive depth in our visual
+fields. Like the monocular and binocular cues that provided information
+about depth, the auditory system uses both **monaural**\ {:
+data-type=“term”} (one-eared) and **binaural**\ {: data-type=“term”}
+(two-eared) cues to localize sound.
+
+Each pinna interacts with incoming sound waves differently, depending on
+the sound’s source relative to our bodies. This interaction provides a
+monaural cue that is helpful in locating sounds that occur above or
+below and in front or behind us. The sound waves received by your two
+ears from sounds that come from directly above, below, in front, or
+behind you would be identical; therefore, monaural cues are essential
+(Grothe, Pecka, & McAlpine, 2010).
+
+Binaural cues, on the other hand, provide information on the location of
+a sound along a horizontal axis by relying on differences in patterns of
+vibration of the eardrum between our two ears. If a sound comes from an
+off-center location, it creates two types of binaural cues: interaural
+level differences and interaural timing differences. **Interaural level
+difference**\ {: data-type=“term”} refers to the fact that a sound
+coming from the right side of your body is more intense at your right
+ear than at your left ear because of the attenuation of the sound wave
+as it passes through your head. **Interaural timing difference**\ {:
+data-type=“term”} refers to the small difference in the time at which a
+given sound wave arrives at each ear
+(`[link] <#Figure_05_04_MonInt>`__). Certain brain areas monitor these
+differences to construct where along a horizontal axis a sound
+originates (Grothe et al., 2010).
+
+|A photograph of jets has an illustration of arced waves labeled “sound”
+coming from the jets. These extend to an outline of a human head, with
+arrows from the jets identifying the location of each ear.|\ {:
+#Figure_05_04_MonInt}
+
+HEARING LOSS
+============
+
+**Deafness**\ {: data-type=“term”} is the partial or complete inability
+to hear. Some people are born deaf, which is known as **congenital
+deafness**\ {: data-type=“term”}. Many others begin to suffer from
+**conductive hearing loss**\ {: data-type=“term”} because of age,
+genetic predisposition, or environmental effects, including exposure to
+extreme noise (noise-induced hearing loss, as shown in
+`[link] <#Figure_05_04_EnFactors>`__), certain illnesses (such as
+measles or mumps), or damage due to toxins (such as those found in
+certain solvents and metals).
+
+|Photograph A shows a rock band performing on stage and a sign reading
+“The Black Keys.” Photograph B shows a construction worker operating a
+jackhammer.|\ {: #Figure_05_04_EnFactors}
+
+Given the mechanical nature by which the sound wave stimulus is
+transmitted from the eardrum through the ossicles to the oval window of
+the cochlea, some degree of hearing loss is inevitable. With conductive
+hearing loss, hearing problems are associated with a failure in the
+vibration of the eardrum and/or movement of the ossicles. These problems
+are often dealt with through devices like hearing aids that amplify
+incoming sound waves to make vibration of the eardrum and movement of
+the ossicles more likely to occur.
+
+When the hearing problem is associated with a failure to transmit neural
+signals from the cochlea to the brain, it is called **sensorineural
+hearing loss**\ {: data-type=“term”}. One disease that results in
+sensorineural hearing loss is **Ménière's disease**\ {:
+data-type=“term”}. Although not well understood, Ménière's disease
+results in a degeneration of inner ear structures that can lead to
+hearing loss, tinnitus (constant ringing or buzzing), **vertigo**\ {:
+data-type=“term”} (a sense of spinning), and an increase in pressure
+within the inner ear (Semaan & Megerian, 2011). This kind of loss cannot
+be treated with hearing aids, but some individuals might be candidates
+for a cochlear implant as a treatment option. **Cochlear implants**\ {:
+data-type=“term”} are electronic devices that consist of a microphone, a
+speech processor, and an electrode array. The device receives incoming
+sound information and directly stimulates the auditory nerve to transmit
+information to the brain.
+
+.. container:: psychology link-to-learning
+
+   Watch this `video <https://www.youtube.com/watch?v=AqXBrKwB96E>`__
+   describe cochlear implant surgeries and how they work.
+
+.. container:: psychology what-do-you-think
+
+   .. container::
+
+      Deaf Culture
+
+   In the United States and other places around the world, deaf people
+   have their own language, schools, and customs. This is called **deaf
+   culture**\ {: data-type=“term” .no-emphasis}. In the United States,
+   deaf individuals often communicate using American Sign Language
+   (ASL); ASL has no verbal component and is based entirely on visual
+   signs and gestures. The primary mode of communication is signing. One
+   of the values of deaf culture is to continue traditions like using
+   sign language rather than teaching deaf children to try to speak,
+   read lips, or have cochlear implant surgery.
+
+   When a child is diagnosed as deaf, parents have difficult decisions
+   to make. Should the child be enrolled in mainstream schools and
+   taught to verbalize and read lips? Or should the child be sent to a
+   school for deaf children to learn ASL and have significant exposure
+   to deaf culture? Do you think there might be differences in the way
+   that parents approach these decisions depending on whether or not
+   they are also deaf?
+
+Summary
+=======
+
+Sound waves are funneled into the auditory canal and cause vibrations of
+the eardrum; these vibrations move the ossicles. As the ossicles move,
+the stapes presses against the oval window of the cochlea, which causes
+fluid inside the cochlea to move. As a result, hair cells embedded in
+the basilar membrane become enlarged, which sends neural impulses to the
+brain via the auditory nerve.
+
+Pitch perception and sound localization are important aspects of
+hearing. Our ability to perceive pitch relies on both the firing rate of
+the hair cells in the basilar membrane as well as their location within
+the membrane. In terms of sound localization, both monaural and binaural
+cues are used to locate where sounds originate in our environment.
+
+Individuals can be born deaf, or they can develop deafness as a result
+of age, genetic predisposition, and/or environmental causes. Hearing
+loss that results from a failure of the vibration of the eardrum or the
+resultant movement of the ossicles is called conductive hearing loss.
+Hearing loss that involves a failure of the transmission of auditory
+nerve impulses to the brain is called sensorineural hearing loss.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Hair cells located near the base of the basilar membrane respond
+      best to \_______\_ sounds.
+
+      1. low-frequency
+      2. high-frequency
+      3. low-amplitude
+      4. high-amplitude {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      The three ossicles of the middle ear are known as \________.
+
+      1. malleus, incus, and stapes
+      2. hammer, anvil, and stirrup
+      3. pinna, cochlea, and utricle
+      4. both a and b {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      Hearing aids might be effective for treating \________.
+
+      1. Ménière’s disease
+      2. sensorineural hearing loss
+      3. conductive hearing loss
+      4. interaural time differences {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Cues that require two ears are referred to as \_______\_ cues.
+
+      1. monocular
+      2. monaural
+      3. binocular
+      4. binaural {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Given what you’ve read about sound localization, from an
+      evolutionary perspective, how does sound localization facilitate
+      survival?
+
+   .. container::
+
+      Sound localization would have allowed early humans to locate prey
+      and protect themselves from predators.
+
+.. container::
+
+   .. container::
+
+      How can temporal and place theories both be used to explain our
+      ability to perceive the pitch of sound waves with frequencies up
+      to 4000 Hz?
+
+   .. container::
+
+      Pitch of sounds below this threshold could be encoded by the
+      combination of the place and firing rate of stimulated hair cells.
+      So, in general, hair cells located near the tip of the basilar
+      membrane would signal that we’re dealing with a lower-pitched
+      sound. However, differences in firing rates of hair cells within
+      this location could allow for fine discrimination between low-,
+      medium-, and high-pitch sounds within the larger low-pitch
+      context.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      If you had to choose to lose either your vision or your hearing,
+      which would you choose and why?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   basilar membrane
+      thin strip of tissue within the cochlea that contains the hair
+      cells which serve as the sensory receptors for the auditory system
+      ^
+   binaural cue
+      two-eared cue to localize sound ^
+   cochlea
+      fluid-filled, snail-shaped structure that contains the sensory
+      receptor cells of the auditory system ^
+   cochlear implant
+      electronic device that consists of a microphone, a speech
+      processor, and an electrode array to directly stimulate the
+      auditory nerve to transmit information to the brain ^
+   conductive hearing loss
+      failure in the vibration of the eardrum and/or movement of the
+      ossicles ^
+   congenital deafness
+      deafness from birth ^
+   deafness
+      partial or complete inability to hear ^
+   hair cell
+      auditory receptor cell of the inner ear ^
+   incus
+      middle ear ossicle; also known as the anvil ^
+   interaural level difference
+      sound coming from one side of the body is more intense at the
+      closest ear because of the attenuation of the sound wave as it
+      passes through the head ^
+   interaural timing difference
+      small difference in the time at which a given sound wave arrives
+      at each ear ^
+   malleus
+      middle ear ossicle; also known as the hammer ^
+   Ménière's disease
+      results in a degeneration of inner ear structures that can lead to
+      hearing loss, tinnitus, vertigo, and an increase in pressure
+      within the inner ear ^
+   monaural cue
+      one-eared cue to localize sound ^
+   pinna
+      visible part of the ear that protrudes from the head ^
+   place theory of pitch perception
+      different portions of the basilar membrane are sensitive to sounds
+      of different frequencies ^
+   sensorineural hearing loss
+      failure to transmit neural signals from the cochlea to the brain ^
+   stapes
+      middle ear ossicle; also known as the stirrup ^
+   temporal theory of pitch perception
+      sound’s frequency is coded by the activity level of a sensory
+      neuron ^
+   tympanic membrane
+      eardrum ^
+   vertigo
+      spinning sensation
+
+.. |An illustration shows sound waves entering the “auditory canal” and traveling to the inner ear. The locations of the “pinna,” “tympanic membrane (eardrum)” are labeled, as well as parts of the inner ear: the “ossicles” and its subparts, the “malleus,” “incus,” and “stapes.” A callout leads to a close-up illustration of the inner ear that shows the locations of the “semicircular canals,” “uticle,” “oval window,” “saccule,” “cochlea,” and the “basilar membrane and hair cells.”| image:: ../resources/ear_new.jpg
+.. |A photograph of jets has an illustration of arced waves labeled “sound” coming from the jets. These extend to an outline of a human head, with arrows from the jets identifying the location of each ear.| image:: ../resources/CNX_Psych_05_04_MonInt.jpg
+.. |Photograph A shows a rock band performing on stage and a sign reading “The Black Keys.” Photograph B shows a construction worker operating a jackhammer.| image:: ../resources/CNX_Psych_05_04_EnFactors.jpg

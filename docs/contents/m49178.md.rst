@@ -1,0 +1,575 @@
+======================
+Disorders in Childhood
+======================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe the
+   nature and symptoms of attention deficit/hyperactivity disorder and
+   autism spectrum disorder \* Discuss the prevalence and factors that
+   contribute to the development of these disorders
+
+Most of the disorders we have discussed so far are typically diagnosed
+in adulthood, although they can and sometimes do occur during childhood.
+However, there are a group of conditions that, when present, are
+diagnosed early in childhood, often before the time a child enters
+school. These conditions are listed in the DSM-5 as **neurodevelopmental
+disorders**\ {: data-type=“term”}, and they involve developmental
+problems in personal, social, academic, and intellectual functioning
+(APA, 2013). In this section, we will discuss two such disorders:
+attention deficit/ hyperactivity disorder and autism.
+
+ATTENTION DEFICIT/HYPERACTIVITY DISORDER
+========================================
+
+Diego is always active, from the time he wakes up in the morning until
+the time he goes to bed at night. His mother reports that he came out
+the womb kicking and screaming, and he has not stopped moving since. He
+has a sweet disposition, but always seems to be in trouble with his
+teachers, parents, and after-school program counselors. He seems to
+accidently break things; he lost his jacket three times last winter, and
+he never seems to sit still. His teachers believe he is a smart child,
+but he never finishes anything he starts and is so impulsive that he
+does not seem to learn much in school.
+
+Diego likely has **attention deficit/hyperactivity disorder (ADHD)**\ {:
+data-type=“term”}. The symptoms of this disorder were first described by
+Hans Hoffman in the 1920s. While taking care of his son while his wife
+was in the hospital giving birth to a second child, Hoffman noticed that
+the boy had trouble concentrating on his homework, had a short attention
+span, and had to repeatedly go over easy homework to learn the material
+(Jellinek & Herzog, 1999). Later, it was discovered that many
+hyperactive children—those who are fidgety, restless, socially
+disruptive, and have trouble with impulse control—also display short
+attention spans, problems with concentration, and distractibility. By
+the 1970s, it had become clear that many children who display attention
+problems often also exhibit signs of hyperactivity. In recognition of
+such findings, the DSM-III (published in 1980) included a new disorder:
+attention deficit disorder with and without hyperactivity, now known as
+attention deficit/hyperactivity disorder (ADHD).
+
+A child with ADHD shows a constant pattern of inattention and/or
+hyperactive and impulsive behavior that interferes with normal
+functioning (APA, 2013). Some of the signs of inattention include great
+difficulty with and avoidance of tasks that require sustained attention
+(such as conversations or reading), failure to follow instructions
+(often resulting in failure to complete school work and other duties),
+disorganization (difficulty keeping things in order, poor time
+management, sloppy and messy work), lack of attention to detail,
+becoming easily distracted, and forgetfulness. Hyperactivity is
+characterized by excessive movement, and includes fidgeting or
+squirming, leaving one’s seat in situations when remaining seated is
+expected, having trouble sitting still (e.g., in a restaurant), running
+about and climbing on things, blurting out responses before another
+person’s question or statement has been completed, difficulty waiting
+one’s turn for something, and interrupting and intruding on others.
+Frequently, the hyperactive child comes across as noisy and boisterous.
+The child’s behavior is hasty, impulsive, and seems to occur without
+much forethought; these characteristics may explain why adolescents and
+young adults diagnosed with ADHD receive more traffic tickets and have
+more automobile accidents than do others (Thompson, Molina, Pelham, &
+Gnagy, 2007).
+
+ADHD occurs in about 5% of children (APA, 2013). On the average, boys
+are 3 times more likely to have ADHD than are girls; however, such
+findings might reflect the greater propensity of boys to engage in
+aggressive and antisocial behavior and thus incur a greater likelihood
+of being referred to psychological clinics (Barkley, 2006). Children
+with ADHD face severe academic and social challenges. Compared to their
+non-ADHD counterparts, children with ADHD have lower grades and
+standardized test scores and higher rates of expulsion, grade retention,
+and dropping out (Loe & Feldman, 2007). they also are less well-liked
+and more often rejected by their peers (Hoza et al., 2005).
+
+Previously, ADHD was thought to fade away by adolescence. However,
+longitudinal studies have suggested that ADHD is a chronic problem, one
+that can persist into adolescence and adulthood (Barkley, Fischer,
+Smallish, & Fletcher, 2002). A recent study found that 29.3% of adults
+who had been diagnosed with ADHD decades earlier still showed symptoms
+(Barbaresi et al., 2013). Somewhat troubling, this study also reported
+that nearly 81% of those whose ADHD persisted into adulthood had
+experienced at least one other comorbid disorder, compared to 47% of
+those whose ADHD did not persist.
+
+Life Problems from ADHD
+-----------------------
+
+Children diagnosed with ADHD face considerably worse long-term outcomes
+than do those children who do not receive such a diagnosis. In one
+investigation, 135 adults who had been identified as having ADHD
+symptoms in the 1970s were contacted decades later and interviewed
+(Klein et al., 2012). Compared to a control sample of 136 participants
+who had never been diagnosed with ADHD, those who were diagnosed as
+children:
+
+-  had worse educational attainment (more likely to have dropped out of
+   high school and less likely to have earned a bachelor’s degree);
+-  had lower socioeconomic status;
+-  held less prestigious occupational positions;
+-  were more likely to be unemployed;
+-  made considerably less in salary;
+-  scored worse on a measure of occupational functioning (indicating,
+   for example, lower job satisfaction, poorer work relationships, and
+   more firings);
+-  scored worse on a measure of social functioning (indicating, for
+   example, fewer friendships and less involvement in social
+   activities);
+-  were more likely to be divorced; and
+-  were more likely to have non-alcohol-related substance abuse
+   problems. (Klein et al., 2012)
+
+Longitudinal studies also show that children diagnosed with ADHD are at
+higher risk for substance abuse problems. One study reported that
+childhood ADHD predicted later drinking problems, daily smoking, and use
+of marijuana and other illicit drugs (Molina & Pelham, 2003). The risk
+of substance abuse problems appears to be even greater for those with
+ADHD who also exhibit antisocial tendencies (Marshal & Molina, 2006).
+
+Causes of ADHD
+--------------
+
+Family and twin studies indicate that genetics play a significant role
+in the development of ADHD. Burt (2009), in a review of 26 studies,
+reported that the median rate of concordance for identical twins was .66
+(one study reported a rate of .90), whereas the median concordance rate
+for fraternal twins was .20. This study also found that the median
+concordance rate for unrelated (adoptive) siblings was .09; although
+this number is small, it is greater than 0, thus suggesting that the
+environment may have at least some influence. Another review of studies
+concluded that the heritability of inattention and hyperactivity were
+71% and 73%, respectively (Nikolas & Burt, 2010).
+
+The specific genes involved in ADHD are thought to include at least two
+that are important in the regulation of the neurotransmitter dopamine
+(Gizer, Ficks, & Waldman, 2009), suggesting that dopamine may be
+important in ADHD. Indeed, medications used in the treatment of ADHD,
+such as methylphenidate (Ritalin) and amphetamine with dextroamphetamine
+(Adderall), have stimulant qualities and elevate dopamine activity.
+People with ADHD show less dopamine activity in key regions of the
+brain, especially those associated with motivation and reward (Volkow et
+al., 2009), which provides support to the theory that dopamine deficits
+may be a vital factor in the development this disorder (Swanson et al.,
+2007).
+
+Brain imaging studies have shown that children with ADHD exhibit
+abnormalities in their frontal lobes, an area in which dopamine is in
+abundance. Compared to children without ADHD, those with ADHD appear to
+have smaller frontal lobe volume, and they show less frontal lobe
+activation when performing mental tasks. Recall that one of the
+functions of the frontal lobes is to inhibit our behavior. Thus,
+abnormalities in this region may go a long way toward explaining the
+hyperactive, uncontrolled behavior of ADHD.
+
+By the 1970s, many had become aware of the connection between
+nutritional factors and childhood behavior. At the time, much of the
+public believed that hyperactivity was caused by sugar and food
+additives, such as artificial coloring and flavoring. Undoubtedly, part
+of the appeal of this hypothesis was that it provided a simple
+explanation of (and treatment for) behavioral problems in children. A
+statistical review of 16 studies, however, concluded that sugar
+consumption has no effect at all on the behavioral and cognitive
+performance of children (Wolraich, Wilson, & White, 1995). Additionally,
+although food additives have been shown to increase hyperactivity in
+non-ADHD children, the effect is rather small (McCann et al., 2007).
+Numerous studies, however, have shown a significant relationship between
+exposure to nicotine in cigarette smoke during the prenatal period and
+ADHD (Linnet et al., 2003). Maternal smoking during pregnancy is
+associated with the development of more severe symptoms of the disorder
+(Thakur et al., 2013).
+
+Is ADHD caused by poor parenting? Not likely. Remember, the genetics
+studies discussed above suggested that the family environment does not
+seem to play much of a role in the development of this disorder; if it
+did, we would expect the concordance rates to be higher for fraternal
+twins and adoptive siblings than has been demonstrated. All things
+considered, the evidence seems to point to the conclusion that ADHD is
+triggered more by genetic and neurological factors and less by social or
+environmental ones.
+
+AUTISM SPECTRUM DISORDER
+========================
+
+A seminal paper published in 1943 by psychiatrist Leo Kanner described
+an unusual neurodevelopmental condition he observed in a group of
+children. He called this condition early infantile autism, and it was
+characterized mainly by an inability to form close emotional ties with
+others, speech and language abnormalities, repetitive behaviors, and an
+intolerance of minor changes in the environment and in normal routines
+(Bregman, 2005). What the DSM-5 refers to as **autism spectrum
+disorder**\ {: data-type=“term”} today, is a direct extension of
+Kanner’s work.
+
+Autism spectrum disorder is probably the most misunderstood and puzzling
+of the neurodevelopmental disorders. Children with this disorder show
+signs of significant disturbances in three main areas: (a) deficits in
+social interaction, (b) deficits in communication, and (c) repetitive
+patterns of behavior or interests. These disturbances appear early in
+life and cause serious impairments in functioning (APA, 2013). The child
+with autism spectrum disorder might exhibit deficits in social
+interaction by not initiating conversations with other children or
+turning their head away when spoken to. These children do not make eye
+contact with others and seem to prefer playing alone rather than with
+others. In a certain sense, it is almost as though these individuals
+live in a personal and isolated social world others are simply not privy
+to or able to penetrate. Communication deficits can range from a
+complete lack of speech, to one word responses (e.g., saying “Yes” or
+“No” when replying to questions or statements that require additional
+elaboration), to echoed speech (e.g., parroting what another person
+says, either immediately or several hours or even days later), to
+difficulty maintaining a conversation because of an inability to
+reciprocate others’ comments. These deficits can also include problems
+in using and understanding nonverbal cues (e.g., facial expressions,
+gestures, and postures) that facilitate normal communication.
+
+Repetitive patterns of behavior or interests can be exhibited a number
+of ways. The child might engage in stereotyped, repetitive movements
+(rocking, head-banging, or repeatedly dropping an object and then
+picking it up), or she might show great distress at small changes in
+routine or the environment. For example, the child might throw a temper
+tantrum if an object is not in its proper place or if a
+regularly-scheduled activity is rescheduled. In some cases, the person
+with autism spectrum disorder might show highly restricted and fixated
+interests that appear to be abnormal in their intensity. For instance,
+the person might learn and memorize every detail about something even
+though doing so serves no apparent purpose. Importantly, autism spectrum
+disorder is not the same thing as intellectual disability, although
+these two conditions are often comorbid. The DSM-5 specifies that the
+symptoms of autism spectrum disorder are not caused or explained by
+intellectual disability.
+
+Life Problems From Autism Spectrum Disorder
+-------------------------------------------
+
+Autism spectrum disorder is referred to in everyday language as autism;
+in fact, the disorder was termed “autistic disorder” in earlier editions
+of the DSM, and its diagnostic criteria were much narrower than those of
+autism spectrum disorder. The qualifier “spectrum” in autism spectrum
+disorder is used to indicate that individuals with the disorder can show
+a range, or spectrum, of symptoms that vary in their magnitude and
+severity: some severe, others less severe. The previous edition of the
+DSM included a diagnosis of Asperger’s disorder, generally recognized as
+a less severe form of autistic disorder; individuals diagnosed with
+Asperger’s disorder were described as having average or high
+intelligence and a strong vocabulary, but exhibiting impairments in
+social interaction and social communication, such as talking only about
+their special interests (Wing, Gould, & Gillberg, 2011). However,
+because research has failed to demonstrate that **Asperger’s**\ {:
+data-type=“term” .no-emphasis} disorder differs qualitatively from
+autistic disorder, the DSM-5 does not include it, which is prompting
+concerns among some parents that their children may no longer be
+eligible for special services (“Asperger’s Syndrome Dropped,” 2012).
+Some individuals with autism spectrum disorder, particularly those with
+better language and intellectual skills, can live and work independently
+as adults. However, most do not because the symptoms remain sufficient
+to cause serious impairment in many realms of life (APA, 2013).
+
+.. container:: psychology link-to-learning
+
+   Here is an instructive and poignant
+   `video <http://openstax.org/l/sevautism>`__ highlighting severe
+   autism.
+
+Currently, estimates indicate that nearly 1 in 88 children in the United
+States has autism spectrum disorder; the disorder is 5 times more common
+in boys (1 out of 54) than girls (1 out of 252) (CDC, 2012). Rates of
+autistic spectrum disorder have increased dramatically since the 1980s.
+For example, California saw an increase of 273% in reported cases from
+1987 through 1998 (Byrd, 2002); between 2000 and 2008, the rate of
+autism diagnoses in the United States increased 78% (CDC, 2012).
+Although it is difficult to interpret this increase, it is possible that
+the rise in prevalence is the result of the broadening of the diagnosis,
+increased efforts to identify cases in the community, and greater
+awareness and acceptance of the diagnosis. In addition, mental health
+professionals are now more knowledgeable about autism spectrum disorder
+and are better equipped to make the diagnosis, even in subtle cases
+(Novella, 2008).
+
+.. container:: psychology dig-deeper
+
+   .. container::
+
+      Why Is the Prevalence Rate of ADHD Increasing?
+
+   Many people believe that the rates of ADHD have increased in recent
+   years, and there is evidence to support this contention. In a recent
+   study, investigators found that the parent-reported prevalence of
+   ADHD among children (4–17 years old) in the United States increased
+   by 22% during a 4-year period, from 7.8% in 2003 to 9.5% in 2007
+   (CDC, 2010). Over time this increase in parent-reported ADHD was
+   observed in all sociodemographic groups and was reflected by
+   substantial increases in 12 states (Indiana, North Carolina, and
+   Colorado were the top three). The increases were greatest for older
+   teens (ages 15–17), multiracial and Hispanic children, and children
+   with a primary language other than English. Another investigation
+   found that from 1998–2000 through 2007–2009 the parent-reported
+   prevalence of ADHD increased among U.S. children between the ages of
+   5–17 years old, from 6.9% to 9.0% (Akinbami, Liu, Pastor, & Reuben,
+   2011).
+
+   A major weakness of both studies was that children were not actually
+   given a formal diagnosis. Instead, parents were simply asked whether
+   or not a doctor or other health-care provider had ever told them
+   their child had ADHD; the reported prevalence rates thus may have
+   been affected by the accuracy of parental memory. Nevertheless, the
+   findings from these studies raise important questions concerning what
+   appears to be a demonstrable rise in the prevalence of ADHD. Although
+   the reasons underlying this apparent increase in the rates of ADHD
+   over time are poorly understood and, at best, speculative, several
+   explanations are viable:
+
+   -  ADHD may be over-diagnosed by doctors who are too quick to
+      medicate children as a behavior treatment.
+   -  There is greater awareness of ADHD now than in the past. Nearly
+      everyone has heard of ADHD, and most parents and teachers are
+      aware of its key symptoms. Thus, parents may be quick to take
+      their children to a doctor if they believe their child possesses
+      these symptoms, or teachers may be more likely now than in the
+      past to notice the symptoms and refer the child for evaluation.
+   -  The use of computers, video games, iPhones, and other electronic
+      devices has become pervasive among children in the early 21st
+      century, and these devices could potentially shorten children’s
+      attentions spans. Thus, what might seem like inattention to some
+      parents and teachers could simply reflect exposure to too much
+      technology.
+   -  ADHD diagnostic criteria have changed over time.
+
+Causes of Autism Spectrum Disorder
+----------------------------------
+
+Early theories of autism placed the blame squarely on the shoulders of
+the child’s parents, particularly the mother. Bruno Bettelheim (an
+Austrian-born American child psychologist who was heavily influenced by
+Sigmund Freud’s ideas) suggested that a mother’s ambivalent attitudes
+and her frozen and rigid emotions toward her child were the main causal
+factors in childhood autism. In what must certainly stand as one of the
+more controversial assertions in psychology over the last 50 years, he
+wrote, “I state my belief that the precipitating factor in infantile
+autism is the parent’s wish that his child should not exist”
+(Bettelheim, 1967, p. 125). As you might imagine, Bettelheim did not
+endear himself to a lot of people with this position; incidentally, no
+scientific evidence exists supporting his claims.
+
+The exact causes of autism spectrum disorder remain unknown despite
+massive research efforts over the last two decades (Meek,
+Lemery-Chalfant, Jahromi, & Valiente, 2013). Autism appears to be
+strongly influenced by genetics, as identical twins show concordance
+rates of 60%–90%, whereas concordance rates for fraternal twins and
+siblings are 5%–10% (Autism Genome Project Consortium, 2007). Many
+different genes and gene mutations have been implicated in autism (Meek
+et al., 2013). Among the genes involved are those important in the
+formation of synaptic circuits that facilitate communication between
+different areas of the brain (Gauthier et al., 2011). A number of
+environmental factors are also thought to be associated with increased
+risk for autism spectrum disorder, at least in part, because they
+contribute to new mutations. These factors include exposure to
+pollutants, such as plant emissions and mercury, urban versus rural
+residence, and vitamin D deficiency (Kinney, Barch, Chayka, Napoleon, &
+Munir, 2009).
+
+Child Vaccinations and Autism Spectrum Disorder
+-----------------------------------------------
+
+In the late 1990s, a prestigious medical journal published an article
+purportedly showing that autism is triggered by the MMR (measles, mumps,
+and rubella) vaccine. These findings were very controversial and drew a
+great deal of attention, sparking an international forum on whether
+children should be vaccinated. In a shocking turn of events, some years
+later the article was retracted by the journal that had published it
+after accusations of fraud on the part of the lead researcher. Despite
+the retraction, the reporting in popular media led to concerns about a
+possible link between vaccines and autism persisting. A recent survey of
+parents, for example, found that roughly a third of respondents
+expressed such a concern (Kennedy, LaVail, Nowak, Basket, & Landry,
+2011); and perhaps fearing that their children would develop autism,
+more than 10% of parents of young children refuse or delay
+**vaccinations**\ {: data-type=“term” .no-emphasis} (Dempsey et al.,
+2011). Some parents of children with autism mounted a campaign against
+scientists who refuted the vaccine-autism link. Even politicians and
+several well-known celebrities weighed in; for example, actress Jenny
+McCarthy (who believed that a vaccination caused her son’s autism)
+co-authored a book on the matter. However, there is no scientific
+evidence that a link exists between autism and vaccinations (Hughes,
+2007). Indeed, a recent study compared the vaccination histories of 256
+children with autism spectrum disorder with that of 752 control children
+across three time periods during their first two years of life (birth to
+3 months, birth to 7 months, and birth to 2 years) (DeStefano, Price, &
+Weintraub, 2013). At the time of the study, the children were between 6
+and 13 years old, and their prior vaccination records were obtained.
+Because vaccines contain immunogens (substances that fight infections),
+the investigators examined medical records to see how many immunogens
+children received to determine if those children who received more
+immunogens were at greater risk for developing autism spectrum disorder.
+The results of this study, a portion of which are shown in
+`[link] <#Figure_15_11_Immunogen>`__, clearly demonstrate that the
+quantity of immunogens from vaccines received during the first two years
+of life were not at all related to the development of autism spectrum
+disorder. There is not a relationship between vaccinations and autism
+spectrum disorders.
+
+|A graph has an x-axis labeled “total cumulative immunogens” and a
+y-axis with percentage numbers. For children aged 0–3 months, the data
+is approximately as follows: 0–25 immunogens are about 48% for ASD cases
+and 41% for controls, 26–50 immunogens are 5% for ASD cases and 6% for
+controls, and for 3000–3258 immunogens45% for ASD cases and 50% for
+controls. For children aged 0–7months, the data is approximately as
+follows: 26–50 immunogens are about 20% for ASD cases and 18% for
+controls, 51–75 immunogens are 25% for ASD cases and 22% for controls,
+3000–3258 immunogens are 45% for ASD cases and 52% for controls,
+6000–6258 immunogens are 10% for ASD cases and 8% for controls, and for
+9000–9258 immunogens 33% for ASD cases and 40% for controls. For
+children aged 0–24 months, the data is approximately as follows: 151–175
+immunogens are about 25% for ASD cases and 25% for controls, 176–200
+immunogens are 18% for ASD cases and 13% for controls, 9000–9528
+immunogens are 17% for ASD cases and 20% for controls, and for
+12000–12258 immunogens 25% for ASD cases and25% for controls.|\ {:
+#Figure_15_11_Immunogen}
+
+Why does concern over vaccines and autism spectrum disorder persist?
+Since the proliferation of the Internet in the 1990s, parents have been
+constantly bombarded with online information that can become magnified
+and take on a life of its own. The enormous volume of electronic
+information pertaining to autism spectrum disorder, combined with how
+difficult it can be to grasp complex scientific concepts, can make
+separating good research from bad challenging (Downs, 2008). Notably,
+the study that fueled the controversy reported that 8 out of 12
+children—according to their parents—developed symptoms consistent with
+autism spectrum disorder shortly after receiving a vaccination. To
+conclude that vaccines cause autism spectrum disorder on this basis, as
+many did, is clearly incorrect for a number of reasons, not the least of
+which is because correlation does not imply causation, as you’ve
+learned.
+
+Additionally, as was the case with diet and ADHD in the 1970s, the
+notion that autism spectrum disorder is caused by vaccinations is
+appealing to some because it provides a simple explanation for this
+condition. Like all disorders, however, there are no simple explanations
+for autism spectrum disorder. Although the research discussed above has
+shed some light on its causes, science is still a long way from complete
+understanding of the disorder.
+
+Summary
+=======
+
+Neurodevelopmental disorders are a group of disorders that are typically
+diagnosed during childhood and are characterized by developmental
+deficits in personal, social, academic, and intellectual realms; these
+disorders include attention deficit/hyperactivity disorder (ADHD) and
+autism spectrum disorder. ADHD is characterized by a pervasive pattern
+of inattention and/or hyperactive and impulsive behavior that interferes
+with normal functioning. Genetic and neurobiological factors contribute
+to the development of ADHD, which can persist well into adulthood and is
+often associated with poor long-term outcomes. The major features of
+autism spectrum disorder include deficits in social interaction and
+communication and repetitive movements or interests. As with ADHD,
+genetic factors appear to play a prominent role in the development of
+autism spectrum disorder; exposure to environmental pollutants such as
+mercury have also been linked to the development of this disorder.
+Although it is believed by some that autism is triggered by the MMR
+vaccination, evidence does not support this claim.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Which of the following is *not* a primary characteristic of ADHD?
+
+      1. short attention span
+      2. difficulty concentrating and distractibility
+      3. restricted and fixated interest
+      4. excessive fidgeting and squirming {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      One of the primary characteristics of autism spectrum disorder is
+      \________.
+
+      1. bed-wetting
+      2. difficulty relating to others
+      3. short attention span
+      4. intense and inappropriate interest in others {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Compare the factors that are important in the development of ADHD
+      with those that are important in the development of autism
+      spectrum disorder.
+
+   .. container::
+
+      Genetic factors appear to play a major role in the development of
+      both ADHD and autism spectrum disorder: studies show higher rates
+      of concordance among identical twins than among fraternal twins
+      for both disorders. In ADHD, genes that regulate dopamine have
+      been implicated; in autism spectrum disorder, de novo genetic
+      mutations appear to be important. Imaging studies suggest that
+      abnormalities in the frontal lobes may be important in the
+      development of ADHD. Parenting practices are not connected to the
+      development of either disorder. Although environmental toxins are
+      generally unimportant in the development of ADHD, exposure to
+      cigarette smoke during the prenatal period has been linked to the
+      development of the disorder; a number of environmental factors are
+      thought to be associated with an increased risk for autism
+      spectrum disorder: exposure to pollutants, an urban versus rural
+      residence, and vitamin D deficiency. Although some people continue
+      to believe that MMR vaccinations can cause autism spectrum
+      disorder (due to an influential paper that was later retracted),
+      there is no scientific evidence that supports this assertion.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Discuss the characteristics of autism spectrum disorder with a few
+      of your friends or members of your family (choose friends or
+      family members who know little about the disorder) and ask them if
+      they think the cause is due to bad parenting or vaccinations. If
+      they indicate that they believe either to be true, why do you
+      think this might be the case? What would be your response?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   attention deficit/hyperactivity disorder
+      childhood disorder characterized by inattentiveness and/or
+      hyperactive, impulsive behavior ^
+   autism spectrum disorder
+      childhood disorder characterized by deficits in social interaction
+      and communication, and repetitive patterns of behavior or
+      interests ^
+   neurodevelopmental disorder
+      one of the disorders that are first diagnosed in childhood and
+      involve developmental problems in academic, intellectual, social
+      functioning
+
+.. |A graph has an x-axis labeled “total cumulative immunogens” and a y-axis with percentage numbers. For children aged 0–3 months, the data is approximately as follows: 0–25 immunogens are about 48% for ASD cases and 41% for controls, 26–50 immunogens are 5% for ASD cases and 6% for controls, and for 3000–3258 immunogens45% for ASD cases and 50% for controls. For children aged 0–7months, the data is approximately as follows: 26–50 immunogens are about 20% for ASD cases and 18% for controls, 51–75 immunogens are 25% for ASD cases and 22% for controls, 3000–3258 immunogens are 45% for ASD cases and 52% for controls, 6000–6258 immunogens are 10% for ASD cases and 8% for controls, and for 9000–9258 immunogens 33% for ASD cases and 40% for controls. For children aged 0–24 months, the data is approximately as follows: 151–175 immunogens are about 25% for ASD cases and 25% for controls, 176–200 immunogens are 18% for ASD cases and 13% for controls, 9000–9528 immunogens are 17% for ASD cases and 20% for controls, and for 12000–12258 immunogens 25% for ASD cases and25% for controls.| image:: ../resources/CNX_Psych_15_11_Immunogen.jpg

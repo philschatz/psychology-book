@@ -1,0 +1,438 @@
+=============
+Schizophrenia
+=============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Recognize the
+   essential nature of schizophrenia, avoiding the misconception that it
+   involves a split personality \* Categorize and describe the major
+   symptoms of schizophrenia \* Understand the interplay between
+   genetic, biological, and environmental factors that are associated
+   with the development of schizophrenia \* Discuss the importance of
+   research examining prodromal symptoms of schizophrenia
+
+**Schizophrenia**\ {: data-type=“term”} is a devastating psychological
+disorder that is characterized by major disturbances in thought,
+perception, emotion, and behavior. About 1% of the population
+experiences schizophrenia in their lifetime, and usually the disorder is
+first diagnosed during early adulthood (early to mid-20s). Most people
+with schizophrenia experience significant difficulties in many
+day-to-day activities, such as holding a job, paying bills, caring for
+oneself (grooming and hygiene), and maintaining relationships with
+others. Frequent hospitalizations are more often the rule rather than
+the exception with schizophrenia. Even when they receive the best
+treatments available, many with schizophrenia will continue to
+experience serious social and occupational impairment throughout their
+lives.
+
+What is schizophrenia? First, schizophrenia is *not* a condition
+involving a split personality; that is, schizophrenia is not the same
+thing as dissociative identity disorder (better known as multiple
+personality disorder). These disorders are sometimes confused because
+the word schizophrenia first coined by the Swiss psychiatrist Eugen
+Bleuler in 1911, derives from Greek words that refer to a “splitting”
+(schizo) of psychic functions (phrene) (Green, 2001).
+
+Schizophrenia is considered a psychotic disorder, or one in which the
+person’s thoughts, perceptions, and behaviors are impaired to the point
+where she is not able to function normally in life. In informal terms,
+one who suffers from a psychotic disorder (that is, has a psychosis) is
+disconnected from the world in which most of us live.
+
+SYMPTOMS OF SCHIZOPHRENIA
+=========================
+
+The main symptoms of schizophrenia include hallucinations, delusions,
+disorganized thinking, disorganized or abnormal motor behavior, and
+negative symptoms (APA, 2013). A **hallucination**\ {: data-type=“term”}
+is a perceptual experience that occurs in the absence of external
+stimulation. Auditory hallucinations (hearing voices) occur in roughly
+two-thirds of patients with schizophrenia and are by far the most common
+form of hallucination (Andreasen, 1987). The voices may be familiar or
+unfamiliar, they may have a conversation or argue, or the voices may
+provide a running commentary on the person’s behavior (Tsuang, Farone, &
+Green, 1999).
+
+Less common are visual hallucinations (seeing things that are not there)
+and olfactory hallucinations (smelling odors that are not actually
+present).
+
+**Delusions**\ {: data-type=“term”} are beliefs that are contrary to
+reality and are firmly held even in the face of contradictory evidence.
+Many of us hold beliefs that some would consider odd, but a delusion is
+easily identified because it is clearly absurd. A person with
+schizophrenia may believe that his mother is plotting with the FBI to
+poison his coffee, or that his neighbor is an enemy spy who wants to
+kill him. These kinds of delusions are known as **paranoid
+delusions**\ {: data-type=“term”}, which involve the (false) belief that
+other people or agencies are plotting to harm the person. People with
+schizophrenia also may hold **grandiose delusions**\ {:
+data-type=“term”}, beliefs that one holds special power, unique
+knowledge, or is extremely important. For example, the person who claims
+to be Jesus Christ, or who claims to have knowledge going back 5,000
+years, or who claims to be a great philosopher is experiencing grandiose
+delusions. Other delusions include the belief that one’s thoughts are
+being removed (thought withdrawal) or thoughts have been placed inside
+one’s head (thought insertion). Another type of delusion is **somatic
+delusion**\ {: data-type=“term”}, which is the belief that something
+highly abnormal is happening to one’s body (e.g., that one’s kidneys are
+being eaten by cockroaches).
+
+**Disorganized thinking**\ {: data-type=“term”} refers to disjointed and
+incoherent thought processes—usually detected by what a person says. The
+person might ramble, exhibit loose associations (jump from topic to
+topic), or talk in a way that is so disorganized and incomprehensible
+that it seems as though the person is randomly combining words.
+Disorganized thinking is also exhibited by blatantly illogical remarks
+(e.g., “Fenway Park is in Boston. I live in Boston. Therefore, I live at
+Fenway Park.”) and by tangentiality: responding to others’ statements or
+questions by remarks that are either barely related or unrelated to what
+was said or asked. For example, if a person diagnosed with schizophrenia
+is asked if she is interested in receiving special job training, she
+might state that she once rode on a train somewhere. To a person with
+schizophrenia, the tangential (slightly related) connection between job
+*training* and riding a *train* are sufficient enough to cause such a
+response.
+
+**Disorganized or abnormal motor behavior**\ {: data-type=“term”} refers
+to unusual behaviors and movements: becoming unusually active,
+exhibiting silly child-like behaviors (giggling and self-absorbed
+smiling), engaging in repeated and purposeless movements, or displaying
+odd facial expressions and gestures. In some cases, the person will
+exhibit **catatonic behaviors**\ {: data-type=“term”}, which show
+decreased reactivity to the environment, such as posturing, in which the
+person maintains a rigid and bizarre posture for long periods of time,
+or catatonic stupor, a complete lack of movement and verbal behavior.
+
+**Negative symptoms**\ {: data-type=“term”} are those that reflect
+noticeable decreases and absences in certain behaviors, emotions, or
+drives (Green, 2001). A person who exhibits diminished emotional
+expression shows no emotion in his facial expressions, speech, or
+movements, even when such expressions are normal or expected. Avolition
+is characterized by a lack of motivation to engage in self-initiated and
+meaningful activity, including the most basic of tasks, such as bathing
+and grooming. Alogia refers to reduced speech output; in simple terms,
+patients do not say much. Another negative symptom is asociality, or
+social withdrawal and lack of interest in engaging in social
+interactions with others. A final negative symptom, anhedonia, refers to
+an inability to experience pleasure. One who exhibits anhedonia
+expresses little interest in what most people consider to be pleasurable
+activities, such as hobbies, recreation, or sexual activity.
+
+.. container:: psychology link-to-learning
+
+   Watch this `video <http://openstax.org/l/Schizo1>`__ and try to
+   identify which classic symptoms of schizophrenia are shown.
+
+CAUSES OF SCHIZOPHRENIA
+=======================
+
+There is considerable evidence suggesting that schizophrenia has a
+genetic basis. The risk of developing schizophrenia is nearly 6 times
+greater if one has a parent with schizophrenia than if one does not
+(Goldstein, Buka, Seidman, & Tsuang, 2010). Additionally, one’s risk of
+developing schizophrenia increases as genetic relatedness to family
+members diagnosed with schizophrenia increases (Gottesman, 2001).
+
+Genes
+-----
+
+When considering the role of genetics in schizophrenia, as in any
+disorder, conclusions based on family and twin studies are subject to
+criticism. This is because family members who are closely related (such
+as siblings) are more likely to share similar environments than are
+family members who are less closely related (such as cousins); further,
+identical twins may be more likely to be treated similarly by others
+than might fraternal twins. Thus, family and twin studies cannot
+completely rule out the possible effects of shared environments and
+experiences. Such problems can be corrected by using adoption studies,
+in which children are separated from their parents at an early age. One
+of the first adoption studies of schizophrenia conducted by Heston
+(1966) followed 97 adoptees, including 47 who were born to mothers with
+schizophrenia, over a 36-year period. Five of the 47 adoptees (11%)
+whose mothers had schizophrenia were later diagnosed with schizophrenia,
+compared to none of the 50 control adoptees. Other adoption studies have
+consistently reported that for adoptees who are later diagnosed with
+schizophrenia, their biological relatives have a higher risk of
+schizophrenia than do adoptive relatives (Shih, Belmonte, & Zandi,
+2004).
+
+Although adoption studies have supported the hypothesis that genetic
+factors contribute to schizophrenia, they have also demonstrated that
+the disorder most likely arises from a combination of genetic and
+environmental factors, rather than just genes themselves. For example,
+investigators in one study examined the rates of schizophrenia among 303
+adoptees (Tienari et al., 2004). A total of 145 of the adoptees had
+biological mothers with schizophrenia; these adoptees constituted the
+high genetic risk group. The other 158 adoptees had mothers with no
+psychiatric history; these adoptees composed the low genetic risk group.
+The researchers managed to determine whether the adoptees’ families were
+either healthy or disturbed. For example, the adoptees were considered
+to be raised in a disturbed family environment if the family exhibited a
+lot of criticism, conflict, and a lack of problem-solving skills. The
+findings revealed that adoptees whose mothers had schizophrenia (high
+genetic risk) *and* who had been raised in a disturbed family
+environment were much more likely to develop schizophrenia or another
+psychotic disorder (36.8%) than were adoptees whose biological mothers
+had schizophrenia but who had been raised in a healthy environment
+(5.8%), or than adoptees with a low genetic risk who were raised in
+either a disturbed (5.3%) or healthy (4.8%) environment. Because the
+adoptees who were at high genetic risk were likely to develop
+schizophrenia *only* if they were raised in a disturbed home
+environment, this study supports a diathesis-stress interpretation of
+schizophrenia—both genetic vulnerability and environmental stress are
+necessary for schizophrenia to develop, genes alone do not show the
+complete picture.
+
+Neurotransmitters
+-----------------
+
+If we accept that schizophrenia is at least partly genetic in origin, as
+it seems to be, it makes sense that the next step should be to identify
+biological abnormalities commonly found in people with the disorder.
+Perhaps not surprisingly, a number of neurobiological factors have
+indeed been found to be related to schizophrenia. One such factor that
+has received considerable attention for many years is the
+neurotransmitter dopamine. Interest in the role of dopamine in
+schizophrenia was stimulated by two sets of findings: drugs that
+increase dopamine levels can produce schizophrenia-like symptoms, and
+medications that block dopamine activity reduce the symptoms (Howes &
+Kapur, 2009). The **dopamine hypothesis**\ {: data-type=“term”} of
+schizophrenia proposed that an overabundance of dopamine or too many
+dopamine receptors are responsible for the onset and maintenance of
+schizophrenia (Snyder, 1976). More recent work in this area suggests
+that abnormalities in dopamine vary by brain region and thus contribute
+to symptoms in unique ways. In general, this research has suggested that
+an overabundance of dopamine in the limbic system may be responsible for
+some symptoms, such as hallucinations and delusions, whereas low levels
+of dopamine in the prefrontal cortex might be responsible primarily for
+the negative symptoms (avolition, alogia, asociality, and anhedonia)
+(Davis, Kahn, Ko, & Davidson, 1991). In recent years, serotonin has
+received attention, and newer antipsychotic medications used to treat
+the disorder work by blocking serotonin receptors (Baumeister & Hawkins,
+2004).
+
+Brain Anatomy
+-------------
+
+Brain imaging studies reveal that people with schizophrenia have
+enlarged **ventricles**\ {: data-type=“term”}, the cavities within the
+brain that contain cerebral spinal fluid (Green, 2001). This finding is
+important because larger than normal ventricles suggests that various
+brain regions are reduced in size, thus implying that schizophrenia is
+associated with a loss of brain tissue. In addition, many people with
+schizophrenia display a reduction in gray matter (cell bodies of
+neurons) in the frontal lobes (Lawrie & Abukmeil, 1998), and many show
+less frontal lobe activity when performing cognitive tasks (Buchsbaum et
+al., 1990). The frontal lobes are important in a variety of complex
+cognitive functions, such as planning and executing behavior, attention,
+speech, movement, and problem solving. Hence, abnormalities in this
+region provide merit in explaining why people with schizophrenia
+experience deficits in these of areas.
+
+Events During Pregnancy
+-----------------------
+
+Why do people with schizophrenia have these brain abnormalities? A
+number of environmental factors that could impact normal brain
+development might be at fault. High rates of obstetric complications in
+the births of children who later developed schizophrenia have been
+reported (Cannon, Jones, & Murray, 2002). In addition, people are at an
+increased risk for developing schizophrenia if their mother was exposed
+to influenza during the first trimester of pregnancy (Brown et al.,
+2004). Research has also suggested that a mother’s emotional stress
+during pregnancy may increase the risk of schizophrenia in offspring.
+One study reported that the risk of schizophrenia is elevated
+substantially in offspring whose mothers experienced the death of a
+relative during the first trimester of pregnancy (Khashan et al., 2008).
+
+Marijuana
+---------
+
+Another variable that is linked to schizophrenia is **marijuana**\ {:
+data-type=“term” .no-emphasis} use. Although a number of reports have
+shown that individuals with schizophrenia are more likely to use
+marijuana than are individuals without schizophrenia (Thornicroft,
+1990), such investigations cannot determine if marijuana use leads to
+schizophrenia, or vice versa. However, a number of longitudinal studies
+have suggested that marijuana use is, in fact, a risk factor for
+schizophrenia. A classic investigation of over 45,000 Swedish conscripts
+who were followed up after 15 years found that those individuals who had
+reported using marijuana at least once by the time of conscription were
+more than 2 times as likely to develop schizophrenia during the ensuing
+15 years than were those who reported never using marijuana; those who
+had indicated using marijuana 50 or more times were 6 times as likely to
+develop schizophrenia (Andréasson, Allbeck, Engström, & Rydberg, 1987).
+More recently, a review of 35 longitudinal studies found a substantially
+increased risk of schizophrenia and other psychotic disorders in people
+who had used marijuana, with the greatest risk in the most frequent
+users (Moore et al., 2007). Other work has found that marijuana use is
+associated with an onset of psychotic disorders at an earlier age
+(Large, Sharma, Compton, Slade, & Nielssen, 2011). Overall, the
+available evidence seems to indicate that marijuana use plays a causal
+role in the development of schizophrenia, although it is important to
+point out that marijuana use is not an essential or sufficient risk
+factor as not all people with schizophrenia have used marijuana and the
+majority of marijuana users do not develop schizophrenia (Casadio,
+Fernandes, Murray, & Di Forti, 2011). One plausible interpretation of
+the data is that early marijuana use may disrupt normal brain
+development during important early maturation periods in adolescence
+(Trezza, Cuomo, & Vanderschuren, 2008). Thus, early marijuana use may
+set the stage for the development of schizophrenia and other psychotic
+disorders, especially among individuals with an established
+vulnerability (Casadio et al., 2011).
+
+SCHIZOPHRENIA: EARLY WARNING SIGNS
+==================================
+
+Early detection and treatment of conditions such as heart disease and
+cancer have improved survival rates and quality of life for people who
+suffer from these conditions. A new approach involves identifying people
+who show minor symptoms of psychosis, such as unusual thought content,
+paranoia, odd communication, delusions, problems at school or work, and
+a decline in social functioning—which are coined **prodromal
+symptoms**\ {: data-type=“term”}—and following these individuals over
+time to determine which of them develop a psychotic disorder and which
+factors best predict such a disorder. A number of factors have been
+identified that predict a greater likelihood that prodromal individuals
+will develop a psychotic disorder: genetic risk (a family history of
+psychosis), recent deterioration in functioning, high levels of unusual
+thought content, high levels of suspicion or paranoia, poor social
+functioning, and a history of substance abuse (Fusar-Poli et al., 2013).
+Further research will enable a more accurate prediction of those at
+greatest risk for developing schizophrenia, and thus to whom early
+intervention efforts should be directed.
+
+Summary
+=======
+
+Schizophrenia is a severe disorder characterized by a complete breakdown
+in one’s ability to function in life; it often requires hospitalization.
+People with schizophrenia experience hallucinations and delusions, and
+they have extreme difficulty regulating their emotions and behavior.
+Thinking is incoherent and disorganized, behavior is extremely bizarre,
+emotions are flat, and motivation to engage in most basic life
+activities is lacking. Considerable evidence shows that genetic factors
+play a central role in schizophrenia; however, adoption studies have
+highlighted the additional importance of environmental factors.
+Neurotransmitter and brain abnormalities, which may be linked to
+environmental factors such as obstetric complications or exposure to
+influenza during the gestational period, have also been implicated. A
+promising new area of schizophrenia research involves identifying
+individuals who show prodromal symptoms and following them over time to
+determine which factors best predict the development of schizophrenia.
+Future research may enable us to pinpoint those especially at risk for
+developing schizophrenia and who may benefit from early intervention.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Clifford falsely believes that the police have planted secret
+      cameras in his home to monitor his every movement. Clifford’s
+      belief is an example of \________.
+
+      1. a delusion
+      2. a hallucination
+      3. tangentiality
+      4. a negative symptom {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      A study of adoptees whose biological mothers had schizophrenia
+      found that the adoptees were most likely to develop schizophrenia
+      \________.
+
+      1. if their childhood friends later developed schizophrenia
+      2. if they abused drugs during adolescence
+      3. if they were raised in a disturbed adoptive home environment
+      4. regardless of whether they were raised in a healthy or
+         disturbed home environment {: type=“a”}
+
+   .. container::
+
+      C
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Why is research following individuals who show prodromal symptoms
+      of schizophrenia so important?
+
+   .. container::
+
+      This kind of research is important because it enables
+      investigators to identify potential warning signs that predict the
+      onset of schizophrenia. Once such factors are identified,
+      interventions may be developed.
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   catatonic behavior
+      decreased reactivity to the environment; includes posturing and
+      catatonic stupor ^
+   delusion
+      belief that is contrary to reality and is firmly held, despite
+      contradictory evidence ^
+   disorganized/abnormal motor behavior
+      highly unusual behaviors and movements (such as child-like
+      behaviors), repeated and purposeless movements, and displaying odd
+      facial expressions and gestures ^
+   disorganized thinking
+      disjointed and incoherent thought processes, usually detected by
+      what a person says ^
+   dopamine hypothesis
+      theory of schizophrenia that proposes that an overabundance of
+      dopamine or dopamine receptors is responsible for the onset and
+      maintenance of schizophrenia ^
+   grandiose delusion
+      characterized by beliefs that one holds special power, unique
+      knowledge, or is extremely important ^
+   hallucination
+      perceptual experience that occurs in the absence of external
+      stimulation, such as the auditory hallucinations (hearing voices)
+      common to schizophrenia ^
+   negative symptom
+      characterized by decreases and absences in certain normal
+      behaviors, emotions, or drives, such as an expressionless face,
+      lack of motivation to engage in activities, reduced speech, lack
+      of social engagement, and inability to experience pleasure ^
+   paranoid delusion
+      characterized by beliefs that others are out to harm them ^
+   prodromal symptom
+      in schizophrenia, one of the early minor symptoms of psychosis ^
+   schizophrenia
+      severe disorder characterized by major disturbances in thought,
+      perception, emotion, and behavior with symptoms that include
+      hallucinations, delusions, disorganized thinking and behavior, and
+      negative symptoms ^
+   somatic delusion
+      belief that something highly unusual is happening to one’s body or
+      internal organs ^
+   ventricle
+      one of the fluid-filled cavities within the brain

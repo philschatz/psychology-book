@@ -1,0 +1,442 @@
+===============
+Stages of Sleep
+===============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Differentiate
+   between REM and non-REM sleep \* Describe the differences between the
+   four stages of non-REM sleep \* Understand the role that REM and
+   non-REM sleep play in learning and memory
+
+Sleep is not a uniform state of being. Instead, sleep is composed of
+several different stages that can be differentiated from one another by
+the patterns of brain wave activity that occur during each stage. These
+changes in brain wave activity can be visualized using EEG and are
+distinguished from one another by both the frequency and amplitude of
+brain waves (`[link] <#Figure_04_03_SleepCycle>`__). Sleep can be
+divided into two different general phases: REM sleep and non-REM (NREM)
+sleep. **Rapid eye movement (REM)**\ {: data-type=“term”} sleep is
+characterized by darting movements of the eyes under closed eyelids.
+Brain waves during REM sleep appear very similar to brain waves during
+wakefulness. In contrast, **non-REM (NREM)**\ {: data-type=“term”} sleep
+is subdivided into four stages distinguished from each other and from
+wakefulness by characteristic patterns of brain waves. The first four
+stages of sleep are NREM sleep, while the fifth and final stage of sleep
+is REM sleep. In this section, we will discuss each of these stages of
+sleep and their associated patterns of brain wave activity.
+
+|A photograph shows a person sleeping. Superimposed across the top of
+the picture is a line representing brainwave activity across the five
+stages of sleep. Above the line, from left to right, it reads stage 1,
+stage 2, stage 3, stage 4, and stage 5. The wave amplitude is highest in
+late stage 2, and near the end of stage 3 through stage 4. The
+wavelength I longer from late stage 2 through stage 4.|\ {:
+#Figure_04_03_SleepCycle}
+
+NREM STAGES OF SLEEP
+====================
+
+The first stage of NREM sleep is known as stage 1 sleep. **Stage 1
+sleep**\ {: data-type=“term”} is a transitional phase that occurs
+between wakefulness and sleep, the period during which we drift off to
+sleep. During this time, there is a slowdown in both the rates of
+respiration and heartbeat. In addition, stage 1 sleep involves a marked
+decrease in both overall muscle tension and core body temperature.
+
+In terms of brain wave activity, stage 1 sleep is associated with both
+alpha and theta waves. The early portion of stage 1 sleep produces
+**alpha waves**\ {: data-type=“term”}, which are relatively low
+frequency (8–13Hz), high amplitude patterns of electrical activity
+(waves) that become synchronized (`[link] <#Figure_04_03_Stages>`__).
+This pattern of brain wave activity resembles that of someone who is
+very relaxed, yet awake. As an individual continues through stage 1
+sleep, there is an increase in theta wave activity. **Theta waves**\ {:
+data-type=“term”} are even lower frequency (4–7 Hz), higher amplitude
+brain waves than alpha waves. It is relatively easy to wake someone from
+stage 1 sleep; in fact, people often report that they have not been
+asleep if they are awoken during stage 1 sleep.
+
+|A graph has a y-axis labeled “EEG” and an x-axis labeled “time
+(seconds.) Plotted along the y-axis and moving upward are the stages of
+sleep. First is REM, followed by Stage 3 and 4 NREM Delta, Stage 2 NREM
+Theta (sleep spindles; K-complexes), Stage 1 NREM Alpha, and Awake.
+Charted on the x axis is Time in seconds from 2–20 in 2 second
+intervals. Each sleep stage has associated wavelengths of varying
+amplitude and frequency. Relative to the others, “awake” has a very
+close wavelength and a medium amplitude. Stage 1 is characterized by a
+generally uniform wavelength and a relatively low amplitude which
+doubles and quickly reverts to normal every 2 seconds. Stage 2 is
+comprised of a similar wavelength as stage 1. It introduces the
+K-complex from seconds 10 through 12 which is a short burst of doubled
+or tripled amplitude and decreased wavelength. Stages 3 and 4 have a
+more uniform wave with gradually increasing amplitude. Finally, REM
+sleep looks much like stage 2 without the K-complex.|\ {:
+#Figure_04_03_Stages}
+
+As we move into **stage 2 sleep**\ {: data-type=“term”}, the body goes
+into a state of deep relaxation. Theta waves still dominate the activity
+of the brain, but they are interrupted by brief bursts of activity known
+as sleep spindles (`[link] <#Figure_04_03_Stage2>`__). A **sleep
+spindle**\ {: data-type=“term”} is a rapid burst of higher frequency
+brain waves that may be important for learning and memory (Fogel &
+Smith, 2011; Poe, Walsh, & Bjorness, 2010). In addition, the appearance
+of K-complexes is often associated with stage 2 sleep. A
+**K-complex**\ {: data-type=“term”} is a very high amplitude pattern of
+brain activity that may in some cases occur in response to environmental
+stimuli. Thus, K-complexes might serve as a bridge to higher levels of
+arousal in response to what is going on in our environments (Halász,
+1993; Steriade & Amzica, 1998).
+
+|A graph has an x-axis labeled “time” and a y-axis labeled “voltage. A
+line illustrates brainwaves, with two areas labeled “sleep spindle” and
+“k-complex”. The area labeled “sleep spindle” has decreased wavelength
+and moderately increased amplitude, while the area labeled “k-complex”
+has significantly high amplitude and longer wavelength.|\ {:
+#Figure_04_03_Stage2}
+
+**Stage 3**\ {: data-type=“term”} and **stage 4**\ {: data-type=“term”}
+of sleep are often referred to as deep sleep or slow-wave sleep because
+these stages are characterized by low frequency (up to 4 Hz), high
+amplitude **delta waves**\ {: data-type=“term”}
+(`[link] <#Figure_04_03_Deltawaves>`__). During this time, an
+individual’s heart rate and respiration slow dramatically. It is much
+more difficult to awaken someone from sleep during stage 3 and stage 4
+than during earlier stages. Interestingly, individuals who have
+increased levels of alpha brain wave activity (more often associated
+with wakefulness and transition into stage 1 sleep) during stage 3 and
+stage 4 often report that they do not feel refreshed upon waking,
+regardless of how long they slept (Stone, Taylor, McCrae, Kalsekar, &
+Lichstein, 2008).
+
+|Polysonograph a shows the pattern of delta waves, which are low
+frequency and high amplitude. Delta waves are found mostly in stages 3
+and 4 of sleep. Chart b shows brainwaves at various stages of sleep,
+with stages 3 and 4 highlighted.|\ {: #Figure_04_03_Deltawaves}
+
+REM SLEEP
+=========
+
+As mentioned earlier, REM sleep is marked by rapid movements of the
+eyes. The brain waves associated with this stage of sleep are very
+similar to those observed when a person is awake, as shown in
+`[link] <#Figure_04_03_REM>`__, and this is the period of sleep in which
+dreaming occurs. It is also associated with paralysis of muscle systems
+in the body with the exception of those that make circulation and
+respiration possible. Therefore, no movement of voluntary muscles occurs
+during REM sleep in a normal individual; REM sleep is often referred to
+as paradoxical sleep because of this combination of high brain activity
+and lack of muscle tone. Like NREM sleep, REM has been implicated in
+various aspects of learning and memory (Wagner, Gais, & Born, 2001),
+although there is disagreement within the scientific community about how
+important both NREM and REM sleep are for normal learning and memory
+(Siegel, 2001).
+
+|Chart A is a polysonograph with the period of rapid eye movement (REM)
+highlighted.Chart b is a shows brainwaves at various stages of sleep,
+with the “awake” stage highlighted to show its similarity to the wave
+pattern of “REM” in part A.|\ {: #Figure_04_03_REM}
+
+If people are deprived of REM sleep and then allowed to sleep without
+disturbance, they will spend more time in REM sleep in what would appear
+to be an effort to recoup the lost time in REM. This is known as the REM
+rebound, and it suggests that REM sleep is also homeostatically
+regulated. Aside from the role that REM sleep may play in processes
+related to learning and memory, REM sleep may also be involved in
+emotional processing and regulation. In such instances, REM rebound may
+actually represent an adaptive response to stress in nondepressed
+individuals by suppressing the emotional salience of aversive events
+that occurred in wakefulness (Suchecki, Tiba, & Machado, 2012).
+
+While sleep deprivation in general is associated with a number of
+negative consequences (Brown, 2012), the consequences of REM deprivation
+appear to be less profound (as discussed in Siegel, 2001). In fact, some
+have suggested that REM deprivation can actually be beneficial in some
+circumstances. For instance, REM sleep deprivation has been demonstrated
+to improve symptoms of people suffering from major depression, and many
+effective antidepressant medications suppress REM sleep (Riemann,
+Berger, & Volderholzer, 2001; Vogel, 1975).
+
+It should be pointed out that some reviews of the literature challenge
+this finding, suggesting that sleep deprivation that is not limited to
+REM sleep is just as effective or more effective at alleviating
+depressive symptoms among some patients suffering from depression. In
+either case, why sleep deprivation improves the mood of some patients is
+not entirely understood (Giedke & Schwärzler, 2002). Recently, however,
+some have suggested that sleep deprivation might change emotional
+processing so that various stimuli are more likely to be perceived as
+positive in nature (Gujar, Yoo, Hu, & Walker, 2011). The hypnogram below
+(`[link] <#Figure_04_03_Hypnogram>`__) shows a person’s passage through
+the stages of sleep.
+
+|This is a hypnogram showing the transitions of the sleep cycle during a
+typical eight hour period of sleep. During the first hour, the person
+goes through stages 1,2,3 and ends at 4. In the second hour, sleep
+oscillates between 3 and 4 before attaining a 30-minute period of REM
+sleep. The third hour follows the same pattern as the second, but ends
+with a brief awake period. The fourth hour follows a similar pattern as
+the third, with a slightly longer REM stage. In the fifth hour, stages 3
+and 4 are no longer reached. The sleep stages are fluctuating from 2, to
+1, to REM, to awake, and then they repeat with shortening intervals
+until the end of the eighth hour when the person awakens.|\ {:
+#Figure_04_03_Hypnogram}
+
+.. container:: psychology link-to-learning
+
+   View this `video <https://www.youtube.com/watch?v=kaoMD1XI5u8>`__
+   that describes the various stages of sleep.
+
+Dreams
+------
+
+The meaning of dreams varies across different cultures and periods of
+time. By the late 19th century, German psychiatrist Sigmund
+**Freud**\ {: data-type=“term” .no-emphasis} had become convinced that
+dreams represented an opportunity to gain access to the unconscious. By
+analyzing dreams, Freud thought people could increase self-awareness and
+gain valuable insight to help them deal with the problems they faced in
+their lives. Freud made distinctions between the manifest content and
+the latent content of dreams. **Manifest content**\ {: data-type=“term”}
+is the actual content, or storyline, of a dream. **Latent content**\ {:
+data-type=“term”}, on the other hand, refers to the hidden meaning of a
+dream. For instance, if a woman dreams about being chased by a snake,
+Freud might have argued that this represents the woman’s fear of sexual
+intimacy, with the snake serving as a symbol of a man’s penis.
+
+Freud was not the only theorist to focus on the content of dreams. The
+20th century Swiss psychiatrist Carl Jung believed that dreams allowed
+us to tap into the collective unconscious. The **collective
+unconscious**\ {: data-type=“term”}, as described by **Jung**\ {:
+data-type=“term” .no-emphasis}, is a theoretical repository of
+information he believed to be shared by everyone. According to Jung,
+certain symbols in dreams reflected universal archetypes with meanings
+that are similar for all people regardless of culture or location.
+
+The sleep and dreaming researcher Rosalind Cartwright, however, believes
+that dreams simply reflect life events that are important to the
+dreamer. Unlike Freud and Jung, Cartwright’s ideas about dreaming have
+found empirical support. For example, she and her colleagues published a
+study in which women going through divorce were asked several times over
+a five month period to report the degree to which their former spouses
+were on their minds. These same women were awakened during REM sleep in
+order to provide a detailed account of their dream content. There was a
+significant positive correlation between the degree to which women
+thought about their former spouses during waking hours and the number of
+times their former spouses appeared as characters in their dreams
+(Cartwright, Agargun, Kirkby, & Friedman, 2006). Recent research
+(Horikawa, Tamaki, Miyawaki, & Kamitani, 2013) has uncovered new
+techniques by which researchers may effectively detect and classify the
+visual images that occur during dreaming by using fMRI for neural
+measurement of brain activity patterns, opening the way for additional
+research in this area.
+
+Recently, neuroscientists have also become interested in understanding
+why we dream. For example, Hobson (2009) suggests that dreaming may
+represent a state of protoconsciousness. In other words, dreaming
+involves constructing a virtual reality in our heads that we might use
+to help us during wakefulness. Among a variety of neurobiological
+evidence, John Hobson cites research on lucid dreams as an opportunity
+to better understand dreaming in general. **Lucid dreams**\ {:
+data-type=“term”} are dreams in which certain aspects of wakefulness are
+maintained during a dream state. In a lucid dream, a person becomes
+aware of the fact that they are dreaming, and as such, they can control
+the dream’s content (LaBerge, 1990).
+
+Summary
+=======
+
+The different stages of sleep are characterized by the patterns of brain
+waves associated with each stage. As a person transitions from being
+awake to falling asleep, alpha waves are replaced by theta waves. Sleep
+spindles and K-complexes emerge in stage 2 sleep. Stage 3 and stage 4
+are described as slow-wave sleep that is marked by a predominance of
+delta waves. REM sleep involves rapid movements of the eyes, paralysis
+of voluntary muscles, and dreaming. Both NREM and REM sleep appear to
+play important roles in learning and memory. Dreams may represent life
+events that are important to the dreamer. Alternatively, dreaming may
+represent a state of protoconsciousness, or a virtual reality, in the
+mind that helps a person during consciousness.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      \_______\_ is(are) described as slow-wave sleep.
+
+      1. stage 1
+      2. stage 2
+      3. stage 3 and stage 4
+      4. REM sleep {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      Sleep spindles and K-complexes are most often associated with
+      \_______\_ sleep.
+
+      1. stage 1
+      2. stage 2
+      3. stage 3 and stage 4
+      4. REM {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Symptoms of \_______\_ may be improved by REM deprivation.
+
+      1. schizophrenia
+      2. Parkinson’s disease
+      3. depression
+      4. generalized anxiety disorder {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      The \_______\_ content of a dream refers to the true meaning of
+      the dream.
+
+      1. latent
+      2. manifest
+      3. collective unconscious
+      4. important {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Freud believed that dreams provide important insight into the
+      unconscious mind. He maintained that a dream’s manifest content
+      could provide clues into an individual’s unconscious. What
+      potential criticisms exist for this particular perspective?
+
+   .. container::
+
+      The subjective nature of dream analysis is one criticism.
+      Psychoanalysts are charged with helping their clients interpret
+      the true meaning of a dream. There is no way to refute or confirm
+      whether or not these interpretations are accurate. The notion that
+      “sometimes a cigar is just a cigar” (sometimes attributed to Freud
+      but not definitively shown to be his) makes it clear that there is
+      no systematic, objective system in place for dream analysis.
+
+.. container::
+
+   .. container::
+
+      Some people claim that sleepwalking and talking in your sleep
+      involve individuals acting out their dreams. Why is this
+      particular explanation unlikely?
+
+   .. container::
+
+      Dreaming occurs during REM sleep. One of the hallmarks of this
+      particular stage of sleep is the paralysis of the voluntary
+      musculature which would make acting out dreams improbable.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Researchers believe that one important function of sleep is to
+      facilitate learning and memory. How does knowing this help you in
+      your college studies? What changes could you make to your study
+      and sleep habits to maximize your mastery of the material covered
+      in class?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   alpha wave
+      type of relatively low frequency, relatively high amplitude brain
+      wave that becomes synchronized; characteristic of the beginning of
+      stage 1 sleep ^
+   delta wave
+      type of low frequency, high amplitude brain wave characteristic of
+      stage 3 and stage 4 sleep ^
+   collective unconscious
+      theoretical repository of information shared by all people across
+      cultures, as described by Carl Jung ^
+   K-complex
+      very high amplitude pattern of brain activity associated with
+      stage 2 sleep that may occur in response to environmental stimuli
+      ^
+   latent content
+      hidden meaning of a dream, per Sigmund Freud’s view of the
+      function of dreams ^
+   lucid dream
+      people become aware that they are dreaming and can control the
+      dream’s content ^
+   manifest content
+      storyline of events that occur during a dream, per Sigmund Freud’s
+      view of the function of dreams ^
+   non-REM (NREM)
+      period of sleep outside periods of rapid eye movement (REM) sleep
+      ^
+   rapid eye movement (REM) sleep
+      period of sleep characterized by brain waves very similar to those
+      during wakefulness and by darting movements of the eyes under
+      closed eyelids ^
+   sleep spindle
+      rapid burst of high frequency brain waves during stage 2 sleep
+      that may be important for learning and memory ^
+   stage 1 sleep
+      first stage of sleep; transitional phase that occurs between
+      wakefulness and sleep; the period during which a person drifts off
+      to sleep ^
+   stage 2 sleep
+      second stage of sleep; the body goes into deep relaxation;
+      characterized by the appearance of sleep spindles ^
+   stage 3 sleep
+      third stage of sleep; deep sleep characterized by low frequency,
+      high amplitude delta waves ^
+   stage 4 sleep
+      fourth stage of sleep; deep sleep characterized by low frequency,
+      high amplitude delta waves ^
+   theta wave
+      type of low frequency, high amplitude brain wave characteristic of
+      stage 1 and stage 2 sleep
+
+.. |A photograph shows a person sleeping. Superimposed across the top of the picture is a line representing brainwave activity across the five stages of sleep. Above the line, from left to right, it reads stage 1, stage 2, stage 3, stage 4, and stage 5. The wave amplitude is highest in late stage 2, and near the end of stage 3 through stage 4. The wavelength I longer from late stage 2 through stage 4.| image:: ../resources/CNX_Psych_04_03_SleepCycle.jpg
+.. |A graph has a y-axis labeled “EEG” and an x-axis labeled “time (seconds.) Plotted along the y-axis and moving upward are the stages of sleep. First is REM, followed by Stage 3 and 4 NREM Delta, Stage 2 NREM Theta (sleep spindles; K-complexes), Stage 1 NREM Alpha, and Awake. Charted on the x axis is Time in seconds from 2–20 in 2 second intervals. Each sleep stage has associated wavelengths of varying amplitude and frequency. Relative to the others, “awake” has a very close wavelength and a medium amplitude. Stage 1 is characterized by a generally uniform wavelength and a relatively low amplitude which doubles and quickly reverts to normal every 2 seconds. Stage 2 is comprised of a similar wavelength as stage 1. It introduces the K-complex from seconds 10 through 12 which is a short burst of doubled or tripled amplitude and decreased wavelength. Stages 3 and 4 have a more uniform wave with gradually increasing amplitude. Finally, REM sleep looks much like stage 2 without the K-complex.| image:: ../resources/CNX_Psych_04_03_Stages.jpg
+.. |A graph has an x-axis labeled “time” and a y-axis labeled “voltage. A line illustrates brainwaves, with two areas labeled “sleep spindle” and “k-complex”. The area labeled “sleep spindle” has decreased wavelength and moderately increased amplitude, while the area labeled “k-complex” has significantly high amplitude and longer wavelength.| image:: ../resources/CNX_Psych_04_03_Stage2.jpg
+.. |Polysonograph a shows the pattern of delta waves, which are low frequency and high amplitude. Delta waves are found mostly in stages 3 and 4 of sleep. Chart b shows brainwaves at various stages of sleep, with stages 3 and 4 highlighted.| image:: ../resources/CNX_Psych_04_03_Deltawaves.jpg
+.. |Chart A is a polysonograph with the period of rapid eye movement (REM) highlighted.Chart b is a shows brainwaves at various stages of sleep, with the “awake” stage highlighted to show its similarity to the wave pattern of “REM” in part A.| image:: ../resources/CNX_Psych_04_03_REM.jpg
+.. |This is a hypnogram showing the transitions of the sleep cycle during a typical eight hour period of sleep. During the first hour, the person goes through stages 1,2,3 and ends at 4. In the second hour, sleep oscillates between 3 and 4 before attaining a 30-minute period of REM sleep. The third hour follows the same pattern as the second, but ends with a brief awake period. The fourth hour follows a similar pattern as the third, with a slightly longer REM stage. In the fifth hour, stages 3 and 4 are no longer reached. The sleep stages are fluctuating from 2, to 1, to REM, to awake, and then they repeat with shortening intervals until the end of the eighth hour when the person awakens.| image:: ../resources/01312017.jpg

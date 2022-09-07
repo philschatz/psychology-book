@@ -1,0 +1,395 @@
+===========================
+Sensation versus Perception
+===========================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Distinguish
+   between sensation and perception \* Describe the concepts of absolute
+   threshold and difference threshold \* Discuss the roles attention,
+   motivation, and sensory adaptation play in perception
+
+SENSATION
+=========
+
+What does it mean to sense something? Sensory receptors are specialized
+neurons that respond to specific types of stimuli. When sensory
+information is detected by a sensory receptor, **sensation**\ {:
+data-type=“term”} has occurred. For example, light that enters the eye
+causes chemical changes in cells that line the back of the eye. These
+cells relay messages, in the form of action potentials (as you learned
+when studying biopsychology), to the central nervous system. The
+conversion from sensory stimulus energy to action potential is known as
+**transduction**\ {: data-type=“term”}.
+
+You have probably known since elementary school that we have five
+senses: vision, hearing (audition), smell (olfaction), taste
+(gustation), and touch (somatosensation). It turns out that this notion
+of five senses is oversimplified. We also have sensory systems that
+provide information about balance (the vestibular sense), body position
+and movement (proprioception and kinesthesia), pain (nociception), and
+temperature (thermoception).
+
+The sensitivity of a given sensory system to the relevant stimuli can be
+expressed as an absolute threshold. **Absolute threshold**\ {:
+data-type=“term”} refers to the minimum amount of stimulus energy that
+must be present for the stimulus to be detected 50% of the time. Another
+way to think about this is by asking how dim can a light be or how soft
+can a sound be and still be detected half of the time. The sensitivity
+of our sensory receptors can be quite amazing. It has been estimated
+that on a clear night, the most sensitive sensory cells in the back of
+the eye can detect a candle flame 30 miles away (Okawa & Sampath, 2007).
+Under quiet conditions, the hair cells (the receptor cells of the inner
+ear) can detect the tick of a clock 20 feet away (Galanter, 1962).
+
+It is also possible for us to get messages that are presented below the
+threshold for conscious awareness—these are called **subliminal
+messages**\ {: data-type=“term”}. A stimulus reaches a physiological
+threshold when it is strong enough to excite sensory receptors and send
+nerve impulses to the brain: This is an absolute threshold. A message
+below that threshold is said to be subliminal: We receive it, but we are
+not consciously aware of it. Over the years there has been a great deal
+of speculation about the use of subliminal messages in advertising, rock
+music, and self-help audio programs. Research evidence shows that in
+laboratory settings, people can process and respond to information
+outside of awareness. But this does not mean that we obey these messages
+like zombies; in fact, hidden messages have little effect on behavior
+outside the laboratory (Kunst-Wilson & Zajonc, 1980; Rensink, 2004;
+Nelson, 2008; Radel, Sarrazin, Legrain, & Gobancé, 2009; Loersch, Durso,
+& Petty, 2013).
+
+Absolute thresholds are generally measured under incredibly controlled
+conditions in situations that are optimal for sensitivity. Sometimes, we
+are more interested in how much difference in stimuli is required to
+detect a difference between them. This is known as the **just noticeable
+difference (jnd)**\ {: data-type=“term”} or **difference threshold**\ {:
+data-type=“term”}. Unlike the absolute threshold, the difference
+threshold changes depending on the stimulus intensity. As an example,
+imagine yourself in a very dark movie theater. If an audience member
+were to receive a text message on her cell phone which caused her screen
+to light up, chances are that many people would notice the change in
+illumination in the theater. However, if the same thing happened in a
+brightly lit arena during a basketball game, very few people would
+notice. The cell phone brightness does not change, but its ability to be
+detected as a change in illumination varies dramatically between the two
+contexts. Ernst Weber proposed this theory of change in difference
+threshold in the 1830s, and it has become known as Weber’s law: The
+difference threshold is a constant fraction of the original stimulus, as
+the example illustrates.
+
+PERCEPTION
+==========
+
+While our sensory receptors are constantly collecting information from
+the environment, it is ultimately how we interpret that information that
+affects how we interact with the world. **Perception**\ {:
+data-type=“term”} refers to the way sensory information is organized,
+interpreted, and consciously experienced. Perception involves both
+bottom-up and top-down processing. **Bottom-up processing**\ {:
+data-type=“term”} refers to the fact that perceptions are built from
+sensory input. On the other hand, how we interpret those sensations is
+influenced by our available knowledge, our experiences, and our
+thoughts. This is called **top-down processing**\ {: data-type=“term”}.
+
+One way to think of this concept is that sensation is a physical
+process, whereas perception is psychological. For example, upon walking
+into a kitchen and smelling the scent of baking cinnamon rolls, the
+*sensation* is the scent receptors detecting the odor of cinnamon, but
+the *perception* may be “Mmm, this smells like the bread Grandma used to
+bake when the family gathered for holidays.”
+
+Although our perceptions are built from sensations, not all sensations
+result in perception. In fact, we often don’t perceive stimuli that
+remain relatively constant over prolonged periods of time. This is known
+as **sensory adaptation**\ {: data-type=“term”}. Imagine entering a
+classroom with an old analog clock. Upon first entering the room, you
+can hear the ticking of the clock; as you begin to engage in
+conversation with classmates or listen to your professor greet the
+class, you are no longer aware of the ticking. The clock is still
+ticking, and that information is still affecting sensory receptors of
+the auditory system. The fact that you no longer perceive the sound
+demonstrates sensory adaptation and shows that while closely associated,
+sensation and perception are different.
+
+There is another factor that affects sensation and perception:
+attention. Attention plays a significant role in determining what is
+sensed versus what is perceived. Imagine you are at a party full of
+music, chatter, and laughter. You get involved in an interesting
+conversation with a friend, and you tune out all the background noise.
+If someone interrupted you to ask what song had just finished playing,
+you would probably be unable to answer that question.
+
+.. container:: psychology link-to-learning
+
+   See for yourself how inattentional blindness works by checking out
+   this `selective attention test <http://openstax.org/l/blindness>`__
+   from Simons and Chabris (1999).
+
+One of the most interesting demonstrations of how important attention is
+in determining our perception of the environment occurred in a famous
+study conducted by Daniel Simons and Christopher Chabris (1999). In this
+study, participants watched a video of people dressed in black and white
+passing basketballs. Participants were asked to count the number of
+times the team in white passed the ball. During the video, a person
+dressed in a black gorilla costume walks among the two teams. You would
+think that someone would notice the gorilla, right? Nearly half of the
+people who watched the video didn’t notice the gorilla at all, despite
+the fact that he was clearly visible for nine seconds. Because
+participants were so focused on the number of times the white team was
+passing the ball, they completely tuned out other visual information.
+Failure to notice something that is completely visible because of a lack
+of attention is called **inattentional blindness**\ {:
+data-type=“term”}.
+
+In a similar experiment, researchers tested inattentional blindness by
+asking participants to observe images moving across a computer screen.
+They were instructed to focus on either white or black objects,
+disregarding the other color. When a red cross passed across the screen,
+about one third of subjects did not notice it
+(`[link] <#Figure_05_01_Cross>`__) (Most, Simons, Scholl, & Chabris,
+2000).
+
+|A photograph shows a person staring at a screen that displays one red
+cross toward the left side and numerous black and white shapes all
+over.|\ {: #Figure_05_01_Cross}
+
+Motivation can also affect perception. Have you ever been expecting a
+really important phone call and, while taking a shower, you think you
+hear the phone ringing, only to discover that it is not? If so, then you
+have experienced how motivation to detect a meaningful stimulus can
+shift our ability to discriminate between a true sensory stimulus and
+background noise. The ability to identify a stimulus when it is embedded
+in a distracting background is called **signal detection theory**\ {:
+data-type=“term”}. This might also explain why a mother is awakened by a
+quiet murmur from her baby but not by other sounds that occur while she
+is asleep. Signal detection theory has practical applications, such as
+increasing air traffic controller accuracy. Controllers need to be able
+to detect planes among many signals (blips) that appear on the radar
+screen and follow those planes as they move through the sky. In fact,
+the original work of the researcher who developed signal detection
+theory was focused on improving the sensitivity of air traffic
+controllers to plane blips (Swets, 1964).
+
+Our perceptions can also be affected by our beliefs, values, prejudices,
+expectations, and life experiences. As you will see later in this
+chapter, individuals who are deprived of the experience of binocular
+vision during critical periods of development have trouble perceiving
+depth (Fawcett, Wang, & Birch, 2005). The shared experiences of people
+within a given cultural context can have pronounced effects on
+perception. For example, Marshall Segall, Donald Campbell, and Melville
+Herskovits (1963) published the results of a multinational study in
+which they demonstrated that individuals from Western **cultures**\ {:
+data-type=“term” .no-emphasis} were more prone to experience certain
+types of visual illusions than individuals from non-Western cultures,
+and vice versa. One such illusion that Westerners were more likely to
+experience was the **Müller-Lyer**\ {: data-type=“term” .no-emphasis}
+illusion (`[link] <#Figure_05_01_MullerLyer>`__): The lines appear to be
+different lengths, but they are actually the same length.
+
+|Two vertical lines are shown on the left in (a). They each have
+V–shaped brackets on their ends, but one line has the brackets angled
+toward its center, and the other has the brackets angled away from its
+center. The lines are the same length, but the second line appears
+longer due to the orientation of the brackets on its endpoints. To the
+right of these lines is a two-dimensional drawing of walls meeting at
+90-degree angles. Within this drawing are 2 lines which are the same
+length, but appear different lengths. Because one line is bordering a
+window on a wall that has the appearance of being farther away from the
+perspective of the viewer, it appears shorter than the other line which
+marks the 90 degree angle where the facing wall appears closer to the
+viewer’s perspective point.|\ {: #Figure_05_01_MullerLyer}
+
+These perceptual differences were consistent with differences in the
+types of environmental features experienced on a regular basis by people
+in a given cultural context. People in Western cultures, for example,
+have a perceptual context of buildings with straight lines, what
+Segall’s study called a carpentered world (Segall et al., 1966). In
+contrast, people from certain non-Western cultures with an uncarpentered
+view, such as the Zulu of South Africa, whose villages are made up of
+round huts arranged in circles, are less susceptible to this illusion
+(Segall et al., 1999). It is not just vision that is affected by
+cultural factors. Indeed, research has demonstrated that the ability to
+identify an odor, and rate its pleasantness and its intensity, varies
+cross-culturally (Ayabe-Kanamura, Saito, Distel, Martínez-Gómez, &
+Hudson, 1998).
+
+Children described as thrill seekers are more likely to show taste
+preferences for intense sour flavors (Liem, Westerbeek, Wolterink, Kok,
+& de Graaf, 2004), which suggests that basic aspects of personality
+might affect perception. Furthermore, individuals who hold positive
+attitudes toward reduced-fat foods are more likely to rate foods labeled
+as reduced fat as tasting better than people who have less positive
+attitudes about these products (Aaron, Mela, & Evans, 1994).
+
+Summary
+=======
+
+Sensation occurs when sensory receptors detect sensory stimuli.
+Perception involves the organization, interpretation, and conscious
+experience of those sensations. All sensory systems have both absolute
+and difference thresholds, which refer to the minimum amount of stimulus
+energy or the minimum amount of difference in stimulus energy required
+to be detected about 50% of the time, respectively. Sensory adaptation,
+selective attention, and signal detection theory can help explain what
+is perceived and what is not. In addition, our perceptions are affected
+by a number of factors, including beliefs, values, prejudices, culture,
+and life experiences.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      \_______\_ refers to the minimum amount of stimulus energy
+      required to be detected 50% of the time.
+
+      1. absolute threshold
+      2. difference threshold
+      3. just noticeable difference
+      4. transduction {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Decreased sensitivity to an unchanging stimulus is known as
+      \________.
+
+      1. transduction
+      2. difference threshold
+      3. sensory adaptation
+      4. inattentional blindness {: type=“a”}
+
+   .. container::
+
+      C
+
+.. container::
+
+   .. container::
+
+      \_______\_ involves the conversion of sensory stimulus energy into
+      neural impulses.
+
+      1. sensory adaptation
+      2. inattentional blindness
+      3. difference threshold
+      4. transduction {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      \_______\_ occurs when sensory information is organized,
+      interpreted, and consciously experienced.
+
+      1. sensation
+      2. perception
+      3. transduction
+      4. sensory adaptation {: type=“a”}
+
+   .. container::
+
+      B
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Not everything that is sensed is perceived. Do you think there
+      could ever be a case where something could be perceived without
+      being sensed?
+
+   .. container::
+
+      This would be a good time for students to think about claims of
+      extrasensory perception. Another interesting topic would be the
+      phantom limb phenomenon experienced by amputees.
+
+.. container::
+
+   .. container::
+
+      Please generate a novel example of how just noticeable difference
+      can change as a function of stimulus intensity.
+
+   .. container::
+
+      There are many potential examples. One example involves the
+      detection of weight differences. If two people are holding
+      standard envelopes and one contains a quarter while the other is
+      empty, the difference in weight between the two is easy to detect.
+      However, if those envelopes are placed inside two textbooks of
+      equal weight, the ability to discriminate which is heavier is much
+      more difficult.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      Think about a time when you failed to notice something around you
+      because your attention was focused elsewhere. If someone pointed
+      it out, were you surprised that you hadn’t noticed it right away?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   absolute threshold
+      minimum amount of stimulus energy that must be present for the
+      stimulus to be detected 50% of the time ^
+   bottom-up processing
+      system in which perceptions are built from sensory input ^
+   inattentional blindness
+      failure to notice something that is completely visible because of
+      a lack of attention ^
+   just noticeable difference
+      difference in stimuli required to detect a difference between the
+      stimuli ^
+   perception
+      way that sensory information is interpreted and consciously
+      experienced ^
+   sensation
+      what happens when sensory information is detected by a sensory
+      receptor ^
+   sensory adaptation
+      not perceiving stimuli that remain relatively constant over
+      prolonged periods of time ^
+   signal detection theory
+      change in stimulus detection as a function of current mental state
+      ^
+   subliminal message
+      message presented below the threshold of conscious awareness ^
+   top-down processing
+      interpretation of sensations is influenced by available knowledge,
+      experiences, and thoughts ^
+   transduction
+      conversion from sensory stimulus energy to action potential
+
+.. |A photograph shows a person staring at a screen that displays one red cross toward the left side and numerous black and white shapes all over.| image:: ../resources/CNX_Psych_05_01_Cross.jpg
+.. |Two vertical lines are shown on the left in (a). They each have V–shaped brackets on their ends, but one line has the brackets angled toward its center, and the other has the brackets angled away from its center. The lines are the same length, but the second line appears longer due to the orientation of the brackets on its endpoints. To the right of these lines is a two-dimensional drawing of walls meeting at 90-degree angles. Within this drawing are 2 lines which are the same length, but appear different lengths. Because one line is bordering a window on a wall that has the appearance of being farther away from the perspective of the viewer, it appears shorter than the other line which marks the 90 degree angle where the facing wall appears closer to the viewer’s perspective point.| image:: ../resources/CNX_Psych_05_01_MullerLyer.jpg

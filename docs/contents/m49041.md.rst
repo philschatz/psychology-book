@@ -1,0 +1,352 @@
+=====================
+Waves and Wavelengths
+=====================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Describe
+   important physical features of wave forms \* Show how physical
+   properties of light waves are associated with perceptual experience
+   \* Show how physical properties of sound waves are associated with
+   perceptual experience
+
+Visual and auditory stimuli both occur in the form of waves. Although
+the two stimuli are very different in terms of composition, wave forms
+share similar characteristics that are especially important to our
+visual and auditory perceptions. In this section, we describe the
+physical properties of the waves as well as the perceptual experiences
+associated with them.
+
+AMPLITUDE AND WAVELENGTH
+========================
+
+Two physical characteristics of a wave are amplitude and wavelength
+(`[link] <#Figure_05_02_Wave>`__). The **amplitude**\ {:
+data-type=“term”} of a wave is the height of a wave as measured from the
+highest point on the wave (**peak**\ {: data-type=“term”} or
+**crest**\ {: data-type=“term”}) to the lowest point on the wave
+(**trough**\ {: data-type=“term”}). **Wavelength**\ {: data-type=“term”}
+refers to the length of a wave from one peak to the next.
+
+|A diagram illustrates the basic parts of a wave. Moving from left to
+right, the wavelength line begins above a straight horizontal line and
+falls and rises equally above and below that line. One of the areas
+where the wavelength line reaches its highest point is labeled “Peak.” A
+horizontal bracket, labeled “Wavelength,” extends from this area to the
+next peak. One of the areas where the wavelength reaches its lowest
+point is labeled “Trough.” A vertical bracket, labeled “Amplitude,”
+extends from a “Peak” to a “Trough.”|\ {: #Figure_05_02_Wave}
+
+Wavelength is directly related to the frequency of a given wave form.
+**Frequency**\ {: data-type=“term”} refers to the number of waves that
+pass a given point in a given time period and is often expressed in
+terms of **hertz (Hz)**\ {: data-type=“term”}, or cycles per second.
+Longer wavelengths will have lower frequencies, and shorter wavelengths
+will have higher frequencies (`[link] <#Figure_05_02_Frequencies>`__).
+
+|Stacked vertically are 5 waves of different colors and wavelengths. The
+top wave is red with a long wavelengths, which indicate a low frequency.
+Moving downward, the color of each wave is different: orange, yellow,
+green, and blue. Also moving downward, the wavelengths become shorter as
+the frequencies increase.|\ {: #Figure_05_02_Frequencies}
+
+LIGHT WAVES
+===========
+
+The **visible spectrum**\ {: data-type=“term”} is the portion of the
+larger **electromagnetic spectrum**\ {: data-type=“term”} that we can
+see. As `[link] <#Figure_05_02_Spectrum>`__ shows, the electromagnetic
+spectrum encompasses all of the electromagnetic radiation that occurs in
+our environment and includes gamma rays, x-rays, ultraviolet light,
+visible light, infrared light, microwaves, and radio waves. The visible
+spectrum in humans is associated with wavelengths that range from 380 to
+740 nm—a very small distance, since a nanometer (nm) is one billionth of
+a meter. Other species can detect other portions of the electromagnetic
+spectrum. For instance, honeybees can see light in the ultraviolet range
+(Wakakuwa, Stavenga, & Arikawa, 2007), and some snakes can detect
+infrared radiation in addition to more traditional visual light cues
+(Chen, Deng, Brauth, Ding, & Tang, 2012; Hartline, Kass, & Loop, 1978).
+
+|This illustration shows the wavelength, frequency, and size of objects
+across the electromagnetic spectrum.. At the top, various wavelengths
+are given in sequence from small to large, with a parallel illustration
+of a wave with increasing frequency. These are the provided wavelengths,
+measured in meters: “Gamma ray 10 to the negative twelfth power,” “x-ray
+10 to the negative tenth power,” ultraviolet 10 to the negative eighth
+power,” “visible .5 times 10 to the negative sixth power,” “infrared 10
+to the negative fifth power,” microwave 10 to the negative second
+power,” and “radio 10 cubed.”Another section is labeled “About the size
+of” and lists from left to right: “Atomic nuclei,” “Atoms,” “Molecules,”
+“Protozoans,” “Pinpoints,” “Honeybees,” “Humans,” and “Buildings” with
+an illustration of each . At the bottom is a line labeled “Frequency”
+with the following measurements in hertz: 10 to the powers of 20, 18,
+16, 15, 12, 8, and 4. From left to right the line changes in color from
+purple to red with the remaining colors of the visible spectrum in
+between.|\ {: #Figure_05_02_Spectrum}
+
+In humans, light wavelength is associated with perception of color
+(`[link] <#Figure_05_02_VisSpec>`__). Within the visible spectrum, our
+experience of red is associated with longer wavelengths, greens are
+intermediate, and blues and violets are shorter in wavelength. (An easy
+way to remember this is the mnemonic ROYGBIV: **r**\ ed, **o**\ range,
+**y**\ ellow, **g**\ reen, **b**\ lue, **i**\ ndigo, **v**\ iolet.) The
+amplitude of light waves is associated with our experience of brightness
+or intensity of color, with larger amplitudes appearing brighter.
+
+|A line provides Wavelength in nanometers for “400,” “500,” “600,” and
+“700” nanometers. Within this line are all of the colors of the visible
+spectrum. Below this line, labeled from left to right are “Cosmic
+radiation,” “Gamma rays,” “X-rays,” “Ultraviolet,” then a small callout
+area for the line above containing the colors in the visual spectrum,
+followed by “Infrared,” “Terahertz radiation,” “Radar,” “Television and
+radio broadcasting,” and “AC circuits.”|\ {: #Figure_05_02_VisSpec}
+
+SOUND WAVES
+===========
+
+Like light waves, the physical properties of sound waves are associated
+with various aspects of our perception of sound. The frequency of a
+sound wave is associated with our perception of that sound’s
+**pitch**\ {: data-type=“term”}. High-frequency sound waves are
+perceived as high-pitched sounds, while low-frequency sound waves are
+perceived as low-pitched sounds. The audible range of sound frequencies
+is between 20 and 20000 Hz, with greatest sensitivity to those
+frequencies that fall in the middle of this range.
+
+As was the case with the visible spectrum, other species show
+differences in their audible ranges. For instance, chickens have a very
+limited audible range, from 125 to 2000 Hz. Mice have an audible range
+from 1000 to 91000 Hz, and the beluga whale’s audible range is from 1000
+to 123000 Hz. Our pet dogs and cats have audible ranges of about
+70–45000 Hz and 45–64000 Hz, respectively (Strain, 2003).
+
+The loudness of a given sound is closely associated with the amplitude
+of the sound wave. Higher amplitudes are associated with louder sounds.
+Loudness is measured in terms of **decibels (dB)**\ {:
+data-type=“term”}, a logarithmic unit of sound intensity. A typical
+conversation would correlate with 60 dB; a rock concert might check in
+at 120 dB (`[link] <#Figure_05_02_AudRange>`__). A whisper 5 feet away
+or rustling leaves are at the low end of our hearing range; sounds like
+a window air conditioner, a normal conversation, and even heavy traffic
+or a vacuum cleaner are within a tolerable range. However, there is the
+potential for hearing damage from about 80 dB to 130 dB: These are
+sounds of a food processor, power lawnmower, heavy truck (25 feet away),
+subway train (20 feet away), live rock music, and a jackhammer. The
+threshold for pain is about 130 dB, a jet plane taking off or a revolver
+firing at close range (Dunkle, 1982).
+
+|This illustration has a vertical bar in the middle labeled Decibels
+(dB) numbered 0 to 140 in intervals of 20 from the bottom to the top. To
+the left of the bar, the “sound intensity” of different sounds is
+labeled: “Hearing threshold” is 0; “Whisper” is 30, “soft music” is 40,
+“Risk of hearing loss” is 110, “pain threshold” is 130, and “harmful” is
+140. To the right of the bar are photographs depicting “common sound”:
+At 20 decibels is a picture of rustling leaves; At 60 is two people
+talking, at 80 is a car, at 90 is a food processor, at 120 is a music
+concert, and at 130 are jets.|\ {: #Figure_05_02_AudRange}
+
+Although wave amplitude is generally associated with loudness, there is
+some interaction between frequency and amplitude in our perception of
+loudness within the audible range. For example, a 10 Hz sound wave is
+inaudible no matter the amplitude of the wave. A 1000 Hz sound wave, on
+the other hand, would vary dramatically in terms of perceived loudness
+as the amplitude of the wave increased.
+
+.. container:: psychology link-to-learning
+
+   Watch this `brief video <http://openstax.org/l/frequency>`__
+   demonstrating how frequency and amplitude interact in our perception
+   of loudness.
+
+Of course, different musical instruments can play the same musical note
+at the same level of loudness, yet they still sound quite different.
+This is known as the timbre of a sound. **Timbre**\ {: data-type=“term”}
+refers to a sound’s purity, and it is affected by the complex interplay
+of frequency, amplitude, and timing of sound waves.
+
+Summary
+=======
+
+Both light and sound can be described in terms of wave forms with
+physical characteristics like amplitude, wavelength, and timbre.
+Wavelength and frequency are inversely related so that longer waves have
+lower frequencies, and shorter waves have higher frequencies. In the
+visual system, a light wave’s wavelength is generally associated with
+color, and its amplitude is associated with brightness. In the auditory
+system, a sound’s frequency is associated with pitch, and its amplitude
+is associated with loudness.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Which of the following correctly matches the pattern in our
+      perception of color as we move from short wavelengths to long
+      wavelengths?
+
+      1. red to orange to yellow
+      2. yellow to orange to red
+      3. yellow to red to orange
+      4. orange to yellow to red {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      The visible spectrum includes light that ranges from about
+      \________.
+
+      1. 400–700 nm
+      2. 200–900 nm
+      3. 20–20000 Hz
+      4. 10–20 dB {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      The electromagnetic spectrum includes \________.
+
+      1. radio waves
+      2. x-rays
+      3. infrared light
+      4. all of the above {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The audible range for humans is \________.
+
+      1. 380–740 Hz
+      2. 10–20 dB
+      3. less than 300 dB
+      4. 20-20,000 Hz {: type=“a”}
+
+   .. container::
+
+      D
+
+.. container::
+
+   .. container::
+
+      The quality of a sound that is affected by frequency, amplitude,
+      and timing of the sound wave is known as \________.
+
+      1. pitch
+      2. tone
+      3. electromagnetic
+      4. timbre {: type=“a”}
+
+   .. container::
+
+      D
+
+Critical Thinking Question
+==========================
+
+.. container::
+
+   .. container::
+
+      Why do you think other species have such different ranges of
+      sensitivity for both visual and auditory stimuli compared to
+      humans?
+
+   .. container::
+
+      Other species have evolved to best suit their particular
+      environmental niches. For example, the honeybee relies on
+      flowering plants for survival. Seeing in the ultraviolet light
+      might prove especially helpful when locating flowers. Once a
+      flower is found, the ultraviolet rays point to the center of the
+      flower where the pollen and nectar are contained. Similar
+      arguments could be made for infrared detection in snakes as well
+      as for the differences in audible ranges of the species described
+      in this section.
+
+.. container::
+
+   .. container::
+
+      Why do you think humans are especially sensitive to sounds with
+      frequencies that fall in the middle portion of the audible range?
+
+   .. container::
+
+      Once again, one could make an evolutionary argument here. Given
+      that the human voice falls in this middle range and the importance
+      of communication among humans, one could argue that it is quite
+      adaptive to have an audible range that centers on this particular
+      type of stimulus.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      If you grew up with a family pet, then you have surely noticed
+      that they often seem to hear things that you don’t hear. Now that
+      you’ve read this section, you probably have some insight as to why
+      this may be. How would you explain this to a friend who never had
+      the opportunity to take a class like this?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   amplitude
+      height of a wave ^
+   decibel (dB)
+      logarithmic unit of sound intensity ^
+   electromagnetic spectrum
+      all the electromagnetic radiation that occurs in our environment ^
+   frequency
+      number of waves that pass a given point in a given time period ^
+   hertz (Hz)
+      cycles per second; measure of frequency ^
+   peak
+      (also, crest) highest point of a wave ^
+   pitch
+      perception of a sound’s frequency ^
+   timbre
+      sound’s purity ^
+   trough
+      lowest point of a wave ^
+   visible spectrum
+      portion of the electromagnetic spectrum that we can see ^
+   wavelength
+      length of a wave from one peak to the next peak
+
+.. |A diagram illustrates the basic parts of a wave. Moving from left to right, the wavelength line begins above a straight horizontal line and falls and rises equally above and below that line. One of the areas where the wavelength line reaches its highest point is labeled “Peak.” A horizontal bracket, labeled “Wavelength,” extends from this area to the next peak. One of the areas where the wavelength reaches its lowest point is labeled “Trough.” A vertical bracket, labeled “Amplitude,” extends from a “Peak” to a “Trough.”| image:: ../resources/CNX_Psych_05_02_Wave.jpg
+.. |Stacked vertically are 5 waves of different colors and wavelengths. The top wave is red with a long wavelengths, which indicate a low frequency. Moving downward, the color of each wave is different: orange, yellow, green, and blue. Also moving downward, the wavelengths become shorter as the frequencies increase.| image:: ../resources/CNX_Psych_05_02_Frequencies.jpg
+.. |This illustration shows the wavelength, frequency, and size of objects across the electromagnetic spectrum.. At the top, various wavelengths are given in sequence from small to large, with a parallel illustration of a wave with increasing frequency. These are the provided wavelengths, measured in meters: “Gamma ray 10 to the negative twelfth power,” “x-ray 10 to the negative tenth power,” ultraviolet 10 to the negative eighth power,” “visible .5 times 10 to the negative sixth power,” “infrared 10 to the negative fifth power,” microwave 10 to the negative second power,” and “radio 10 cubed.”Another section is labeled “About the size of” and lists from left to right: “Atomic nuclei,” “Atoms,” “Molecules,” “Protozoans,” “Pinpoints,” “Honeybees,” “Humans,” and “Buildings” with an illustration of each . At the bottom is a line labeled “Frequency” with the following measurements in hertz: 10 to the powers of 20, 18, 16, 15, 12, 8, and 4. From left to right the line changes in color from purple to red with the remaining colors of the visible spectrum in between.| image:: ../resources/CNX_Psych_05_02_Spectrum.jpg
+.. |A line provides Wavelength in nanometers for “400,” “500,” “600,” and “700” nanometers. Within this line are all of the colors of the visible spectrum. Below this line, labeled from left to right are “Cosmic radiation,” “Gamma rays,” “X-rays,” “Ultraviolet,” then a small callout area for the line above containing the colors in the visual spectrum, followed by “Infrared,” “Terahertz radiation,” “Radar,” “Television and radio broadcasting,” and “AC circuits.”| image:: ../resources/CNX_Psych_05_02_VisSpec.jpg
+.. |This illustration has a vertical bar in the middle labeled Decibels (dB) numbered 0 to 140 in intervals of 20 from the bottom to the top. To the left of the bar, the “sound intensity” of different sounds is labeled: “Hearing threshold” is 0; “Whisper” is 30, “soft music” is 40, “Risk of hearing loss” is 110, “pain threshold” is 130, and “harmful” is 140. To the right of the bar are photographs depicting “common sound”: At 20 decibels is a picture of rustling leaves; At 60 is two people talking, at 80 is a car, at 90 is a food processor, at 120 is a music concert, and at 130 are jets.| image:: ../resources/CNX_Psych_05_02_AudRange.jpg

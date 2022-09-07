@@ -1,0 +1,287 @@
+============
+Introduction
+============
+
+
+
+.. contents::
+   :depth: 3
+..
+
+class=“introduction”
+
+class=“summary” title=“Summary”
+
+class=“review-questions” title=“Review Questions”
+
+class=“critical-thinking” title=“Critical Thinking Questions”
+
+class=“personal-application” title=“Personal Application Questions”
+
+class=“references” title=“References”
+
+|A photograph shows a person playing a piano on the sidewalk near a busy
+intersection in a city.|\ {:}
+
+Imagine standing on a city street corner. You might be struck by
+movement everywhere as cars and people go about their business, by the
+sound of a street musician’s melody or a horn honking in the distance,
+by the smell of exhaust fumes or of food being sold by a nearby vendor,
+and by the sensation of hard pavement under your feet.
+
+We rely on our sensory systems to provide important information about
+our surroundings. We use this information to successfully navigate and
+interact with our environment so that we can find nourishment, seek
+shelter, maintain social relationships, and avoid potentially dangerous
+situations.
+
+This chapter will provide an overview of how sensory information is
+received and processed by the nervous system and how that affects our
+conscious experience of the world. We begin by learning the distinction
+between sensation and perception. Then we consider the physical
+properties of light and sound stimuli, along with an overview of the
+basic structure and function of the major sensory systems. The chapter
+will close with a discussion of a historically important theory of
+perception called Gestalt.
+
+References
+==========
+
+Aaron, J. I., Mela, D. J., & Evans, R. E. (1994). The influences of
+attitudes, beliefs, and label information on perceptions of reduced-fat
+spread. Appetite, 22, 25–37.
+
+Abraira, V. E., & Ginty, D. D. (2013). The sensory neurons of touch.
+*Neuron, 79*, 618–639.
+
+Ayabe-Kanamura, S., Saito, S., Distel, H., Martínez-Gómez, M., & Hudson,
+R. (1998). Differences and similarities in the perception of everyday
+odors: A Japanese-German cross-cultural study. *Annals of the New York
+Academy of Sciences, 855*, 694–700.
+
+Chen, Q., Deng, H., Brauth, S. E., Ding, L., & Tang, Y. (2012). Reduced
+performance of prey targeting in pit vipers with contralaterally
+occluded infrared and visual senses. *PloS ONE, 7*\ (5), e34989.
+doi:10.1371/journal.pone.0034989
+
+Comfort, A. (1971). Likelihood of human pheromones. *Nature, 230*,
+432–479.
+
+Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police
+officer’s dilemma: Using ethnicity to disambiguate potentially
+threatening individuals. *Journal of Personality and Social Psychology,
+83*, 1314–1329.
+
+Correll, J., Urland, G. R., & Ito, T. A. (2006). Event-related
+potentials and the decision to shoot: The role of threat perception and
+cognitive control. *The Journal of Experimental Social Psychology, 42*,
+120–128.
+
+Dunkle T. (1982). The sound of silence. *Science, 82*, 30–33.
+
+Fawcett, S. L., Wang, Y., & Birch, E. E. (2005). The critical period for
+susceptibility of human stereopsis. *Investigative Ophthalmology and
+Visual Science, 46*, 521–525.
+
+Furlow, F. B. (1996, 2012). The smell of love. Retrieved from
+http://www.psychologytoday.com/articles/200910/the-smell-love
+
+Galanter, E. (1962). Contemporary Psychophysics. In R. Brown,
+E.Galanter, E. H. Hess, & G. Mandler (Eds.), New directions in
+psychology. New York, NY: Holt, Rinehart & Winston.
+
+Garland, E. L. (2012). Pain processing in the human nervous system: A
+selective review of nociceptive and biobehavioral pathways. *Primary
+Care, 39*, 561–571.
+
+Goolkasian, P. & Woodbury, C. (2010). Priming effects with ambiguous
+figures. *Attention,* *Perception & Psychophysics, 72*, 168–178.
+
+Grothe, B., Pecka, M., & McAlpine, D. (2010). Mechanisms of sound
+localization in mammals. *Physiological Reviews, 90*, 983–1012.
+
+Hartline, P. H., Kass, L., & Loop, M. S. (1978). Merging of modalities
+in the optic tectum: Infrared and visual integration in rattlesnakes.
+*Science, 199*, 1225–1229.
+
+Kaiser, P. K. (1997). *The joy of visual perception: A web book*.
+Retrieved from http://www.yorku.ca/eye/noframes.htm
+
+Khan, S., & Chang, R. (2013). Anatomy of the vestibular system: A
+review. *NeuroRehabilitation, 32*, 437–443.
+
+Kinnamon, S. C., & Vandenbeuch, A. (2009). Receptors and transduction of
+umami taste stimuli. *Annals of the New York Academy of Sciences, 1170*,
+55–59.
+
+Kunst-Wilson, W. R., & Zajonc, R. B. (1980). Affective discrimination of
+stimuli that cannot be recognized. *Science, 207*, 557–558.
+
+Lackner, J. R., & DiZio, P. (2005). Vestibular, proprioceptive, and
+haptic contributions to spatial orientation. *Annual Review of
+Psychology, 56*, 115–147.
+
+Land, E. H. (1959). Color vision and the natural image. Part 1.
+*Proceedings of the National Academy of Science, 45*\ (1), 115–129.
+
+Liem, D. G., Westerbeek, A., Wolterink, S., Kok, F. J., & de Graaf, C.
+(2004). Sour taste preferences of children relate to preference for
+novel and intense stimuli. *Chemical Senses, 29*, 713–720.
+
+Lodovichi, C., & Belluscio, L. (2012). Odorant receptors in the
+formation of olfactory bulb circuitry. *Physiology, 27*, 200–212.
+
+Loersch, C., Durso, G. R. O., & Petty, R. E. (2013). Vicissitudes of
+desire: A matching mechanism for subliminal persuasion. *Social
+Psychological and Personality Science, 4*\ (5), 624–631.
+
+Maffei, A., Haley, M., & Fontanini, A. (2012). Neural processing of
+gustatory information in insular circuits. *Current Opinion in
+Neurobiology, 22*, 709–716.
+
+Milner, A. D., & Goodale, M. A. (2008). Two visual systems re-viewed.
+*Neuropsychological, 46*, 774–785.
+
+Mizushige, T., Inoue, K., Fushiki, T. (2007). Why is fat so tasty?
+Chemical reception of fatty acid on the tongue. *Journal of Nutritional
+Science and Vitaminology, 53*, 1–4.
+
+Most, S. B., Simons, D. J., Scholl, B. J., & Chabris, C. F. (2000).
+Sustained inattentional blindness: The role of location in the detection
+of unexpected dynamic events. *PSYCHE, 6*\ (14).
+
+Nelson, M. R. (2008). The hidden persuaders: Then and now. *Journal of
+Advertising, 37*\ (1), 113–126.
+
+Niimura, Y., & Nei, M. (2007). Extensive gains and losses of olfactory
+receptor genes in mammalian evolution. *PLoS ONE, 2*, e708.
+
+Okawa, H., & Sampath, A. P. (2007). Optimization of single-photon
+response transmission at the rod-to-rod bipolar synapse. *Physiology,
+22*, 279–286.
+
+Payne, B. K. (2001). Prejudice and perception: The role of automatic and
+controlled processes in misperceiving a weapon. *Journal of Personality
+and Social Psychology, 81*, 181–192.
+
+Payne, B. K., Shimizu, Y., & Jacoby, L. L. (2005). Mental control and
+visual illusions: Toward explaining race-biased weapon
+misidentifications. *Journal of Experimental Social Psychology, 41*,
+36–47.
+
+Peck, M. (2012, July 19). *How a movie changed one man’s vision
+forever*. Retrieved from
+http://www.bbc.com/future/story/20120719-awoken-from-a-2d-world
+
+Peterson, M. A., & Gibson, B. S. (1994). Must figure-ground organization
+precede object recognition? An assumption in peril. *Psychological
+Science, 5*, 253–259.
+
+Petho, G., & Reeh, P. W. (2012). Sensory and signaling mechanisms of
+bradykinin, eicosanoids, platelet-activating factor, and nitric oxide in
+peripheral nociceptors. *Physiological Reviews, 92*, 1699–1775.
+
+Proske, U. (2006). Kinesthesia: The role of muscle receptors. *Muscle &
+Nerve, 34*, 545–558.
+
+Proske, U., & Gandevia, S. C. (2012). The proprioceptive senses: Their
+roles in signaling body shape, body position and movement, and muscle
+force. *Physiological Reviews, 92*, 1651–1697.
+
+Purvis, K., & Haynes, N. B. (1972). The effect of female rat proximity
+on the reproductive system of male rats. *Physiology & Behavior, 9*,
+401–407.
+
+Radel, R., Sarrazin, P., Legrain, P., & Gobancé, L. (2009). Subliminal
+priming of motivational orientation in educational settings: Effect on
+academic performance moderated by mindfulness. *Journal of Research in
+Personality, 43*\ (4), 1–18.
+
+Rauschecker, J. P., & Tian, B. (2000). Mechanisms and streams for
+processing “what” and “where” in auditory cortex. *Proceedings of the
+National Academy of Sciences, USA, 97*, 11800–11806.
+
+Renier, L. A., Anurova, I., De Volder, A. G., Carlson, S., VanMeter, J.,
+& Rauschecker, J. P. (2009). Multisensory integration of sounds and
+vibrotactile stimuli in processing streams for “what” and “where.”
+*Journal of Neuroscience, 29*, 10950–10960.
+
+Rensink, R. A. (2004). Visual sensing without seeing. *Psychological
+Science, 15*, 27–32.
+
+Rock, I., & Palmer, S. (1990). The legacy of Gestalt psychology.
+*Scientific American, 262*, 84–90.
+
+Roper, S. D. (2013). Taste buds as peripheral chemosensory receptors.
+*Seminars in Cell & Developmental Biology, 24*, 71–79.
+
+Russell, M. J. (1976). Human olfactory communication. *Nature, 260*,
+520–522.
+
+Sachs, B. D. (1997). Erection evoked in male rats by airborne scent from
+estrous females. *Physiology & Behavior, 62*, 921–924.
+
+Segall, M. H., Campbell, D. T., & Herskovits, M. J. (1963). Cultural
+differences in the perception of geometric illusions. *Science, 139*,
+769–771.
+
+Segall, M. H., Campbell, D. T., & Herskovits, M. J. (1966). The
+influence of culture on visual perception. Indianapolis: Bobbs-Merrill.
+
+Segall, M. H., Dasen, P. P., Berry, J. W., & Poortinga, Y. H. (1999).
+*Human behavior in global perspective* (2nd ed.). Boston: Allyn & Bacon.
+
+Semaan, M. T., & Megerian, C. A. (2010). Contemporary perspectives on
+the pathophysiology of Meniere’s disease: implications for treatment.
+*Current opinion in Otolaryngology & Head and Neck Surgery, 18*\ (5),
+392–398.
+
+Shamma, S. (2001). On the role of space and time in auditory processing.
+*Trends in Cognitive Sciences, 5*, 340–348.
+
+Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained
+inattentional blindness for dynamic events. *Perception, 28*, 1059–1074.
+
+Spors, H., Albeanu, D. F., Murthy, V. N., Rinberg, D., Uchida, N.,
+Wachowiak, M., & Friedrich, R. W. (2013). Illuminating vertebrate
+olfactory processing. *Journal of Neuroscience, 32*, 14102–14108.
+
+Spray, D. C. (1986). Cutaneous temperature receptors. *Annual Review of
+Physiology, 48*, 625–638.
+
+Strain, G. M. (2003). *How well do dogs and other animals hear?*
+Retrieved from http://www.lsu.edu/deafness/HearingRange.html
+
+Swets, J. A. (1964). Signal detection and recognition by human
+observers. *Psychological Bulletin, 60*, 429–441.
+
+Ungerleider, L. G., & Haxby, J. V. (1994). ‘What’ and ‘where’ in the
+human brain. *Current Opinion in Neurobiology, 4*, 157–165.
+
+U.S. National Library of Medicine. (2013). Genetics home reference:
+Congenital insensitivity to pain. Retrieved from
+http://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain
+
+Vecera, S. P., & O’Reilly, R. C. (1998). Figure-ground organization and
+object recognition processes: An interactive account. *Journal of
+Experimental Psychology-Human Perception and Performance, 24*, 441–462.
+
+Wakakuwa, M., Stavenga, D. G., & Arikawa, K. (2007). Spectral
+organization of ommatidia in flower-visiting insects. *Photochemistry
+and Photobiology, 83*, 27–34.
+
+Weller, A. (1998). Human pheromones: Communication through body
+odour\ *. Nature, 392*, 126–127.
+
+Wells, D. L. (2010). Domestic dogs and human health: An overview.
+*British Journal of Health Psychology, 12*, 145–156.
+
+Wolfgang-Kimball, D. (1992). Pheromones in humans: myth or reality?.
+Retrieved from http://www.anapsid.org/pheromones.html
+
+Wysocki, C. J., & Preti, G. (2004). Facts, fallacies, fears, and
+frustrations with human pheromones. *The Anatomical Record Part A:
+Discoveries in Molecular, Cellular, and Evolutionary Biology, 281*,
+1201–1211.
+
+.. |A photograph shows a person playing a piano on the sidewalk near a busy intersection in a city.| image:: ../resources/CNX_Psych_05_00_Senses.jpg

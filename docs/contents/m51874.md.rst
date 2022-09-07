@@ -1,0 +1,341 @@
+======================
+Personality Assessment
+======================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Discuss the
+   Minnesota Multiphasic Personality Inventory \* Recognize and describe
+   common projective tests used in personality assessment
+
+Roberto, Mikhail, and Nat are college friends and all want to be police
+officers. Roberto is quiet and shy, lacks self-confidence, and usually
+follows others. He is a kind person, but lacks motivation. Mikhail is
+loud and boisterous, a leader. He works hard, but is impulsive and
+drinks too much on the weekends. Nat is thoughtful and well liked. He is
+trustworthy, but sometimes he has difficulty making quick decisions. Of
+these three men, who would make the best police officer? What qualities
+and personality factors make someone a good police officer? What makes
+someone a bad or dangerous police officer?
+
+A police officer’s job is very high in stress, and law enforcement
+agencies want to make sure they hire the right people. Personality
+testing is often used for this purpose—to screen applicants for
+employment and job training. Personality tests are also used in criminal
+cases and custody battles, and to assess psychological disorders. This
+section explores the best known among the many different types of
+personality tests.
+
+SELF-REPORT INVENTORIES
+=======================
+
+Self-report inventories are a kind of objective test used to assess
+personality. They typically use multiple-choice items or numbered
+scales, which represent a range from 1 (strongly disagree) to 5
+(strongly agree). They often are called Likert scales after their
+developer, Rensis Likert (1932) (`[link] <#Figure_11_09_Likert>`__).
+
+|A Likert-type scale survey is shown. The surveyed items include “I am
+easygoing; I have high standards; I enjoy time alone; I work well with
+others; I dislike confrontation; and I prefer crowds over intimacy.” To
+the right of each of these items are five empty circles. The circles are
+labeled “strongly disagree; somewhat disagree; no opinion; somewhat
+agree; and strongly agree.”|\ {: #Figure_11_09_Likert}
+
+One of the most widely used personality inventories is the **Minnesota
+Multiphasic Personality Inventory (MMPI)**\ {: data-type=“term”}, first
+published in 1943, with 504 true/false questions, and updated to the
+MMPI-2 in 1989, with 567 questions. The original MMPI was based on a
+small, limited sample, composed mostly of Minnesota farmers and
+psychiatric patients; the revised inventory was based on a more
+representative, national sample to allow for better standardization. The
+MMPI-2 takes 1–2 hours to complete. Responses are scored to produce a
+clinical profile composed of 10 scales: hypochondriasis, depression,
+hysteria, psychopathic deviance (social deviance), masculinity versus
+femininity, paranoia, psychasthenia (obsessive/compulsive qualities),
+schizophrenia, hypomania, and social introversion. There is also a scale
+to ascertain risk factors for alcohol abuse. In 2008, the test was again
+revised, using more advanced methods, to the MMPI-2-RF. This version
+takes about one-half the time to complete and has only 338 questions
+(`[link] <#Figure_11_09_MMPI>`__). Despite the new test’s advantages,
+the MMPI-2 is more established and is still more widely used. Typically,
+the tests are administered by computer. Although the MMPI was originally
+developed to assist in the clinical diagnosis of psychological
+disorders, it is now also used for occupational screening, such as in
+law enforcement, and in college, career, and marital counseling
+(Ben-Porath & Tellegen, 2008).
+
+|Five questions are stacked vertically with two empty bubbles to the
+right of each question. Above the bubbles are the labels “True” and
+“False.” The questions are as follows: “1. I like gardening magazines.”
+“2. I am unhappy with my sex life.” “3. I feel like no one understands
+me.” “4. I think I would enjoy the work of a teacher.” “5. I am not
+easily awakened by noise.”|\ {: #Figure_11_09_MMPI}
+
+In addition to clinical scales, the tests also have validity and
+reliability scales. (Recall the concepts of reliability and validity
+from your study of psychological research.) One of the validity scales,
+the Lie Scale (or “L” Scale), consists of 15 items and is used to
+ascertain whether the respondent is “faking good” (underreporting
+psychological problems to appear healthier). For example, if someone
+responds “yes” to a number of unrealistically positive items such as “I
+have never told a lie,” they may be trying to “fake good” or appear
+better than they actually are.
+
+Reliability scales test an instrument’s consistency over time, assuring
+that if you take the MMPI-2-RF today and then again 5 years later, your
+two scores will be similar. Beutler, Nussbaum, and Meredith (1988) gave
+the MMPI to newly recruited police officers and then to the same police
+officers 2 years later. After 2 years on the job, police officers’
+responses indicated an increased vulnerability to alcoholism, somatic
+symptoms (vague, unexplained physical complaints), and anxiety. When the
+test was given an additional 2 years later (4 years after starting on
+the job), the results suggested high risk for alcohol-related
+difficulties.
+
+PROJECTIVE TESTS
+================
+
+Another method for assessment of personality is **projective
+testing**\ {: data-type=“term”}. This kind of test relies on one of the
+defense mechanisms proposed by Freud—projection—as a way to assess
+unconscious processes. During this type of testing, a series of
+ambiguous cards is shown to the person being tested, who then is
+encouraged to project his feelings, impulses, and desires onto the
+cards—by telling a story, interpreting an image, or completing a
+sentence. Many projective tests have undergone standardization
+procedures (for example, Exner, 2002) and can be used to access whether
+someone has unusual thoughts or a high level of anxiety, or is likely to
+become volatile. Some examples of projective tests are the Rorschach
+Inkblot Test, the Thematic Apperception Test (TAT), the
+Contemporized-Themes Concerning Blacks test, the TEMAS
+(Tell-Me-A-Story), and the Rotter Incomplete Sentence Blank (RISB). 
+
+The **Rorschach Inkblot Test**\ {: data-type=“term”} was developed in
+1921 by a Swiss psychologist named Hermann Rorschach (pronounced
+“ROAR-shock”). It is a series of symmetrical inkblot cards that are
+presented to a client by a psychologist. Upon presentation of each card,
+the psychologist asks the client, “What might this be?” What the
+test-taker sees reveals unconscious feelings and struggles (Piotrowski,
+1987; Weiner, 2003). The Rorschach has been standardized using the Exner
+system and is effective in measuring depression, psychosis, and anxiety.
+
+A second projective test is the **Thematic Apperception Test (TAT)**\ {:
+data-type=“term”}, created in the 1930s by Henry Murray, an American
+psychologist, and a psychoanalyst named Christiana Morgan. A person
+taking the TAT is shown 8–12 ambiguous pictures and is asked to tell a
+story about each picture. The stories give insight into their social
+world, revealing hopes, fears, interests, and goals. The storytelling
+format helps to lower a person’s resistance divulging unconscious
+personal details (Cramer, 2004). The TAT has been used in clinical
+settings to evaluate psychological disorders; more recently, it has been
+used in counseling settings to help clients gain a better understanding
+of themselves and achieve personal growth. Standardization of test
+administration is virtually nonexistent among clinicians, and the test
+tends to be modest to low on validity and reliability (Aronow, Weiss, &
+Rezinkoff, 2001; Lilienfeld, Wood, & Garb, 2000). Despite these
+shortcomings, the TAT has been one of the most widely used projective
+tests.
+
+A third projective test is the **Rotter Incomplete Sentence Blank
+(RISB)**\ {: data-type=“term”} developed by Julian Rotter in 1950
+(recall his theory of locus of control, covered earlier in this
+chapter). There are three forms of this test for use with different age
+groups: the school form, the college form, and the adult form. The tests
+include 40 incomplete sentences that people are asked to complete as
+quickly as possible (`[link] <#Figure_11_09_ISB>`__). The average time
+for completing the test is approximately 20 minutes, as responses are
+only 1–2 words in length. This test is similar to a word association
+test, and like other types of projective tests, it is presumed that
+responses will reveal desires, fears, and struggles. The RISB is used in
+screening college students for adjustment problems and in career
+counseling (Holaday, Smith, & Sherry, 2010; Rotter & Rafferty 1950).
+
+|Five incomplete sentences are stacked vertically with empty space to
+the right of each sentence in which to complete it. The sentence
+starters are : “1. I feel,” “2. I regret,” “3. At home,” “4. My mother,”
+and “5. My greatest worry.”|\ {: #Figure_11_09_ISB}
+
+For many decades, these traditional projective tests have been used in
+cross-cultural personality assessments. However, it was found that test
+bias limited their usefulness (Hoy-Watkins & Jenkins-Moore, 2008). It is
+difficult to assess the personalities and lifestyles of members of
+widely divergent ethnic/cultural groups using personality instruments
+based on data from a single culture or race (Hoy-Watkins &
+Jenkins-Moore, 2008). For example, when the TAT was used with
+African-American test takers, the result was often shorter story length
+and low levels of cultural identification (Duzant, 2005). Therefore, it
+was vital to develop other personality assessments that explored factors
+such as race, language, and level of acculturation (Hoy-Watkins &
+Jenkins-Moore, 2008). To address this need, Robert Williams developed
+the first culturally specific projective test designed to reflect the
+everyday life experiences of African Americans (Hoy-Watkins &
+Jenkins-Moore, 2008). The updated version of the instrument is the
+**Contemporized-Themes Concerning Blacks Test (C-TCB)**\ {:
+data-type=“term”} (Williams, 1972). The C-TCB contains 20 color images
+that show scenes of African-American lifestyles. When the C-TCB was
+compared with the TAT for African Americans, it was found that use of
+the C-TCB led to increased story length, higher degrees of positive
+feelings, and stronger identification with the C-TCB (Hoy, 1997;
+Hoy-Watkins & Jenkins-Moore, 2008).
+
+The **TEMAS Multicultural Thematic Apperception Test**\ {:
+data-type=“term”} is another tool designed to be culturally relevant to
+minority groups, especially Hispanic youths. TEMAS—standing for “Tell Me
+a Story” but also a play on the Spanish word temas (themes)—uses images
+and storytelling cues that relate to minority culture (Constantino,
+1982).
+
+Summary
+=======
+
+Personality tests are techniques designed to measure one’s personality.
+They are used to diagnose psychological problems as well as to screen
+candidates for college and employment. There are two types of
+personality tests: self-report inventories and projective tests. The
+MMPI is one of the most common self-report inventories. It asks a series
+of true/false questions that are designed to provide a clinical profile
+of an individual. Projective tests use ambiguous images or other
+ambiguous stimuli to assess an individual’s unconscious fears, desires,
+and challenges. The Rorschach Inkblot Test, the TAT, the RISB, and the
+C-TCB are all forms of projective tests.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Which of the following is NOT a projective test?
+
+      1. Minnesota Multiphasic Personality Inventory (MMPI)
+      2. Rorschach Inkblot Test
+      3. Thematic Apperception Test (TAT)
+      4. Rotter Incomplete Sentence Blank (RISB) {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      A personality assessment in which a person responds to ambiguous
+      stimuli, revealing unconscious feelings, impulses, and desires
+      \________.
+
+      1. self-report inventory
+      2. projective test
+      3. Minnesota Multiphasic Personality Inventory (MMPI)
+      4. Myers-Briggs Type Indicator (MBTI) {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Which personality assessment employs a series of true/false
+      questions?
+
+      1. Minnesota Multiphasic Personality Inventory (MMPI)
+      2. Thematic Apperception Test (TAT)
+      3. Rotter Incomplete Sentence Blank (RISB)
+      4. Myers-Briggs Type Indicator (MBTI) {: type=“a”}
+
+   .. container::
+
+      A
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Why might a prospective employer screen applicants using
+      personality assessments?
+
+   .. container::
+
+      They can help an employer predict a candidate’s reactions and
+      attitudes to various situations they might encounter on the job,
+      thus helping choose the right person for the job. This is
+      particularly important in hiring for a high-risk job such as law
+      enforcement. Personality tests can also reveal a potential
+      employee’s desirable qualities such as honesty, motivation, and
+      conscientiousness.
+
+.. container::
+
+   .. container::
+
+      Why would a clinician give someone a projective test?
+
+   .. container::
+
+      A projective test could give the clinician clues about dreams,
+      fears, and personal struggles of which the client may be unaware,
+      since these tests are designed to reveal unconscious motivations
+      and attitudes. They can also help clinicians diagnose
+      psychological disorders.
+
+Personal Application Questions
+==============================
+
+.. container::
+
+   .. container::
+
+      How objective do you think you can be about yourself in answering
+      questions on self-report personality assessment measures? What
+      implications might this have for the validity of the personality
+      test?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   Contemporized-Themes Concerning Blacks Test (C-TCB)
+      projective test designed to be culturally relevant to African
+      Americans, using images that relate to African-American culture ^
+   Minnesota Multiphasic Personality Inventory (MMPI)
+      personality test composed of a series of true/false questions in
+      order to establish a clinical profile of an individual ^
+   Projective test
+      personality assessment in which a person responds to ambiguous
+      stimuli, revealing hidden feelings, impulses, and desires ^
+   Rorschach Inkblot Test
+      projective test that employs a series of symmetrical inkblot cards
+      that are presented to a client by a psychologist in an effort to
+      reveal the person’s unconscious desires, fears, and struggles ^
+   Rotter Incomplete Sentence Blank (RISB)
+      projective test that is similar to a word association test in
+      which a person completes sentences in order to reveal their
+      unconscious desires, fears, and struggles ^
+   TEMAS Multicultural Thematic Apperception Test
+      projective test designed to be culturally relevant to minority
+      groups, especially Hispanic youths, using images and storytelling
+      that relate to minority culture ^
+   Thematic Apperception Test (TAT)
+      projective test in which people are presented with ambiguous
+      images, and they then make up stories to go with the images in an
+      effort to uncover their unconscious desires, fears, and struggles
+
+.. |A Likert-type scale survey is shown. The surveyed items include “I am easygoing; I have high standards; I enjoy time alone; I work well with others; I dislike confrontation; and I prefer crowds over intimacy.” To the right of each of these items are five empty circles. The circles are labeled “strongly disagree; somewhat disagree; no opinion; somewhat agree; and strongly agree.”| image:: ../resources/CNX_Psych_11_09_Lickert.jpg
+.. |Five questions are stacked vertically with two empty bubbles to the right of each question. Above the bubbles are the labels “True” and “False.” The questions are as follows: “1. I like gardening magazines.” “2. I am unhappy with my sex life.” “3. I feel like no one understands me.” “4. I think I would enjoy the work of a teacher.” “5. I am not easily awakened by noise.”| image:: ../resources/CNX_Psych_11_09_MMPI.jpg
+.. |Five incomplete sentences are stacked vertically with empty space to the right of each sentence in which to complete it. The sentence starters are : “1. I feel,” “2. I regret,” “3. At home,” “4. My mother,” and “5. My greatest worry.”| image:: ../resources/CNX_Psych_11_09_ISB.jpg

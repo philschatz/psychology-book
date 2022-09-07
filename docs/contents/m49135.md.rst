@@ -1,0 +1,783 @@
+=========================================================
+Industrial Psychology: Selecting and Evaluating Employees
+=========================================================
+
+
+
+.. contents::
+   :depth: 3
+..
+
+.. container::
+
+   By the end of this section, you will be able to: \* Explain the
+   aspects of employee selection \* Describe the kinds of job training
+   \* Describe the approaches to and issues surrounding performance
+   assessment
+
+The branch of I-O psychology known as industrial psychology focuses on
+identifying and matching persons to tasks within an organization. This
+involves **job analysis**\ {: data-type=“term”}, which means accurately
+describing the task or job. Then, organizations must identify the
+characteristics of applicants for a match to the job analysis. It also
+involves training employees from their first day on the job throughout
+their tenure within the organization, and appraising their performance
+along the way.
+
+SELECTING EMPLOYEES
+===================
+
+When you read job advertisements, do you ever wonder how the company
+comes up with the job description? Often, this is done with the help of
+I-O psychologists. There are two related but different approaches to job
+analysis—you may be familiar with the results of each as they often
+appear on the same job advertisement. The first approach is
+task-oriented and lists in detail the tasks that will be performed for
+the job. Each task is typically rated on scales for how frequently it is
+performed, how difficult it is, and how important it is to the job. The
+second approach is worker-oriented. This approach describes the
+characteristics required of the worker to successfully perform the job.
+This second approach has been called job specification (Dierdorff &
+Wilson, 2003). For job specification, the knowledge, skills, and
+abilities (KSAs) that the job requires are identified.
+
+Observation, surveys, and interviews are used to obtain the information
+required for both types of job analysis. It is possible to observe
+someone who is proficient in a position and analyze what skills are
+apparent. Another approach used is to interview people presently holding
+that position, their peers, and their supervisors to get a consensus of
+what they believe are the requirements of the job.
+
+How accurate and reliable is a job analysis? Research suggests that it
+can depend on the nature of the descriptions and the source for the job
+analysis. For example, Dierdorff & Wilson (2003) found that job analyses
+developed from descriptions provided by people holding the job
+themselves were the least reliable; however, they did not study or
+speculate why this was the case.
+
+The United States Department of Labor maintains a database of previously
+compiled job analyses for different jobs and occupations. This allows
+the I-O psychologist to access previous analyses for nearly any type of
+occupation. This system is called **O*Net**\ {: data-type=“term”
+.no-emphasis} (accessible at www.online.onetcenter.org). The site is
+open and you can see the KSAs that are listed for your own position or
+one you might be curious about. Each occupation lists the tasks,
+knowledge, skills, abilities, work context, work activities, education
+requirements, interests, personality requirements, and work styles that
+are deemed necessary for success in that position. You can also see data
+on average earnings and projected job growth in that industry.
+
+.. container:: psychology link-to-learning
+
+   The O*Net database describes the skills, knowledge, and education
+   required for occupations, as well as what personality types and work
+   styles are best suited to the role. See what it has to say about
+   being a `food server in a
+   restaurant <http://openstax.org/l/sumreport1>`__ or an `elementary
+   school teacher <http://openstax.org/l/sumreport2>`__ or an
+   `industrial-organizational
+   psychologist <http://openstax.org/l/sumreport3>`__.
+
+Candidate Analysis and Testing
+------------------------------
+
+Once a company identifies potential candidates for a position, the
+candidates’ knowledge, skills, and other abilities must be evaluated and
+compared with the job description. These evaluations can involve
+testing, an interview, and work samples or exercises. You learned about
+personality tests in the chapter on personality; in the I-O context,
+they are used to identify the personality characteristics of the
+candidate in an effort to match those to personality characteristics
+that would ensure good performance on the job. For example, a high
+rating of agreeableness might be desirable in a customer support
+position. However, it is not always clear how best to correlate
+personality characteristics with predictions of job performance. It
+might be that too high of a score on agreeableness is actually a
+hindrance in the customer support position. For example, if a customer
+has a misperception about a product or service, agreeing with their
+misperception will not ultimately lead to resolution of their complaint.
+Any use of personality tests should be accompanied by a verified
+assessment of what scores on the test correlate with good performance
+(Arthur, Woehr, & Graziano, 2001). Other types of tests that may be
+given to candidates include IQ tests, integrity tests, and physical
+tests, such as drug tests or physical fitness tests.
+
+.. container:: psychology what-do-you-think
+
+   .. container::
+
+      Using Cutoff Scores to Determine Job Selection
+
+   Many positions require applicants to take tests as part of the
+   selection process. These can include IQ tests, job-specific skills
+   tests, or personality tests. The organization may set cutoff scores
+   (i.e., a score below which a candidate will not move forward) for
+   each test to determine whether the applicant moves on to the next
+   stage. For example, there was a case of Robert Jordan, a 49-year-old
+   college graduate who applied for a position with the police force in
+   New London, Connecticut. As part of the selection process, Jordan
+   took the Wonderlic Personnel Test (WPT), a test designed to measure
+   cognitive ability.
+
+   Jordan did not make it to the interview stage because his WPT score
+   of 33, equivalent to an IQ score of 125 (100 is the average IQ
+   score), was too high. The New London Police department policy is to
+   not interview anyone who has a WPT score over 27 (equivalent to an IQ
+   score over 104) because they believe anyone who scores higher would
+   be bored with police work. The average score for police officers
+   nationwide is the equivalent of an IQ score of 104 (*Jordan v. New
+   London*, 2000; ABC News, 2000).
+
+   Jordan sued the police department alleging that his rejection was
+   discrimination and his civil rights were violated because he was
+   denied equal protection under the law. The 2nd U.S. Circuit Court of
+   Appeals upheld a lower court’s decision that the city of New London
+   did not discriminate against him because the same standards were
+   applied to everyone who took the exam (The New York Times, 1999).
+
+   What do you think? When might universal cutoff points make sense in a
+   hiring decision, and when might they eliminate otherwise potentially
+   strong employees?
+
+Interviews
+----------
+
+Most jobs for mid-size to large-size businesses in the United States
+require a personal interview as a step in the selection process. Because
+interviews are commonly used, they have been the subject of considerable
+research by industrial psychologists. Information derived from job
+analysis usually forms the basis for the types of questions asked.
+Interviews can provide a more dynamic source of information about the
+candidate than standard testing measures. Importantly, social factors
+and body language can influence the outcome of the interview. These
+include influences, such as the degree of similarity of the applicant to
+the interviewer and nonverbal behaviors, such as hand gestures, head
+nodding, and smiling (Bye, Horverak, Sandal, Sam, & Vivjer, 2014; Rakić,
+Steffens, & Mummendey, 2011).
+
+There are two types of interviews: unstructured and structured. In an
+unstructured interview, the interviewer may ask different questions of
+each different candidate. One candidate might be asked about her career
+goals, and another might be asked about his previous work experience. In
+an unstructured interview, the questions are often, though not always,
+unspecified beforehand. And in an unstructured interview the responses
+to questions asked are generally not scored using a standard system. In
+a structured interview, the interviewer asks the same questions of every
+candidate, the questions are prepared in advance, and the interviewer
+uses a standardized rating system for each response. With this approach,
+the interviewer can accurately compare two candidates’ interviews. In a
+meta-analysis of studies examining the effectiveness of various types of
+job interviews, McDaniel, Whetzel, Schmidt & Maurer (1994) found that
+structured interviews were more effective at predicting subsequent job
+performance of the job candidate.
+
+.. container:: psychology everyday-connection
+
+   .. container::
+
+      Preparing for the Job Interview
+
+   You might be wondering if psychology research can tell you how to
+   succeed in a **job interview**\ {: data-type=“term” .no-emphasis}. As
+   you can imagine, most research is concerned with the employer’s
+   interest in choosing the most appropriate candidate for the job, a
+   goal that makes sense for the candidate too. But suppose you are not
+   the only qualified candidate for the job; is there a way to increase
+   your chances of being hired? A limited amount of research has
+   addressed this question.
+
+   As you might expect, nonverbal cues are important in an interview.
+   Liden, Martin, & Parsons (1993) found that lack of eye contact and
+   smiling on the part of the applicant led to lower applicant ratings.
+   Studies of impression management on the part of an applicant have
+   shown that self-promotion behaviors generally have a positive impact
+   on interviewers (Gilmore & Ferris, 1989). Different personality types
+   use different forms of impression management, for example extroverts
+   use verbal self-promotion, and applicants high in agreeableness use
+   non-verbal methods such as smiling and eye contact. Self-promotion
+   was most consistently related with a positive outcome for the
+   interview, particularly if it was related to the candidate’s
+   person–job fit. However, it is possible to overdo self-promotion with
+   experienced interviewers (Howard & Ferris, 1996). Barrick, Swider &
+   Stewart (2010) examined the effect of first impressions during the
+   rapport building that typically occurs before an interview begins.
+   They found that initial judgments by interviewers during this period
+   were related to job offers and that the judgments were about the
+   candidate’s competence and not just likability. Levine and Feldman
+   (2002) looked at the influence of several nonverbal behaviors in mock
+   interviews on candidates’ likability and projections of competence.
+   Likability was affected positively by greater smiling behavior.
+   Interestingly, other behaviors affected likability differently
+   depending on the gender of the applicant. Men who displayed higher
+   eye contact were less likable; women were more likable when they made
+   greater eye contact. However, for this study male applicants were
+   interviewed by men and female applicants were interviewed by women.
+   In a study carried out in a real setting, DeGroot & Gooty (2009)
+   found that nonverbal cues affected interviewers’ assessments about
+   candidates. They looked at visual cues, which can often be modified
+   by the candidate and vocal (nonverbal) cues, which are more difficult
+   to modify. They found that interviewer judgment was positively
+   affected by visual and vocal cues of conscientiousness, visual and
+   vocal cues of openness to experience, and vocal cues of extroversion.
+
+   What is the take home message from the limited research that has been
+   done? Learn to be aware of your behavior during an interview. You can
+   do this by practicing and soliciting feedback from mock interviews.
+   Pay attention to any nonverbal cues you are projecting and work at
+   presenting nonverbal cures that project confidence and positive
+   personality traits. And finally, pay attention to the first
+   impression you are making as it may also have an impact in the
+   interview.
+
+Training
+--------
+
+Training is an important element of success and performance in many
+jobs. Most jobs begin with an orientation period during which the new
+employee is provided information regarding the company history,
+policies, and administrative protocols such as time tracking, benefits,
+and reporting requirements. An important goal of orientation training is
+to educate the new employee about the organizational culture, the
+values, visions, hierarchies, norms and ways the company’s employees
+interact—essentially how the organization is run, how it operates, and
+how it makes decisions. There will also be training that is specific to
+the job the individual was hired to do, or training during the
+individual’s period of employment that teaches aspects of new duties, or
+how to use new physical or software tools. Much of these kinds of
+training will be formalized for the employee; for example, orientation
+training is often accomplished using software presentations, group
+presentations by members of the human resources department or with
+people in the new hire’s department
+(`[link] <#CNX_Psych_13_02_Training>`__).
+
+|A photograph shows several people sitting at a table and writing on
+notepads, as a person in the front of the room writes on a large
+tablet.|\ {: #CNX_Psych_13_02_Training}
+
+Mentoring is a form of informal training in which an experienced
+employee guides the work of a new employee. In some situations, mentors
+will be formally assigned to a new employee, while in others a mentoring
+relationship may develop informally.
+
+Mentoring effects on the mentor and the employee being mentored, the
+protégé, have been studied in recent years. In a review of mentoring
+studies, Eby, Allen, Evans, Ng, & DuBois (2008) found significant but
+small effects of mentoring on performance (i.e., behavioral outcomes),
+motivation and satisfaction, and actual career outcomes. In a more
+detailed review, Allen, Eby, Poteet, Lentz, & Lima (2004) found that
+mentoring positively affected a protégé’s compensation and number of
+promotions compared with non-mentored employees. In addition, protégés
+were more satisfied with their careers and had greater job satisfaction.
+All of the effects were small but significant. Eby, Durley, Evans, &
+Ragins (2006) examined mentoring effects on the mentor and found that
+mentoring was associated with greater job satisfaction and
+organizational commitment. Gentry, Weber, & Sadri (2008) found that
+mentoring was positively related with performance ratings by
+supervisors. Allen, Lentz, & Day (2006) found in a comparison of mentors
+and non-mentors that mentoring led to greater reported salaries and
+promotions.
+
+Mentoring is recognized to be particularly important to the career
+success of women (McKeen & Bujaki, 2007) by creating connections to
+informal networks, adopting a style of interaction that male managers
+are comfortable with, and with overcoming discrimination in job
+promotions.
+
+Gender combinations in mentoring relationships are also an area of
+active study. Ragins & Cotton (1999) studied the effects of gender on
+the outcomes of mentoring relationships and found that protégés with a
+history of male mentors had significantly higher compensation especially
+for male protégés. The study found that female mentor–male protégé
+relationships were considerably rarer than the other gender
+combinations.
+
+In an examination of a large number of studies on the effectiveness of
+organizational training to meet its goals, Arthur, Bennett, Edens, and
+Bell (2003) found that training was, in fact, effective when measured by
+the immediate response of the employee to the training effort,
+evaluation of learning outcomes (e.g., a test at the end of the
+training), behavioral measurements of job activities by a supervisor,
+and results-based criteria (e.g., productivity or profits). The examined
+studies represented diverse forms of training including
+self-instruction, lecture and discussion, and computer assisted
+training.
+
+EVALUATING EMPLOYEES
+====================
+
+Industrial and organizational psychologists are typically involved in
+designing performance-appraisal systems for organizations. These systems
+are designed to evaluate whether each employee is performing her job
+satisfactorily. Industrial and organizational psychologists study,
+research, and implement ways to make work evaluations as fair and
+positive as possible; they also work to decrease the subjectivity
+involved with performance ratings. Fairly evaluated work helps employees
+do their jobs better, improves the likelihood of people being in the
+right jobs for their talents, maintains fairness, and identifies company
+and individual training needs.
+
+**Performance appraisals**\ {: data-type=“term”} are typically
+documented several times a year, often with a formal process and an
+annual face-to-face brief meeting between an employee and his
+supervisor. It is important that the original job analysis play a role
+in performance appraisal as well as any goals that have been set by the
+employee or by the employee and supervisor. The meeting is often used
+for the supervisor to communicate specific concerns about the employee’s
+performance and to positively reinforce elements of good performance. It
+may also be used to discuss specific performance rewards, such as a pay
+increase, or consequences of poor performance, such as a probationary
+period. Part of the function of performance appraisals for the
+organization is to document poor performance to bolster decisions to
+terminate an employee.
+
+Performance appraisals are becoming more complex processes within
+organizations and are often used to motivate employees to improve
+performance and expand their areas of competence, in addition to
+assessing their job performance. In this capacity, performance
+appraisals can be used to identify opportunities for training or whether
+a particular training program has been successful. One approach to
+performance appraisal is called 360-degree feedback appraisal
+(`[link] <#CNX_Psych_13_02_360Degree>`__). In this system, the
+employee’s appraisal derives from a combination of ratings by
+supervisors, peers, employees supervised by the employee, and from the
+employee herself. Occasionally, outside observers may be used as well,
+such as customers. The purpose of 360-degree system is to give the
+employee (who may be a manager) and supervisor different perspectives of
+the employee’s job performance; the system should help employees make
+improvements through their own efforts or through training. The system
+is also used in a traditional performance-appraisal context, providing
+the supervisor with more information with which to make decisions about
+the employee’s position and compensation (Tornow, 1993a).
+
+|A diagram depicts a box titled “Self,” which is surrounded on all four
+sides by four more boxes. The box to the left is titled “Peers.” The box
+above is titled “Supervisors.” The box to the right is titled
+“Customers.” The box below is titled “Reports.” Lines connect each of
+these surrounding boxes to the box titled “Self.” In the space between
+each of the surrounding boxes, a line with an arrow at each end points
+to and from the nearest surrounding box.|\ {:
+#CNX_Psych_13_02_360Degree}
+
+Few studies have assessed the effectiveness of 360-degree methods, but
+Atkins and Wood (2002) found that the self and peer ratings were
+unreliable as an assessment of an employee’s performance and that even
+supervisors tended to underrate employees that gave themselves modest
+feedback ratings. However, a different perspective sees this variability
+in ratings as a positive in that it provides for greater learning on the
+part of the employees as they and their supervisor discuss the reasons
+for the discrepancies (Tornow, 1993b).
+
+In theory, performance appraisals should be an asset for an organization
+wishing to achieve its goals, and most employees will actually solicit
+feedback regarding their jobs if it is not offered (DeNisi & Kluger,
+2000). However, in practice, many performance evaluations are disliked
+by organizations, employees, or both (Fletcher, 2001), and few of them
+have been adequately tested to see if they do in fact improve
+performance or motivate employees (DeNisi & Kluger, 2000). One of the
+reasons evaluations fail to accomplish their purpose in an organization
+is that performance appraisal systems are often used incorrectly or are
+of an inappropriate type for an organization’s particular culture
+(Schraeder, Becton, & Portis, 2007). An organization’s culture is how
+the organization is run, how it operates, and how it makes decisions. It
+is based on the collective values, hierarchies, and how individuals
+within the organization interact. Examining the effectiveness of
+performance appraisal systems in particular organizations and the
+effectiveness of training for the implementation of the performance
+appraisal system is an active area of research in industrial psychology
+(Fletcher, 2001).
+
+BIAS AND PROTECTIONS IN HIRING
+==============================
+
+In an ideal hiring process, an organization would generate a job
+analysis that accurately reflects the requirements of the position, and
+it would accurately assess candidates’ KSAs to determine who the best
+individual is to carry out the job’s requirements. For many reasons,
+hiring decisions in the real world are often made based on factors other
+than matching a job analysis to KSAs. As mentioned earlier, interview
+rankings can be influenced by other factors: similarity to the
+interviewer (Bye, Horverak, Sandal, Sam, & Vijver, 2014) and the
+regional accent of the interviewee (Rakić, Steffens, & Mummendey 2011).
+A study by Agerström & Rooth (2011) examined hiring managers’ decisions
+to invite equally qualified normal-weight and obese job applicants to an
+interview. The decisions of the hiring managers were based on
+photographs of the two applicants. The study found that hiring managers
+that scored high on a test of negative associations with overweight
+people displayed a bias in favor of inviting the equally qualified
+normal-weight applicant but not inviting the obese applicant. The
+association test measures automatic or subconscious associations between
+an individual’s negative or positive values and, in this case, the
+body-weight attribute. A meta-analysis of experimental studies found
+that physical attractiveness benefited individuals in various
+job-related outcomes such as hiring, promotion, and performance review
+(Hosoda, Stone-Romero, & Coats, 2003). They also found that the strength
+of the benefit appeared to be decreasing with time between the late
+1970s and the late 1990s.
+
+Some hiring criteria may be related to a particular group an applicant
+belongs to and not individual abilities. Unless membership in that group
+directly affects potential job performance, a decision based on group
+membership is discriminatory (`[link] <#CNX_Psych_13_02_Discrimin>`__).
+To combat hiring **discrimination**\ {: data-type=“term” .no-emphasis},
+in the United States there are numerous city, state, and federal laws
+that prevent hiring based on various group-membership criteria. For
+example, did you know it is illegal for a potential employer to ask your
+age in an interview? Did you know that an employer cannot ask you
+whether you are married, a U.S. citizen, have disabilities, or what your
+race or religion is? They cannot even ask questions that might shed some
+light on these attributes, such as where you were born or who you live
+with. These are only a few of the restrictions that are in place to
+prevent discrimination in hiring. In the United States, federal
+anti-discrimination laws are administered by the U.S. Equal Employment
+Opportunity Commission (EEOC).
+
+|Photograph A shows the side profile of a pregnant woman. Photograph B
+shows a cross, a star of David, and a crescent displayed next to one
+another. Photograph C shows an older person with a cane walking down the
+street.|\ {: #CNX_Psych_13_02_Discrimin}
+
+THE U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION (EEOC)
+=======================================================
+
+The **U.S. Equal Employment Opportunity Commission (EEOC)**\ {:
+data-type=“term”} is responsible for enforcing federal laws that make it
+illegal to discriminate against a job applicant or an employee because
+of the person's race, color, religion, sex (including pregnancy),
+national origin, age (40 or older), disability, or genetic information.
+`[link] <#CNX_Psych_13_02_Discrimin2>`__ provides some of the legal
+language from laws that have been passed to prevent discrimination.
+
+|A group of three boxes is titled, “Selected Text from Legislation
+Prohibiting Employment Discrimination.” The boxes are arranged
+vertically. The top box, titled “Title VII of the Civil Rights Act of
+1964,” contains the text, “It shall be an unlawful employment practice
+for an employer (1) to fail or refuse to hire or to discharge any
+individual, or otherwise to discriminate against any individual with
+respect to his compensation, terms, conditions, or privileges of
+employment, because of such individual’s race, color, religion, sex, or
+national origin; or (2) to limit, segregate, or classify his employees
+or applicants for employment in any way which would deprive or tend to
+deprive any individual of employment opportunities or otherwise
+adversely affect his status as an employee, because of such individual’s
+race, color, religion, sex, or national origin.” The middle box, titled
+“The Age Discrimination in Employment Act of 1967,” contains the text,
+“It shall be unlawful for an employer (1) to fail or refuse to hire or
+to discharge any individual or otherwise discriminate against any
+individual with respect to his compensation, terms, conditions, or
+privileges of employment, because of such individual’s age.” The bottom
+box, titled “Titles I and V of the Americans with Disabilities Act of
+1990 (ADA),” contains the text, “No covered entity shall discriminate
+against a qualified individual on the basis of disability in regard to
+job application procedures, the hiring, advancement, or discharge of
+employees, employee compensation, job training, and other terms,
+conditions, and privileges of employment. . . . The term “discriminate
+against a qualified individual on the basis of disability” includes . .
+. not making reasonable accommodations to the known physical or mental
+limitations of an otherwise qualified individual with a disability who
+is an applicant or employee, unless such covered entity can demonstrate
+that the accommodation would impose an undue hardship on the operation
+of the business of such covered entity.”|\ {:
+#CNX_Psych_13_02_Discrimin2}
+
+The United States has several specific laws regarding fairness and
+avoidance of discrimination. The Equal Pay Act requires that equal pay
+for men and women in the same workplace who are performing equal work.
+Despite the law, persistent inequities in earnings between men and women
+exist. Corbett & Hill (2012) studied one facet of the gender gap by
+looking at earnings in the first year after college in the United
+States. Just comparing the earnings of women to men, women earn about 82
+cents for every dollar a man earns in their first year out of college.
+However, some of this difference can be explained by education, career,
+and life choices, such as choosing majors with lower earning potential
+or specific jobs within a field that have less responsibility. When
+these factors were corrected the study found an unexplained
+seven-cents-on-the-dollar gap in the first year after college that can
+be attributed to gender discrimination in pay. This approach to analysis
+of the gender pay gap, called the human capital model, has been
+criticized. Lips (2013) argues that the education, career, and life
+choices can, in fact, be constrained by necessities imposed by gender
+discrimination. This suggests that removing these factors entirely from
+the gender gap equation leads to an estimate of the size of the pay gap
+that is too small.
+
+Title VII of the Civil Rights Act of 1964 makes it illegal to treat
+individuals unfavorably because of their race or color of their skin: An
+employer cannot discriminate based on skin color, hair texture, or other
+**immutable characteristics**\ {: data-type=“term”}, which are traits of
+an individual that are fundamental to her identity, in hiring, benefits,
+promotions, or termination of employees. The Pregnancy Discrimination
+Act of 1978 amends the Civil Rights Act; it prohibits job (e.g.,
+employment, pay, and termination) discrimination of a woman because she
+is pregnant as long as she can perform the work required.
+
+The Supreme Court ruling in *Griggs v. Duke Power Co.* made it illegal
+under Title VII of the Civil Rights Act to include educational
+requirements in a job description (e.g., high school diploma) that
+negatively impacts one race over another if the requirement cannot be
+shown to be directly related to job performance. The EEOC (2014)
+received more than 94,000 charges of various kinds of employment
+discrimination in 2013. Many of the filings are for multiple forms of
+discrimination and include charges of retaliation for making a claim,
+which itself is illegal. Only a small fraction of these claims become
+suits filed in a federal court, although the suits may represent the
+claims of more than one person. In 2013, there were 148 suits filed in
+federal courts.
+
+.. container:: psychology link-to-learning
+
+   In 2011, the U.S. Supreme Court decided a case in which women
+   plaintiffs were attempting to group together in a class-action suit
+   against Walmart for gender discrimination in promotion and pay. The
+   case was important because it was the only practical way for
+   individual women who felt they had been discriminated against to
+   sustain a court battle for redress of their claims. The Court
+   ultimately decided against the plaintiffs, and the right to a
+   class-action suit was denied. However, the case itself effectively
+   publicized the issue of gender discrimination in employment. This
+   `video <http://openstax.org/l/SCOTUS1>`__ discusses the case history
+   and issues. This `PBS NewsHour <http://openstax.org/l/SCOTUS2>`__
+   presents the arguments in the court case.
+
+Federal legislation does not protect employees in the private sector
+from discrimination related to sexual orientation and gender identity.
+These groups include lesbian, gay, bisexual, and transgender
+individuals. There is evidence of discrimination derived from surveys of
+workers, studies of complaint filings, wage comparison studies, and
+controlled job-interview studies (Badgett, Sears, Lau, & Ho, 2009).
+Federal legislation protects federal employees from such discrimination;
+the District of Columbia and 20 states have laws protecting public and
+private employees from discrimination for sexual orientation (American
+Civil Liberties Union, n.d). Most of the states with these laws also
+protect against discrimination based on gender identity. Gender
+identity, as discussed when you learned about sexual behavior, refers to
+one’s sense of being male or female.
+
+Many cities and counties have adopted local legislation preventing
+discrimination based on sexual orientation or gender identity (Human
+Rights Campaign, 2013a), and some companies have recognized a benefit to
+explicitly stating that their hiring must not discriminate on these
+bases (Human Rights Campaign, 2013b).
+
+AMERICANS WITH DISABILITIES ACT (ADA)
+=====================================
+
+The **Americans with Disabilities Act (ADA)**\ {: data-type=“term”} of
+1990 states people may not be discriminated against due to the nature of
+their disability. A disability is defined as a physical or mental
+impairment that limits one or more major life activities such as
+hearing, walking, and breathing. An employer must make reasonable
+accommodations for the performance of a disabled employee’s job. This
+might include making the work facility handicapped accessible with
+ramps, providing readers for blind personnel, or allowing for more
+frequent breaks. The ADA has now been expanded to include individuals
+with alcoholism, former drug use, obesity, or psychiatric disabilities.
+The premise of the law is that disabled individuals can contribute to an
+organization and they cannot be discriminated against because of their
+disabilities (O'Keefe & Bruyere, 1994).
+
+The Civil Rights Act and the Age Discrimination in Employment Act make
+provisions for **bona fide occupational qualifications (BFOQs)**\ {:
+data-type=“term”}, which are requirements of certain occupations for
+which denying an individual employment would otherwise violate the law.
+For example, there may be cases in which religion, national origin, age,
+and sex are bona fide occupational qualifications. There are no BFOQ
+exceptions that apply to race, although the first amendment protects
+artistic expressions, such as films, in making race a requirement of a
+role. Clearcut examples of BFOQs would be hiring someone of a specific
+religion for a leadership position in a worship facility, or for an
+executive position in religiously affiliated institutions, such as the
+president of a university with religious ties. Age has been determined
+to be a BFOQ for airline pilots; hence, there are mandatory retirement
+ages for safety reasons. Sex has been determined as a BFOQ for guards in
+male prisons.
+
+Sex (gender) is the most common reason for invoking a BFOQ as a defense
+against accusing an employer of discrimination (Manley, 2009). Courts
+have established a three-part test for sex-related BFOQs that are often
+used in other types of legal cases for determining whether a BFOQ
+exists. The first of these is whether all or substantially all women
+would be unable to perform a job. This is the reason most physical
+limitations, such as “able to lift 30 pounds,” fail as reasons to
+discriminate because most women are able to lift this weight. The second
+test is the “essence of the business” test, in which having to choose
+the other gender would undermine the essence of the business operation.
+This test was the reason the now defunct Pan American World Airways
+(i.e., Pan Am) was told it could not hire only female flight attendants.
+Hiring men would not have undermined the essense of this business. On a
+deeper level, this means that hiring cannot be made purely on customers’
+or others’ preferences. The third and final test is whether the employer
+cannot make reasonable alternative accomodations, such as reassigning
+staff so that a woman does not have to work in a male-only part of a
+jail or other gender-specific facility. Privacy concerns are a major
+reason why discrimination based on gender is upheld by the courts, for
+example in situations such as hires for nursing or custodial staff
+(Manley, 2009). Most cases of BFOQs are decided on a case-by-case basis
+and these court decisions inform policy and future case decisions.
+
+.. container:: psychology what-do-you-think
+
+   .. container::
+
+      Hooters and BFOQ Laws
+
+   |Four Hooters employees are pictured standing side by side. Three of
+   them are holding plates of food and the other is holding a pitcher of
+   beer. Each of them is wearing a white tank top that says “Hooters,”
+   and high cut shorts.|\ {: #CNX_Psych_13_02_Hooters}
+
+   The restaurant chain Hooters, which hires only female wait staff and
+   has them dress in a sexually provocative manner, is commonly cited as
+   a discriminatory employer. The chain would argue that the female
+   employees are an essential part of their business in that they market
+   through sex appeal and the wait staff attract customers. Men have
+   filed discrimination charges against Hooters in the past for not
+   hiring them as wait staff simply because they are men. The chain has
+   avoided a court decision on their hiring practices by settling out of
+   court with the plaintiffs in each case. Do you think their practices
+   violate the Civil Rights Act? See if you can apply the three court
+   tests to this case and make a decision about whether a case that went
+   to trial would find in favor of the plaintiff or the chain.
+
+Summary
+=======
+
+Industrial psychology studies the attributes of jobs, applicants of
+those jobs, and methods for assessing fit to a job. These procedures
+include job analysis, applicant testing, and interviews. It also studies
+and puts into place procedures for the orientation of new employees and
+ongoing training of employees. The process of hiring employees can be
+vulnerable to bias, which is illegal, and industrial psychologists must
+develop methods for adhering to the law in hiring. Performance appraisal
+systems are an active area of research and practice in industrial
+psychology.
+
+Review Questions
+================
+
+.. container::
+
+   .. container::
+
+      Which of the following questions is illegal to ask in a job
+      interview in the United States?
+
+      1. Which university did you attend?
+      2. Which state were you born in?
+      3. Do you have a commercial driver’s license?
+      4. What salary would you expect for this position? {: type=“a”}
+
+   .. container::
+
+      B
+
+.. container::
+
+   .. container::
+
+      Which of the following items is *not* a part of KSAs?
+
+      1. aspiration
+      2. knowledge
+      3. skill
+      4. other abilities {: type=“a”}
+
+   .. container::
+
+      A
+
+.. container::
+
+   .. container::
+
+      Who is responsible for enforcing federal laws that make it illegal
+      to discriminate against a job applicant?
+
+      1. Americans with Disabilities Act
+      2. Supreme Court of the United States
+      3. U.S. Equal Employment Opportunity Commission
+      4. Society for Industrial and Organizational Psychology {:
+         type=“a”}
+
+   .. container::
+
+      C
+
+Critical Thinking Questions
+===========================
+
+.. container::
+
+   .. container::
+
+      Construct a good interview question for a position of your
+      choosing. The question should relate to a specific skill
+      requirement for the position and you will need to include the
+      criteria for rating the applicants answer.
+
+   .. container::
+
+      Answers will vary depending on the occupation and question. The
+      question should relate to a specific skill for the job and the
+      rating should relate to how the answer demonstrates the skill.
+
+.. container::
+
+   .. container::
+
+      What might be useful mechanisms for avoiding bias during
+      employment interviews?
+
+   .. container::
+
+      Answers will vary, but they could include clear measurement
+      standards for answer and applicant quality, ensuring diversity in
+      interviewers or multiple interviews with different diverse
+      interviewers, and clear education about the nature of bias for
+      interviewers and those who make hiring decisions.
+
+Personal Application Question
+=============================
+
+.. container::
+
+   .. container::
+
+      What are some of the KSAs (knowledge, skills, and abilities) that
+      are required for your current position or a position you wish to
+      have in the future?
+
+.. container::
+
+   .. rubric:: Glossary
+      :name: glossary
+
+   {: data-type=“glossary-title”}
+
+   Americans with Disabilities Act
+      employers cannot discriminate against any individual based on a
+      disability ^
+   bona fide occupational qualification (BFOQ)
+      requirement of certain occupations for which denying an individual
+      employment would otherwise violate the law, such as requirements
+      concerning religion or sex ^
+   immutable characteristic
+      traits that employers cannot use to discriminate in hiring,
+      benefits, promotions, or termination; these traits are fundamental
+      to one’s personal identity (e.g. skin color and hair texture) ^
+   job analysis
+      determining and listing tasks associated with a particular job ^
+   performance appraisal
+      evaluation of an employee’s success or lack of success at
+      performing the duties of the job ^
+   U.S. Equal Employment Opportunity Commission (EEOC)
+      responsible for enforcing federal laws that make it illegal to
+      discriminate against a job applicant or an employee because of the
+      person’s race, color, religion, sex (including pregnancy),
+      national origin, age (40 or older), disability, or genetic
+      information
+
+.. |A photograph shows several people sitting at a table and writing on notepads, as a person in the front of the room writes on a large tablet.| image:: ../resources/CNX_Psych_13_02_Training.jpg
+.. |A diagram depicts a box titled “Self,” which is surrounded on all four sides by four more boxes. The box to the left is titled “Peers.” The box above is titled “Supervisors.” The box to the right is titled “Customers.” The box below is titled “Reports.” Lines connect each of these surrounding boxes to the box titled “Self.” In the space between each of the surrounding boxes, a line with an arrow at each end points to and from the nearest surrounding box.| image:: ../resources/CNX_Psych_13_02_360Degree.jpg
+.. |Photograph A shows the side profile of a pregnant woman. Photograph B shows a cross, a star of David, and a crescent displayed next to one another. Photograph C shows an older person with a cane walking down the street.| image:: ../resources/CNX_Psych_13_02_Discrimin.jpg
+.. |A group of three boxes is titled, “Selected Text from Legislation Prohibiting Employment Discrimination.” The boxes are arranged vertically. The top box, titled “Title VII of the Civil Rights Act of 1964,” contains the text, “It shall be an unlawful employment practice for an employer (1) to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual’s race, color, religion, sex, or national origin; or (2) to limit, segregate, or classify his employees or applicants for employment in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual’s race, color, religion, sex, or national origin.” The middle box, titled “The Age Discrimination in Employment Act of 1967,” contains the text, “It shall be unlawful for an employer (1) to fail or refuse to hire or to discharge any individual or otherwise discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual’s age.” The bottom box, titled “Titles I and V of the Americans with Disabilities Act of 1990 (ADA),” contains the text, “No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment. . . . The term “discriminate against a qualified individual on the basis of disability” includes . . . not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity.”| image:: ../resources/CNX_Psych_13_02_Dicrimin2.jpg
+.. |Four Hooters employees are pictured standing side by side. Three of them are holding plates of food and the other is holding a pitcher of beer. Each of them is wearing a white tank top that says “Hooters,” and high cut shorts.| image:: ../resources/CNX_Psych_13_02_Hooters.jpg
